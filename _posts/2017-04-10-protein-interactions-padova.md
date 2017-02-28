@@ -30,21 +30,37 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 - [**Stefano Moro**](../../../instructors/stefano_moro) (Dept. of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy)
 
 ### Course Description
+In this workshop, participants will familiarise with docking approaches to the study of protein-protein interactions (PPIs) and protein-small molecule interactions. Irreversible binders design using molecular docking and computational methods to rational drug design will be also described, as well as the functional role of the intrinsically disordered proteins.
+The Plenary lectures of N.Dinkel (10.02.2017), A. Bonvin, S. Forli and S. Moro (11.02.2017) will be open and free to everyone but require application. <br>
+Practical sessions are limited to 30 participants. 
+On the afternoon of day 3, participants can bring their own data (e.g. proteins they want to study interactions for). They will be split in groups based on the type of system they want to study (i.e protein-protein, protein-small ligand interactions or virtual screening) and will analyse it assisted by A. Bonvin and S. Forli.
 
 ### Target audience
 
+Students and researchers in the life sciences / structural biology / computational biology field, interested in structure-based drug design, and in the functional subdivision of proteins into modules and how these modules co-operate to govern the spatiotemporal functionality of the protein.
+
 ### Learning objectives
 
-### Course prerequisites
+Participants will:<br>
+
+- gain an understanding of 
+	- the modular architecture of a protein; 
+	- the functional role of post-translation modification, short linear motifs and globular domains; 
+	- and the complex regulatory functionality that is encoded in proteins at the sequence level.
+
+They will also learn:
+
+- how to transform generic information about binding sites into restraints to drive docking in HADDOCK- the basics of information-driven docking using the HADDOCK web server- how to perform protein-ligand docking using HADDOCK (and screening for putative binding sites)- to critically look at docking results
+- the basic principles of small molecules docking- about the potential of the method, its scope and application, and be aware of its limitation.- how to perform single ligand dockings, as well as design and perform larger virtual screening experiments.### Course prerequisites
+- Basic knowledge of protein structure- Basic Linux command knowledge
 
 ### [Application Form](http://)
 
 ### Programme
 
 <table border="1">
-
 <tr>
-   <td colspan="4"><b>Monday 10th Apr 2017</b></td>
+   <td colspan="4"><h3>Monday 10th Apr 2017</h3></td>
 </tr>
 <tr>
    <td>14.00-15.00</td>
@@ -78,7 +94,7 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
    <td colspan="3">Welcome spritz at Verba Volant</td>
 </tr>
 <tr>
-   <td colspan="4"><b>Tuesday 11th Apr 2017</b></td>
+   <td colspan="4"><h3>Tuesday 11th Apr 2017</h3></td>
 </tr>
 <tr>
   <td>9:30-10:30</td>
@@ -129,7 +145,7 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 <td><a href="http://www.bonvinlab.org/education/HADDOCK-binding-sites/">Protein-ligand docking tutorial</a></td>
 </tr>
 <tr>
-<td colspan="4"><b>Wednesday 12th Apr 2017</b></td>
+<td colspan="4"><h3>Wednesday 12th Apr 2017</h3></td>
 </tr>
 <tr>
 <td>9:15 - 10:00</td>
@@ -172,7 +188,7 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 <td colspan="2">A. Bonvin and S. Forli</td>
 </tr>
 <tr>
-<td colspan="4"><b>Thursday 13th Apr 2017</b></td>
+<td colspan="4"><h3>Thursday 13th Apr 2017</h3></td>
 </tr>
 <tr>
 <td>9.15-10:00</td>
@@ -181,17 +197,17 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 <td></td>
 </tr>
 <tr>
-<td>10:00 - 10:30</td>
+<td>10:00-10:30</td>
 <td colspan="3">Coffee Break</td>
 </tr>
 <tr>
-<td>10:30 - 12:30</td>
+<td>10:30-12:30</td>
 <td>Practical</td>
 <td>Stefano Moro</td>
 <td></td>
 </tr>
 <tr>
-<td>12:30 - 13:00</td>
+<td>12:30-13:00</td>
 <td colspan="3">Wrap-up and feedback</td>
 </tr>
 </table>
