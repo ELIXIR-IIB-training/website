@@ -193,7 +193,7 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 <tr>
 <td>12:30 - 13:00</td>
 <td colspan="3">Wrap-up and feedback</td>
-<tr>
+</tr>
 </table>
 
 
