@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h3 class="page-heading">Courses&Workshops</h3>
+
+  <ul class="post-list">
+    {% for course in site.posts %}
+    {% if course.title %}
+      <li>
+        <span class="post-meta">{{ course.venue }}</span> | 
+        <span class="post-meta">{{ course.date_start | date: "%b %-d" }}</span>-<span class="post-meta">{{ course.date_end | date: "%-d, %Y" }}</span> |
+
+        <h3>
+          <a class="post-link" href="{{ course.url | prepend: site.baseurl }}">{{ course.title }}</a>
+        </h3>
+         {{ course.description }}
+      </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+
+</div>
