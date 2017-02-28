@@ -3,7 +3,7 @@ title: The ELIXIR-IIB Training Programme
 email: elixir-ita-training@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 
-baseurl: "/website/" # the subpath of your site, e.g. /blog/
+baseurl: "/website" # the subpath of your site, e.g. /blog/
 url: "https://elixir-iib-training.github.io" # the base hostname & protocol for your site
 twitter_username: elixir_ita
 #github_username: allegravia  

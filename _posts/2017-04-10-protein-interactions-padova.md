@@ -26,10 +26,10 @@ description: This workshop is aimed at students in master degree courses, PhD st
 A maximum of 30 candidates will be accepted in the course. Selection will start on March the 10th and those with an adequate profile will be accepted immediately, especially if they come from other countries (to allow them to find reasonably cheap flight tickets). 
 
 ### Speakers
-- Alexandre Bonvin - Faculty of Science, Utrecht University, the Netherlands
-- Norman Davey (University College Dublin, Dublin, Ireland)
-- Stefano Forli (Dept. Molecular Biology, The Scripps Research Institute, La Jolla, USA)
-- Stefano Moro ()
+- **Alexandre Bonvin** - Faculty of Science, Utrecht University, the Netherlands
+- [**Norman Davey**](../) (University College Dublin, Dublin, Ireland)
+- **Stefano Forli** (Dept. Molecular Biology, The Scripps Research Institute, La Jolla, USA)
+- **Stefano Moro** (Dept. of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy)
 
 ### Course Description
 
@@ -44,9 +44,8 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 ### Programme
 
 ####Monday 10th Apr 2017
-|||||
-|-------------|---------------|--------------|-----|                         
-|14.00-15.00  |Plenary lecture|Norman Davey |[Understanding the functional role of the intrinsically disordered proteome](~/Documents/websites/elixir-iib-training/website/norman-davey-abstract-padova-2017.pdf)|
+                   
+14.00-15.00  Norman Davey [Understanding the functional role of the intrinsically disordered proteome](../docs/norman-davey-abstract-padova-2017.pdf) <br>
 |15:00 -15:30|Course opening  ||Participants’ self-presentations|
 |15:30-16:15|Intro to practical|Norman Davey||
 |16:15-16:45|Coffee break
