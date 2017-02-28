@@ -1,6 +1,5 @@
 ---
 layout: page
-title:  "Norman Davey"
 categories: instructor
 ---
 
