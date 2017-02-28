@@ -24,10 +24,10 @@ description: This workshop is aimed at students in master degree courses, PhD st
 A maximum of 30 candidates will be accepted in the course. Selection will start on March the 10th and those with an adequate profile will be accepted immediately, especially if they come from other countries (to allow them to find reasonably cheap flight tickets). 
 
 ### Speakers
-- **Alexandre Bonvin** - Faculty of Science, Utrecht University, the Netherlands
+- [**Alexandre Bonvin**](../../../instructors/alexandre_bonvin) - Faculty of Science, Utrecht University, the Netherlands
 - [**Norman Davey**](../../../instructors/norman_davey) (University College Dublin, Dublin, Ireland)
-- **Stefano Forli** (Dept. Molecular Biology, The Scripps Research Institute, La Jolla, USA)
-- **Stefano Moro** (Dept. of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy)
+- [**Stefano Forli**](../../../instructors/stefano_forli) (Dept. Molecular Biology, The Scripps Research Institute, La Jolla, USA)
+- [**Stefano Moro**](../../../instructors/stefano_moro) (Dept. of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy)
 
 ### Course Description
 
@@ -41,47 +41,159 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 
 ### Programme
 
-####Monday 10th Apr 2017
-                   
-14.00-15.00  Norman Davey [Understanding the functional role of the intrinsically disordered proteome](https://elixir-iib-training.github.io/website/docs/norman-davey-abstract-padova-2017.pdf) <br>
-|15:00 -15:30|Course opening  ||Participants’ self-presentations|
-|15:30-16:15|Intro to practical|Norman Davey||
-|16:15-16:45|Coffee break
-|16.45-19:00|Practical|Norman Davey|
-|19:30-21:00|Welcome spritz at Verba Volant|
+<table>
 
+<tr>
+   <td colspan="4"><b>Monday 10th Apr 2017</b></td>
+</tr>
+<tr>
+   <td>14.00-15.00</td>
+   <td>Plenary lecture</td>
+   <td>Norman Davey</td>
+   <td><a href="https://elixir-iib-training.github.io/website/docs/norman-davey-abstract-padova-2017.pdf">Understanding the functional role of the intrinsically disordered proteome</a></td>
+</tr>
+<tr>
+   <td>15:00 -15:30</td>
+   <td>Course opening</td>
+   <td colspan="2">Participants’ self-presentations</td>
+</tr>
+<tr>
+   <td>15:30-16:15</td>
+   <td>Intro to practical</td>
+   <td>Norman Davey</td>
+   <td></td>
+</tr>
+<tr>
+   <td>16:15-16:45</td>
+   <td colspan="3">Coffee break</td>
+</tr>
+<tr>
+   <td>16.45-19:00</td>
+   <td>Practical</td>
+   <td>Norman Davey</td>
+   <td></td>
+</tr>
+<tr>
+   <td>19:30-21:00</td>
+   <td colspan="3">Welcome spritz at Verba Volant</td>
+</tr>
+<tr>
+   <td colspan="4"><b>Tuesday 11th Apr 2017</b></td>
+</tr>
+<tr>
+  <td>9:30 - 10:30</td>
+  <td>Plenary lecture</td>
+  <td>Alexandre Bonvin</td>
+  <td>High-resolution, integrative modelling of biomolecular complexes from fuzzy data</td>
+</tr>
+<tr>
+   <td>10:30 - 11:00</td>
+   <td colspan="3">Coffee break</td>
+</tr>
+<tr>
+   <td>11:00 - 12:00</td>
+   <td>Plenary lecture</td>
+   <td>Stefano Forli</td>
+   <td>Irreversible binders design using molecular docking: the Reactive Docking method</td>
+</tr>
+<tr>
+   <td>12:00 - 13:00</td>
+   <td>Plenary lecture</td>
+   <td>Stefano Moro</td>
+   <td>Computational drug design</td>
+</tr>
+<tr>
+   <td>13:00 - 14:30</td>
+   <td colspan="3"> Lunch </td>
+</tr>
+<tr>
+   <td>14:30 - 15:15</td>
+   <td> Practical </td>
+   <td>Alexandre Bonvin</td>
+   <td><a href="http://www.bonvinlab.org/education/HADDOCK-protein-protein-basic/">Basic protein-protein docking tutorial</a></td>
+</tr>
+<tr>
+<td>15:15 - 16:15</td>
+<td>Practical</td>
+<td>Alexandre Bonvin</td>
+<td><a href="http://www.bonvinlab.org/education/HADDOCK-protein-protein-basic/">Basic protein-protein docking tutorial</a></td>
+<tr>
+</tr>
+<td>16:15 - 16:45</td>
+<td colspan="3">Coffee Break</td>
+<tr>
+</tr>
+<td>16:45 - 18:30</td>
+<td>Practical</td>
+<td>Alexandre Bonvin</td>
+<td><a href="http://www.bonvinlab.org/education/HADDOCK-binding-sites/">Protein-ligand docking tutorial</a></td>
+</tr>
+<tr>
+<td colspan="4"><b>Wednesday 12th Apr 2017</b></td>
+</tr>
+<tr>
+<td>9:15 - 10:00</td>
+<td>Intro to the practical</td>
+<td>Stefano Forli</td>
+<td>Introduction to ligand-protein docking with AutoDock</td>
+</tr>
+<tr>
+<td>10:00 - 11:00</td>
+<td>Practical</td>
+<td>Stefano Forli</td>
+<td>Introduction to ligand-protein docking with AutoDock</td>
+</tr>
+<tr>
+<td>11:00 - 11:30</td>
+<td colspan="3">Coffee Break</td>
+</tr>
+<tr>
+<td>11:30 - 13:00</td>
+<td>Practical</td>
+<td>Stefano Forli</td>
+<td>Virtual Screening with AutoDock Raccoon2</td>
+</tr>
+<tr>
+<td>13:00 - 14:30</td>
+<td colspan="3">Lunch</td>
+</tr>
+<tr>
+<td>14:30 - 16:00</td>
+<td>BYOD session</td>
+<td colspan="2">A. Bonvin and S. Forli</td>
+</tr>
+<tr>
+<td>16:00 - 16:30</td>
+<td colspan="3">Coffee Break</td>
+</tr>
+<tr>
+<td>16:30 - 18:30</td>
+<td>BYOD session</td>
+<td colspan="2">A. Bonvin and S. Forli</td>
+</tr>
+<tr>
+<td colspan="4"><b>Thursday 13th Apr 2017</b></td>
+</tr>
+<tr>
+<td>9.15 - 10:00</td>
+<td>Intro to the practical</td>
+<td>Stefano Moro</td>
+<td></td>
+</tr>
+<tr>
+<td>10:00 - 10:30</td>
+<td colspan="3">Coffee Break</td>
+</tr>
+<tr>
+<td>10:30 - 12:30</td>
+<td>Practical</td>
+<td>Stefano Moro</td>
+<td></td>
+</tr>
+<tr>
+<td>12:30 - 13:00</td>
+<td colspan="3">Wrap-up and feedback</td>
+<tr>
+</table>
 
-####Tuesday 11th Apr 2017
-
-|||||
-|-------------|---------------|--------------|-----|                         
-|9:30 - 10:30|Plenary lecture|Alexandre Bonvin|High-resolution, integrative modelling of biomolecular complexes from fuzzy data|
-|10:30 - 11:00|Coffee break|
-|11:00 - 12:00|Plenary lecture|Stefano Forli|Irreversible binders design using molecular docking: the Reactive Docking method|
-|12:00 - 13:00|Plenary lecture|Stefano Moro|Computational drug design|
-|13:00 - 14:30|Lunch|
-|14:30 - 15:15|Practical|Alexandre Bonvin|<a href="http://www.bonvinlab.org/education/HADDOCK-protein-protein-basic/">Basic protein-protein docking tutorial</a>|
-|15:15 - 16:15|Practical|Alexandre Bonvin|<a href="http://www.bonvinlab.org/education/HADDOCK-protein-protein-basic/">Basic protein-protein docking tutorial</a>|
-|16:15 - 16:45|Coffee Break|||
-|16:45 - 18:30|Practical|Alexandre Bonvin|<a href="http://www.bonvinlab.org/education/HADDOCK-binding-sites/">Protein-ligand docking tutorial</a>|
-
-####Wednesday 12th Apr 2017
-|||||
-|-------------|---------------|--------------|-----|                         
-|9:15 - 10:00|Intro to the practical|Stefano Forli|Introduction to ligand-protein docking with AutoDock|
-|10:00 - 11:00|Practical|Stefano Forli|Introduction to ligand-protein docking with AutoDock|
-|11:00 - 11:30|Coffee Break
-|11:30 - 13:00|Practical|Stefano Forli|Virtual Screening with AutoDock Raccoon2|
-|13:00 - 14:30|Lunch|||
-|14:30 - 16:00|BYOD session|A. Bonvin and S. Forli||
-|16:00 - 16:30|Coffee Break|||
-|16:30 - 18:30|BYOD session|A. Bonvin and S. Forli||
-
-####Thursday 13th Apr 2017
-|||||
-|-------------|---------------|--------------|-----|                         
-|9.15 - 10:00|Intro to the practical|Stefano Moro|||
-|10:00 - 10:30|Coffee Break|||
-|10:30 - 12:30|Practical|Stefano Moro||
-|12:30 - 13:00|Wrap-up and feedback|||
 
