@@ -45,7 +45,7 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 
 ####Monday 10th Apr 2017
                    
-14.00-15.00  Norman Davey [Understanding the functional role of the intrinsically disordered proteome]("https://elixir-iib-training.github.io/website/docs/norman-davey-abstract-padova-2017.pdf") <br>
+14.00-15.00  Norman Davey [Understanding the functional role of the intrinsically disordered proteome](https://elixir-iib-training.github.io/website/docs/norman-davey-abstract-padova-2017.pdf) <br>
 |15:00 -15:30|Course opening  ||Participants’ self-presentations|
 |15:30-16:15|Intro to practical|Norman Davey||
 |16:15-16:45|Coffee break
