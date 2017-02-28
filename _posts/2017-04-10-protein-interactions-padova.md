@@ -41,7 +41,7 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 
 ### Programme
 
-<table border=2>
+<table border="2">
 
 <tr>
    <td colspan="4"><b>Monday 10th Apr 2017</b></td>
