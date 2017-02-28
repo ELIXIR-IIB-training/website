@@ -25,7 +25,7 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 
 ### Speakers
 - **Alexandre Bonvin** - Faculty of Science, Utrecht University, the Netherlands
-- [**Norman Davey**](../../instructors/norman_davey) (University College Dublin, Dublin, Ireland)
+- [**Norman Davey**](../../../instructors/norman_davey) (University College Dublin, Dublin, Ireland)
 - **Stefano Forli** (Dept. Molecular Biology, The Scripps Research Institute, La Jolla, USA)
 - **Stefano Moro** (Dept. of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy)
 
