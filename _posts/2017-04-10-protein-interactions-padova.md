@@ -41,7 +41,7 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 
 ### Programme
 
-<table border="2">
+<table border="1">
 
 <tr>
    <td colspan="4"><b>Monday 10th Apr 2017</b></td>
@@ -81,39 +81,39 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
    <td colspan="4"><b>Tuesday 11th Apr 2017</b></td>
 </tr>
 <tr>
-  <td>9:30 - 10:30</td>
+  <td>9:30-10:30</td>
   <td>Plenary lecture</td>
   <td>Alexandre Bonvin</td>
   <td>High-resolution, integrative modelling of biomolecular complexes from fuzzy data</td>
 </tr>
 <tr>
-   <td>10:30 - 11:00</td>
+   <td>10:30-11:00</td>
    <td colspan="3">Coffee break</td>
 </tr>
 <tr>
-   <td>11:00 - 12:00</td>
+   <td>11:00-12:00</td>
    <td>Plenary lecture</td>
    <td>Stefano Forli</td>
    <td>Irreversible binders design using molecular docking: the Reactive Docking method</td>
 </tr>
 <tr>
-   <td>12:00 - 13:00</td>
+   <td>12:00-13:00</td>
    <td>Plenary lecture</td>
    <td>Stefano Moro</td>
    <td>Computational drug design</td>
 </tr>
 <tr>
-   <td>13:00 - 14:30</td>
+   <td>13:00-14:30</td>
    <td colspan="3"> Lunch </td>
 </tr>
 <tr>
-   <td>14:30 - 15:15</td>
+   <td>14:30-15:15</td>
    <td> Practical </td>
    <td>Alexandre Bonvin</td>
    <td><a href="http://www.bonvinlab.org/education/HADDOCK-protein-protein-basic/">Basic protein-protein docking tutorial</a></td>
 </tr>
 <tr>
-<td>15:15 - 16:15</td>
+<td>15:15-16:15</td>
 <td>Practical</td>
 <td>Alexandre Bonvin</td>
 <td><a href="http://www.bonvinlab.org/education/HADDOCK-protein-protein-basic/">Basic protein-protein docking tutorial</a></td>
@@ -123,7 +123,7 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 <td colspan="3">Coffee Break</td>
 <tr>
 </tr>
-<td>16:45 - 18:30</td>
+<td>16:45-18:30</td>
 <td>Practical</td>
 <td>Alexandre Bonvin</td>
 <td><a href="http://www.bonvinlab.org/education/HADDOCK-binding-sites/">Protein-ligand docking tutorial</a></td>
@@ -138,36 +138,36 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 <td>Introduction to ligand-protein docking with AutoDock</td>
 </tr>
 <tr>
-<td>10:00 - 11:00</td>
+<td>10:00-11:00</td>
 <td>Practical</td>
 <td>Stefano Forli</td>
 <td>Introduction to ligand-protein docking with AutoDock</td>
 </tr>
 <tr>
-<td>11:00 - 11:30</td>
+<td>11:00-11:30</td>
 <td colspan="3">Coffee Break</td>
 </tr>
 <tr>
-<td>11:30 - 13:00</td>
+<td>11:30-13:00</td>
 <td>Practical</td>
 <td>Stefano Forli</td>
 <td>Virtual Screening with AutoDock Raccoon2</td>
 </tr>
 <tr>
-<td>13:00 - 14:30</td>
+<td>13:00-14:30</td>
 <td colspan="3">Lunch</td>
 </tr>
 <tr>
-<td>14:30 - 16:00</td>
+<td>14:30-16:00</td>
 <td>BYOD session</td>
 <td colspan="2">A. Bonvin and S. Forli</td>
 </tr>
 <tr>
-<td>16:00 - 16:30</td>
+<td>16:00-16:30</td>
 <td colspan="3">Coffee Break</td>
 </tr>
 <tr>
-<td>16:30 - 18:30</td>
+<td>16:30-18:30</td>
 <td>BYOD session</td>
 <td colspan="2">A. Bonvin and S. Forli</td>
 </tr>
@@ -175,7 +175,7 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 <td colspan="4"><b>Thursday 13th Apr 2017</b></td>
 </tr>
 <tr>
-<td>9.15 - 10:00</td>
+<td>9.15-10:00</td>
 <td>Intro to the practical</td>
 <td>Stefano Moro</td>
 <td></td>
