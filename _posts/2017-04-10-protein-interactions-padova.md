@@ -21,12 +21,11 @@ description: This workshop is aimed at students in master degree courses, PhD st
  - Candidates from a bioinformatics lab from one of the ELIXIR-ITA member institutions (see the list at the bottom): **130 euros**. 
  - All the other candidates: **180 euros**
 
-
 A maximum of 30 candidates will be accepted in the course. Selection will start on March the 10th and those with an adequate profile will be accepted immediately, especially if they come from other countries (to allow them to find reasonably cheap flight tickets). 
 
 ### Speakers
 - **Alexandre Bonvin** - Faculty of Science, Utrecht University, the Netherlands
-- [**Norman Davey**](../) (University College Dublin, Dublin, Ireland)
+- [**Norman Davey**](../../instructors/norman_davey) (University College Dublin, Dublin, Ireland)
 - **Stefano Forli** (Dept. Molecular Biology, The Scripps Research Institute, La Jolla, USA)
 - **Stefano Moro** (Dept. of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy)
 
