@@ -205,22 +205,24 @@ They will also learn:
 
 <h3>ELIXIR-ITA member institutions</h3>
 
-- CNR (ELIXIR-ITA coordinator)
-- CRS4
-- CINECA
-- Fondazione Edmund Mach, Trento
-- INFN
-- GARR
-- Sapienza Università di Roma
-- Università di Bari
-- Università di Bologna
-- Università di Firenze
-- Università di Milano
-- Università di Milano Bicocca
-- Università di Padova
-- Università di Parma
-- Università di Roma "Tor Vergata"
-- Università di Salerno
-- Università della Tuscia 
+<ul>
+   <li> CNR (ELIXIR-ITA coordinator)
+   <li> CRS4
+   <li> CINECA
+   <li> Fondazione Edmund Mach, Trento
+   <li> INFN
+   <li> GARR
+   <li> Sapienza Università di Roma
+   <li> Università di Bari
+   <li> Università di Bologna
+   <li> Università di Firenze
+   <li> Università di Milano
+   <li> Università di Milano Bicocca
+   <li> Università di Padova
+   <li> Università di Parma
+   <li> Università di Roma "Tor Vergata"
+   <li> Università di Salerno
+   <li> Università della Tuscia 
+</ul>
 
 
