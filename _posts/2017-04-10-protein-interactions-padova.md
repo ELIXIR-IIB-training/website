@@ -71,7 +71,7 @@ They will also learn:
 - the basic principles of small molecules docking- about the potential of the method, its scope and application, and be aware of its limitation.- how to perform single ligand dockings, as well as design and perform larger virtual screening experiments.### Course prerequisites
 - Basic knowledge of protein structure- Basic Linux command knowledge
 
-### [Application Form](http://)
+### [Application Form](https://goo.gl/forms/jWSsU0Uv9FS6Ykqs1)
 
 ### Programme
 
@@ -108,7 +108,7 @@ They will also learn:
 </tr>
 <tr>
    <td>19:30-21:00</td>
-   <td colspan="3">Welcome spritz at Verba Volant</td>
+   <td colspan="3">Welcome cocktail with finger food at Verba Volant</td>
 </tr>
 <tr>
    <td colspan="4"><h3>Tuesday 11th Apr 2017</h3></td>
