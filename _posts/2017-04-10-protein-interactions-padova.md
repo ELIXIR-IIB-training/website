@@ -9,14 +9,15 @@ description: This workshop is aimed at students in master degree courses, PhD st
 ---
 
 **IMPORTANT DATES** for this Course:
-   Deadline for applications: 28th March 2017
-   Course date: 10-13 April 2017
 
- **VENUE**:
-   Campus di Biologia e Biomedicina "Fiore di Botta", University of Padova, Via del Pescarotto, 8, 35131 Padova, IT
+- Deadline for applications: 28th March 2017
+- Course date: 10-13 April 2017
 
- **FEE**:
- The fee will cover coffee breaks, lunches, and the welcome spritz on Monday, 10th April. The participants are expected to pay their travel and accommodation costs.
+**VENUE**:
+Campus di Biologia e Biomedicina "Fiore di Botta", University of Padova, Via del Pescarotto, 8, 35131 Padova, IT
+
+**FEE**: 
+The fee will cover attendance to lectures and practicals, coffee breaks, lunches, and the welcome spritz on Monday, 10th April. The participants are expected to pay their own travel and accommodation costs.
  
  - Candidates from a bioinformatics lab from one of the ELIXIR-ITA member institutions (see the list at the bottom): **130 euros**. 
  - All the other candidates: **180 euros**
@@ -75,9 +76,9 @@ They will also learn:
 </tr>
 <tr>
    <td>15:30-16:15</td>
-   <td>Intro to practical</td>
+   <td>Practical</td>
    <td>Norman Davey</td>
-   <td></td>
+   <td>Tools and resources for the analysis of the structural architecture of a protein and the functional role of protein globular domains and disordered regions.</td>
 </tr>
 <tr>
    <td>16:15-16:45</td>
@@ -87,7 +88,7 @@ They will also learn:
    <td>16.45-19:00</td>
    <td>Practical</td>
    <td>Norman Davey</td>
-   <td></td>
+   <td>Tools and resources for the analysis of the regulatory mechanisms controlling the function of a protein and the regulatory program encoded by the full complement of functional modules. </td>
 </tr>
 <tr>
    <td>19:30-21:00</td>
@@ -100,7 +101,7 @@ They will also learn:
   <td>9:30-10:30</td>
   <td>Plenary lecture</td>
   <td>Alexandre Bonvin</td>
-  <td>High-resolution, integrative modelling of biomolecular complexes from fuzzy data</td>
+  <td><a href="https://elixir-iib-training.github.io/website/docs/alexandre-bonvin-abstract-padova-2017.pdf">High-resolution, integrative modelling of biomolecular complexes from fuzzy data</a></td>
 </tr>
 <tr>
    <td>10:30-11:00</td>
@@ -110,7 +111,7 @@ They will also learn:
    <td>11:00-12:00</td>
    <td>Plenary lecture</td>
    <td>Stefano Forli</td>
-   <td>Irreversible binders design using molecular docking: the Reactive Docking method</td>
+   <td><a href="https://elixir-iib-training.github.io/website/docs/stefano-forli-abstract-padova-2017.pdf"> Irreversible binders design using molecular docking: the Reactive Docking method </a></td>
 </tr>
 <tr>
    <td>12:00-13:00</td>
@@ -123,19 +124,13 @@ They will also learn:
    <td colspan="3"> Lunch </td>
 </tr>
 <tr>
-   <td>14:30-15:15</td>
+   <td>14:30-16:15</td>
    <td> Practical </td>
    <td>Alexandre Bonvin</td>
    <td><a href="http://www.bonvinlab.org/education/HADDOCK-protein-protein-basic/">Basic protein-protein docking tutorial</a></td>
 </tr>
 <tr>
-<td>15:15-16:15</td>
-<td>Practical</td>
-<td>Alexandre Bonvin</td>
-<td><a href="http://www.bonvinlab.org/education/HADDOCK-protein-protein-basic/">Basic protein-protein docking tutorial</a></td>
-<tr>
-</tr>
-<td>16:15 - 16:45</td>
+<td>16:15-16:45</td>
 <td colspan="3">Coffee Break</td>
 <tr>
 </tr>
@@ -148,13 +143,7 @@ They will also learn:
 <td colspan="4"><h3>Wednesday 12th Apr 2017</h3></td>
 </tr>
 <tr>
-<td>9:15 - 10:00</td>
-<td>Intro to the practical</td>
-<td>Stefano Forli</td>
-<td>Introduction to ligand-protein docking with AutoDock</td>
-</tr>
-<tr>
-<td>10:00-11:00</td>
+<td>9:15 - 11:00</td>
 <td>Practical</td>
 <td>Stefano Forli</td>
 <td>Introduction to ligand-protein docking with AutoDock</td>
@@ -192,7 +181,7 @@ They will also learn:
 </tr>
 <tr>
 <td>9.15-10:00</td>
-<td>Intro to the practical</td>
+<td>Practical</td>
 <td>Stefano Moro</td>
 <td></td>
 </tr>
@@ -211,5 +200,26 @@ They will also learn:
 <td colspan="3">Wrap-up and feedback</td>
 </tr>
 </table>
+
+
+###ELIXIR-ITA member institutions
+
+- CNR (ELIXIR-ITA coordinator)
+- CRS4
+- CINECA
+- Fondazione Edmund Mach, Trento
+- INFN
+- GARR
+- Sapienza Università di Roma
+- Università di Bari
+- Università di Bologna
+- Università di Firenze
+- Università di Milano
+- Università di Milano Bicocca
+- Università di Padova
+- Università di Parma
+- Università di Roma "Tor Vergata"
+- Università di Salerno
+- Università della Tuscia 
 
 
