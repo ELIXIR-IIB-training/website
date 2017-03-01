@@ -202,7 +202,7 @@ They will also learn:
 </table>
 
 
-###ELIXIR-ITA member institutions
+<h3>ELIXIR-ITA member institutions</h3>
 
 - CNR (ELIXIR-ITA coordinator)
 - CRS4
