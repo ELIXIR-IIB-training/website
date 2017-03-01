@@ -30,6 +30,11 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 - [**Stefano Forli**](../../../instructors/stefano_forli) (Dept. Molecular Biology, The Scripps Research Institute, La Jolla, USA)
 - [**Stefano Moro**](../../../instructors/stefano_moro) (Dept. of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy)
 
+### Organisers
+- Marco Carraro (University of Padova, Italy)
+- Lisanna Paladin (University of Padova, Italy)
+- Allegra Via (ELIXIR-IIB Training Coordinator, CNR, Italy)
+
 ### Course Description
 In this workshop, participants will familiarise with docking approaches to the study of protein-protein interactions (PPIs) and protein-small molecule interactions. Irreversible binders design using molecular docking and computational methods to rational drug design will be also described, as well as the functional role of the intrinsically disordered proteins.
 The Plenary lectures of N.Dinkel (10.02.2017), A. Bonvin, S. Forli and S. Moro (11.02.2017) will be open and free to everyone but require application. <br>
