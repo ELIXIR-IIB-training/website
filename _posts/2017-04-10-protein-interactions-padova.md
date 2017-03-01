@@ -201,6 +201,7 @@ They will also learn:
 </tr>
 </table>
 
+<p>
 
 <h3>ELIXIR-ITA member institutions</h3>
 
