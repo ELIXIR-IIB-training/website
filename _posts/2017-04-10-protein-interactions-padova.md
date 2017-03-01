@@ -8,7 +8,18 @@ description: This workshop is aimed at students in master degree courses, PhD st
 
 ---
 
-**IMPORTANT DATES** for this Course:
+<table border="0" width="600">
+  <tr>
+    <td><img src="../../../img/logo_elixir_italy.jpg" height="100"></td>
+    <td><img src="../../../img/logo_uni_padova.png" height="100"></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><img src="../../../img/logo_rsg_italy.jpg" height="100"></td>
+  </tr>
+</table>
+
+<br>
+
+**IMPORTANT DATES** for this Training course:
 
 - Deadline for applications: 28th March 2017
 - Course date: 10-13 April 2017
@@ -37,7 +48,7 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 
 ### Course Description
 In this workshop, participants will familiarise with docking approaches to the study of protein-protein interactions (PPIs) and protein-small molecule interactions. Irreversible binders design using molecular docking and computational methods to rational drug design will be also described, as well as the functional role of the intrinsically disordered proteins.
-The Plenary lectures of N.Dinkel (10.02.2017), A. Bonvin, S. Forli and S. Moro (11.02.2017) will be open and free to everyone but require application. <br>
+The Plenary lectures of N. Davey (10.02.2017), A. Bonvin, S. Forli and S. Moro (11.02.2017) will be open and free to everyone but require application. <br>
 Practical sessions are limited to 30 participants. 
 On the afternoon of day 3, participants can bring their own data (e.g. proteins they want to study interactions for). They will be split in groups based on the type of system they want to study (i.e protein-protein, protein-small ligand interactions or virtual screening) and will analyse it assisted by A. Bonvin and S. Forli.
 
