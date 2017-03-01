@@ -25,10 +25,10 @@ The fee will cover attendance to lectures and practicals, coffee breaks, lunches
 A maximum of 30 candidates will be accepted in the course. Selection will start on March the 10th and those with an adequate profile will be accepted immediately, especially if they come from other countries (to allow them to find reasonably cheap flight tickets). 
 
 ### Speakers
-- [**Alexandre Bonvin**](../../../instructors/alexandre_bonvin) - Faculty of Science, Utrecht University, the Netherlands
-- [**Norman Davey**](../../../instructors/norman_davey) (University College Dublin, Dublin, Ireland)
-- [**Stefano Forli**](../../../instructors/stefano_forli) (Dept. Molecular Biology, The Scripps Research Institute, La Jolla, USA)
-- [**Stefano Moro**](../../../instructors/stefano_moro) (Dept. of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy)
+- [**Alexandre Bonvin**](../../../instructors/alexandre_bonvin.html) - Faculty of Science, Utrecht University, the Netherlands
+- [**Norman Davey**](../../../instructors/norman_davey.html) (University College Dublin, Dublin, Ireland)
+- [**Stefano Forli**](../../../instructors/stefano_forli.html) (Dept. Molecular Biology, The Scripps Research Institute, La Jolla, USA)
+- [**Stefano Moro**](../../../instructors/stefano_moro.html) (Dept. of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy)
 
 ### Organisers
 - Marco Carraro (University of Padova, Italy)
