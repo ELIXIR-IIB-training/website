@@ -94,9 +94,11 @@ The workshop registration fee includes: attendance to scientific sessions, a pri
 
 
 ### Workshop keynote speakers
-- Graziano Pesole (IBBE-CNR and University of Bari, IT)- Guy Cochrane (EBI, UK)- Gabriel Valiente (Technical University of Catalonia, SP)- Nills Peder Willansen (The Arctic University of Norway, NO) - Nicola Segata (University of Trento, IT) - Carlotta De Filippo (IBIMET-CNR, IT) - Duccio Cavalieri (University of Florence, IT) - Maurizio Sanguinetti (Catholic University of Rome, IT)
-
-### [Application Form]()
+- Duccio Cavalieri (University of Florence, IT) - Guy Cochrane (EBI, UK)
+- Carlotta De Filippo (IBIMET-CNR, IT) 
+- Graziano Pesole (IBBE-CNR and University of Bari, IT)
+- Maurizio Sanguinetti (Catholic University of Rome, IT)
+- Nicola Segata (University of Trento, IT) - Gabriel Valiente (Technical University of Catalonia, SP)- Nills Peder Willansen (The Arctic University of Norway, NO) ### [Application Form]()
 
 <table border="1">
 <tr>
