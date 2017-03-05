@@ -226,7 +226,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 
 ### School's Instructors
 - Marc Rosello & Guy Cochrane (EBI, UK); - Bruno Fosso & Monica Santamaria (IBBE-CNR, IT )- Gabriel Valiente (Technical University of Catalonia, SP)- Matteo Chiara (University of Milan, IT)
-### [Application Form]()
+### [Application Form](https://goo.gl/forms/Y6ipYbuBJkruVnwz2)
 
 
 <table border="1">
