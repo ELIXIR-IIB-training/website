@@ -37,22 +37,17 @@ You can find full details - including the application forms - below.
  - Workshop: 19-20 June, 2017
  - School: 21-23 June, 2017 
 
- This means that the Summer School will start on 15th June and last until 23th June.
 
 **DEADLINE FOR APPLICATION**:
 
-- **Workshop**: 
+- **Workshop and Summer School**: 
   - early registration: 10th April, 2017
   - late registration: 2nd May, 2017
-- **School**: 
-  - early registration: 10th April, 2017
-  - late registration: 2nd May, 2017 
 
 **VENUE**:
 
 - Workshop: XXXXXXXX
-- School: Una Hotel Regina, Strada Provinciale, 57, 70016 Noicattaro, BA (http://www.unahotelreginabari.it/en/)
-  - 
+- Summer School: Una Hotel Regina, Strada Provinciale, 57, 70016 Noicattaro, BA (http://www.unahotelreginabari.it/en/)
 
 **FEES**: 
 
