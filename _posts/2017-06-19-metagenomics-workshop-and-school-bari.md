@@ -20,7 +20,7 @@ description: Two connected events on Advanced Computational Metagenomics - a 2-d
 ELIXIR-IIB is glad to announce a week-long Workshop & Summer School events in Advanced Computational Metagenomics.<br> 
 
 [Introduction and Motivation](../../../miscellaneous/metagenomics-bari-2017-description.html)
-A two-day workshop will precede a three-day intense training school where eminent specialists in the field will be delivering interdisciplinary training in computational metagenomics for the next generation of scientists. 
+A two-day workshop will precede a three-day intense training school where eminent specialists in the field will be delivering interdisciplinary training in computational metagenomics. 
 
 We offer three different registration options:
 
@@ -30,7 +30,7 @@ We offer three different registration options:
 
 **The workshop is open to all and will be able to host up to 100 people, whereas the intensive hands-on training course, for organisational and logistic reasons, is restricted to max 40 attendants.**
 
-You can find full details - including the application forms - below.
+Full details and the pre-registration form are provided below
 
  **WORKSHOP AND SUMMER SCHOOL DATES**:
  
@@ -77,12 +77,16 @@ You can find full details - including the application forms - below.
 
 <br>
 
+### [Pre-registration form](https://goo.gl/forms/Gy2EGSPTa0DuuBcn2)
+
 The workshop registration fee includes: attendance to scientific sessions, a printed copy of the book of abstracts, coffee-breaks and lunches. Social dinner fee is 30.00 € for participants (all categories and deadlines) and 45.00 € for the accompanying people. Accompanying people may pay on-site.The training course registration fee includes: attendance to the training, course material, coffee breaks, lunches and dinners for 3 days.
+
 
 We have a deal with the Una Hotel Regina until May the 10th: 
 - Double room for two people: 105 euros (52.50 per person) including breakfast
 - Doble room for one person: 80 euros including breakfast.
-If you want to book a room, please contact stella@meeting-planner.it. After May the 10th, the price of rooms will raise to 160 and 130 euros, respectively.
+For room booking, please, send an e-mail to stella@meeting-planner.it.<br>
+Please notice that **after May the 10th**, the price of rooms will raise to 160 and 130 euros, respectively.
 
 ### Cancellation policyCancellations must be notified to stella@meeting-planner.it.Within May 10, 2017: 100% refund (except for an administrative charge of € 50,00).Within May 29, 2017: 50% refund.No refund will be made for cancellation received after that date or for no-show.Please note that refunds will only be processed by bank transfer after the workshop dates.
 
@@ -108,7 +112,7 @@ If you want to book a room, please contact stella@meeting-planner.it. After May 
 
 <br>
 
-<h2>Workshop in Computational Methods, Standards and Experimental Procedures</h2>
+<h2>Workshop on Computational Metagenomics: Methods, Standards and Experimental Procedures</h2>
 <h3>19-20 June, 2017 - University of Bari "Aldo Moro", Bari, Italy</h3>
 
 ### Chairs
@@ -120,7 +124,7 @@ If you want to book a room, please contact stella@meeting-planner.it. After May 
 - Carlotta De Filippo (IBIMET-CNR, IT) 
 - Graziano Pesole (IBBE-CNR and University of Bari, IT)
 - Maurizio Sanguinetti (Catholic University of Rome, IT)
-- Nicola Segata (University of Trento, IT) - Gabriel Valiente (Technical University of Catalonia, SP)- Nills Peder Willansen (The Arctic University of Norway, NO) ### [Application Form](https://goo.gl/forms/Gy2EGSPTa0DuuBcn2)
+- Nicola Segata (University of Trento, IT) - Gabriel Valiente (Technical University of Catalonia, SP)- Nills Peder Willansen (The Arctic University of Norway, NO) ### [Pre-registration form](https://goo.gl/forms/Gy2EGSPTa0DuuBcn2)
 
 <table border="1">
 <tr>
@@ -249,7 +253,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 
 ### School's Instructors
 - Marc Rosello & Guy Cochrane (EBI, UK); - Bruno Fosso & Monica Santamaria (IBBE-CNR, IT )- Gabriel Valiente (Technical University of Catalonia, SP)- Matteo Chiara (University of Milan, IT)
-### [Application Form](https://goo.gl/forms/Gy2EGSPTa0DuuBcn2)
+### [Pre-registration form](https://goo.gl/forms/Gy2EGSPTa0DuuBcn2)
 
 
 <table border="1">
