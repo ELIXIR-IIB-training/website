@@ -77,7 +77,7 @@ Full details and the pre-registration form are provided below
 
 <br>
 
-### [Pre-registration form](https://goo.gl/forms/Gy2EGSPTa0DuuBcn2)
+**If you want to book a seat in the workshop, the Summer School or both, please fill in the [Pre-registration form](https://goo.gl/forms/Gy2EGSPTa0DuuBcn2). You will be contacted soon to complete your registration.**
 
 The workshop registration fee includes: attendance to scientific sessions, a printed copy of the book of abstracts, coffee-breaks and lunches. Social dinner fee is 30.00 € for participants (all categories and deadlines) and 45.00 € for the accompanying people. Accompanying people may pay on-site.The training course registration fee includes: attendance to the training, course material, coffee breaks, lunches and dinners for 3 days.
 
@@ -124,8 +124,7 @@ Please notice that **after May the 10th**, the price of rooms will raise to 160 
 - Carlotta De Filippo (IBIMET-CNR, IT) 
 - Graziano Pesole (IBBE-CNR and University of Bari, IT)
 - Maurizio Sanguinetti (Catholic University of Rome, IT)
-- Nicola Segata (University of Trento, IT) - Gabriel Valiente (Technical University of Catalonia, SP)- Nills Peder Willansen (The Arctic University of Norway, NO) ### [Pre-registration form](https://goo.gl/forms/Gy2EGSPTa0DuuBcn2)
-
+- Nicola Segata (University of Trento, IT) - Gabriel Valiente (Technical University of Catalonia, SP)- Nills Peder Willansen (The Arctic University of Norway, NO) 
 <table border="1">
 <tr>
    <td colspan="4"><h2>Programme</h2></td>
@@ -252,8 +251,7 @@ After this course you should be able to:
 No prior knowledge of metagenomic sequences analysis or specific programming skills are required. Conversely, a basic knowledge of BASH, Unix terminal usage and R are desirable.
 
 ### School's Instructors
-- Marc Rosello & Guy Cochrane (EBI, UK); - Bruno Fosso & Monica Santamaria (IBBE-CNR, IT )- Gabriel Valiente (Technical University of Catalonia, SP)- Matteo Chiara (University of Milan, IT)
-### [Pre-registration form](https://goo.gl/forms/Gy2EGSPTa0DuuBcn2)
+- Marc Rosello & Guy Cochrane (EBI, UK); - Bruno Fosso & Monica Santamaria (IBBE-CNR, IT )- Gabriel Valiente (Technical University of Catalonia, SP)- Matteo Chiara (University of Milan, IT)
 
 
 <table border="1">
