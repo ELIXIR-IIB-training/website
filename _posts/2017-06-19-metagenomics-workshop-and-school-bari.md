@@ -41,7 +41,7 @@ Full details and the pre-registration form are provided below
 **DEADLINE FOR APPLICATION**:
 
 - **Workshop and Summer School**: 
-  - early registration: 10th April, 2017
+  - early registration: 20th April, 2017
   - late registration: 2nd May, 2017
 
 [Abstract submission for oral and poster presentation at the workshop](../../../miscellaneous/metagenomics-bari-2017-abstract-submission.html)
