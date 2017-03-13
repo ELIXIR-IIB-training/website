@@ -44,6 +44,8 @@ Full details and the pre-registration form are provided below
   - early registration: 10th April, 2017
   - late registration: 2nd May, 2017
 
+[Abstract submission for oral and poster presentation at the workshop](../../../miscellaneous/metagenomics-bari-2017-abstract-submission.html)
+
 **VENUE**:
 
 - Workshop: Salone degli Affreschi, Palazzo Ateneo, Università degli Studi di Bari "Aldo Moro", P.zza Umberto I, 1 - 70121 Bari
