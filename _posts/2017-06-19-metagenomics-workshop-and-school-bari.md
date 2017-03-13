@@ -64,12 +64,12 @@ Full details and the pre-registration form are provided below
    <td>workshop</td><td>training</td><td>workshop +<br>school</td>
 </tr>
 <tr>
-   <td>early</td><td>80</td><td>250</td><td>300</td>
+   <td>early</td><td>120</td><td>300</td><td>370</td>
    <td>180</td><td>350</td><td>480</td>
    <td>250</td><td>450</td><td>650</td>
 </tr>
 <tr>
-   <td>late</td><td>150</td><td>350</td><td>450</td>
+   <td>late</td><td>170</td><td>350</td><td>470</td>
    <td>230</td><td>450</td><td>630</td>
    <td>300</td><td>550</td><td>800</td>
 </tr>
