@@ -102,7 +102,7 @@ Please notice that **after May the 10th**, the price of rooms will raise to 160 
 - Guy Cochrane (EBI, UK)
 - Carlotta De Filippo (IBIMET-CNR,IT)
 - Bruno Fosso (IBBE-CNR, IT)
-- Nills Peder Willansen (The Arctic University of Norway, NO)
+- Nills Peder Willassen (The Arctic University of Norway, NO)
 - Graziano Pesole (CNR-IBBE and University of Bari,IT)
 - Ernesto Picardi (University of Bari, IT)
 - Marc Rosello (EBI, UK)
@@ -126,7 +126,7 @@ Please notice that **after May the 10th**, the price of rooms will raise to 160 
 - Carlotta De Filippo (IBIMET-CNR, IT) 
 - Graziano Pesole (IBBE-CNR and University of Bari, IT)
 - Maurizio Sanguinetti (Catholic University of Rome, IT)
-- Nicola Segata (University of Trento, IT) - Gabriel Valiente (Technical University of Catalonia, SP)- Nills Peder Willansen (The Arctic University of Norway, NO) 
+- Nicola Segata (University of Trento, IT) - Gabriel Valiente (Technical University of Catalonia, SP)- Nills Peder Willassen (The Arctic University of Norway, NO) 
 <table border="1">
 <tr>
    <td colspan="4"><h2>Programme</h2></td>
@@ -183,7 +183,7 @@ Please notice that **after May the 10th**, the price of rooms will raise to 160 
 </tr>
 <tr>   
    <td>09.00-09.30</td>
-   <td>Nills Peder Willansen (The Arctic University of Norway, Norway)</td>
+   <td>Nills Peder Willassen (The Arctic University of Norway, Norway)</td>
    <td>Marine Metagenomics</td>
 </tr>
 <tr>   
