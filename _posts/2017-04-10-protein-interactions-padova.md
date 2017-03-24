@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Computational approaches to the study of protein interactions and rational drug design"
+title:  Training course on "Computational approaches to the study of protein interactions and rational drug design"
 date_start:   2017-04-10
 date_end:   2017-04-13
 venue: Padova
