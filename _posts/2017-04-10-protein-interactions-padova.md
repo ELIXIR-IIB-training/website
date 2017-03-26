@@ -21,7 +21,7 @@ description: This workshop is aimed at students in master degree courses, PhD st
 
 **IMPORTANT DATES** for this Training course:
 
-- Deadline for applications: 28th March 2017
+- Deadline for applications: 31st March 2017 
 - Course date: 10-13 April 2017
 
 **VENUE**:
