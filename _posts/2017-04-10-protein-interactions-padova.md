@@ -54,7 +54,7 @@ On the afternoon of day 3, participants can bring their own data (e.g. proteins 
 
 ### Target audience
 
-Students and researchers in the life sciences / structural biology / computational biology field, interested in structure-based drug design, and in the functional subdivision of proteins into modules and how these modules co-operate to govern the spatiotemporal functionality of the protein.
+Students and researchers in the life sciences / structural biology / computational biology field, interested in structure-based drug design, and in the functional subdivision of proteins into modules and how these modules co-operate to govern the spatiotemporal functionality of the protein. Students and researchers interested in general to structure-based ligand design and, or specifically, to docking-driven hit/lead identification.
 
 ### Learning objectives
 
@@ -67,8 +67,18 @@ Participants will:<br>
 
 They will also learn:
 
-- how to transform generic information about binding sites into restraints to drive docking in HADDOCK- the basics of information-driven docking using the HADDOCK web server- how to perform protein-ligand docking using HADDOCK (and screening for putative binding sites)- to critically look at docking results
-- the basic principles of small molecules docking- about the potential of the method, its scope and application, and be aware of its limitation.- how to perform single ligand dockings, as well as design and perform larger virtual screening experiments.### Course prerequisites
+- how to transform generic information about binding sites into restraints to drive docking in HADDOCK
+- the basics of information-driven docking using the HADDOCK web server
+- how to perform protein-ligand docking using HADDOCK (and screening for putative binding sites)
+- to critically look at docking results
+- the basic principles of small molecules docking
+- about the potential of the method, its scope and application, and be aware of its limitation
+- how to perform single ligand dockings, as well as design and perform larger virtual screening experiments
+- how to compare the performance of different docking protocols
+- how to select the best performant docking protocol
+- when is better to be aware of docking results
+
+### Course prerequisites
 - Basic knowledge of protein structure- Basic Linux command knowledge
 
 ### [Application Form](https://goo.gl/forms/jWSsU0Uv9FS6Ykqs1)
@@ -133,7 +143,7 @@ They will also learn:
    <td>12:00-13:00</td>
    <td>Plenary lecture</td>
    <td>Stefano Moro</td>
-   <td>Computational drug design</td>
+   <td><a href="https:/elixir-iib-training.github.io/website/docs/stefano-moro-abstract-padova-2017.pdf">To dock, or not to dock… how to deal with the quality assessment strategy of  protein-ligand docking protocols comparing their performances</a></td>
 </tr>
 <tr>
    <td>13:00-14:30</td>
@@ -199,7 +209,7 @@ They will also learn:
 <td>9.15-10:00</td>
 <td>Practical</td>
 <td>Stefano Moro</td>
-<td></td>
+<td>10 more tips to deal with molecular docking: the practical session will be devoted to introduce, to a non-expert audience, the basic principle of quality assessment of molecular docking performances </td>
 </tr>
 <tr>
 <td>10:00-10:30</td>
@@ -209,7 +219,7 @@ They will also learn:
 <td>10:30-12:30</td>
 <td>Practical</td>
 <td>Stefano Moro</td>
-<td></td>
+<td>10 more tips to deal with molecular docking</td>
 </tr>
 <tr>
 <td>12:30-13:00</td>
