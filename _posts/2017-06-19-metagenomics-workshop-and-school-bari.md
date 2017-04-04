@@ -79,7 +79,7 @@ Full details and the pre-registration form are provided below
 
 <br>
 
-##[Registration Form](http://iscrizioni.meeting-planner.it/cmsweb/Login.asp?IDcommessa=01/17/0041&Lang=EN)##
+## [Registration Form](http://iscrizioni.meeting-planner.it/cmsweb/Login.asp?IDcommessa=01/17/0041&Lang=EN)
 
 The workshop registration fee includes: attendance to scientific sessions, a printed copy of the book of abstracts, coffee-breaks and lunches. Social dinner fee is 30.00 € for participants (all categories and deadlines) and 45.00 € for the accompanying people. Accompanying people may pay on-site.The training course registration fee includes: attendance to the training, course material, coffee breaks, lunches and dinners for 3 days.
 
