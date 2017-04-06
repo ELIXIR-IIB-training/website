@@ -90,28 +90,28 @@ They will also learn:
    <td colspan="4"><h3>Monday 10th Apr 2017</h3></td>
 </tr>
 <tr>
-   <td>14.00-15.00</td>
+   <td>13.30-14.30</td>
    <td>Plenary lecture</td>
    <td>Norman Davey</td>
    <td><a href="https://elixir-iib-training.github.io/website/docs/norman-davey-abstract-padova-2017.pdf">Understanding the functional role of the intrinsically disordered proteome</a></td>
 </tr>
 <tr>
-   <td>15:00 -15:30</td>
+   <td>14:30 -15:00</td>
    <td>Course opening</td>
    <td colspan="2">Participants’ self-presentations</td>
 </tr>
 <tr>
-   <td>15:30-16:15</td>
+   <td>15:00-15:45</td>
    <td>Practical</td>
    <td>Norman Davey</td>
    <td>Tools and resources for the analysis of the structural architecture of a protein and the functional role of protein globular domains and disordered regions.</td>
 </tr>
 <tr>
-   <td>16:15-16:45</td>
+   <td>15:45-16:15</td>
    <td colspan="3">Coffee break</td>
 </tr>
 <tr>
-   <td>16.45-19:00</td>
+   <td>16.15-18:30</td>
    <td>Practical</td>
    <td>Norman Davey</td>
    <td>Tools and resources for the analysis of the regulatory mechanisms controlling the function of a protein and the regulatory program encoded by the full complement of functional modules. </td>
