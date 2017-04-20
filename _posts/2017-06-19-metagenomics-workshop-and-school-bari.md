@@ -41,13 +41,13 @@ Full details and the pre-registration form are provided below
 **DEADLINE FOR APPLICATION**:
 
 - **Workshop**: 
-  - early registration: 20th April, 2017
-  - late registration for abstract's submission: 15 May, 2017
-  - late registration: 9th June, 2017
+  - early registration: **20th April, 2017**
+  - late registration for abstract's submission: **15th May, 2017**
+  - late registration: **9th June, 2017**
 - **Summer School**
-  - early registration: 20th April, 2017
-  - late registration if you want to secure a room at the Una Hotel Regina: 30th April, 2017
-  - late registration if you don't need a room at the Una Hotel Regina: 19th May, 2017
+  - early registration: **20th April, 2017**
+  - late registration if you want to secure a room at the Una Hotel Regina: **30th April, 2017**
+  - late registration if you don't need a room at the Una Hotel Regina: **19th May, 2017**
 
 [Abstract submission for oral and poster presentation at the workshop](../../../miscellaneous/metagenomics-bari-2017-abstract-submission.html)
 
