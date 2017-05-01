@@ -41,13 +41,15 @@ Full details and the pre-registration form are provided below
 **DEADLINE FOR APPLICATION**:
 
 - **Workshop**: 
-  - early registration: **20th April, 2017**
-  - late registration for abstract's submission: **15th May, 2017**
+  - early registration: **19th May, 2017**
+  - late registration for abstract's submission: **31st May, 2017**
   - late registration: **9th June, 2017**
 - **Summer School**
-  - early registration: **20th April, 2017**
-  - late registration if you want to secure a room at the Una Hotel Regina: **30th April, 2017**
-  - late registration if you don't need a room at the Una Hotel Regina: **19th May, 2017**
+  - early registration: **19th May, 2017**
+  - late registration: **9th June, 2017**
+ 
+**If you want to secure a room at the Una Hotel Regina, we recommend you to either make a hotel reservation or register to the School by May the 5th.**
+
 
 [Abstract submission for oral and poster presentation at the workshop](../../../miscellaneous/metagenomics-bari-2017-abstract-submission.html)
 
@@ -106,6 +108,7 @@ Please notice that **after May the 10th**, the price of rooms will raise to 160 
 - Matteo Chiara (University of Milan,IT)
 - Guy Cochrane (EBI, UK)
 - Carlotta De Filippo (IBIMET-CNR,IT)
+- Rob Finn (EBI, UK)
 - Bruno Fosso (IBBE-CNR, IT)
 - Nills Peder Willassen (The Arctic University of Norway, NO)
 - Graziano Pesole (CNR-IBBE and University of Bari,IT)
@@ -129,6 +132,7 @@ Please notice that **after May the 10th**, the price of rooms will raise to 160 
 ### Keynote speakers
 - Duccio Cavalieri (University of Florence, IT) - Guy Cochrane (EBI, UK)
 - Carlotta De Filippo (IBIMET-CNR, IT) 
+- Rob Finn (EBI, UK)
 - Graziano Pesole (IBBE-CNR and University of Bari, IT)
 - Maurizio Sanguinetti (Catholic University of Rome, IT)
 - Nicola Segata (University of Trento, IT) - Gabriel Valiente (Technical University of Catalonia, SP)- Nills Peder Willassen (The Arctic University of Norway, NO) 
@@ -169,11 +173,17 @@ Please notice that **after May the 10th**, the price of rooms will raise to 160 
 </tr>
 <tr>   
    <td>17:30-18:00</td>
+   <td>Rob Finn (EBI, UK)</td>
+   <td>TBA</td>
+</tr>
+
+<tr>   
+   <td>18:00-18:30</td>
    <td>Gabriel Valiente (Technical University of Catalonia, Spain)</td>
    <td>Software and pipelines for taxonomic assignment in metagenomics</td>
 </tr>
 <tr>   
-   <td>18.00-19.00</td>
+   <td>18.30-19.30</td>
    <td colspan="3">Poster session</td>
 </tr>
 <tr>
@@ -258,7 +268,8 @@ After this course you should be able to:
 No prior knowledge of metagenomic sequences analysis or specific programming skills are required. Conversely, a basic knowledge of BASH, Unix terminal usage and R are desirable.
 
 ### School's Instructors
-- Marc Rosello & Guy Cochrane (EBI, UK); - Bruno Fosso & Monica Santamaria (IBBE-CNR, IT )- Gabriel Valiente (Technical University of Catalonia, SP)- Matteo Chiara (University of Milan, IT)
+- Marc Rosello & Guy Cochrane (EBI, UK); 
+- Rob Finn (EBI, UK);- Bruno Fosso & Monica Santamaria (IBBE-CNR, IT )- Gabriel Valiente (Technical University of Catalonia, SP)- Matteo Chiara (University of Milan, IT)
 
 
 <table border="1">
@@ -272,18 +283,27 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
    <td colspan="4"><h3>Wednesday 21th June 2017</h3></td>
 </tr>
 <tr>
-   <td>09.00-13.00</td>
+   <td>09.00-12.00</td>
    <td>Marc Rosello & Guy Cochrane (EBI, UK)</td>
    <td>Hands-on: Metagenomics data: submissions, discovery and retrieval</td>
 </tr>
 <tr>
-   <td>13.00-15.00</td>
+   <td>12.00-13.30</td>
+   <td>Rob Finn (EBI, UK)</td>
+   <td>TBA</td>
+</tr>
+<tr>
+   <td>13.30-15.00</td>
    <td colspan="2">Lunch break</td>
 </tr>
 <tr>   
-   <td>15.00-19.00</td>
+   <td>15.00-17.00</td>
+   <td>Rob Finn (EBI, UK)</td>
+   <td>TBA (continued)
+<tr>   
+   <td>17.00-19.00</td>
    <td>Bruno Fosso & Monica Santamaria (IBBE-CNR)</td>
-   <td>Hands-on: Bioinformatic analysis of metagenomic Amplicons (BioMaS, QIIME, ...)</td>
+   <td>Hands-on: Bioinformatic analysis of metagenomic Amplicons (BioMaS, QIIME, ...) and shotgun  (MetaShot, Kraken,..) data</td>
 </tr>
 <tr>
    <td colspan="4"><h3>Thursday 22nd June 2017</h3></td>
@@ -291,7 +311,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 <tr>
    <td>09.00-13.00</td>
    <td>Bruno Fosso & Monica Santamaria (IBBE-CNR)</td>
-   <td>Hands on: Bioinformatic analysis of metagenomics shotgun data (Kraken, MetaShot, ...)</td>
+   <td>Hands-on: Bioinformatic analysis of metagenomic Amplicons (BioMaS, QIIME, ...) and shotgun  (MetaShot, Kraken,..) data (continued)</td>
 </tr>
 <tr>
    <td>13.00-15.00</td>
@@ -311,7 +331,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
    <td>Hands-on: Automatic functional annotation of metabarcoding and shotgun metagenomic data by using Galaxy (A-Game, ..)</td>
 </tr>
 <tr>
-   <td>13.00-15.00</td>
+   <td>13.00-13.15</td>
    <td colspan="2">Closing remarks</td>
 </tr>
 </table>
