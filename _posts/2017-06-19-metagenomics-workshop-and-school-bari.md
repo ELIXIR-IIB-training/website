@@ -385,7 +385,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 </tr>
 </table>
 
-<br>
+<p>
 <h3>ELIXIR-ITA member institutions</h3>
 
 <ul>
