@@ -144,9 +144,7 @@ Please note that refunds will only be processed by bank transfer after the works
 - Guy Cochrane (EBI, UK)
 - Carlotta De Filippo (IBIMET-CNR, IT) 
 - Rob Finn (EBI, UK)
-- Omry Koren (Bar-Ilan University, Israel)
 - Graziano Pesole (IBBE-CNR and University of Bari, IT)
-- Lorenza Putignani (Ospedale Bambino Gesù, Rome, Italy)
 - Maurizio Sanguinetti (Catholic University of Rome, IT)
 - Nicola Segata (University of Trento, IT) 
 - Gabriel Valiente (Technical University of Catalonia, SP)
@@ -193,6 +191,7 @@ Please note that refunds will only be processed by bank transfer after the works
    <td>Rob Finn (EBI, UK)</td>
    <td>TBA</td>
 </tr>
+
 <tr>   
    <td>18.00-18.30</td>
    <td>Gabriel Valiente (Technical University of Catalonia, Spain)</td>
@@ -263,7 +262,7 @@ Please note that refunds will only be processed by bank transfer after the works
 </tr>
 <tr>   
    <td>17.00-17.20</td>
-   <td><b>Illumina invited talk: </b>Lorenza Putignani (Ospedale Bambino Gesù, Rome, Italy)
+   <td><b>Illumina invited talk:</b> Lorenza Putignani (Ospedale Bambino Gesù, Rome, Italy)
 </td>
    <td>Clinical microbiology and microbiota: what next?</td>
 </tr>
@@ -278,6 +277,7 @@ Please note that refunds will only be processed by bank transfer after the works
 </table>
 
 <br>
+
 <h2>Summer School in Advanced Computational Metagenomics</h2>
 <h3>21-23 June, 2017 - Una Hotel Regina, Noicattaro, Bari, Italy</h3>
 
@@ -307,12 +307,12 @@ After this course you should be able to:
 No prior knowledge of metagenomic sequences analysis or specific programming skills are required. Conversely, a basic knowledge of BASH, Unix terminal usage and R are desirable.
 
 ### School's Instructors
-- Duccio Cavalieri (University of Florence, IT)
-- Matteo Chiara (University of Milan, IT)
 - Marc Rosello & Guy Cochrane (EBI, UK); 
 - Rob Finn (EBI, UK);
 - Bruno Fosso & Monica Santamaria (IBBE-CNR, IT )
 - Gabriel Valiente (Technical University of Catalonia, SP)
+- Duccio Cavalieri (University of Florence, IT)
+- Matteo Chiara (University of Milan, IT)
 
 
 <table border="1">
@@ -384,7 +384,8 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 </tr>
 </table>
 
-<p>
+<br>
+
 <h3>ELIXIR-ITA member institutions</h3>
 
 <ul>
@@ -405,4 +406,5 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
    <li> Università di Roma "Tor Vergata"
    <li> Università di Salerno
    <li> Università della Tuscia 
+
 
