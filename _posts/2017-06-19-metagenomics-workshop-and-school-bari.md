@@ -189,13 +189,12 @@ Please note that refunds will only be processed by bank transfer after the works
    <td>Metagenomics: dealing with the data</td>
 </tr>
 <tr>   
-   <td>17:30-18:00</td>
+   <td>17.30-18.00</td>
    <td>Rob Finn (EBI, UK)</td>
    <td>TBA</td>
 </tr>
-
 <tr>   
-   <td>18:00-18:30</td>
+   <td>18.00-18.30</td>
    <td>Gabriel Valiente (Technical University of Catalonia, Spain)</td>
    <td>Software and pipelines for taxonomic assignment in metagenomics</td>
 </tr>
