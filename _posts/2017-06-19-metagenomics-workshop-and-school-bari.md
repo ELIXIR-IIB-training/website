@@ -262,7 +262,7 @@ Please note that refunds will only be processed by bank transfer after the works
 </tr>
 <tr>   
    <td>17.00-17.20</td>
-   <td>Lorenza Putignani (Ospedale Bambino Gesù, Rome,Italy) Illumina
+   <td><b>Illumina invited talk:</b> Lorenza Putignani (Ospedale Bambino Gesù, Rome, Italy)
 </td>
    <td>Clinical microbiology and microbiota: what next?</td>
 </tr>
