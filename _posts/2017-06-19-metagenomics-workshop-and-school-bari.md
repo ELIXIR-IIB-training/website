@@ -392,22 +392,22 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 <h3>ELIXIR-ITA member institutions</h3>
 
 <ul>
-   <li> CNR (ELIXIR-ITA coordinator)
-   <li> CRS4
-   <li> CINECA
-   <li> Fondazione Edmund Mach, Trento
-   <li> INFN
-   <li> GARR
-   <li> Sapienza Università di Roma
-   <li> Università di Bari
-   <li> Università di Bologna
-   <li> Università di Firenze
-   <li> Università di Milano
-   <li> Università di Milano Bicocca
-   <li> Università di Padova
-   <li> Università di Parma
-   <li> Università di Roma "Tor Vergata"
-   <li> Università di Salerno
-   <li> Università della Tuscia 
+   <li> CNR (ELIXIR-ITA coordinator)</li>
+   <li> CRS4</li>
+   <li> CINECA</li>
+   <li> Fondazione Edmund Mach, Trento</li>
+   <li> INFN</li>
+   <li> GARR</li>
+   <li> Sapienza Università di Roma</li>
+   <li> Università di Bari</li>
+   <li> Università di Bologna</li>
+   <li> Università di Firenze</li>
+   <li> Università di Milano</li>
+   <li> Università di Milano Bicocca</li>
+   <li> Università di Padova</li>
+   <li> Università di Parma</li>
+   <li> Università di Roma "Tor Vergata"</li>
+   <li> Università di Salerno</li>
+   <li> Università della Tuscia </li>
 </ul>
 
