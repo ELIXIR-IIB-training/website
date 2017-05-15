@@ -277,8 +277,7 @@ Please note that refunds will only be processed by bank transfer after the works
 </tr>
 </table>
 
-<br>
-
+<p>
 <h2>Summer School in Advanced Computational Metagenomics</h2>
 <h3>21-23 June, 2017 - Una Hotel Regina, Noicattaro, Bari, Italy</h3>
 
