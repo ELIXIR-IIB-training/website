@@ -140,7 +140,6 @@ Please note that refunds will only be processed by bank transfer after the works
 - Graziano Pesole (IBBE-CNR and University of Bari, IT)
 
 ### Keynote speakers
-- Duccio Cavalieri (University of Florence, IT) 
 - Guy Cochrane (EBI, UK)
 - Carlotta De Filippo (IBIMET-CNR, IT) 
 - Rob Finn (EBI, UK)
@@ -342,7 +341,8 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 <tr>   
    <td>15.00-17.00</td>
    <td>Rob Finn (EBI, UK)</td>
-   <td>TBA (continued)
+   <td>TBA (continued)</td>
+   </tr>
 <tr>   
    <td>17.00-19.00</td>
    <td>Bruno Fosso & Monica Santamaria (IBBE-CNR)</td>
