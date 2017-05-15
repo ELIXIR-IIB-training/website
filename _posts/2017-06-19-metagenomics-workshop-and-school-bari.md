@@ -140,10 +140,13 @@ Please note that refunds will only be processed by bank transfer after the works
 - Graziano Pesole (IBBE-CNR and University of Bari, IT)
 
 ### Keynote speakers
+- Duccio Cavalieri (University of Florence, IT)
 - Guy Cochrane (EBI, UK)
 - Carlotta De Filippo (IBIMET-CNR, IT) 
 - Rob Finn (EBI, UK)
+- Omry Koren (Bar-Ilan University, Israel)
 - Graziano Pesole (IBBE-CNR and University of Bari, IT)
+- Lorenza Putignani (Ospedale Bambino Gesù, Rome, Italy)
 - Maurizio Sanguinetti (Catholic University of Rome, IT)
 - Nicola Segata (University of Trento, IT) 
 - Gabriel Valiente (Technical University of Catalonia, SP)
@@ -170,7 +173,7 @@ Please note that refunds will only be processed by bank transfer after the works
 </tr>
 <tr> 
    <td>16.00-16.30</td>  
-   <td>G. Pesole (IBBE-CNR and University of Bari, Italy)</td>
+   <td>Graziano Pesole (IBBE-CNR and University of Bari, Italy)</td>
    <td>Metagenomics: challenges, pitfalls and perspectives</td>
 </tr>
 <tr>
