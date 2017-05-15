@@ -406,5 +406,5 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
    <li> Università di Roma "Tor Vergata"
    <li> Università di Salerno
    <li> Università della Tuscia 
-
+</ul>
 
