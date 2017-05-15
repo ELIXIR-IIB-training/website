@@ -20,7 +20,8 @@ description: Two connected events on Advanced Computational Metagenomics - a 2-d
 ELIXIR-IIB is glad to announce a week-long Workshop & Summer School events in Advanced Computational Metagenomics.<br> 
 
 [Introduction and Motivation](../../../miscellaneous/metagenomics-bari-2017-description.html)
-A two-day workshop will precede a three-day intense training school where eminent specialists in the field will be delivering interdisciplinary training in computational metagenomics. 
+
+A two-day workshop will precede a three-day intense training school where eminent specialists in the field will be delivering interdisciplinary training in computational metagenomics. 
 
 We offer three different registration options:
 
@@ -88,7 +89,11 @@ Full details and the pre-registration form are provided below
 
 ### Workshop and Summer School [Registration Form](http://iscrizioni.meeting-planner.it/cmsweb/Login.asp?IDcommessa=01/17/0041&Lang=EN)
 
-The workshop registration fee includes: attendance to scientific sessions, a printed copy of the book of abstracts, coffee-breaks and lunches. Social dinner fee is 30.00 € for participants (all categories and deadlines) and 45.00 € for the accompanying people. Accompanying people may pay on-site.The training course registration fee includes: attendance to the training, course material, coffee breaks, lunches and dinners for 3 days.
+The workshop registration fee includes: attendance to scientific sessions, a printed copy of the book of abstracts, coffee-breaks and lunches. 
+
+Social dinner fee is 30.00 € for participants (all categories and deadlines) and 45.00 € for the accompanying people. Accompanying people may pay on-site.
+
+The training course registration fee includes: attendance to the training, course material, coffee breaks, lunches and dinners for 3 days.
 
 
 We have a deal with the Una Hotel Regina until May the 10th: 
@@ -97,7 +102,12 @@ We have a deal with the Una Hotel Regina until May the 10th:
 For room booking, please, send an e-mail to stella@meeting-planner.it.<br>
 Please notice that **after May the 10th**, the price of rooms will raise to 160 and 130 euros, respectively.
 
-### Cancellation policyCancellations must be notified to stella@meeting-planner.it.Within May 10, 2017: 100% refund (except for an administrative charge of € 50,00).Within May 29, 2017: 50% refund.No refund will be made for cancellation received after that date or for no-show.Please note that refunds will only be processed by bank transfer after the workshop dates.
+### Cancellation policy
+Cancellations must be notified to stella@meeting-planner.it.
+Within May 10, 2017: 100% refund (except for an administrative charge of € 50,00).
+Within May 29, 2017: 50% refund.
+No refund will be made for cancellation received after that date or for no-show.
+Please note that refunds will only be processed by bank transfer after the workshop dates.
 
 ### ELIXIR-IIB Organisers
 - Domenica D'Elia (ELIXIR-IIB Training Coordinator Deputy, CNR-ITB, Italy)
@@ -130,12 +140,17 @@ Please notice that **after May the 10th**, the price of rooms will raise to 160 
 - Graziano Pesole (IBBE-CNR and University of Bari, IT)
 
 ### Keynote speakers
-- Duccio Cavalieri (University of Florence, IT) - Guy Cochrane (EBI, UK)
+- Duccio Cavalieri (University of Florence, IT) 
+- Guy Cochrane (EBI, UK)
 - Carlotta De Filippo (IBIMET-CNR, IT) 
 - Rob Finn (EBI, UK)
 - Graziano Pesole (IBBE-CNR and University of Bari, IT)
 - Maurizio Sanguinetti (Catholic University of Rome, IT)
-- Nicola Segata (University of Trento, IT) - Gabriel Valiente (Technical University of Catalonia, SP)- Nills Peder Willassen (The Arctic University of Norway, NO) 
+- Nicola Segata (University of Trento, IT) 
+- Gabriel Valiente (Technical University of Catalonia, SP)
+- Nills Peder Willassen (The Arctic University of Norway, NO) 
+
+
 <table border="1">
 <tr>
    <td colspan="4"><h2>Programme</h2></td>
@@ -232,8 +247,13 @@ Please notice that **after May the 10th**, the price of rooms will raise to 160 
    <td>Role of the mycobiome in health and disease</td>
 </tr>
 <tr>   
-   <td>15.00-16.30</td>
-   <td colspan="3">Six short-talks selected from the submitted abstracts</td>
+   <td>15.00-15.30</td>
+   <td>Omry Koren (Bar-Ilan University, Israel)</td>
+   <td>The Birth of a Microbiome</td>
+</tr>
+<tr>   
+   <td>15.30-16.30</td>
+   <td colspan="3">Four short-talks selected from the submitted abstracts</td>
 </tr>
 <tr>   
    <td>16.30-17.00</td>
@@ -241,7 +261,13 @@ Please notice that **after May the 10th**, the price of rooms will raise to 160 
    <td>Fecal microbiota transplantation: the microbiologist’s point of view</td>
 </tr>
 <tr>   
-   <td>17.00-19.00</td>
+   <td>17.00-17.20</td>
+   <td>Lorenza Putignani (Ospedale Bambino Gesù, Rome,Italy) Illumina
+</td>
+   <td>Clinical microbiology and microbiota: what next?</td>
+</tr>
+<tr>   
+   <td>17.20-19.00</td>
    <td colspan="3">Poster session</td>
 </tr>
 <tr>   
@@ -256,20 +282,36 @@ Please notice that **after May the 10th**, the price of rooms will raise to 160 
 <h3>21-23 June, 2017 - Una Hotel Regina, Noicattaro, Bari, Italy</h3>
 
 ### School Description
-The school will focus on the computational aspects of metagenomics analysis including reference databases, software and data retrieval and submission. The investigation of microbial communities will be discussed with an overview on real projects cases, both in ecological, clinical and nutrition fields.During the practical sessions students will learn how to analyse meta-barcoding and shotgun data from Next Generation Sequencing experiments and to perform statistical inference on them.
+The school will focus on the computational aspects of metagenomics analysis including reference databases, software and data retrieval and submission. The investigation of microbial communities will be discussed with an overview on real projects cases, both in ecological, clinical and nutrition fields.
+During the practical sessions students will learn how to analyse meta-barcoding and shotgun data from Next Generation Sequencing experiments and to perform statistical inference on them.
 
 ### Target audience
-This course is aimed at researchers involved or embarking upon bioinformatic analysis in metagenomic projects. During the course, you will learn about:
-- Analysis of meta-barcoding sequence data;- Analysis of shotgun Metagenomics sequence data;- Functional annotation of metagenomic data;- Methods for statistical comparisons of multiple metagenomic samples.
+This course is aimed at researchers involved or embarking upon bioinformatic analysis in metagenomic projects. 
+
+During the course, you will learn about:
+
+- Analysis of meta-barcoding sequence data;
+- Analysis of shotgun Metagenomics sequence data;
+- Functional annotation of metagenomic data;
+- Methods for statistical comparisons of multiple metagenomic samples.
 
 ### Learning objectives
 After this course you should be able to: 
-- choose  and accomplish the most appropriate approach to analyse taxonomic composition and function of your metagenomics data;- perform metagenomic data submission and retrieval;- use statistical tools for comparative analysis of multiple samples;- use methods for pathway and network analysis in metagenomics projects.### Course prerequisites
+
+- choose  and accomplish the most appropriate approach to analyse taxonomic composition and function of your metagenomics data;
+- perform metagenomic data submission and retrieval;
+- use statistical tools for comparative analysis of multiple samples;
+- use methods for pathway and network analysis in metagenomics projects.
+
+### Course prerequisites
 No prior knowledge of metagenomic sequences analysis or specific programming skills are required. Conversely, a basic knowledge of BASH, Unix terminal usage and R are desirable.
 
 ### School's Instructors
 - Marc Rosello & Guy Cochrane (EBI, UK); 
-- Rob Finn (EBI, UK);- Bruno Fosso & Monica Santamaria (IBBE-CNR, IT )- Gabriel Valiente (Technical University of Catalonia, SP)- Matteo Chiara (University of Milan, IT)
+- Rob Finn (EBI, UK);
+- Bruno Fosso & Monica Santamaria (IBBE-CNR, IT )
+- Gabriel Valiente (Technical University of Catalonia, SP)
+- Matteo Chiara (University of Milan, IT)
 
 
 <table border="1">
@@ -326,7 +368,12 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
    <td colspan="4"><h3>Friday 23rd June 2017</h3></td>
 </tr>
 <tr>
-   <td>09.00-13.00</td>
+   <td>09.00-11.00</td>
+   <td>Duccio Cavalieri (University of Florence, Italy)</td>
+   <td>Pathway and functional enrichment analysis in metagenomics data using Picrust and Stamp</td>
+</tr>
+<tr>
+   <td>11.00-13.00</td>
    <td>Matteo Chiara (University of Milan)</td>
    <td>Hands-on: Automatic functional annotation of metabarcoding and shotgun metagenomic data by using Galaxy (A-Game, ..)</td>
 </tr>
