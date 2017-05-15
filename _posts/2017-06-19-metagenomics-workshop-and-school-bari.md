@@ -315,7 +315,6 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 - Bruno Fosso & Monica Santamaria (IBBE-CNR, IT )
 - Gabriel Valiente (Technical University of Catalonia, SP)
 
-
 <table border="1">
 <tr>
    <td colspan="4"><h3>Programme</h3></td>
