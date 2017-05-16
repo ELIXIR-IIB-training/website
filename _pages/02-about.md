@@ -12,4 +12,4 @@ Courses, which are free, are limited to 20/24 participants to allow high interac
 
 We collaborate with other ELIXIR nodes in activities such as Train the Trainer, eLearning, EXCELERATE use cases' training support and we have a pilot to provide training support to extra-European countries.
 
-If you want to be involved in our initiatives, collaborate with us or need more information about our training activities, you can contact someone from the [ELIXIR-ITA Training Coordinator Team](http://0.0.0.0:3000/website/contact/). 
+If you want to be involved in our initiatives, collaborate with us or need more information about our training activities, you can contact someone from the [ELIXIR-IIB Training Coordinator Team](http://0.0.0.0:3000/website/contact/). 
