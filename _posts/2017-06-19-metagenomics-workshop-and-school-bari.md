@@ -191,7 +191,7 @@ Please note that refunds will only be processed by bank transfer after the works
 <tr>   
    <td>17.30-18.00</td>
    <td>Rob Finn (EBI, UK)</td>
-   <td>TBA</td>
+   <td>EBI metagenomics: Trying to build analysis workflows for all metagenomics studies</td>
 </tr>
 
 <tr>   
@@ -335,7 +335,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 <tr>
    <td>12.00-13.30</td>
    <td>Rob Finn (EBI, UK)</td>
-   <td>TBA</td>
+   <td>Hands-on: Mining the data contained within the EBI metagenomics portal</td>
 </tr>
 <tr>
    <td>13.30-15.00</td>
@@ -344,7 +344,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 <tr>   
    <td>15.00-17.00</td>
    <td>Rob Finn (EBI, UK)</td>
-   <td>TBA (continued)</td>
+   <td>Hands-on: Mining the data contained within the EBI metagenomics portal</td>
    </tr>
 <tr>   
    <td>17.00-19.00</td>
@@ -374,7 +374,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 <tr>
    <td>09.00-11.00</td>
    <td>Duccio Cavalieri (University of Florence, Italy)</td>
-   <td>Pathway and functional enrichment analysis in metagenomics data using Picrust and Stamp</td>
+   <td>Hands-on: Pathway and functional enrichment analysis in metagenomics data using Picrust and Stamp</td>
 </tr>
 <tr>
    <td>11.00-13.00</td>
