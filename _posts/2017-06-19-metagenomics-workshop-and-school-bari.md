@@ -43,8 +43,9 @@ Full details and the pre-registration form are provided below
 
 - **Workshop**: 
   - early registration: **19th May, 2017**
-  - late registration for abstract's submission: **31st May, 2017**
   - late registration: **9th June, 2017**
+  - late registration for oral abstract's submission: **31st May, 2017**
+  - late registration for poster abstract's submission: **9th June, 2017**
 - **Summer School**
   - early registration: **19th May, 2017**
   - late registration: **9th June, 2017**
@@ -197,7 +198,7 @@ Please note that refunds will only be processed by bank transfer after the works
 <tr>   
    <td>18.00-18.30</td>
    <td>Gabriel Valiente (Technical University of Catalonia, Spain)</td>
-   <td>Software and pipelines for taxonomic assignment in metagenomics</td>
+   <td><a href="https://elixir-iib-training.github.io/website/docs/Valiente_software_and_pipelines_abstract_bari_2017.pdf">Software and pipelines for taxonomic assignment in metagenomics</a></td>
 </tr>
 <tr>   
    <td>18.30-19.30</td>
@@ -366,7 +367,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 <tr>   
    <td>15.00-19.00</td>
    <td>Gabriel Valiente (Technical University of Catalonia)</td>
-   <td>Hands-on: Statistical tools for the comparative analysis of metagenomic datasets</td>
+   <td><a href="https://elixir-iib-training.github.io/website/docs/Valiente_statistical_tools_description_bari_2017.pdf">Hands-on: Statistical tools for the comparative analysis of metagenomic datasets</a></td>
 </tr>
 <tr>
    <td colspan="4"><h3>Friday 23rd June 2017</h3></td>
