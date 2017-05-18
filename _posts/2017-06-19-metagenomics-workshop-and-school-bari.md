@@ -116,20 +116,21 @@ Please note that refunds will only be processed by bank transfer after the works
 
 ### Organising and Scientific commmitee
 - Duccio Cavalieri (University of Florence, IT)
-- Matteo Chiara (University of Milan,IT)
+- Matteo Chiara (University of Milan, IT)
 - Guy Cochrane (EBI, UK)
-- Carlotta De Filippo (IBIMET-CNR,IT)
+- Carlotta De Filippo (IBIMET-CNR, IT)
 - Rob Finn (EBI, UK)
 - Bruno Fosso (IBBE-CNR, IT)
-- Nills Peder Willassen (The Arctic University of Norway, NO)
+- Omry Koren (Bar-Ilan University, Israel)
 - Graziano Pesole (CNR-IBBE and University of Bari,IT)
 - Ernesto Picardi (University of Bari, IT)
 - Marc Rosello (EBI, UK)
 - Guy Cochrane (EBI, UK)
 - Maurizio Sanguinetti (Catholic University of Rome, IT)
-- Monica Santamaria (IBBE-CNR,IT)
-- Nicola Segata (University of Trento,IT)
+- Monica Santamaria (IBBE-CNR, IT)
+- Nicola Segata (University of Trento, IT)
 - Gabriel Valiente (Technical University of Catalonia, SP)
+- Nills Peder Willassen (The Arctic University of Norway, NO)
 
 <br>
 
