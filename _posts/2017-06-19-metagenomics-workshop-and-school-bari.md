@@ -125,7 +125,6 @@ Please note that refunds will only be processed by bank transfer after the works
 - Graziano Pesole (CNR-IBBE and University of Bari,IT)
 - Ernesto Picardi (University of Bari, IT)
 - Marc Rosello (EBI, UK)
-- Guy Cochrane (EBI, UK)
 - Maurizio Sanguinetti (Catholic University of Rome, IT)
 - Monica Santamaria (IBBE-CNR, IT)
 - Nicola Segata (University of Trento, IT)
