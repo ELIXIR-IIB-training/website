@@ -390,7 +390,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 
 <br>
 
-<h3>ELIXIR-ITA member institutions</h3>
+<h3>ELIXIR-IIB member institutions</h3>
 
 <ul>
    <li> CNR (ELIXIR-ITA coordinator)</li>
