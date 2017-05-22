@@ -393,7 +393,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 <h3>ELIXIR-IIB member institutions</h3>
 
 <ul>
-   <li> CNR (ELIXIR-ITA coordinator)</li>
+   <li> CNR (ELIXIR-IIB coordinator)</li>
    <li> CRS4</li>
    <li> CINECA</li>
    <li> Fondazione Edmund Mach, Trento</li>
