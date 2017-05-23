@@ -47,8 +47,8 @@ Full details and the pre-registration form are provided below
   - late registration for oral abstract's submission: **31st May, 2017**
   - late registration for poster abstract's submission: **9th June, 2017**
 - **Summer School**
-  - early registration: **19th May, 2017**
-  - late registration: **9th June, 2017**
+  - registration: <font color="red"><b>CLOSED</b> --- Summer School class is <b>FULL</b></font>
+ 
  
 **If you want to secure a room at the Una Hotel Regina, we recommend you to either make a hotel reservation or register to the School by May the 5th.**
 
