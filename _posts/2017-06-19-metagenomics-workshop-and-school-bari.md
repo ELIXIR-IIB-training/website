@@ -71,8 +71,8 @@ Full details and the pre-registration form are provided below
 </tr>
 <tr>
    <td></td><td>workshop</td><td>school</td><td>workshop +<br>school</td>
-   <td>workshop</td><td>training</td><td>workshop +<br>school</td> 
-   <td>workshop</td><td>training</td><td>workshop +<br>school</td>
+   <td>workshop</td><td>school</td><td>workshop +<br>school</td> 
+   <td>workshop</td><td>school</td><td>workshop +<br>school</td>
 </tr>
 <tr>
    <td>early</td><td>120</td><td>300</td><td>370</td>
@@ -90,11 +90,9 @@ Full details and the pre-registration form are provided below
 
 ### Workshop and Summer School [Registration Form](http://iscrizioni.meeting-planner.it/cmsweb/Login.asp?IDcommessa=01/17/0041&Lang=EN)
 
-The workshop registration fee includes: attendance to scientific sessions, a printed copy of the book of abstracts, coffee-breaks and lunches. 
+The workshop registration fee includes: attendance to scientific sessions, a printed copy of the book of abstracts, coffee-breaks and lunches. A **Social dinner is planned on June 19th** (20.00 - 22.00) and the fee is 30€ for participants (all categories and deadlines) and 45€ for any accompanying person. Accompanying people may pay on-site. 
 
-Social dinner fee is 30.00 € for participants (all categories and deadlines) and 45.00 € for the accompanying people. Accompanying people may pay on-site.
-
-The training course registration fee includes: attendance to the training, course material, coffee breaks, lunches and dinners for 3 days.
+The Summer school registration fee includes: attendance to the training, course material, coffee breaks, lunches and dinners for 3 days.
 
 
 We have a deal with the Una Hotel Regina until May the 10th: 
