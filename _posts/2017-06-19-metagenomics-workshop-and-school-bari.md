@@ -378,7 +378,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 <tr>
    <td>11.00-13.00</td>
    <td>Matteo Chiara (University of Milan)</td>
-   <td><a href="https://elixir-iib-training.github.io/website/docs/Matteo_Chiara_Hands_on_description.pdf">Hands-on: Automatic functional annotation of metabarcoding and shotgun metagenomic data by using Galaxy (A-Game, ..)</a></td>
+   <td><a href="https://elixir-iib-training.github.io/website/docs/Matteo_Chiara_Hands_on_description_bari_2017.pdf">Hands-on: Automatic functional annotation of metabarcoding and shotgun metagenomic data by using Galaxy (A-Game, ..)</a></td>
 </tr>
 <tr>
    <td>13.00-13.15</td>
