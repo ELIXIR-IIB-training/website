@@ -41,6 +41,7 @@ A maximum of **25** candidates will be accepted in the course. Selection will st
 ### Organisers
 - Gianmauro Cuccuru (CRS4)
 - Allegra Via (ELIXIR-IIB Training Coordinator, CNR, Italy)
+- Loredana Le Pera (ELIXIR-IIB Training Team)
 <br>
 
 ### Course Description
@@ -68,8 +69,7 @@ After this course participants should be able to:
 Knowledge in a scripting language (bash, python, …). Working knowledge of  the Unix/Linux command line. Attendees should have access to a personal laptop. 
 
 <br>
-### [Application Form](https://goo.gl/forms/) 
-<font color="red"><b>(it will be open from June 5th)</b></font>
+### [Application Form](https://goo.gl/forms/vUaH6b5bDTER4m9b2) 
 <br>
 
 ### Programme
