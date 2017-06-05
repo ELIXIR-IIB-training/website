@@ -40,8 +40,8 @@ A maximum of **25** candidates will be accepted in the course. Selection will st
 
 ### Organisers
 - Gianmauro Cuccuru (CRS4)
-- Allegra Via (ELIXIR-IIB Training Coordinator, CNR, Italy)
 - Loredana Le Pera (ELIXIR-IIB Training Team)
+- Allegra Via (ELIXIR-IIB Training Coordinator, CNR, Italy)
 <br>
 
 ### Course Description
