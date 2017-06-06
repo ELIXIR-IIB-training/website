@@ -372,7 +372,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 </tr>
 <tr>
    <td>09.00-11.00</td>
-   <td>Duccio Cavalieri (University of Florence, Italy)</td>
+   <td>Duccio Cavalieri & Giovanni Bacci (University of Florence, Italy)</td>
    <td>Hands-on: Pathway and functional enrichment analysis in metagenomics data using Picrust and Stamp</td>
 </tr>
 <tr>
