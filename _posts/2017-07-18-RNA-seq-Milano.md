@@ -70,7 +70,7 @@ Basic background knowledge on genetics, molecular biology and transcriptomics.
 
 <br>
 ### [Application Form](https://goo.gl/forms/) 
-<font color="red"><b>(it will be open from June 5th)</b></font>
+<font color="red"><b>(it will be open from June 6th)</b></font>
 <br>
 
 ### Programme
