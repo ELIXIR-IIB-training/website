@@ -69,8 +69,7 @@ After this course participants should be able to:
 Basic background knowledge on genetics, molecular biology and transcriptomics.
 
 <br>
-### [Application Form](https://goo.gl/forms/) 
-<font color="red"><b>(it will be open from June 6th)</b></font>
+### [Application Form](https://goo.gl/forms/L2zHQVDTap055ZMz1) 
 <br>
 
 ### Programme
