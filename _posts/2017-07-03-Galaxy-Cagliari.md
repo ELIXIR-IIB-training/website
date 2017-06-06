@@ -11,6 +11,8 @@ description: Galaxy is an open source, web-based platform for data intensive bio
 <table border="0" width="600">
   <tr>
     <td><img src="../../../img/logo_elixir_italy.jpg" height="100"></td>
+    <td><img src="../../../img/Logo_CRS4.png" height="90" width="200"></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><img src="../../../img/Logo_DIEE_Cagliari.jpg" height="80"></td>
   </tr>
 </table>
