@@ -12,8 +12,8 @@ description: The course will provide an introduction to machine learning techniq
 <table border="0" width="600">
   <tr>
     <td><img src="../../../img/logo_elixir_italy.jpg" height="100"></td>
-    <td><img src="../../../img/logo_FBK" height="100"></td>
-    <td><img src="../../../img/logo_FEM" height="100"></td>
+    <td><img src="../../../img/Logo_fbk.jpeg" height="80" width="170"></td>
+    <td><img src="../../../img/Logo_fem.png" height="80" width="150"></td>
   </tr>
 </table>
 
@@ -39,7 +39,7 @@ The milestones of the course are:
 <br>
 
 ### Target audience
-A maximum of **26** students will be accepted. Computational biologists, bioinformaticians, biological data analysts.
+A maximum of **24** students will be accepted. Computational biologists, bioinformaticians, biological data analysts.
 <br>
 
 ### Learning objectives/outcomes
@@ -62,20 +62,20 @@ The fee will cover attendance to lectures and practicals, coffee breaks, lunches
   - All the other candidates: **160 euros**
   
 <br>
-<!-- ### [Application Form](tba) -->
+### Application Form
+<!-- ### [Application Form](https://drive.google.com/drive/folders/0B7L-F50BNz0_NHJ3VThXT3A2VUE) -->
 <br>
 
 **VENUE:**
- Fondazione Edmund Mach, Palazzo della Ricerca e della Conoscenza, Via E. Mach 1, San Michele All'adige (TN), Italy, (zip code 38010).
-General Info: http://www.fmach.it/eng/CRI/general-info.
-The campus: http://www.fmach.it/eng/About-us/Campus
+ Fondazione Edmund Mach, Palazzo della Ricerca e della Conoscenza, Via E. Mach 1, San Michele all'Adige (TN), Italy, (zip code 38010).<br> General Info: [http://www.fmach.it/eng/CRI/general-info](http://www.fmach.it/eng/CRI/general-info)<br>
+The campus: [http://www.fmach.it/eng/About-us/Campus](http://www.fmach.it/eng/About-us/Campus)
 
 To get in:
-   - By train: Trenitalia (national railways) stops at Trento or Mezzocorona and then [local train] (http://www.ttesercizio.it/Treno/) to San Michele all'Adige
-   - By car: The venue is 5' drive from the highway A22 (autostrada del Brennero), exit of "San Michele All'Adige/Mezzocorona".
+   - By train: Trenitalia (national railways) stops at Trento or Mezzocorona and then [local train](http://www.ttesercizio.it/Treno/) to San Michele all'Adige
+   - By car: The venue is 5' drive from the highway A22 (autostrada del Brennero), exit of "San Michele all'Adige/Mezzocorona".
    - By fly: From Verona airport please use the [shuttle bus](http://www.aeroportoverona.it/en/aerobus_t2) to Verona train station and then the train towards Trento.
 
-*SUGGESTED ACCOMMODATIONS:*
+SUGGESTED ACCOMMODATIONS:
 A limited number of rooms will be availables at the venue (costs 20 EUR/night). Please contact the local organizer (alessandro.cestaro@fmach.it).
 
 <!-- info_alberghi_san_michele_trento.docx -->
@@ -87,14 +87,14 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
 - [**Davide Albanese**](../../../instructors/davide_albanese.html) - Fondazione E. Mach, Trento, IT
 - **Pietro Franceschi** - Fondazione E. Mach, Trento, IT
 - [**Marco Moretto**](../../../instructors/marco_moretto.html) - Fondazione E. Mach, Trento, IT
-- **Paolo Sonego** - Fondazione E. Mach, Trento, IT
+- [**Paolo Sonego**](../../../instructors/paolo_sonego.html) - Fondazione E. Mach, Trento, IT
 - **Samantha Riccadonna** - Fondazione E. Mach, Trento, IT
 - **Andrea Cattani**  - Fondazione E. Mach, Trento, IT
 <br>
 
 ### Organisers
 - Alessandro Cestaro (Local Organizer, Fondazione E. Mach, Trento, IT )
-- Vincenza Colonna (ELIXIR-IIB Training Coordinator Deputy, CNR, Italy)
+- Vincenza Colonna (ELIXIR-IIB Training Coordinator Deputy, CNR, IT)
 <br>
 
 ### Programme
@@ -104,15 +104,15 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
    <td colspan="4"><h3>Monday 04 September 2017 - Introduction </h3></td>
 </tr>
 <tr>
-   <td>14:00 -15:30</td>
+   <td>14:00-15:30</td>
    <td>Course opening</td>
    <td colspan="2">Participants’ self-presentations</td>
 </tr>
 <tr>
    <td>15:30-16:15</td>
    <td>Plenary lecture </td>
-   <td>P. Franceschi, S. Riccadonna</td>
-   <td><a href="linktolecturematerial ">Introduction to "omics" data. Principles of data exploration and  analysis </a> </td>
+   <td >P. Franceschi, S. Riccadonna</td>
+   <td>Introduction to "omics" data. Principles of data exploration and  analysis</td>
 </tr>
 <tr>
    <td>16:15-16:45</td>
@@ -121,7 +121,7 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
 <tr>
    <td>16.45-19:00</td>
    <td>Practical</td>
-   <td>Name TBA</td>
+   <td>P. Franceschi, S. Riccadonna</td>
    <td>Introduction to "omics" data. Principles of data exploration and  analysis </td>
 </tr>
 <tr>
@@ -137,10 +137,10 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
    <td colspan="4"><h3>Tuesday  05 September 2017 - Machine Learning </h3></td>
 </tr>
 <tr>
-  <td>9:40-10:30</td>
+  <td>09:40-10:30</td>
   <td>Lecture</td>
-  <td>D. Albanese, P. Franceschi, S. Riccadonna </td>
-  <td><a href="linktolecturematerial ">Univariate and Multivariate analysis. </a></td>
+  <td>D. Albanese, P. Franceschi, S. Riccadonna</td>
+  <td>Univariate and Multivariate analysis</td>
 </tr>
 <tr>
    <td>10:30-11:00</td>
@@ -148,8 +148,9 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
 </tr>
 <tr>
    <td>11:00-13:00</td>
-   <td>Practicals</td>
-   <td><a href="linktopracticalmaterial ">Univariate and Multivariate analysis. Practical session with R</a></td>
+   <td>Practical</td>
+   <td>D. Albanese, P. Franceschi, S. Riccadonna</td>
+   <td>Univariate and Multivariate analysis. Practical session with R</td>
 </tr>
 <tr>
    <td>13:00-14:30</td>
@@ -159,7 +160,7 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
    <td>14:30-16:15</td>
    <td>Lecture</td>
    <td>D. Albanese, P. Franceschi, S. Ricadonna</td>
-   <td><a href="linktolecturematerial ">Machine Learning: introduction and applications to biological data. Classification basics, model selection and prediction.</a></td>
+   <td>Machine Learning: introduction and applications to biological data. Classification basics, model selection and prediction</td>
 </tr>
 <tr>
 <td>16:15-16:45</td>
@@ -168,7 +169,8 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
 </tr>
    <td>16:45-18:30</td>
    <td>Practical</td>
-   <td><a href="linktopracticalmaterial ">Performance measures and diagnostic plots.</a></td>
+   <td>D. Albanese, P. Franceschi, S. Riccadonna</td>
+   <td>Performance measures and diagnostic plots</td>
 </tr>
 
 <tr>
@@ -180,10 +182,10 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
    <td colspan="2">Recap of previous lessons by participants</td>
 </tr>
 <tr>
-  <td>9:40-10:30</td>
+  <td>09:40-10:30</td>
   <td>Lecture</td>
   <td>P. Sonego, S. Riccadonna </td>
-  <td><a href="linktolecturematerial ">Analyzing Gene Expression Data</a></td>
+  <td>Analyzing Gene Expression Data</td>
 </tr>
 <tr>
    <td>10:30-11:00</td>
@@ -191,8 +193,9 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
 </tr>
 <tr>
    <td>11:00-13:00</td>
-   <td>Practicals</td>
-   <td><a href="linktopracticalmaterial ">Analyzing Gene Expression Data</a></td>
+   <td>Practical</td>
+   <td>P. Sonego, S. Riccadonna </td>
+   <td>Analyzing Gene Expression Data</td>
 </tr>
 <tr>
    <td>13:00-14:30</td>
@@ -202,7 +205,7 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
    <td>14:30-16:15</td>
    <td> Lecture </td>
    <td>M. Chierici, G. Jurman </td>
-   <td><a href="linktolecturematerial ">The Data Analysis Plan (DAP) - intro to unbiased pipelines for (binary) classification.</a></td>
+   <td>The Data Analysis Plan (DAP) - intro to unbiased pipelines for (binary) classification</td>
 </tr>
 <tr>
 <td>16:15-16:45</td>
@@ -211,7 +214,8 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
 </tr>
    <td>16:45-18:30</td>
    <td>Practical</td>
-   <td><a href="linktopracticalmaterial ">Implementation of a basic DAP in Python (Scikit-Learn) with feature ranking and classification.</a></td>
+   <td>M. Chierici, G. Jurman</td>
+   <td>Implementation of a basic DAP in Python (Scikit-Learn) with feature ranking and classification</td>
 </tr>
 <tr>
 <td colspan="4"><h3>Thursday 07 September 2017</h3></td>
@@ -222,10 +226,10 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
    <td colspan="2">Recap of previous lessons by participants</td>
 </tr>
 <tr>
-   <td>9.25-10:00</td>
+   <td>9:25-10:00</td>
    <td>Lecture</td>
    <td>M. Moretto, A. Cestaro</td>
-   <td><a href="linktolecturematerial ">Gene prediction methods as an example of ML on genomic data. </a></td>
+   <td>Gene prediction methods as an example of ML on genomic data</td>
 </tr>
 <tr>
 <td>10:00-10:30</td>
@@ -234,7 +238,8 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
 <tr>
 <td>10:30-12:30</td>
 <td>Practical</td>
- <td><a href="linktopracticalmaterial ">Training a gene prediciton method </a></td>
+<td>M. Moretto, A. Cestaro</td>
+ <td>Training a gene prediciton method</td>
 </tr>
 <tr>
 <td>12:30-13:00</td>
