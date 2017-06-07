@@ -39,7 +39,7 @@ A maximum of 30 candidates will be accepted in the course. Selection will start 
 - [**Alexandre Bonvin**](../../../instructors/alexandre_bonvin.html) - Faculty of Science, Utrecht University, the Netherlands
 - [**Norman Davey**](../../../instructors/norman_davey.html) (University College Dublin, Dublin, Ireland)
 - [**Stefano Forli**](../../../instructors/stefano_forli.html) (Dept. Molecular Biology, The Scripps Research Institute, La Jolla, USA)
-- [**Stefano Moro**](../../../instructors/stefano_moro.html) (Dept. of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy)
+- [**Stefano Moro**](http://mms.dsfarm.unipd.it/smoro.html) (Dept. of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy)
 
 ### Organisers
 - Marco Carraro (University of Padova, Italy)
@@ -79,7 +79,8 @@ They will also learn:
 - when is better to be aware of docking results
 
 ### Course prerequisites
-- Basic knowledge of protein structure- Basic Linux command knowledge
+- Basic knowledge of protein structure
+- Basic Linux command knowledge
 
 ### [Application Form](https://goo.gl/forms/jWSsU0Uv9FS6Ykqs1)
 
@@ -114,7 +115,8 @@ They will also learn:
    <td>16.15-18:30</td>
    <td>Practical</td>
    <td>Norman Davey</td>
-   <td>Tools and resources for the analysis of the regulatory mechanisms controlling the function of a protein and the regulatory program encoded by the full complement of functional modules. </td>
+   <td>Tools and resources for the analysis of the regulatory mechanisms controlling the function of a protein and the regulatory program encoded by the full complement of functional modules.
+ </td>
 </tr>
 <tr>
    <td>19:30-21:00</td>
