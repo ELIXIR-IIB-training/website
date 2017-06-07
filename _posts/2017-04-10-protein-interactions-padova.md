@@ -3,7 +3,7 @@ layout: post
 title:  Workshop on "Computational approaches to the study of protein interactions and rational drug design"
 date_start:   2017-04-10
 date_end:   2017-04-13
-venue: Padova
+venue: Padova, Italy
 description: This workshop is aimed at students in master degree courses, PhD students and post-doctoral researchers who are working or planning to work in the field of protein interactions from a molecular and structural point of view. In this workshop, participants will familiarise with docking approaches to the study of protein-protein interactions (PPIs) and protein-small molecule interactions. Irreversible binders design using molecular docking and computational methods to rational drug design will be also described, as well as the functional role of the intrinsically disordered proteins.
 
 ---
