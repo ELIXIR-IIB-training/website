@@ -84,9 +84,9 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
 ### Instructors and helpers
 - [**Giuseppe Jurman**](http://mpba.fbk.eu/people/profile/jurman) - Fondazione Bruno Kessler, Trento, IT
 - [**Marco Chierici**](http://mpba.fbk.eu/people/profile/chierici) - Fondazione Bruno Kessler, Trento, IT
-- **Davide Albanese** - Fondazione E. Mach, Trento, IT
+- [**Davide Albanese**](../../../instructors/davide_albanese.html) - Fondazione E. Mach, Trento, IT
 - **Pietro Franceschi** - Fondazione E. Mach, Trento, IT
-- [**Marco Moretto**](https://www.researchgate.net/profile/Marco_Moretto) - Fondazione E. Mach, Trento, IT
+- [**Marco Moretto**](../../../instructors/marco_moretto.html) - Fondazione E. Mach, Trento, IT
 - **Paolo Sonego** - Fondazione E. Mach, Trento, IT
 - **Samantha Riccadonna** - Fondazione E. Mach, Trento, IT
 - **Andrea Cattani**  - Fondazione E. Mach, Trento, IT
