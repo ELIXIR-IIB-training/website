@@ -3,7 +3,7 @@ layout: post
 title:  "Training Course on Galaxy for Bioinformatics tool developers"
 date_start:   2017-07-03
 date_end:   2017-07-05
-venue: Cagliari
+venue: Cagliari, Italy
 description: Galaxy is an open source, web-based platform for data intensive biomedical analysis. The aim of this course is to make participants familiarize with the Galaxy platform and prepare them to work independently, using best practices guidelines for building, maintaining and installing Galaxy tools. The course will be delivered using a mixture of lectures and computer based hands-on practical sessions. Lectures will provide an up-to-date overview of the practices for the most successful Galaxy tool development. During this 2 days course participants will learn a modern approach to create, configure and install their own tools into a Galaxy server.
 
 ---
