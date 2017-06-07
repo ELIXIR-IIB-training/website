@@ -3,7 +3,7 @@ layout: post
 title:  "Training Course on RNA-Seq data analysis"
 date_start:   2017-07-18
 date_end:   2017-07-20
-venue: Milano
+venue: Milano, Italy
 description: The course will provide students with theoretical and practical knowledge on how to perform bioinformatic analyses of RNA-Seq data, mainly aimed at the identification of genes differentially expressed across different conditions. 
 
 ---
