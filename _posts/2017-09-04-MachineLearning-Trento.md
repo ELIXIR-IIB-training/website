@@ -4,7 +4,7 @@ title:  "Training course on Machine Learning for Biologists"
 date_start:   2017-09-04
 date_end:   2017-09-07
 venue: San Michele all'Adige (TN), Italy
-description: The course will provide an introduction to machine learning techniques applied to analysis of “omics” data. Practical examples and applications will be provide by means the use of R and Python. We will define a gene prediction problem and use basic Python code on a toy example to explain how gene prediction applications work, than we will describe of a more sophisticated program (that implements the same basic concepts). We will include application to a real case with discussion.
+description: The aim of the course is to provide a practical introduction to the analysis of "omics" data. Topics will range from data visualization/exploration to univariate/multivariate analysis and machine learning. Practical exemples and applications will be illustrated by using R and Python.
 
 
 ---
@@ -27,15 +27,19 @@ description: The course will provide an introduction to machine learning techniq
   <br>
   
 ### Course Description
-The course will provide an introduction to machine learning techniques applied to analysis of “omics” data. Practical examples and applications will be provide by means the use of R and Python.
+The aim of the course is to provide a practical introduction to the analysis of "omics" data.
+Topics will range from data visualization/exploration to univariate/multivariate analysis and machine learning. 
+Practical exemples and applications will be illustrated by using R and Python.
 
-We will define a gene prediction problem and use basic Python code on a toy example to explain how gene prediction applications work, than we will describe of a more sophisticated program (that implements the same basic concepts). We will include application to a real case with discussion.
-
-The milestones of the course are:
-
-- The Data Analysis Plan (DAP) - intro to unbiased pipelines for (binary) classification: theory and implementation of a basic DAP in Python (Scikit-Learn) with feature ranking and classification
+Course Milestones:
+- Data exploration and visualization
+- Univariate/Multivariate analysis
+- Introduction to machine learning: classifiers, performance measures, diagnostics
+- Machine learning tools for the analysis of Gene Expression data
+- The Data Analysis Plan (DAP) - intro to unbiased pipelines for (binary) classification
 - Performance measures and diagnostic plots - Accuracy, MCC, Stability: theory and graphics
-- Differential network analysis -- co-expression networks, graph comparison, community detection: theory and examples in R/Python, visualization by the igraph library and use of the ReNette web interface.
+- Differential network analysis -- co-expression networks, graph comparison, community detection: theory and examples in R/Python, visualization by the igraph library and use of the ReNette web interface
+- Basic application of ML to gene prediction
 <br>
 
 ### Target audience
@@ -43,14 +47,13 @@ A maximum of **24** students will be accepted. Computational biologists, bioinfo
 <br>
 
 ### Learning objectives/outcomes
-Acquisition of a working knowledge about running a full classification/profiling pipeline on omics data (e.g., gene expression). 
-  Participants will gain an understanding of:
-<ul><li>theoretical principles of Machine Learning (ML)</li>
-<li>main applications of ML in Biology</li>
-<li>how to cope with a classification problem</li>
-</ul>Participants will learn how gene prediction programs work and how to use them.
+Acquisition of a working knowledge about running a full classification/profiling pipeline on omics data (e.g., gene expression). After this course participants should be able to:
+<ul><li>Develop and implement visualization/exploration tools</li>
+<li>Understand advantages and limitations of univariate and multivariate data analysis strategies in the context of omics research</li>
+<li>Understand principles and applications of ML</li>
+<li>Implement reproducible workflows in data analysis</li>
+</ul>
 <br>
-
 ### Course prerequisites
   basics of R, Python, \*nix (Unix or Linux) shell, basic statistical knowledge, basic knowledge of linear algebra
 <br>
