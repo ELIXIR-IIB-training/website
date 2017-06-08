@@ -43,6 +43,7 @@ A maximum of **30** candidates will be accepted in the course. Selection will st
 - Giulio Pavesi (Dept. of Biosciences, University of Milano)
 - Federico Zambelli (Dept. of Biosciences, University of Milano and ELIXIR-IIB Technical Coordinator)
 - Matteo Chiara (Dept. of Biosciences, University of Milano)
+- Loredana Le Pera (ELIXIR-IIB Training Team)
 - Allegra Via (ELIXIR-IIB Training Coordinator, CNR, Italy)
 <br>
 
