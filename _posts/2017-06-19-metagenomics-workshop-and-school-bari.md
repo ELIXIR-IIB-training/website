@@ -324,7 +324,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
    <td colspan="4"><h3>Summer School in Advanced Computational Metagenomics</h3></td>
 </tr>
 <tr>
-   <td colspan="4"><h3>Wednesday 21th June 2017</h3></td>
+   <td colspan="4"><h3>Wednesday 21st June 2017</h3></td>
 </tr>
 <tr>
    <td>09.00-12.00</td>
@@ -340,12 +340,12 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
    <td>13.30-15.00</td>
    <td colspan="2">Lunch break</td>
 </tr>
-<tr>   
+<tr>
    <td>15.00-17.00</td>
    <td>Rob Finn (EBI, UK)</td>
    <td>Hands-on: Mining the data contained within the EBI metagenomics portal</td>
    </tr>
-<tr>   
+<tr>
    <td>17.00-19.00</td>
    <td>Bruno Fosso & Monica Santamaria (IBBE-CNR)</td>
    <td>Hands-on: Bioinformatic analysis of metagenomic Amplicons (BioMaS, QIIME, ...) and shotgun  (MetaShot, Kraken,..) data</td>
@@ -362,7 +362,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
    <td>13.00-15.00</td>
    <td colspan="2">Lunch break</td>
 </tr>
-<tr>   
+<tr>
    <td>15.00-19.00</td>
    <td>Gabriel Valiente (Technical University of Catalonia)</td>
    <td><a href="https://elixir-iib-training.github.io/website/docs/Valiente_statistical_tools_description_bari_2017.pdf">Hands-on: Statistical tools for the comparative analysis of metagenomic datasets</a></td>
