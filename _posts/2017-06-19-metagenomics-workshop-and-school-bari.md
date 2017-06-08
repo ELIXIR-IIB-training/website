@@ -308,11 +308,12 @@ After this course you should be able to:
 No prior knowledge of metagenomic sequences analysis or specific programming skills are required. Conversely, a basic knowledge of BASH, Unix terminal usage and R are desirable.
 
 ### School's Instructors
-- Marc Rosello & Guy Cochrane (EBI, UK); 
-- Rob Finn (EBI, UK);
-- Bruno Fosso & Monica Santamaria (IBBE-CNR, IT )
+- Marc Rosello & Guy Cochrane (EBI, UK) 
+- Rob Finn (EBI, UK)
+- Bruno Fosso & Monica Santamaria (IBBE-CNR, IT)
 - Gabriel Valiente (Technical University of Catalonia, SP)
 - Duccio Cavalieri (University of Florence, IT)
+- Giovanni Bacci (University of Florence, IT)
 - Matteo Chiara (University of Milan, IT)
 
 
