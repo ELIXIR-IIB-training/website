@@ -312,8 +312,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 - Rob Finn (EBI, UK)
 - Bruno Fosso & Monica Santamaria (IBBE-CNR, IT)
 - Gabriel Valiente (Technical University of Catalonia, SP)
-- Duccio Cavalieri (University of Florence, IT)
-- Giovanni Bacci (University of Florence, IT)
+- Duccio Cavalieri & Giovanni Bacci (University of Florence, IT)
 - Matteo Chiara (University of Milan, IT)
 
 
