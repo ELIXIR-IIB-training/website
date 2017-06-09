@@ -53,11 +53,11 @@ Acquisition of a working knowledge about running a full classification/profiling
 <li>Understand principles and applications of ML</li>
 <li>Implement reproducible workflows in data analysis</li>
 </ul>
-<br>
+
 ### Course prerequisites
   basics of R, Python, \*nix (Unix or Linux) shell, basic statistical knowledge, basic knowledge of linear algebra
 <br>
-
+<br>
 **FEE:**
 The fee will cover attendance to lectures and practicals, coffee breaks, lunches, the welcome aperitivo on Monday September 4th. The participants are expected to pay their own travel and accommodation costs.
 
@@ -79,9 +79,8 @@ To get in:
    - By fly: From Verona airport please use the [shuttle bus](http://www.aeroportoverona.it/en/aerobus_t2) to Verona train station and then the train towards Trento.
 
 SUGGESTED ACCOMMODATIONS:
-A limited number of rooms will be availables at the venue (costs 20 EUR/night). Please contact the local organizer (alessandro.cestaro@fmach.it).
-
-<!-- info_alberghi_san_michele_trento.docx -->
+A limited number of rooms will be available at the venue (costs 20 EUR/night). Please contact the local organizer (<alessandro.cestaro@fmach.it>). 
+Here is some information about [hotels](../../../docs/Info_alberghi_san_michele_trento.pdf) at San Michele all'Adige.
 
    
 ### Instructors and helpers
