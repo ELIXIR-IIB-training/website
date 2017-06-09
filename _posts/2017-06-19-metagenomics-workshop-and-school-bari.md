@@ -166,12 +166,12 @@ Please note that refunds will only be processed by bank transfer after the works
    <td>14.00-15.30</td>
    <td colspan="2">Light lunch and Registration</td>
 </tr>
-<tr>   
+<tr> 
    <td>15.30-16.00</td>
    <td colspan="2">Opening and Welcome</td>
 </tr>
 <tr> 
-   <td>16.00-16.30</td>  
+   <td>16.00-16.30</td>
    <td>Graziano Pesole (IBBE-CNR and University of Bari, Italy)</td>
    <td>Metagenomics: challenges, pitfalls and perspectives</td>
 </tr>
@@ -182,12 +182,12 @@ Please note that refunds will only be processed by bank transfer after the works
 <tr>
    <td colspan="4"><b><i>Metagenomics: Tools, Infrastructures and standards</i></b></td>
 </tr>
-<tr>   
+<tr> 
    <td>17.00-17.30</td>
    <td>Guy Cochrane (EBI, UK) </td>
-   <td>Metagenomics: dealing with the data</td>
+   <td><a href="../../../docs/Guy_Cochrane_Abstract_bari_2017.pdf">Sequencing communities at scale: dealing with the data</a></td>
 </tr>
-<tr>   
+<tr> 
    <td>17.30-18.00</td>
    <td>Rob Finn (EBI, UK)</td>
    <td>EBI metagenomics: Trying to build analysis workflows for all metagenomics studies</td>
