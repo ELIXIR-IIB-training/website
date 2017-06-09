@@ -111,6 +111,7 @@ Please note that refunds will only be processed by bank transfer after the works
 ### ELIXIR-IIB Organisers
 - Domenica D'Elia (ELIXIR-IIB Training Coordinator Deputy, CNR-ITB, Italy)
 - Allegra Via (ELIXIR-IIB Training Coordinator, CNR-IBPM, Italy)
+- Loredana Le Pera (ELIXIR-IIB Training Team, Italy)
 
 ### Organising and Scientific commmitee
 - Duccio Cavalieri (University of Florence, IT)
@@ -193,12 +194,12 @@ Please note that refunds will only be processed by bank transfer after the works
    <td>EBI metagenomics: Trying to build analysis workflows for all metagenomics studies</td>
 </tr>
 
-<tr>   
+<tr>
    <td>18.00-18.30</td>
    <td>Gabriel Valiente (Technical University of Catalonia, Spain)</td>
    <td><a href="https://elixir-iib-training.github.io/website/docs/Valiente_software_and_pipelines_abstract_bari_2017.pdf">Software and pipelines for taxonomic assignment in metagenomics</a></td>
 </tr>
-<tr>   
+<tr>
    <td>18.30-19.30</td>
    <td colspan="3">Poster session</td>
 </tr>
@@ -212,29 +213,29 @@ Please note that refunds will only be processed by bank transfer after the works
 <tr>
    <td colspan="4"><b><i>Metagenomics: Tools, Infrastructures and standards</i></b></td>
 </tr>
-<tr>   
+<tr>
    <td>09.00-09.30</td>
    <td>Nills Peder Willassen (The Arctic University of Norway, Norway)</td>
    <td>Marine Metagenomics</td>
 </tr>
-<tr>   
+<tr>
    <td>09.30-10.00</td>
    <td>Nicola Segata (University of Trento, Italy)</td>
    <td>Large-scale strain-level population genomics from metagenomics</td>
 </tr>
-<tr>   
+<tr>
    <td>10.00-11.30</td>
    <td colspan="3">Coffee break & Poster session</td>
 </tr>
 <tr>
    <td colspan="4"><b><i>Metagenomics: Host-microbe interaction and clinical applications</i></b></td>
 </tr>
-<tr>   
+<tr>
    <td>11.30-12.00</td>
    <td>Carlotta De Filippo (IBIMET-CNR, Italy)</td>
    <td>Transitional Metagenomes: the role of globalization in shaping the human gut microbiota</td>
 </tr>
-<tr>   
+<tr>
    <td>12.00-13.00</td>
    <td colspan="3">Four short-talks selected from the submitted abstracts</td>
 </tr>
@@ -242,36 +243,36 @@ Please note that refunds will only be processed by bank transfer after the works
    <td>13.00-14.30</td>
    <td colspan="3">Lunch and poster session</td>
 </tr>
-<tr>   
+<tr>
    <td>14.30-15.00</td>
    <td>Duccio Cavalieri (University of Florence, Italy)</td>
    <td>Role of the mycobiome in health and disease</td>
 </tr>
-<tr>   
+<tr>
    <td>15.00-15.30</td>
    <td>Omry Koren (Bar-Ilan University, Israel)</td>
    <td>The Birth of a Microbiome</td>
 </tr>
-<tr>   
+<tr>
    <td>15.30-16.30</td>
    <td colspan="3">Four short-talks selected from the submitted abstracts</td>
 </tr>
-<tr>   
+<tr>
    <td>16.30-17.00</td>
    <td>Maurizio Sanguinetti (Cattolica University, Rome, Italy)</td>
    <td>Fecal microbiota transplantation: the microbiologist’s point of view</td>
 </tr>
-<tr>   
+<tr>
    <td>17.00-17.20</td>
    <td><b>Illumina invited talk:</b> Lorenza Putignani (Ospedale Bambino Gesù, Rome, Italy)
 </td>
    <td>Clinical microbiology and microbiota: what next?</td>
 </tr>
-<tr>   
+<tr>
    <td>17.20-19.00</td>
    <td colspan="3">Poster session</td>
 </tr>
-<tr>   
+<tr>
    <td>19.00–19.30</td>
    <td colspan="3">Transfer to Una Hotel Regina</td>
 </tr>
