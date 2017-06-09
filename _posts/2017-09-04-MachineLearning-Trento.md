@@ -80,7 +80,7 @@ To get in:
 
 SUGGESTED ACCOMMODATIONS:
 A limited number of rooms will be available at the venue (costs 20 EUR/night). Please contact the local organizer (<alessandro.cestaro@fmach.it>). 
-Here is some information about [hotels](../../../docs/Info_alberghi_san_michele_trento.pdf) at San Michele all'Adige.
+Here is some information about [hotels](../../../docs/Info_alberghi_san_michele_trento.pdf) close to San Michele all'Adige.
 
    
 ### Instructors and helpers
