@@ -165,7 +165,7 @@ Please note that refunds will only be processed by bank transfer after the works
 </tr>
 <tr>
    <td>14.00-15.30</td>
-   <td colspan="2">Light lunch and Registration</td>
+   <td colspan="2">Light Lunch & Registration</td>
 </tr>
 <tr> 
    <td>15.30-16.00</td>
