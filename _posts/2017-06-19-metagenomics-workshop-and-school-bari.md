@@ -119,13 +119,13 @@ Please note that refunds will only be processed by bank transfer after the works
 - Guy Cochrane (EBI, UK)
 - Carlotta De Filippo (IBIMET-CNR, IT)
 - Rob Finn (EBI, UK)
-- Bruno Fosso (IBBE-CNR, IT)
+- Bruno Fosso (IBIOM-CNR, IT)
 - Omry Koren (Bar-Ilan University, Israel)
-- Graziano Pesole (CNR-IBBE and University of Bari,IT)
+- Graziano Pesole (IBIOM-CNR and University of Bari,IT)
 - Ernesto Picardi (University of Bari, IT)
 - Marc Rosello (EBI, UK)
 - Maurizio Sanguinetti (Catholic University of Rome, IT)
-- Monica Santamaria (IBBE-CNR, IT)
+- Monica Santamaria (IBIOM-CNR, IT)
 - Nicola Segata (University of Trento, IT)
 - Gabriel Valiente (Technical University of Catalonia, SP)
 - Nills Peder Willassen (The Arctic University of Norway, NO)
@@ -137,7 +137,7 @@ Please note that refunds will only be processed by bank transfer after the works
 
 ### Chairs
 - Duccio Cavalieri (University of Florence, IT) 
-- Graziano Pesole (IBBE-CNR and University of Bari, IT)
+- Graziano Pesole (IBIOM-CNR and University of Bari, IT)
 
 ### Keynote speakers
 - Duccio Cavalieri (University of Florence, IT)
@@ -145,7 +145,7 @@ Please note that refunds will only be processed by bank transfer after the works
 - Carlotta De Filippo (IBIMET-CNR, IT) 
 - Rob Finn (EBI, UK)
 - Omry Koren (Bar-Ilan University, Israel)
-- Graziano Pesole (IBBE-CNR and University of Bari, IT)
+- Graziano Pesole (IBIOM-CNR and University of Bari, IT)
 - Lorenza Putignani (Ospedale Bambino Gesù, Rome, Italy)
 - Maurizio Sanguinetti (Catholic University of Rome, IT)
 - Nicola Segata (University of Trento, IT) 
@@ -173,7 +173,7 @@ Please note that refunds will only be processed by bank transfer after the works
 </tr>
 <tr> 
    <td>16.00-16.30</td>
-   <td>Graziano Pesole (IBBE-CNR and University of Bari, Italy)</td>
+   <td>Graziano Pesole (IBIOM-CNR and University of Bari, Italy)</td>
    <td>Metagenomics: challenges, pitfalls and perspectives</td>
 </tr>
 <tr>
@@ -236,45 +236,58 @@ Please note that refunds will only be processed by bank transfer after the works
    <td>Transitional Metagenomes: the role of globalization in shaping the human gut microbiota</td>
 </tr>
 <tr>
-   <td>12.00-13.00</td>
-   <td colspan="3">Four short-talks selected from the submitted abstracts</td>
+   <td>12.00-12.20</td>
+   <td>Giacinto Donvito (INFN, Italy)</td>
+   <td>INFN Technological Infrastructure for biological data analysis</td>
 </tr>
 <tr>
-   <td>13.00-14.30</td>
-   <td colspan="3">Lunch and poster session</td>
+   <td>12.20-12.40</td>
+   <td>Stevens Vincent (Hasselt Univ., BE)</td>
+   <td>Diversity of microorganisms in the Hedera helix phyllosphere and their role in phytoremediation of air pollution</td>
 </tr>
 <tr>
-   <td>14.30-15.00</td>
+   <td>12.40-14.00</td>
+   <td colspan="3">Lunch & Poster session</td>
+</tr>
+<tr>
+   <td>14.00-14.30</td>
    <td>Duccio Cavalieri (University of Florence, Italy)</td>
    <td>Role of the mycobiome in health and disease</td>
 </tr>
 <tr>
-   <td>15.00-15.30</td>
+   <td>14.30-15.00</td>
    <td>Omry Koren (Bar-Ilan University, Israel)</td>
    <td>The Birth of a Microbiome</td>
 </tr>
 <tr>
-   <td>15.30-16.30</td>
-   <td colspan="3">Four short-talks selected from the submitted abstracts</td>
+   <td>15.00-16.00</td>
+   <td colspan="3">Coffee break & Poster session</td>
 </tr>
 <tr>
-   <td>16.30-17.00</td>
+   <td>16.00-16.30</td>
    <td>Maurizio Sanguinetti (Cattolica University, Rome, Italy)</td>
    <td>Fecal microbiota transplantation: the microbiologist’s point of view</td>
 </tr>
 <tr>
-   <td>17.00-17.20</td>
+   <td>16.30-16.50</td>
+   <td>Marina Khachaturyan (MSU, Moscow, RU)</td>
+   <td>Studying restriction-modification systems in a hypersaline Antarctic Deep Lake</td>
+</tr>
+<tr>
+   <td>16.50-17.10</td>
+   <td>Luigi Ceci (IBIOM-CNR, IT)</td>
+   <td>Defining the Microbiota Composition of the Salterns of
+Margherita di Savoia (Italy) by Amplicon Based Next Generation Sequencing Analysis</td>
+</tr>
+<tr>
+   <td>17.10-17.30</td>
    <td><b>Illumina invited talk:</b> Lorenza Putignani (Ospedale Bambino Gesù, Rome, Italy)
 </td>
    <td>Clinical microbiology and microbiota: what next?</td>
 </tr>
 <tr>
-   <td>17.20-19.00</td>
-   <td colspan="3">Poster session</td>
-</tr>
-<tr>
-   <td>19.00–19.30</td>
-   <td colspan="3">Transfer to Una Hotel Regina</td>
+   <td>19.00</td>
+   <td colspan="3">Bus Transfer to Una Hotel Regina</td>
 </tr>
 </table>
 
@@ -311,7 +324,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 ### School's Instructors
 - Marc Rosello & Guy Cochrane (EBI, UK) 
 - Rob Finn (EBI, UK)
-- Bruno Fosso & Monica Santamaria (IBBE-CNR, IT)
+- Bruno Fosso & Monica Santamaria (IBIOM-CNR, IT)
 - Gabriel Valiente (Technical University of Catalonia, SP)
 - Duccio Cavalieri & Giovanni Bacci (University of Florence, IT)
 - Matteo Chiara (University of Milan, IT)
@@ -333,22 +346,30 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
    <td>Hands-on: Metagenomics data: submissions, discovery and retrieval</td>
 </tr>
 <tr>
+   <td>10.00-10.30</td>
+   <td colspan="2">Continuous coffee</td>
+</tr>
+<tr>
    <td>12.00-13.30</td>
    <td>Rob Finn (EBI, UK)</td>
    <td>Hands-on: Mining the data contained within the EBI metagenomics portal</td>
 </tr>
 <tr>
-   <td>13.30-15.00</td>
+   <td>13.30-14.30</td>
    <td colspan="2">Lunch break</td>
 </tr>
 <tr>
-   <td>15.00-17.00</td>
+   <td>14.30-16.30</td>
    <td>Rob Finn (EBI, UK)</td>
    <td>Hands-on: Mining the data contained within the EBI metagenomics portal</td>
    </tr>
+   <tr>
+   <td>16.30-17.00</td>
+   <td colspan="2">Coffee break</td>
+</tr>
 <tr>
    <td>17.00-19.00</td>
-   <td>Bruno Fosso & Monica Santamaria (IBBE-CNR)</td>
+   <td>Bruno Fosso & Monica Santamaria (IBIOM-CNR)</td>
    <td>Hands-on: Bioinformatic analysis of metagenomic Amplicons (BioMaS, QIIME, ...) and shotgun  (MetaShot, Kraken,..) data</td>
 </tr>
 <tr>
@@ -356,25 +377,37 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 </tr>
 <tr>
    <td>09.00-13.00</td>
-   <td>Bruno Fosso & Monica Santamaria (IBBE-CNR)</td>
+   <td>Bruno Fosso & Monica Santamaria (IBIOM-CNR)</td>
    <td>Hands-on: Bioinformatic analysis of metagenomic Amplicons (BioMaS, QIIME, ...) and shotgun  (MetaShot, Kraken,..) data (continued)</td>
 </tr>
 <tr>
-   <td>13.00-15.00</td>
+   <td>10.00-10.30</td>
+   <td colspan="2">Coffee break</td>
+</tr>
+<tr>
+   <td>13.00-14.00</td>
    <td colspan="2">Lunch break</td>
 </tr>
 <tr>
-   <td>15.00-19.00</td>
+   <td>14.00-18.00</td>
    <td>Gabriel Valiente (Technical University of Catalonia)</td>
    <td><a href="https://elixir-iib-training.github.io/website/docs/Valiente_statistical_tools_description_bari_2017.pdf">Hands-on: Statistical tools for the comparative analysis of metagenomic datasets</a></td>
+</tr>
+<tr>
+   <td>16.00-16.30</td>
+   <td colspan="2">Coffee break</td>
 </tr>
 <tr>
    <td colspan="4"><h3>Friday 23rd June 2017</h3></td>
 </tr>
 <tr>
-   <td>09.00-11.00</td>
+   <td>09.00-10.30</td>
    <td>Duccio Cavalieri & Giovanni Bacci (University of Florence, Italy)</td>
    <td>Hands-on: Pathway and functional enrichment analysis in metagenomics data using Picrust and Stamp</td>
+</tr>
+<tr>
+   <td>10.30-11.00</td>
+   <td colspan="2">Coffee break</td>
 </tr>
 <tr>
    <td>11.00-13.00</td>
@@ -382,8 +415,12 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
    <td><a href="https://elixir-iib-training.github.io/website/docs/Matteo_Chiara_Hands_on_description_bari_2017.pdf">Hands-on: Automatic functional annotation of metabarcoding and shotgun metagenomic data by using Galaxy (A-Game, ..)</a></td>
 </tr>
 <tr>
-   <td>13.00-13.15</td>
-   <td colspan="2">Closing remarks</td>
+   <td>13.00-14.00</td>
+   <td colspan="2">Closing remarks & Light lunch</td>
+</tr>
+<tr>
+   <td>14.00</td>
+   <td colspan="2">Bus Transfer to Bari Central Station</td>
 </tr>
 </table>
 
