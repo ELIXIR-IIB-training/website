@@ -237,7 +237,7 @@ Please note that refunds will only be processed by bank transfer after the works
 </tr>
 <tr>
    <td>12.00-12.20</td>
-   <td>Giacinto Donvito (INFN, Italy)</td>
+   <td>Stefano Nicotri (INFN, Italy)</td>
    <td>INFN Technological Infrastructure for biological data analysis</td>
 </tr>
 <tr>
