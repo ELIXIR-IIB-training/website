@@ -20,10 +20,9 @@ description: The aim of the course is to provide a practical introduction to the
 <br>
 
 **IMPORTANT DATES** for this Training course:
-  - Deadline for applications: 15 July 2017
+  - Deadline for applications: 21 July 2017
   - Course date: 04-09 September 2017
-  - Selection will start on July the 15th. 
-  Chosen participants will be notified by 20 July 2017. A maximum of 24 candidates will be accepted in the course.
+  Chosen participants will be notified by 25 July 2017. A maximum of 24 candidates will be accepted in the course.
   <br>
   
 ### Course Description
