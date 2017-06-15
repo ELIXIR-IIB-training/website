@@ -350,7 +350,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 </tr>
 <tr>
    <td>10.00-10.30</td>
-   <td colspan="2">Continuous coffee</td>
+   <td colspan="2">Coffee break</td>
 </tr>
 <tr>
    <td>12.00-13.30</td>
