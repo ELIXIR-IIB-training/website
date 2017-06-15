@@ -11,7 +11,10 @@ description: Two connected events on Advanced Computational Metagenomics - a 2-d
 <table border="0" width="600">
   <tr>
     <td><img src="../../../img/logo_elixir_italy.jpg" height="100"></td>
-    
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><img src="../../../img/Logo_ibiom.jpeg" height="90" width="150"></td>
+    <td><img src="../../../img/Logo_dsb_cnr.jpg" height="80" width="80"></td>
+    <td><img src="../../../img/Logo_illumina.jpg" height="100" width="130"></td>
   </tr>
 </table>
 
@@ -403,7 +406,7 @@ No prior knowledge of metagenomic sequences analysis or specific programming ski
 <tr>
    <td>09.00-10.30</td>
    <td>Duccio Cavalieri & Giovanni Bacci (University of Florence, Italy)</td>
-   <td>Hands-on: Pathway and functional enrichment analysis in metagenomics data using Picrust and Stamp</td>
+   <td>Hands-on: Predicting metabolic potential from 16S and shotgun metagenomic data</td>
 </tr>
 <tr>
    <td>10.30-11.00</td>
