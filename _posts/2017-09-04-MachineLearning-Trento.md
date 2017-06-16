@@ -64,8 +64,7 @@ The fee will cover attendance to lectures and practicals, coffee breaks, lunches
   - All the other candidates: **160 euros**
   
 <br>
-### Application Form
-<!-- ### [Application Form](https://drive.google.com/drive/folders/0B7L-F50BNz0_NHJ3VThXT3A2VUE) -->
+### [Application Form](https://goo.gl/forms/q5kN1QS4vgxvhrxA2)
 <br>
 
 **VENUE:**
