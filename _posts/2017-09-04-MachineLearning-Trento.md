@@ -21,8 +21,8 @@ description: The aim of the course is to provide a practical introduction to the
 
 **IMPORTANT DATES** for this Training course:
   - Deadline for applications: 21 July 2017
-  - Course date: 04-09 September 2017
-  Chosen participants will be notified by 25 July 2017. A maximum of 24 candidates will be accepted in the course.
+  - Course date: 4-7 September 2017<br>
+Chosen participants will be notified by 25 July 2017. A maximum of **24** candidates will be accepted in the course.
   <br>
   
 ### Course Description
@@ -226,7 +226,7 @@ Here is some information about [hotels](../../../docs/Info_alberghi_san_michele_
    <td colspan="2">Recap of previous lessons by participants</td>
 </tr>
 <tr>
-   <td>9:25-10:00</td>
+   <td>09:25-10:00</td>
    <td>Lecture</td>
    <td>M. Moretto, A. Cestaro</td>
    <td>Gene prediction methods as an example of ML on genomic data</td>
