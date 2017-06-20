@@ -8,6 +8,8 @@ description: Two connected events on Advanced Computational Metagenomics - a 2-d
 
 ---
 
+For any tweet use <font color="#FF9633"><b>#BariSchool2017</b></font> <br> 
+<br>
 <table border="0" width="600">
   <tr>
     <td><img src="../../../img/logo_elixir_italy.jpg" height="100"></td>
