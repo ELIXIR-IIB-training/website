@@ -4,7 +4,7 @@ title:  "Training course on Machine Learning for Biologists"
 date_start:   2017-09-04
 date_end:   2017-09-07
 venue: San Michele all'Adige (TN), Italy
-description: The aim of the course is to provide a practical introduction to the analysis of "omics" data. Topics will range from data visualization/exploration to univariate/multivariate analysis and machine learning. Practical exemples and applications will be illustrated by using R and Python.
+description: The aim of the course is to provide a practical introduction to the analysis of "omics" data. Topics will range from data visualization/exploration to univariate/multivariate analysis and machine learning. Practical examples and applications will be illustrated by using R and Python.
 
 
 ---
@@ -28,7 +28,7 @@ Chosen participants will be notified by 25 July 2017. A maximum of **24** candid
 ### Course Description
 The aim of the course is to provide a practical introduction to the analysis of "omics" data.
 Topics will range from data visualization/exploration to univariate/multivariate analysis and machine learning. 
-Practical exemples and applications will be illustrated by using R and Python.
+Practical examples and applications will be illustrated by using R and Python.
 
 Course Milestones:
 - Data exploration and visualization
