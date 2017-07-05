@@ -127,7 +127,7 @@ A basic understanding of molecular biology and transcriptomics is assumed. A bas
    <td height="50">11:30 - 13:00</td>
    <td height="50">Lecture</td>
    <td height="50"></td>
-   <td height="50">Linux/UNIX Introduction</td>
+   <td height="50">Intro to the Linux command line</td>
 </tr>
 <tr>
    <td height="50">13:00 - 14:00</td>
