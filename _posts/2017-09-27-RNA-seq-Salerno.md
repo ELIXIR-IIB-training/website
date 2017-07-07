@@ -38,10 +38,10 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
 
 **FEE:** 
 The fee will cover attendance to lectures and practicals, coffee breaks, lunches and dinners. The participants are expected to pay their own travel and accommodation costs:
-- candidates from a bioinformatics lab from one of the ELIXIR-IIB member institutions (see the list at the bottom): **110 euros**
+- candidates from a bioinformatics lab from one of the ELIXIR-IIB member institutions (see the list at the bottom): **120 euros**
 - other candidates: **160 euros**
 
-A maximum of **25** candidates will be accepted. Selection will start on July 15th 2017 and those with an adequate profile will be accepted immediately. 
+A maximum of **25** candidates will be accepted. Selection will start on **July 20th** and those with an adequate profile will be accepted immediately. 
 <br>
 
 ### Instructors
@@ -60,7 +60,7 @@ A maximum of **25** candidates will be accepted. Selection will start on July 15
 <br>
 
 ### Course Description
-Next-generation sequencing (NGS) of RNA libraries (RNA-Seq) has become increasingly common and it largely replaced microarray technology for gene expression profiling. The aim of this course is to get a deeper understanding of RNA-Seq experiments, providing a theoretical introduction to the data processing steps, together with practical sessions illustrating the use of the most popular data analysis tools. The classroom size is limited to 25 participants to optimize the learning and the interaction with the instructors. Starting from the raw sequenced data coming from different phenotypical samples (e.g disease vs healthy control samples), genes which are differentially expressed between the two conditions are determine. Some strategies are illustrated for detecting alternative splicing products, predicting novel isoforms and gene fusion events. Some methods for downstream analysis are described to give insight into how biological knowledge can be generated from RNA-Seq experiments. A lecture on single-cell RNA-Seq will provide an idea of how transcriptome data from individual cells is now emerging as a powerful tool, allowing the study of cell-to-cell gene expression heterogeneity in the same tissue. 
+Next-generation sequencing (NGS) of RNA libraries (RNA-Seq) has become increasingly common and it largely replaced microarray technology for gene expression profiling. The aim of this course is to get a deeper understanding of RNA-Seq experiments, providing a theoretical introduction to the data processing steps, together with practical sessions illustrating the use of the most popular data analysis tools. The classroom size is limited to **25** participants to optimize the learning and the interaction with the instructors. Starting from the raw sequenced data coming from different phenotypical samples (e.g disease vs healthy control samples), genes which are differentially expressed between the two conditions are determine. Some strategies are illustrated for detecting alternative splicing products, predicting novel isoforms and gene fusion events. Some methods for downstream analysis are described to give insight into how biological knowledge can be generated from RNA-Seq experiments. A lecture on single-cell RNA-Seq will provide an idea of how transcriptome data from individual cells is now emerging as a powerful tool, allowing the study of cell-to-cell gene expression heterogeneity in the same tissue. 
 
 ### Course objectives
 Students will gain an understanding of: 
