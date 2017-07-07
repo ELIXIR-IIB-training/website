@@ -67,9 +67,9 @@ Students will gain an understanding of:
 - experimental design
 - quality control 
 - theoretical principles of RNA-Seq data analysis process
-- selection of differentially regulated genes
-- selection of alternative splicing events
-- identification of gene fusion events
+- how to identify differentially regulated genes
+- how to identify alternative splicing events
+- how to identify gene fusion events
 - multiple testing correction
 - biological interpretation of RNA-seq data
 
