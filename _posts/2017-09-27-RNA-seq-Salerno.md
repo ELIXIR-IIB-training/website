@@ -98,7 +98,7 @@ A basic understanding of molecular biology and transcriptomics is assumed. A bas
 <br>
 
 ### [Application Form](https://goo.gl/forms/) 
-<font color="red"><b>(it will be open from July 7th)</b></font>
+<font color="red"><b>(it will be open from July 9th)</b></font>
 <br>
 <br>
 
