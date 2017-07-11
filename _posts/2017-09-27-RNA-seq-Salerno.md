@@ -47,7 +47,7 @@ A maximum of **25** candidates will be accepted. Selection will start on **July 
 ### Instructors
 - [**Fabrizio Ferré**](https://www.unibo.it/sitoweb/fabrizio.ferre) - Dept. of Pharmacy and Biotechnology, University of Bologna, Italy
 - **Loredana Le Pera** - Center for Life Nano Science@Sapienza, IIT, Roma, Italy
-- **Giorgio Giurato** - Genomix4Life, Italy
+- [**Giorgio Giurato**](http://www.labmedmolge.unisa.it/italiano/teamit/giorgiogiurato) - (Lab. of Molecular Medicine and Genomics and Genomix4Life srl, University of Salerno)
 - **Allegra Via** - (ELIXIR-IIB Training Coordinator, CNR-IBPM, Italy) 
 <br>
 
@@ -97,8 +97,7 @@ A basic understanding of molecular biology and transcriptomics is assumed. A bas
 <br>
 <br>
 
-### [Application Form](https://goo.gl/forms/) 
-<font color="red"><b>(it will be open from July 9th)</b></font>
+### [Application Form](https://goo.gl/forms/MCGI3C7HrLgNjFHy1) 
 <br>
 <br>
 
