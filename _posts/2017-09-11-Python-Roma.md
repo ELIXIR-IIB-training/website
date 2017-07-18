@@ -12,7 +12,7 @@ description: Python is an object-oriented programming language that is ideal for
   <tr>
     <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="100"></a></td>
     <td></td>
-    <td><a href="http://www.uniroma1.it/"><img src="../../../img/Logo_sapienza.jpg" height="80"></a></td>
+    <td><a href="http://www.uniroma1.it/"><img src="../../../img/Logo_sapienza.jpg" height="100"></a></td>
   </tr>
 </table>
 <br>
@@ -72,7 +72,7 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <br>
 
 ### [Application Form](https://goo.gl/forms/) 
-<font color="red"><b>(it will be open from July 18th)</b></font>
+<font color="red"><b>(it will be open from July 20th)</b></font>
 <br>
 <br>
 
