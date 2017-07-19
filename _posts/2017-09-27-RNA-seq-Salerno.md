@@ -10,9 +10,10 @@ description: The aim of this course is to get a deeper understanding of RNA-Seq 
 
 <table border="0" width="600">
   <tr>
-    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="100"></a></td>
+    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="110"></a></td>
     <td></td>
     <td><a href="http://web.unisa.it/ateneo"><img src="../../../img/Logo_unisalerno.png" height="100"></a></td>
+    <td><a href="http://web.unisa.it/ateneo"><img src="../../../img/Logo_genomix4life.png" height="100" width="140"></a></td>
   </tr>
 </table>
 <br>
@@ -54,8 +55,8 @@ A maximum of **25** candidates will be accepted. Selection will start on **July 
 ### Organisers 
 - Anna Marabotti (University of Salerno and ELIXIR-IIB Training Team, Italy)
 - Roberto Tagliaferri (University of Salerno, Italy)
-- Alessandro Weisz (University of Salerno, Italy)
-- Loredana Le Pera (ELIXIR-IIB Training Team and IIT, Italy) 
+- Alessandro Weisz (Lab. of Molecular Medicine and Genomics, Department of Medicine, University of Salerno, Italy)
+- Loredana Le Pera (ELIXIR-IIB Training Team and CLNS@Sapienza, IIT, Italy) 
 - Allegra Via (ELIXIR-IIB Training Coordinator, CNR-IBPM, Italy)
 <br>
 
