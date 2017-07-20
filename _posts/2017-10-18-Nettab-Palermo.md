@@ -27,7 +27,7 @@ description: Participants in the course will be introduced to protein-protein in
     - early registration: September 23, 2017 
     - on-line registration: October 8, 2017
 
-Priority will be given to workshop participants on a first-come/first-served policy. For the participants ONLY to the tutorials, those with an adequate profile will be accepted immediately, especially if they come from other countries (to allow them to find reasonably cheap flight tickets)
+A maximum of **25** candidates will be accepted in the course. Priority will be given to NETTAB workshop participants on a first-come/first-served policy. For the participants ONLY to the tutorials, those with an adequate profile will be accepted immediately, especially if they come from other countries (to allow them to find reasonably cheap flight tickets).
  
 <br>
 **PLEASE REGISTER [HERE](http://www.igst.it/nettab/2017/programme/tutorials/)**
@@ -39,12 +39,10 @@ Istituto di Calcolo e Reti ad Alte Prestazioni (ICAR-CNR) of the Italian Nationa
 
 **FEE**: no fee
 
-A maximum of **25** candidates will be accepted in the course. Selection will start on the **24th of July** and those with an adequate profile will be accepted immediately, especially if they come from other countries (to allow them to find reasonably cheap flight tickets).
-
 ### Instructors
-- **Luana Licata** - Bioinformatics and Computational Biology Unit - Molecular Genetics Laboratory - Dept. of Molecular Biology, University of Rome Tor Vergata, Rome, Italy
-- **Alberto Calderone** - Bioinformatics and Computational Biology Unit - Molecular Genetics Laboratory - Dept. of Molecular Biology, University of Rome Tor Vergata, Rome, Italy
-- **Inna Kuperstein** - Computational Systems Biology of Cancer group, Institut Curie, Paris, France
+- **Luana Licata** - Bioinformatics and Computational Biology Unit - Molecular Genetics Laboratory - Dept. of Molecular Biology, University of Rome Tor Vergata, Italy.
+- **Alberto Calderone** - Bioinformatics and Computational Biology Unit - Molecular Genetics Laboratory - Dept. of Molecular Biology, University of Rome Tor Vergata, Italy.
+- **Inna Kuperstein** - Computational Systems Biology of Cancer group, Institut Curie, Paris, France.
 <br>
 
 ### Organisers
