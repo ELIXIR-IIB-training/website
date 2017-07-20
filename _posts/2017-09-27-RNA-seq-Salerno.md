@@ -13,7 +13,7 @@ description: The aim of this course is to get a deeper understanding of RNA-Seq 
     <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="110"></a></td>
     <td></td>
     <td><a href="http://web.unisa.it/ateneo"><img src="../../../img/Logo_unisalerno.png" height="100"></a></td>
-    <td><a href="http://web.unisa.it/ateneo"><img src="../../../img/Logo_genomix4life.png" height="100" width="140"></a></td>
+    <td><a href="http://www.genomix4life.com/it/"><img src="../../../img/Logo_genomix4life.png" height="100" width="140"></a></td>
   </tr>
 </table>
 <br>
