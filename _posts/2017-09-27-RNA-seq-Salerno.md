@@ -53,7 +53,7 @@ A maximum of **25** candidates will be accepted. Selection will start on **July 
 <br>
 
 ### Organisers 
-- Anna Marabotti ELIXIR-IIB Training Team and University of Salerno, Italy)
+- Anna Marabotti (ELIXIR-IIB Training Team and University of Salerno, Italy)
 - Roberto Tagliaferri (University of Salerno, Italy)
 - Alessandro Weisz (Lab. of Molecular Medicine and Genomics, Department of Medicine, University of Salerno, Italy)
 - Loredana Le Pera (ELIXIR-IIB Training Team and CLNS@Sapienza, IIT, Italy) 
