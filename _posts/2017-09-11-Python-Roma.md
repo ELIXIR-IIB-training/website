@@ -71,8 +71,7 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <br>
 <br>
 
-### [Application Form](https://goo.gl/forms/) 
-<font color="red"><b>(it will be open from July 20th)</b></font>
+### [Application Form](https://goo.gl/forms/TVfcESvpljDQm7Tl2) 
 <br>
 <br>
 
