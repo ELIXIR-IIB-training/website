@@ -49,7 +49,7 @@ Istituto di Calcolo e Reti ad Alte Prestazioni (ICAR-CNR) of the Italian Nationa
 - Luana Licata (ELIXIR-IIB Training Team and University of Rome Tor Vergata, Italy)
 - Alberto Calderone (University of Rome Tor Vergata, Italy)
 - Inna Kuperstein (Institut Curie, Paris, France)
-- Allegra Via (ELIXIR-IIB Training Coordinator, CNR-IBPM, Italy)
+- Allegra Via (ELIXIR-IIB Training Coordinator, IBPM-CNR, Italy)
 <br>
 
 ### Course Description
