@@ -39,7 +39,7 @@ A maximum of **20** candidates will be selected based on their research profile.
 <br>
 
 ### Helper
-- [**Giacomo Janson**](../../../instructors/giacomo_janson.html) - Dep. of Biochemical Sciences "A. Rossi Fanelli", Sapienza University of Rome, Italy
+- [**Giacomo Janson**](../../../instructors/giacomo_janson.html) - Dep. of Biochemical Sciences, Sapienza University of Rome, Italy
 
 ### Organisers 
 - Veronica Morea (IBPM-CNR, Rome, Italy)
