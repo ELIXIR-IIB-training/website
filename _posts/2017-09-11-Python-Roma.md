@@ -34,17 +34,17 @@ A maximum of **20** candidates will be selected based on their research profile.
 <br>
 
 ### Instructors
-- **Allegra Via** - ELIXIR-IIB Training Coordinator, CNR-IBPM, Italy
+- [**Allegra Via**](../../../instructors/allegra_via.html) - ELIXIR-IIB Training Coordinator, IBPM-CNR, Italy
 - [**Alberto Calderone**](../../../instructors/alberto_calderone.html) - University of Rome Tor Vergata, Italy
 <br>
 
 ### Helper
-- [**Giacomo Janson**](../../../instructors/giacomo_janson.html) - Departement of Biochemical Sciences A. Rossi Fanelli, University of Rome la Sapienza, Italy
+- [**Giacomo Janson**](../../../instructors/giacomo_janson.html) - Dep. of Biochemical Sciences "A. Rossi Fanelli", Sapienza University of Rome, Italy
 
 ### Organisers 
-- Veronica Morea (CNR-IBPM, Rome, Italy)
-- Allegra Via (ELIXIR-IIB Training Coordinator, CNR-IBPM, Italy)
-- Loredana Le Pera (ELIXIR-IIB Training Team, IIT@Sapienza, Italy)
+- Veronica Morea (IBPM-CNR, Rome, Italy)
+- Allegra Via (ELIXIR-IIB Training Coordinator, IBPM-CNR, Italy)
+- Loredana Le Pera (ELIXIR-IIB Training Team, CLNS@Sapienza, Italy)
 <br>
 
 ### Course Description
