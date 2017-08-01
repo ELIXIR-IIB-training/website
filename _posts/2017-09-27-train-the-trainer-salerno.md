@@ -1,5 +1,18 @@
 ---
 layout: post
+title:  "Training Course on Best practices for RNA-Seq data analysis"
+date_start:   2017-09-27
+date_end:   2017-09-29
+venue: Salerno, Italy
+description: The aim of this course is to get a deeper understanding of RNA-Seq experiments, providing a theoretical introduction to the data processing steps, together with practical sessions illustrating the use of the most popular data analysis tools. Some strategies are illustrated for detecting genes, which are differentially expressed across different biological conditions, alternative splicing products, novel isoforms and gene fusion events. Some methods for downstream analysis are described to give insight into how biological knowledge can be generated from RNA-Seq experiments.
+
+---
+
+
+
+
+---
+layout: post
 title:  "ELIXIR-EXCELERATE Train the Trainer"
 date_start:   2017-09-27
 date_end:   2017-09-29
