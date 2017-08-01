@@ -54,7 +54,8 @@ The course is made up of four sessions, covering:
 
 ### Target Audience
 Whoever is interested in becoming a teacher or a better one. 
-If you have questions like:
+If you have questions like the following ones, this course may be very helpful to you.
+
 * How learning works?
 * How can I use learning principles to improve my teaching?
 * How can I make my teaching more engaging and effective?
@@ -65,8 +66,6 @@ If you have questions like:
 * How can I best assess whether learning has occurred? 
 * What works in a classroom and what doesn't?
 * Etc.
-This course may be very helpful to you.
-
 
 ### Learning Objectives:  
  * To get acquainted with Learning principles and how they apply to training
