@@ -3,7 +3,7 @@ layout: post
 title:  ELIXIR-EXCELERATE Train the Trainer
 date_start:   2017-09-27
 date_end:   2017-09-29
-venue: Fisciano (Salerno), Italy
+venue: University of Salerno, Fisciano (Salerno), Italy
 description: ELIXIR-IIB, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer programme, will hold a Train the Trainer (TtT) event in connection with a course on "Best Practices for RNA-Seq analysis". 
 The course is meant to offer guidance, ideas and tips for training / teaching design, development and delivery based on research-driven educational principles. Examples and discussions will also focus on the challenges presented by academic teaching. 
 
@@ -51,6 +51,21 @@ The course is made up of four sessions, covering:
 
 ### [Application form](https://goo.gl/forms/EJEoqXobj0MYflv22)
 **We will accept a maximum of 15 participants.** Priority will be given to candidates from ELIXIR nodes. Notifications of acceptance will be sent shortly after the application, which will remain open until we reach 15 participants. 
+
+### Target Audience
+Whoever is interested in becoming a teacher or a better one. 
+If you have questions like:
+* How learning works?
+* How can I use learning principles to improve my teaching?
+* How can I make my teaching more engaging and effective?
+* How should I adjust my teaching to different types of learners?
+* How can I help slow learners?
+* How can I assess whether my students are actually understanding my lessons? Are they actually learning?
+* What is the best balance between theory and practice?
+* How can I best assess whether learning has occurred? 
+* What works in a classroom and what doesn't?
+* Etc.
+This course may be very helpful to you.
 
 
 ### Learning Objectives:  
