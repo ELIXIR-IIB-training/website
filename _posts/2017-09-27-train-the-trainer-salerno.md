@@ -46,7 +46,6 @@ The course is made up of four sessions, covering:
 * [Lesson, course, and materials design](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_4.md)
 
 **Fee:** There is no course attendance fee. The participants will need to bear their travel and hotel costs (if any). ELIXIR-EXCELERATE will cover coffee breaks and lunches.
-**Target audience:** People with a strong interest in becoming a teacher, or a better one.
 
 ### [Application form](https://goo.gl/forms/EJEoqXobj0MYflv22)
 **We will accept a maximum of 15 participants.** Priority will be given to candidates from ELIXIR nodes. Notifications of acceptance will be sent shortly after the application, which will remain open until we reach 15 participants. 
@@ -56,14 +55,15 @@ Whoever is interested in becoming a teacher or a better one.
 If you have questions like the following ones, this course may be very helpful to you.
 
 * How learning works?
-* How can I use learning principles to improve my teaching?
+* How can I use learning principles and theories to improve my teaching?
 * How can I make my teaching more engaging and effective?
 * How should I adjust my teaching to different types of learners?
 * How can I help slow learners?
 * How can I assess whether my students are actually understanding my lessons? Are they actually learning?
 * What is the best balance between theory and practice?
-* How can I best assess whether learning has occurred? 
+* How can I best assess whether learning is occurring and/or has occurred? 
 * What works in a classroom and what doesn't?
+* How can I become a better teacher?
 * Etc.
 
 ### Learning Objectives:  
