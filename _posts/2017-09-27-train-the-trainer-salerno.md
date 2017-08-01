@@ -81,11 +81,10 @@ If you have questions like the following ones, this course may be very helpful t
 
 ---
 
-
 # Course Program
 
  Time | Activity
-:-------------|:----------------
+:---------------------|:----------------
 **Wednesday, 27th**   |
 11.00 - 11.30         | Introductions, who is who and what we need to achieve
 11.00 - 13.00			    | Observing teachers at work: a lesson on the Linux shell
