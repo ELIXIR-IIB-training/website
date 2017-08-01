@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  ELIXIR-EXCELERATE Train the Trainer
@@ -7,6 +6,7 @@ date_end:   2017-09-29
 venue: Fisciano (Salerno), Italy
 description: ELIXIR-IIB, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer programme, will hold a Train the Trainer (TtT) event in connection with a course on "Best Practices for RNA-Seq analysis". 
 The course is meant to offer guidance, ideas and tips for training / teaching design, development and delivery based on research-driven educational principles. Examples and discussions will also focus on the challenges presented by academic teaching. 
+
 ---
 
 <table border="0" width="600">
