@@ -86,15 +86,15 @@ If you have questions like the following ones, this course may be very helpful t
 
  Time | Activity
 :-------------|:----------------
-**Wednesday, 27th**      |
+**Wednesday, 27th**   |
 11.00 - 11.30         | Introductions, who is who and what we need to achieve
-11.00 - 13.00			  | Observing teachers at work: a lesson on the Linux shell
+11.00 - 13.00			    | Observing teachers at work: a lesson on the Linux shell
 14.00 - 18.30         | [**Session 1**](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_1.md): Review of learning principles and how they apply to training and teaching
-**Thursday, 28th**        |
+**Thursday, 28th**    |
 09.15 - 13.00         | [**Session 2**](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
-14.00 - 15.00	         | Observing teachers at work: practicing RNA-Seq pipelines
+14.00 - 15.00	        | Observing teachers at work: practicing RNA-Seq pipelines
 15.00 - 18.30         | [**Session 3**](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_3.md): Session, course, and materials design
-**Friday, 29th**        |
+**Friday, 29th**      |
 09.15 - 10.30         | [**Session 3**](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_3.md): Session, course, and materials design
 11:00 - 13:00         | [**Session 4**](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_4.md): Assessment and feedback in training
 14:00 - 15:00         | [**Session 4**](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_4.md): Assessment and feedback in training
