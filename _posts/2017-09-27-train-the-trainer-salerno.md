@@ -14,7 +14,6 @@ description: ELIXIR-IIB, in cooperation with the ELIXIR-EXCELERATE Train-The-Tra
     <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="110"></a></td>
     <td></td>
     <td><a href="http://web.unisa.it/ateneo"><img src="../../../img/Logo_unisalerno.png" height="100"></a></td>
-    </a></td>
   </tr>
 </table>
 
