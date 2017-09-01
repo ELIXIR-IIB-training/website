@@ -36,9 +36,6 @@ A maximum of **20** candidates will be selected based on their research profile.
 ### Instructors
 - [**Allegra Via**](../../../instructors/allegra_via.html) - ELIXIR-IIB Training Coordinator, IBPM-CNR, Italy
 - [**Alberto Calderone**](../../../instructors/alberto_calderone.html) - University of Rome Tor Vergata, Italy
-<br>
-
-### Helper
 - [**Giacomo Janson**](../../../instructors/giacomo_janson.html) - Dept. of Biochemical Sciences, Sapienza University of Rome, Italy
 
 ### Organisers 
