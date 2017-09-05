@@ -99,6 +99,9 @@ Here is some information about [hotels](../../../docs/Info_alberghi_san_michele_
 
 ### Programme
 
+Course materials are available from the github repository:<br> [https://github.com/ELIXIR-IIB-training/MLB2017](https://github.com/ELIXIR-IIB-training/MLB2017)
+
+
 <table border="1">
 <tr>
    <td colspan="4"><h3>Monday 04 September 2017 - Introduction </h3></td>
