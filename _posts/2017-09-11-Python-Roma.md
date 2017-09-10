@@ -38,6 +38,9 @@ A maximum of **20** candidates will be selected based on their research profile.
 - [**Alberto Calderone**](../../../instructors/alberto_calderone.html) - University of Rome Tor Vergata, Italy
 - [**Giacomo Janson**](../../../instructors/giacomo_janson.html) - Dept. of Biochemical Sciences, Sapienza University of Rome, Italy
 
+### Helpers
+- Elisa Micarelli, University of Rome "Tor Vergata", Italy
+
 ### Organisers 
 - Veronica Morea (IBPM-CNR, Rome, Italy)
 - Allegra Via (ELIXIR-IIB Training Coordinator, IBPM-CNR, Italy)
@@ -124,7 +127,7 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 </tr>
 <tr>
    <td height="50">09:00 - 10:30</td>
-   <td colspan="3" height="50"> Wrap up </td>
+   <td colspan="3" height="50"> Repeating things </td>
 </tr>
 <tr>
    <td height="50">10:30 - 11:00</td>
