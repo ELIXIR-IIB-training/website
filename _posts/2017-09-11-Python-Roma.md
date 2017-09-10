@@ -87,34 +87,34 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
    <td colspan="3" height="50">Welcome, intro & expectations.</td>
 </tr>
 <tr>
-   <td height="50">09:45 - 10:30</td>
+   <td height="50">09:45 - 11:15</td>
    <td height="50">Long chat</td>
    <td height="50">Intro to the Linux command line</td>
 </tr>
 <tr>
-   <td height="50">10:30 - 11:00</td>
+   <td height="50">11:15 - 11:45</td>
    <td colspan="3"  height="50">Coffee break</td>
 </tr>
 <tr>
-   <td height="50">11:00 - 13:00</td>
+   <td height="50">11:45 - 13:15</td>
    <td height="50">Practical</td>
    <td height="50">Linux tutorial</td>
 </tr>
 <tr>
-   <td height="50">13:00 - 14:00</td>
+   <td height="50">13:15 - 14:30</td>
    <td colspan="3" height="50">Lunch break </td>
 </tr>
 <tr>
-  <td height="50">14:00 - 15:30</td>
+  <td height="50">14:30 - 16:00</td>
   <td height="50">Lecture & Practical</td>
   <td height="50">Python Shell</td>
 </tr>
 <tr>
-   <td height="50">15:30 - 16:00</td>
+   <td height="50">16:00 - 16:30</td>
    <td colspan="3" height="50">Coffee break</td>
 </tr>
 <tr>
-  <td height="50">16:00 - 18:00</td>
+  <td height="50">16:30 - 18:00</td>
   <td height="50">Lecture & Practical</td>
   <td height="50">Python programs</td>
 </tr>
@@ -131,25 +131,25 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
    <td colspan="3" height="50">Coffee break</td>
 </tr>
 <tr>
-   <td height="50">11:00 - 13:00</td>
+   <td height="50">11:00 - 12:45</td>
    <td height="50">Lecture & Practical</td>
    <td height="50"> Reading and writing files</td>
 </tr>
 <tr>
-   <td height="50">13:00 - 14:00</td>
+   <td height="50">12:45 - 14:15</td>
    <td colspan="3" height="50"> Lunch break </td>
 </tr>
 <tr>
-   <td height="50">14:00 - 15:30</td>
+   <td height="50">14:15 - 16:00</td>
    <td height="50">Lecture & Practical</td>
    <td height="50">Parsing </td>
 </tr>
 <tr>
-   <td height="50">15:30 - 16:00</td>
+   <td height="50">16:00 - 16:30</td>
    <td colspan="3" height="50"> Coffe break </td>
 </tr>
 <tr>
-   <td height="50">16:00 - 18:00</td>
+   <td height="50">16:30 - 18:00</td>
    <td height="50">Lecture & Practical</td>
    <td height="50">Parsing </td>
 </tr>
@@ -166,25 +166,25 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
    <td colspan="3" height="50">Coffee break</td>
 </tr>
 <tr>
-   <td height="50">11:00 - 13:00</td>
+   <td height="50">11:00 - 12:45</td>
    <td height="50">Lecture & Practical</td>
    <td height="50">Debugging and Error Handling</td>
 </tr>
 <tr>
-   <td height="50">13:00 - 14:00</td>
+   <td height="50">12:45 - 14:15</td>
    <td colspan="3" height="50"> Lunch break </td>
 </tr>
 <tr>
-<td height="50">14:00 - 15:30</td>
+<td height="50">14:15 - 16:00</td>
 <td height="50">Lecture & Practical</td>
 <td height="50">Data columns (formatting and sorting)</td>
 </tr>
 <tr>
-   <td height="50">15:30 - 16:00</td>
+   <td height="50">16:00 - 16:30</td>
    <td colspan="3" height="50"> Coffee break </td>
 </tr>
 <tr>
-<td height="50">16:00 - 18:00</td>
+<td height="50">16:30 - 18:00</td>
 <td height="50">Lecture & Practical</td>
 <td height="50">Tabular Data</td>
 </tr>
@@ -201,25 +201,25 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
    <td colspan="3" height="50">Coffee break</td>
 </tr>
 <tr>
-   <td height="50">11:00 - 13:00</td>
+   <td height="50">11:00 - 12:45</td>
    <td height="50">Lecture & Practical</td>
    <td height="50">Pipelines </td>
 </tr>
 <tr>
-   <td height="50">13:00 - 14:00</td>
+   <td height="50">12:45 - 14:15</td>
    <td colspan="3" height="50"> Lunch break </td>
 </tr>
 <tr>
-<td height="50">14:00 - 15:30</td>
+<td height="50">14:15 - 16:00</td>
 <td height="50">Practical</td>
 <td height="50">Python Libraries</td>
 </tr>
 <tr>
-   <td height="50">15:30 - 16:00</td>
+   <td height="50">16:00 - 16:30</td>
    <td colspan="3" height="50"> Coffee break </td>
 </tr>
 <tr>
-<td height="50">16:00 - 18:00</td>
+<td height="50">16:30 - 18:00</td>
 <td height="50">Practical</td>
 <td height="50">Python Libraries</td>
 </tr>
@@ -236,12 +236,12 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
    <td colspan="3" height="50">Coffee break</td>
 </tr>
 <tr>
-   <td height="50">11:00 - 13:00</td>
+   <td height="50">11:00 - 12:45</td>
    <td height="50">Practical</td>
    <td height="50">Hackathon</td>
 </tr>
 <tr>
-   <td height="50">13:00 - 14:00</td>
+   <td height="50">12:45 - 14:00</td>
    <td colspan="3" height="50"> Lunch break </td>
 </tr>
 <tr>
@@ -254,7 +254,7 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
    <td colspan="3" height="50"> Coffee break </td>
 </tr>
 <tr>
-   <td height="50">16:00 - 18:00</td>
+   <td height="50">16:00 - 17:30</td>
    <td colspan="3" height="50"> Hackathon presentations. Expectations, outcomes, feedback. Wrap up. </td>
 </tr>
 </table>
