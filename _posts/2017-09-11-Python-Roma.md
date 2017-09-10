@@ -88,8 +88,7 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 </tr>
 <tr>
    <td height="50">09:45 - 10:30</td>
-   <td height="50">Lecture</td>
-   <td height="50"></td>
+   <td height="50">Long chat</td>
    <td height="50">Intro to the Linux command line</td>
 </tr>
 <tr>
@@ -99,7 +98,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
    <td height="50">11:00 - 13:00</td>
    <td height="50">Practical</td>
-   <td height="50"></td>
    <td height="50">Linux tutorial</td>
 </tr>
 <tr>
@@ -109,7 +107,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
   <td height="50">14:00 - 15:30</td>
   <td height="50">Lecture & Practical</td>
-  <td height="50"></td>
   <td height="50">Python Shell</td>
 </tr>
 <tr>
@@ -119,7 +116,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
   <td height="50">16:00 - 18:00</td>
   <td height="50">Lecture & Practical</td>
-  <td height="50"></td>
   <td height="50">Python programs</td>
 </tr>
 <tr>
@@ -127,6 +123,7 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 </tr>
 <tr>
    <td height="50">09:00 - 10:30</td>
+   <td height="50">Lecture & Practical</td>
    <td colspan="3" height="50"> Repeating things </td>
 </tr>
 <tr>
@@ -136,7 +133,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
    <td height="50">11:00 - 13:00</td>
    <td height="50">Lecture & Practical</td>
-   <td height="50"></td>
    <td height="50"> Reading and writing files</td>
 </tr>
 <tr>
@@ -146,7 +142,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
    <td height="50">14:00 - 15:30</td>
    <td height="50">Lecture & Practical</td>
-   <td height="50"></td>
    <td height="50">Parsing </td>
 </tr>
 <tr>
@@ -156,7 +151,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
    <td height="50">16:00 - 18:00</td>
    <td height="50">Lecture & Practical</td>
-   <td height="50"></td>
    <td height="50">Parsing </td>
 </tr>
 <tr>
@@ -165,7 +159,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
    <td height="50">09:00 - 10:30</td>
    <td height="50">Lecture & Practical</td>
-   <td height="50"></td>
    <td height="50">Functions </td>
 </tr>
 <tr>
@@ -175,7 +168,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
    <td height="50">11:00 - 13:00</td>
    <td height="50">Lecture & Practical</td>
-   <td height="50"></td>
    <td height="50">Debugging and Error Handling</td>
 </tr>
 <tr>
@@ -185,7 +177,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
 <td height="50">14:00 - 15:30</td>
 <td height="50">Lecture & Practical</td>
-<td height="50"></td>
 <td height="50">Data columns (formatting and sorting)</td>
 </tr>
 <tr>
@@ -195,7 +186,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
 <td height="50">16:00 - 18:00</td>
 <td height="50">Lecture & Practical</td>
-<td height="50"></td>
 <td height="50">Tabular Data</td>
 </tr>
 <tr>
@@ -204,7 +194,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
    <td height="50">09:00 - 10:30</td>
    <td height="50">Lecture & Practical</td>
-   <td height="50"></td>
    <td height="50">Searching </td>
 </tr>
 <tr>
@@ -214,7 +203,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
    <td height="50">11:00 - 13:00</td>
    <td height="50">Lecture & Practical</td>
-   <td height="50"></td>
    <td height="50">Pipelines </td>
 </tr>
 <tr>
@@ -224,7 +212,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
 <td height="50">14:00 - 15:30</td>
 <td height="50">Practical</td>
-<td height="50"></td>
 <td height="50">Python Libraries</td>
 </tr>
 <tr>
@@ -234,7 +221,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
 <td height="50">16:00 - 18:00</td>
 <td height="50">Practical</td>
-<td height="50"></td>
 <td height="50">Python Libraries</td>
 </tr>
 <tr>
@@ -243,7 +229,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
    <td height="50">09:00 - 10:30</td>
    <td height="50">Practical</td>
-   <td height="50"></td>
    <td height="50">Intro to the Hackathon</td>
 </tr>
 <tr>
@@ -253,7 +238,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
    <td height="50">11:00 - 13:00</td>
    <td height="50">Practical</td>
-   <td height="50"></td>
    <td height="50">Hackathon</td>
 </tr>
 <tr>
@@ -263,7 +247,6 @@ Basic familiarity with bioinformatics data resources such as Uniprot/Swiss-Prot,
 <tr>
 <td height="50">14:00 - 15:30</td>
 <td height="50">Practical</td>
-<td height="50"></td>
 <td height="50">Hackathon</td>
 </tr>
 <tr>
