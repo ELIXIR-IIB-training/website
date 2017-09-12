@@ -163,20 +163,20 @@ A basic understanding of molecular biology and transcriptomics is assumed. A bas
    <td colspan="3" height="50"> Wrap up </td>
 </tr>
 <tr>
-  <td height="50">09:30 - 10:00</td>
+  <td height="50">09:30 - 10:30</td>
   <td height="50">Lecture</td>
   <td height="50"></td>
   <td height="50">Alignment of RNA-Seq data</td>
 </tr>
 <tr>
-   <td height="50">10:00 - 10:30</td>
+   <td height="50">10:30 - 11:00</td>
    <td colspan="3" height="50">Coffee break</td>
 </tr>
 <tr>
-   <td height="50">10:30 - 13:00</td>
+   <td height="50">11:00 - 13:00</td>
    <td height="50">Practical</td>
    <td height="50"></td>
-   <td height="50"> Raw data preprocessing - Alignment of RNA-Seq data</td>
+   <td height="50">Alignment of RNA-Seq data</td>
 </tr>
 <tr>
    <td height="50">13:00 - 14:00</td>
