@@ -38,7 +38,7 @@ A limited number of rooms will be availables at the venue (costs 20 EUR/night). 
 <br>
 
 **FEE:** 
-The fee will cover attendance to lectures and practicals, coffee breaks, lunches and dinners. The participants are expected to pay their own travel and accommodation costs:
+The fee will cover attendance to lectures and practicals, coffee breaks and lunches. The participants are expected to pay their own travel and accommodation costs:
 - candidates from a bioinformatics lab from one of the ELIXIR-IIB member institutions (see the list at the bottom): **120 euros**
 - other candidates: **160 euros**
 
