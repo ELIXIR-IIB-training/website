@@ -132,12 +132,12 @@ Course materials are available from the github repository:<br> [https://github.c
    <td colspan="3">Welcome aperitivo at Cantina storica Istituto Agrario San Michele</td>
 </tr>
 <tr>
+   <td colspan="4"><h3>Tuesday  05 September 2017 - Machine Learning </h3></td>
+</tr>
+<tr>
    <td>09:30-09:40</td>
    <td>Previously On</td>
    <td colspan="2">Recap of previous lessons by participants</td>
-</tr>
-<tr>
-   <td colspan="4"><h3>Tuesday  05 September 2017 - Machine Learning </h3></td>
 </tr>
 <tr>
   <td>09:40-10:30</td>
