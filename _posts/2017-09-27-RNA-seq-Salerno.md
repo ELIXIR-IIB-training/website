@@ -105,6 +105,9 @@ A basic understanding of molecular biology and transcriptomics is assumed. A bas
 
 ### Programme
 
+Practical course materials are available at this [link]
+(../../../docs/TutorialRNA-Seq_Salerno2017.pdf).
+
 <table border="1">
 <tr>
    <td colspan="4"><h3>Wednesday - 27 Sep 2017</h3></td>
