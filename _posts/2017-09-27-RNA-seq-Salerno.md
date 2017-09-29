@@ -104,8 +104,9 @@ A basic understanding of molecular biology and transcriptomics is assumed. A bas
 
 
 ### Programme
-
-Course material available at this [link](../../../docs/TutorialRNA-Seq_Salerno2017.pdf)
+ 
+Course materials available from the github repository:<br>
+[https://github.com/ELIXIR-IIB-training/RNASeq2017](https://github.com/ELIXIR-IIB-training/RNASeq2017)
 
 <table border="1">
 <tr>
