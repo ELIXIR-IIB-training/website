@@ -38,4 +38,6 @@ Train the trainer programme @ high school<br>
 Workshop design organization and delivery<br>
 <amarabotti@unisa.it>
 
-
+**Alberto Calderone**<br>
+Workshop design organization and delivery<br>
+<sinnefa@gmail.com>
