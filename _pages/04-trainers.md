@@ -19,7 +19,7 @@ permalink: /trainers/
 
 [**Vincenza Colonna**]() (CNR, Napoli, Italy)<br>
 
-[**Gianmauro Cuccuru**]() (CRS4, Pula, Italy)<br>
+[**Gianmauro Cuccuru**](http://www.crs4.it/peopledetails/195/gianmauro-cuccuru/) (CRS4, Pula, Italy)<br>
 
 [**Norman Davey**](../instructors/norman_davey.html) (University College Dublin, Dublin, Ireland)<br>
 
