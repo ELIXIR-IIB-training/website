@@ -43,7 +43,7 @@ permalink: /trainers/
 
 [**Pier Luigi Martelli**]() (University of Bologna, Italy)<br>
 
-[**Stefano Moro**](http://mms.dsfarm.unipd.it/smoro.html) (Dept. of Pharmaceutical and Pharmacological Sciences, University of Padova, Padova, Italy)<br>
+[**Stefano Moro**](http://mms.dsfarm.unipd.it/smoro.html) (Dept. of Pharmaceutical and Pharmacological Sciences, University of Padova, Italy)<br>
 
 [**Giulio Pavesi**](http://159.149.160.56/beacon/) (Dept. of Biosciences, University of Milano, Italy)<br>
 
