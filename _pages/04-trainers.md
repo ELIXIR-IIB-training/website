@@ -39,7 +39,7 @@ permalink: /trainers/
 
 [**Loredana Le Pera**](../instructors/loredana_le_pera.html) (Center for Life Nano Science@Sapienza, IIT, Roma, Italy)<br>
 
-[**Luana Licata**]() (University of Rome "Tor Vergata", Italy)<br>
+[**Luana Licata**](../instructors/luana_licata.html) (University of Rome "Tor Vergata", Italy)<br>
 
 [**Pier Luigi Martelli**]() (University of Bologna, Italy)<br>
 
