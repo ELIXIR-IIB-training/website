@@ -9,7 +9,7 @@ permalink: /trainers/
  <br>
 [**Rossano Atzeni**](http://www.crs4.it/peopledetails/357/rossano-atzeni/) (CRS4, Pula, Italy)<br>
 
-[**Chiara Batini**]() (University of Leicester, UK)<br>
+[**Chiara Batini**](../instructors/chiara_batini.html) (University of Leicester, UK)<br>
 
 [**Alexandre Bonvin**](../instructors/alexandre_bonvin.html) (Faculty of Science, Utrecht University, the Netherlands)<br>
 
@@ -17,7 +17,7 @@ permalink: /trainers/
 
 [**Matteo Chiara**](http://159.149.160.56/beacon/) (Dept. of Biosciences, University of Milano, Italy)<br>
 
-[**Vincenza Colonna**]() (CNR, Napoli, Italy)<br>
+[**Vincenza Colonna**](../instructors/vincenza_colonna.html (CNR, Napoli, Italy)<br>
 
 [**Gianmauro Cuccuru**](http://www.crs4.it/peopledetails/195/gianmauro-cuccuru/) (CRS4, Pula, Italy)<br>
 
