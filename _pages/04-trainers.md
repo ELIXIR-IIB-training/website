@@ -25,9 +25,7 @@ permalink: /trainers/
 
 [**Stefano Forli**](../instructors/stefano_forli.html) (Dept. Molecular Biology, The Scripps Research Institute, La Jolla, USA)<br>
 
-[**Pietro Di Lena**]() (University of Bologna, Italy)<br>
-
-[**Piero Fariselli**]() (University of Bologna, Italy)<br>
+[**Piero Fariselli**](../instructors/piero_fariselli.html) (University of Bologna, Italy)<br>
 
 [**Pedro Fernandes**](../instructors/pedro_fernandes.html) (Instituto Gulbenkian de Ciência, Oeiras, Portugal)<br>
 
@@ -55,4 +53,4 @@ permalink: /trainers/
 
 [**Federico Zambelli**](http://159.149.160.56/beacon/) (Dept. of Biosciences, University of Milano, Italy)<br>
 
-[**Andreas Zanzoni**]() (Aix-Marseille University – Inserm, Marseille, FR)<br>
+[**Andreas Zanzoni**](../instructors/andreas_zanzoni.html) (Aix-Marseille University – Inserm, Marseille, FR)<br>
