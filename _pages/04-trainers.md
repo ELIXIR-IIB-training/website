@@ -41,7 +41,7 @@ permalink: /trainers/
 
 [**Luana Licata**](../instructors/luana_licata.html) (University of Rome "Tor Vergata", Italy)<br>
 
-[**Pier Luigi Martelli**]() (University of Bologna, Italy)<br>
+[**Pier Luigi Martelli**](../instructors/pierluigi_martelli.html) (University of Bologna, Italy)<br>
 
 [**Stefano Moro**](http://mms.dsfarm.unipd.it/smoro.html) (Dept. of Pharmaceutical and Pharmacological Sciences, University of Padova, Italy)<br>
 
