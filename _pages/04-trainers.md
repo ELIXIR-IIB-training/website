@@ -15,6 +15,8 @@ permalink: /trainers/
 
 [**Matteo Chiara**](http://159.149.160.56/beacon/) (Dept. of Biosciences, University of Milano, Italy)<br>
 
+[**Teresa Colombo**](../instructors/teresa_colombo.html) (IASI-CNR, Roma, Italy)<br>
+
 [**Vincenza Colonna**](../instructors/vincenza_colonna.html) (CNR, Napoli, Italy)<br>
 
 [**Gianmauro Cuccuru**](http://www.crs4.it/peopledetails/195/gianmauro-cuccuru/) (CRS4, Pula, Italy)<br>
