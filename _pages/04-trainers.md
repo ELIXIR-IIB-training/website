@@ -11,8 +11,6 @@ permalink: /trainers/
 
 [**Chiara Batini**](../instructors/chiara_batini.html) (University of Leicester, UK)<br>
 
-[**Alexandre Bonvin**](../instructors/alexandre_bonvin.html) (Faculty of Science, Utrecht University, the Netherlands)<br>
-
 [**Alberto Calderone**](../instructors/alberto_calderone.html) (University of Rome "Tor Vergata", Italy)<br>
 
 [**Matteo Chiara**](http://159.149.160.56/beacon/) (Dept. of Biosciences, University of Milano, Italy)<br>
@@ -20,14 +18,6 @@ permalink: /trainers/
 [**Vincenza Colonna**](../instructors/vincenza_colonna.html) (CNR, Napoli, Italy)<br>
 
 [**Gianmauro Cuccuru**](http://www.crs4.it/peopledetails/195/gianmauro-cuccuru/) (CRS4, Pula, Italy)<br>
-
-[**Norman Davey**](../instructors/norman_davey.html) (University College Dublin, Dublin, Ireland)<br>
-
-[**Stefano Forli**](../instructors/stefano_forli.html) (Dept. Molecular Biology, The Scripps Research Institute, La Jolla, USA)<br>
-
-[**Piero Fariselli**](../instructors/piero_fariselli.html) (University of Bologna, Italy)<br>
-
-[**Pedro Fernandes**](../instructors/pedro_fernandes.html) (Instituto Gulbenkian de Ciência, Oeiras, Portugal)<br>
 
 [**Fabrizio Ferré**](https://www.unibo.it/sitoweb/fabrizio.ferre) (Dept. of Pharmacy and Biotechnology, University of Bologna, Italy)<br>
 
@@ -39,10 +29,6 @@ permalink: /trainers/
 
 [**Luana Licata**](../instructors/luana_licata.html) (University of Rome "Tor Vergata", Italy)<br>
 
-[**Pier Luigi Martelli**](../instructors/pierluigi_martelli.html) (University of Bologna, Italy)<br>
-
-[**Stefano Moro**](http://mms.dsfarm.unipd.it/smoro.html) (Dept. of Pharmaceutical and Pharmacological Sciences, University of Padova, Italy)<br>
-
 [**Giulio Pavesi**](http://159.149.160.56/beacon/) (Dept. of Biosciences, University of Milano, Italy)<br>
 
 [**Marco Tangaro**](../instructors/marco_tangaro.html) (Institute of Biomembrane and Bioenergetics IBBE-CNR, Bari, Italy)<br>
@@ -52,5 +38,3 @@ permalink: /trainers/
 [**Allegra Via**](../instructors/allegra_via.html) (Institute of Molecular Biology and Pathology IBPM-CNR, Italy)<br>
 
 [**Federico Zambelli**](http://159.149.160.56/beacon/) (Dept. of Biosciences, University of Milano, Italy)<br>
-
-[**Andreas Zanzoni**](../instructors/andreas_zanzoni.html) (Aix-Marseille University – Inserm, Marseille, FR)<br>
