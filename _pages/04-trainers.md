@@ -13,11 +13,13 @@ permalink: /trainers/
 
 [**Alberto Calderone**](../instructors/alberto_calderone.html) (University of Rome "Tor Vergata", Italy)<br>
 
+[**Tiziana Castrignanò**](../instructors/tiziana_castrignano.html) (CINECA, Roma, Italy)<br>
+
 [**Matteo Chiara**](http://159.149.160.56/beacon/) (Dept. of Biosciences, University of Milano, Italy)<br>
 
-[**Teresa Colombo**](../instructors/teresa_colombo.html) (IASI-CNR, Roma, Italy)<br>
+[**Teresa Colombo**](../instructors/teresa_colombo.html) (Istituto di analisi dei sistemi ed informatica IASI-CNR, Roma, Italy)<br>
 
-[**Vincenza Colonna**](../instructors/vincenza_colonna.html) (CNR, Napoli, Italy)<br>
+[**Vincenza Colonna**](../instructors/vincenza_colonna.html) (Institute of Genetics and Biophysic IGB-CNR, Napoli, Italy)<br>
 
 [**Gianmauro Cuccuru**](http://www.crs4.it/peopledetails/195/gianmauro-cuccuru/) (CRS4, Pula, Italy)<br>
 
