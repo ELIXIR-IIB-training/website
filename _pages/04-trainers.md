@@ -35,6 +35,8 @@ permalink: /trainers/
 
 [**Giulio Pavesi**](http://159.149.160.56/beacon/) (Dept. of Biosciences, University of Milano, Italy)<br>
 
+[**Giuseppe Profiti**](../instructors/giuseppe_profiti.html) (Biocomputing group, University of Bologna, Italy)
+
 [**Marco Tangaro**](../instructors/marco_tangaro.html) (Institute of Biomembrane and Bioenergetics IBBE-CNR, Bari, Italy)<br>
 
 [**Paolo Uva**](http://www.crs4.it/peopledetails/183/paolo-uva/) (CRS4, Pula, Cagliari, Italy)<br>
