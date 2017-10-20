@@ -7,7 +7,7 @@ permalink: /trainers/
  This is a list of instructors and helpers who taught in ELIXIR-IIB courses:
  <br>
  <br>
-[**Rossano Atzeni**](http://www.crs4.it/peopledetails/357/rossano-atzeni/) (CRS4, Pula, Italy)<br>
+[**Rossano Atzeni**](http://www.crs4.it/peopledetails/357/rossano-atzeni/) (CRS4, Pula (Cagliari), Italy)<br>
 
 [**Chiara Batini**](../instructors/chiara_batini.html) (University of Leicester, UK)<br>
 
@@ -21,7 +21,7 @@ permalink: /trainers/
 
 [**Vincenza Colonna**](../instructors/vincenza_colonna.html) (Institute of Genetics and Biophysic IGB-CNR, Napoli, Italy)<br>
 
-[**Gianmauro Cuccuru**](http://www.crs4.it/peopledetails/195/gianmauro-cuccuru/) (CRS4, Pula, Italy)<br>
+[**Gianmauro Cuccuru**](http://www.crs4.it/peopledetails/195/gianmauro-cuccuru/) (CRS4, Pula (Cagliari), Italy)<br>
 
 [**Fabrizio Ferré**](https://www.unibo.it/sitoweb/fabrizio.ferre) (Dept. of Pharmacy and Biotechnology, University of Bologna, Italy)<br>
 
@@ -39,7 +39,7 @@ permalink: /trainers/
 
 [**Marco Tangaro**](../instructors/marco_tangaro.html) (Institute of Biomembrane and Bioenergetics IBBE-CNR, Bari, Italy)<br>
 
-[**Paolo Uva**](http://www.crs4.it/peopledetails/183/paolo-uva/) (CRS4, Pula, Cagliari, Italy)<br>
+[**Paolo Uva**](http://www.crs4.it/peopledetails/183/paolo-uva/) (CRS4, Pula (Cagliari), Italy)<br>
 
 [**Allegra Via**](../instructors/allegra_via.html) (Institute of Molecular Biology and Pathology IBPM-CNR, Roma, Italy)<br>
 
