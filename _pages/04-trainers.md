@@ -7,11 +7,11 @@ permalink: /trainers/
  This is a list of instructors and helpers who taught in ELIXIR-IIB courses:
  <br>
  <br>
-[**Rossano Atzeni**](http://www.crs4.it/peopledetails/357/rossano-atzeni/) (CRS4, Pula (Cagliari), Italy)<br>
+[**Rossano Atzeni**](http://www.crs4.it/peopledetails/357/rossano-atzeni/) [CRS4, Pula (Cagliari), IT]<br>
 
-[**Chiara Batini**](../instructors/chiara_batini.html) (University of Leicester, UK)<br>
+[**Chiara Batini**](../instructors/chiara_batini.html) [University of Leicester, UK]<br>
 
-[**Alberto Calderone**](../instructors/alberto_calderone.html) (Dept. of Molecular Biology, "Tor Vergata" University,  Roma, Italy)<br>
+[**Alberto Calderone**](../instructors/alberto_calderone.html) [Dept. of Molecular Biology, "Tor Vergata" University,  Roma, Italy)<br>
 
 [**Tiziana Castrignanò**](../instructors/tiziana_castrignano.html) (CINECA, Roma, Italy)<br>
 
