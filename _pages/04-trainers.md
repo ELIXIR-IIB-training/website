@@ -9,7 +9,7 @@ permalink: /trainers/
  <br>
 [**Rossano Atzeni**](http://www.crs4.it/peopledetails/357/rossano-atzeni/) [CRS4, Pula (Cagliari), IT]<br>
 
-[**Chiara Batini**](../instructors/chiara_batini.html) [University of Leicester, UK]<br>
+[**Chiara Batini**](../instructors/chiara_batini.html) [Dept. of Health Sciences, University of Leicester, UK]<br>
 
 [**Alberto Calderone**](../instructors/alberto_calderone.html) [Dept. of Molecular Biology, "Tor Vergata" University,  Roma, IT]<br>
 
