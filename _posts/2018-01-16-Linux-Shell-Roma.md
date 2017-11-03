@@ -97,8 +97,7 @@ The course is directed to biologists with little or no experience in Linux shell
 <br>
 
 
-### [Application Form]
-<!-- (https://goo.gl/forms/vuz66qUMXRAh6bD22) -->
+<!-- ### [Application Form] (https://goo.gl/forms/vuz66qUMXRAh6bD22) -->
 <br>
 <br>
 
