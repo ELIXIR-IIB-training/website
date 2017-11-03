@@ -109,7 +109,7 @@ The course is directed to biologists with little or no experience in Linux shell
 
 <table border="1">
 <tr>
-   <td colspan="4"><h3>DAY 1 - 07 Dec 2017</h3></td>
+   <td colspan="4"><h3>DAY 1 - 16 Jan 2018</h3></td>
 </tr>
 <tr>
    <td height="50">09:00 - 09:45</td>
@@ -187,7 +187,7 @@ The course is directed to biologists with little or no experience in Linux shell
 </td>
 </tr>
 <tr>
-   <td colspan="4"><h3>DAY 2 - 08 Dec 2017</h3></td>
+   <td colspan="4"><h3>DAY 2 - 17 Jan 2018</h3></td>
 </tr>
 <tr>
 <td rowspan="2" height="50">09:00 - 18:00</td>
