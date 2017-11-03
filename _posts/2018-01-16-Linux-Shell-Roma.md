@@ -192,10 +192,10 @@ The course is directed to biologists with little or no experience in Linux shell
 <tr>
 <td rowspan="2" height="50">09:00 - 18:00</td>
  <td rowspan="2" height="50">Hands-on</td>
-   <td colspan="3"><h5>Bring Your Own Data text files and manipulate them</h5></td>
+   <td colspan="3" height="50"><h>Bring Your Own Data text files and manipulate them</h></td>
 </tr>
 <tr>
-   <td colspan="3"><h5>Pick programs you want to run and write a Linux shell script to run them in sequence (pipeline)</h5></td>
+   <td colspan="3" height="50"><h>Pick programs you want to run and write a Linux shell script to run them in sequence (pipeline)</h></td>
 </tr>
 </table>
 
