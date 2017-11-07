@@ -30,7 +30,7 @@ description: Biological big data increasingly require supercomputers for their p
 
 
 **VENUE:**
-CINECA Auditorium, Via dei Tizii 6b, 00185 Rome, Italy. 
+CINECA, Via dei Tizii 6b, 00185 Roma, Italy. 
 <br>
 
 
