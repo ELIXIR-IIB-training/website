@@ -12,7 +12,7 @@ description: Biological big data increasingly require supercomputers for their p
 ---
 
 
-<table border="0" width="600">
+<table border="0" width="300">
   <tr>
     <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="100"></a></td>
     <td><a href="https://www.cineca.it/en"><img src="../../../img/Logo_CINECA.jpg" height="100"></a></td>
