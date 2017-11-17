@@ -138,7 +138,7 @@ The course is directed to biologists with little or no experience in Linux shell
   <td height="50">14:00 - 16:00</td>
   <td height="50">Lecture & Practical</td>
   <td height="50"> Shell scripts<br>
-  	Running external programs
+  	Running programs
   </td>
 </tr>
 <tr>
