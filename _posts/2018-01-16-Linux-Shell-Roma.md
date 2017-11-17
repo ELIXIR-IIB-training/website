@@ -6,9 +6,6 @@ date_end:   2018-01-17
 venue: Roma, Italy
 description: Biological big data increasingly require supercomputers for their processing and analysis. Running high-throughput (HTP) bioinformatics data pipelines on supercomputing machines requires advanced Linux shell command line and scripting skills. In this two-day course, we will introduce  the Linux shell and, on day one, we will show how to navigate and work with files and directories, how to combine commands to do new things, how to perform the same actions on many different files, how to filter and selectively extract data from tables, and how to find objects in files. Moreover, we will show how to connect to a remote supercomputer and how to utilise a supercomputing environment to analyse big amount of biological data, run simple shell scripts and bioinformatics pipelines. Day 2 will be wholly practical.
 
-
-
-
 ---
 
 
@@ -24,7 +21,7 @@ description: Biological big data increasingly require supercomputers for their p
 **IMPORTANT DATES** for this Training course:
 
 
-- Deadline for applications: 28 Dec 2017
+- Deadline for applications: 20 Dec 2017
 - Course date: 16-17 Jan 2018
 <br>
 
@@ -102,86 +99,54 @@ The course is directed to biologists with little or no experience in Linux shell
 <br>
 
 
-
-
 ### Preliminary programme
-
 
 <table border="1">
 <tr>
    <td colspan="4"><h3>DAY 1 - 16 Jan 2018</h3></td>
 </tr>
 <tr>
-   <td height="50">09:00 - 09:45</td>
-   <td colspan="3" height="50">Welcome, intro & expectations.</td>
+   <td height="50">09:00 - 09:30</td>
+   <td colspan="3" height="50">Welcome, intro & expectations</td>
 </tr>
 <tr>
-   <td height="50">09:45 - 10:15</td>
+   <td height="50">09:30 - 10:30</td>
    <td height="50">Lecture & Practical</td>
-   <td height="50">Introducing the Linux Shell</td>
+   <td height="50">Introducing the Linux Shell<br>
+   Navigating files and directories<br>
+   Working with files and directories
+	</td>
 </tr>
 <tr>
-   <td height="50">10:15 - 10:45</td>
-   <td height="50">Lecture & Practical</td>
-   <td height="50">Connecting to remote supercomputers</td>
-</tr>
-<tr>
-   <td height="50">10:45 - 11:15</td>
+   <td height="50">10:30 - 11:00</td>
    <td colspan="3" height="50">Coffee break</td>
 </tr>
 <tr>
-   <td height="50">11:15 - 11:45</td>
+   <td height="50">11:00 - 13:00</td>
    <td height="50">Lecture & Practical</td>
-   <td height="50">Navigating files and directories</td>
-</tr>
-<tr>
-   <td height="50">11:45 - 12:15</td>
-   <td height="50">Lecture & Practical</td>
-   <td height="50">Working with files and directories</td>
-</tr>
-<tr>
-   <td height="50">12:15 - 13:00</td>
-   <td height="50">Lecture & Practical</td>
-   <td height="50">Pipes and filters</td>
+   <td height="50">Pipes and filters<br>
+   				Manipulating text files<br>
+   				Finding things<br>
+   				Repeating things
+   </td>
 </tr>
 <tr>
    <td height="50">13:00 - 14:00</td>
    <td colspan="3" height="50">Lunch break </td>
 </tr>
 <tr>
-  <td height="50">14:00 - 14:45</td>
+  <td height="50">14:00 - 16:00</td>
   <td height="50">Lecture & Practical</td>
-  <td height="50">Manipulating text files
-</td>
-</tr>
-<tr>
-  <td height="50">14:45 - 15:30</td>
-  <td height="50">Lecture & Practical</td>
-  <td height="50">Finding things</td>
-</tr>
-<tr>
-   <td height="50">15:30 - 16:00</td>
-   <td colspan="3" height="50">Coffee break</td>
-</tr>
-<tr>
-  <td height="50">16:00 - 16:45</td>
-  <td height="50">Lecture & Practical</td>
-  <td height="50">Repeating things</td>
-</tr>
-<tr>
-  <td height="50">16:45 - 17:30</td>
-  <td height="50">Lecture & Practical</td>
-  <td height="50">Shell scripts
+  <td height="50"> Shell scripts<br>
+  	Running external programs
   </td>
 </tr>
 <tr>
-  <td height="50">17:30 - 18:00</td>
-  <td height="50">Lecture & Practical</td>
-  <td height="50">Running scripts and external programs
-</td>
+   <td height="50">16:00 - 16:30</td>
+   <td colspan="3" height="50">Coffee break</td>
 </tr>
 <tr>
-  <td height="50">18:00 - 18:30</td>
+  <td height="50">16:30 - 18:30</td>
   <td height="50">Lecture & Practical</td>
   <td height="50">Working on supercomputers
 </td>
