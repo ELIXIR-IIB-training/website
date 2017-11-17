@@ -78,11 +78,11 @@ Learn how to run simple programs on a supercomputer<br>
 
 ### Learning outcomes
 By the end of this course, learners will be independently able to:
-- Connect to a supercomputer
-- Transfer files from the local computer to the remote one and vice versa
 - Fluently navigate and work with  files and directories
 - Sort a table by the values of a given column
 - Find lines in a file where a given keyword appears
+- Connect to a supercomputer
+- Transfer files from the local computer to the remote one and vice versa
 - Prepare the environment to analyse big amount of  biological data on a supercomputer
 - Run single programs on a supercomputer
 - Combine bioinformatics applications into pipelines on a supercomputer
@@ -94,7 +94,7 @@ The course is directed to biologists with little or no experience in Linux shell
 <br>
 
 
-<!-- ### [Application Form] (https://goo.gl/forms/vuz66qUMXRAh6bD22) -->
+### [Application Form] (https://goo.gl/forms/0n5x8XL4hWTWrjbs2)
 <br>
 <br>
 
@@ -127,7 +127,7 @@ The course is directed to biologists with little or no experience in Linux shell
    <td height="50">Pipes and filters<br>
    				Manipulating text files<br>
    				Finding things<br>
-   				Repeating things
+   				Loops
    </td>
 </tr>
 <tr>
