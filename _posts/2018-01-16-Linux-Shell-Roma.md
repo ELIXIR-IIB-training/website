@@ -43,25 +43,25 @@ A maximum of **20** candidates will be selected based on their need for the cour
 
 ### Instructors and Organisers
 - [**Allegra Via**](../../../instructors/allegra_via.html) - ELIXIR-IIB Training Coordinator, IBPM-CNR, IT
-- [**Loredana Le Pera**](../../../instructors/loredana_le_pera.html) - ELIXIR-IIB Training Team and CLNS@Sapienza, IIT, Roma, IT
+- [**Loredana Le Pera**](../../../instructors/loredana_le_pera.html) - ELIXIR-IIB Training Team, IBIOM-CNR, IT
 - [**Tiziana Castrignanò**](../../../instructors/tiziana_castrignano.html) -  SCAI Department, CINECA, Roma, IT
 <br>
 
 
 ### Helpers
-- **Tiziano Flati** - ELIXIR-IIB IBIOM-CNR & SCAI Department, CINECA, Roma, IT
-- **Silvia Gioiosa** - ELIXIR-IIB IBIOM-CNR & SCAI Department, CINECA, Roma, IT
+- **Tiziano Flati** - ELIXIR-IIB IBIOM-CNR and SCAI Department, CINECA, Roma, IT
+- **Silvia Gioiosa** - ELIXIR-IIB IBIOM-CNR and SCAI Department, CINECA, Roma, IT
 
 
 ### Course Description
 An unprecedented amount of biomedical data have been produced and stored in the last years. Managing such biological big data is often not affordable without high-performance computing architectures, needed to analyze and process large-scale datasets.
 Running high-throughput (HTP) bioinformatics data pipelines on supercomputing machines requires advanced Linux shell command line and scripting skills. Most scientists working with such data often lack such skills or have acquired them by self-learning without becoming fully independent and fluent. This may have repercussions on the quality, reproducibility, and reliability of the analyses. 
 In this two-day course, we will introduce  the Linux shell and, on day one, we will show how to navigate and work with files and directories, how to combine commands to do new things, how to perform the same actions on many different files, how to filter and selectively extract data from tables, and how to find objects in files. Moreover, we will show how to connect to a remote supercomputer and how to utilise a supercomputing environment to analyse big amount of biological data,  run simple shell scripts and bioinformatics pipelines.
-Day 2 will be wholly practical. Participants are invited to let us know in advance which are  the typical file format(s) they have to deal with (e.g. fastq, table, etc), the typical processes they need to perform on them (e.g. filtering, ordering, etc) and the typical programs they need to run (e.g. bwa, hisat2, , etc) so that we can prepare tailored practicals. Participants are also welcome to come to the course with one or more files they wish to work with, provided they do not exceed a given size. 
+Day 2 will be wholly practical. Participants are invited to let us know in advance which are  the typical file format(s) they have to deal with (e.g. fastq, table, etc), the typical processes they need to perform on them (e.g. filtering, ordering, etc.) and the typical programs they need to run (e.g. bwa, hisat2, etc.) so that we can prepare tailored practicals. Participants are also welcome to come to the course with one or more files they wish to work with, provided they do not exceed a given size. 
 
 
 ### Target audience
-This course is aimed at scientists at any stage of their career who work with **big data** files and/or **large numbers** of files, and need to process and analyse their data on local or remote **supercomputing** machines but lack the **Linux shell command line** and **scripting skills** necessary to perform such tasks.
+This course is aimed at scientists at any stage of their career who work with **big data** files and/or **large numbers** of files, and need to process and analyse their data on local or remote **supercomputing** machines, but lack the **Linux shell command line** and **scripting skills** necessary to perform such tasks.
 <br>
 
 
@@ -94,7 +94,7 @@ The course is directed to biologists with little or no experience in Linux shell
 <br>
 
 
-### [Application Form] (https://goo.gl/forms/0n5x8XL4hWTWrjbs2)
+### [Application Form](https://goo.gl/forms/0n5x8XL4hWTWrjbs2)
 <br>
 <br>
 
