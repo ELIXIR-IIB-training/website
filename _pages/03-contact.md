@@ -18,18 +18,15 @@ Workshop design organization and delivery<br>
 <loredanalepera@gmail.com><br>
 <loredana.lepera@iit.it>
 
-**Domenica D'Elia**<br>
-Dissemination & Outreach <br>
-<domenica.delia@gmail.com> <br>
-<domenica.delia@ba.itb.cnr.it>
-
 **Vincenza Colonna**<br>
 Workshop design organization and delivery <br>
+Dissemination & Outreach <br>
 <enza.colonna@gmail.com><br>
 <vincenza.colonna@igb.cnr.it>
 
 **Luana Licata**<br>
 Workshop design organization and delivery<br>
+Dissemination & Outreach <br>
 Train the trainer programme @ high school<br>
 <luana.licata@gmail.com><br>
 <luana.licata@uniroma2.it>
