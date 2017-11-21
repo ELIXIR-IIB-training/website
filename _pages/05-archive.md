@@ -10,3 +10,4 @@ permalink: /archive/
 
 [**Programme 2015**](../docs/programme2015_copy.html)
 
+[**Link to old website**](http://bioinformaticstraining.pythonanywhere.com/course)
