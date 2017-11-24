@@ -104,59 +104,112 @@ Map: [https://goo.gl/maps/T3Ca7XwLQ142](https://goo.gl/maps/T3Ca7XwLQ142)<br>
 </tr>
 <tr>
    <td width="60"> 09:00-09:30 </td>
-    <td width="120"> All Participants </td>
+    <td width="120"> All the Participants </td>
     <td width="120"> Tour de table </td>
-   <td colspan="2"> Short presentation of the participants </td>
+   <td colspan="2"> Short presentation of the participants  (1 slide on shared presentation, 3 sentences, 1 minute)</td>
 </tr>
 <tr>
-   <td width="60"> 09:30-11:00 </td>
-   <td width="120"> Livia Perfetto, Marcio Acencio, David Fakezas, Pascale Gaudet, Ruth Lovering, Anne Niknejad, Cristina Casals Casas
-</td>
-<td width="120"> Short presentations </td>
-   <td> Signor; TF-TG interactions: what is known about causality?; Signalink 2.0; neXtProt; GO; annotation of causal interactions curation at SIB </td>
+   <td colspan="4"> <b>Available resources and what is missing</b> </td>
+</tr>
+<tr>
+   <td width="60"> 09:30-09:40 </td>
+   <td width="120"> Livia Perfetto</td>
+<td width="120"> </td>
+   <td> Introduction to Causal interaction Representation </td>
+</tr>
+<tr>
+   <td width="60"> 09:40-09:55 </td>
+   <td width="120"> Livia Perfetto</td>
+<td width="120"> Short presentation </td>
+   <td> Signor </td>
+</tr>
+<tr>
+   <td width="60"> 09:55-10:10 </td>
+   <td width="120"> Marcio Acencio</td>
+<td width="120"> Short presentation </td>
+   <td> TF-TG interactions: what is known about causality? </td>
+</tr>
+<tr>
+   <td width="60"> 10:10-10:25 </td>
+   <td width="120"> David Fazekas </td>
+<td width="120"> Short presentation </td>
+   <td> Signalink 2.0 </td>
+</tr>
+<tr>
+   <td width="60"> 10:25-10:40 </td>
+   <td width="120"> Pascale Gaudet </td>
+<td width="120"> Short presentation </td>
+   <td> neXtProt </td>
+</tr>
+<tr>
+   <td width="60"> 10:40-10:55 </td>
+   <td width="120"> Ruth Lovering </td>
+<td width="120"> Short presentation </td>
+   <td> The Annotation Extension field of GO
+ </td>
 </tr>
 <tr>
    <td> 11:00-11:30 </td>
-   <td colspan="3"> Coffee break </td>
+   <td colspan="3"> <i>Coffee break</i> </td>
 </tr>
 <tr>
-   <td> 11:30-11:50 </td>
+   <td> 11:30-11:45 </td>
+   <td> Anne Niknejad </td>
+   <td> Short presentation </td>
+   <td> Annotation of causal interactions curation at SIB </td>
+</tr>
+<tr>
+   <td> 11:45-12:00 </td>
+   <td> Cristina Casals Casas </td>
+   <td> Short presentation </td>
+   <td> Annotation of causal interactions curation at SIB </td>
+</tr>
+<tr>
+   <td> 12:00-12:25 </td>
    <td> Pascale Gaudet </td>
    <td> Lecture </td>
    <td> GO-NOCTUA </td>
 </tr>
 <tr>
-   <td> 11:50-13:00 </td>
-   <td> All Participants </td>
-   <td> Discussion </td>
-   <td> Causal interaction Representation, what is missing? </td>
-</tr>
-<tr>
-<td> 13:00-14:00 </td>
-<td colspan="3"> Lunch </td>
-</tr>
-<tr>
-   <td> 14:00-14:30 </td>
+   <td> 12:25-13:00 </td>
    <td> Anne Niknejad and/or Cristina Casals Casas </td>
    <td> Use cases </td>
    <td> Issues and questions on causal interactions annotation </td>
 </tr>
 <tr>
-   <td> 14:30-15:30 </td>
-   <td> Luana Licata, Vasundra Touré, Martin Kuiper </td>
-   <td> Lecture </td>
-   <td> Standards and Ontology: Causal tab; Minimum Information for Causal Statements (MICaSt); Ontology
- </td>
+<td> 13:00-14:00 </td>
+<td colspan="3"> <i>Lunch</i> </td>
 </tr>
 <tr>
-   <td> 15:30-16:00 </td>
-   <td> All Participants </td>
+   <td colspan="4"> <b>Standards and Ontology</b> </td>
+</tr>
+<tr>
+   <td> 14:00-14:15 </td>
+   <td> Luana Licata</td>
+   <td> Lecture </td>
+   <td> Causal tab</td>
+</tr>
+<tr>
+   <td> 14:15-14:35 </td>
+   <td> Vasundra Touré</td>
+   <td> Lecture </td>
+   <td> Minimum Information for Causal Statements (MICaSt)</td>
+</tr>
+<tr>
+   <td> 14:35-15:00 </td>
+   <td> Martin Kuiper </td>
+   <td> Lecture </td>
+   <td> Ontology </td>
+</tr>
+<tr>
+   <td> 15:00-16:00 </td>
+   <td> All the Participants </td>
    <td> Discussion </td>
-   <td> </td>
+   <td> Causal interaction Representation, what is missing? </td>
 </tr>
 <tr>
    <td> 16:00-16:30 </td>
-   <td colspan="3"> Coffee break </td>
+   <td colspan="3"> <i>Coffee break</i> </td>
 </tr>
 <tr>
    <td> 16:30-16:50 </td>
@@ -165,29 +218,32 @@ Map: [https://goo.gl/maps/T3Ca7XwLQ142](https://goo.gl/maps/T3Ca7XwLQ142)<br>
    <td> Complex Portal </td>
 </tr>
 <tr>
-   <td> 16:50-17:10 </td>
-   <td> Marta Iannuccelli or Livia Perfetto </td>
+   <td> 16:50-17:00 </td>
+   <td> Livia Perfetto </td>
    <td> Use case </td>
-   <td> Complexes representation in SIGNOR/ dealing with TF complex </td>
+   <td> Complexes representation in SIGNOR </td>
+</tr>
+<tr>
+   <td> 17:00-17:10 </td>
+   <td> David Fakezas </td>
+   <td> Use case </td>
+   <td> Complexes representation in SIGNALINK </td>
 </tr>
 <tr>
    <td> 17:10-17:30 </td>
-   <td> David Fakezas </td>
-   <td> Use case </td>
-   <td> Complexes representation in SIGNALINK? </td>
-</tr>
-<tr>
-   <td> 17:30-17:50 </td>
    <td> Marcio Acencio </td>
    <td> Use case </td>
    <td> Transcription Factor complexes representation </td>
+</tr>
+<tr>
+   <td colspan="4"> <b>Dinner on your own, restaurant recommendation</b> </td>
 </tr>
 <tr>
    <td colspan="4"><h4>Wednesday 6th Dec 2017 </h4></td>
 </tr>
 <tr>
    <td> 09:00-09:30 </td>
-   <td> All Participants <br> Martin Kuiper (moderator)
+   <td> All the Participants <br> Martin Kuiper (moderator)
 </td>
    <td> Use case </td>
    <td> Genomic regions and features involved in causal interactions with transcription regulators </td>
@@ -200,29 +256,30 @@ Map: [https://goo.gl/maps/T3Ca7XwLQ142](https://goo.gl/maps/T3Ca7XwLQ142)<br>
 </tr>
 <tr>
   <td> 10:00-11:00 </td>
-  <td> All Participants </td>
+  <td> All the Participants </td>
   <td>  </td>
   <td> Set up curation rules to apply to all the community </td>
 </tr>
 <tr>
    <td> 11:00-11:30 </td>
-   <td colspan="3"> Coffee break </td>
+   <td colspan="3"> <i>Coffee break</i> </td>
 </tr>
 <tr>
   <td> 11:30-13:00 </td>
-  <td> All Participants </td>
+  <td> All the Participants </td>
   <td> Writing session </td>
-  <td> Dissemination </td>
+  <td> - Guidelines for causal interaction curation<br> -  General  rules
+ </td>
 </tr>
 <tr>
 <td> 13:00-14:00 </td>
-<td colspan="3"> Lunch </td>
+<td colspan="3"> <i>Lunch</i> </td>
 </tr>
 <tr>
   <td> 14:00-14:30 </td>
   <td> Sandra Orchard </td>
   <td> Lecture </td>
-  <td> MOLECULAR INTERACTION 
+  <td> MOLECULAR INTERACTION<br> 
 IMEx Consortium: overview of activities of the Molecular Interaction group </td>
 </tr>
 <tr>
@@ -238,18 +295,23 @@ IMEx Consortium: overview of activities of the Molecular Interaction group </td>
   <td> Dark Space Project and putting in value detailed curation: the mutations dataset </td>
 </tr>
 <tr>
-<td> 15:40-16:00 </td>
-<td colspan="3"> Coffee Break </td>
+  <td> 15:40-16:00 </td>
+  <td>  </td>
+  <td> </td>
+  <td> IMEx paper, new rules, new members </td>
 </tr>
 <tr>
-  <td> 16:00-17:30 </td>
+<td> 16:00-16:20 </td>
+<td colspan="3"> <i>Coffee Break</i> </td>
+</tr>
+<tr>
+  <td> 16:20-17:30 </td>
   <td> </td>
   <td> IMEx meeting </td>
-  <td> IMEx paper, new rules, new members) </td>
+  <td> IMEx paper, new rules, new members </td>
 </tr>
   <tr>
-<td>  </td>
-<td colspan="3"> Walk tour and Social dinner </td>
+<td colspan="4"> <b>Walk tour and Social dinner</b> </td>
 </tr>
 <tr>
    <td colspan="4"><h4>Thursday 7th Dec 2017 </h4></td>
@@ -270,7 +332,7 @@ IMEx Consortium: overview of activities of the Molecular Interaction group </td>
  </tr>
  <tr>
 <td> 09:50-10:30 </td>
-  <td> All Participants </td>
+  <td> All the Participants </td>
   <td> Discussion </td>
   <td> How to curate interaction involving intrinsically disordered protein regions
  </td>
@@ -284,7 +346,7 @@ IMEx Consortium: overview of activities of the Molecular Interaction group </td>
  </tr>
  <tr>
    <td> 11:00-11:30 </td>
-   <td colspan="3"> Coffee break </td>
+   <td colspan="3"> <i>Coffee break</i> </td>
 </tr>
  <tr>
   <td> 11:30-13:00 </td>
@@ -298,10 +360,10 @@ IMEx Consortium: overview of activities of the Molecular Interaction group </td>
  </tr>
  <tr>
 <td> 13:00-14:00 </td>
-<td colspan="3"> Lunch </td>
+<td colspan="3"> <i>Lunch</i> </td>
 </tr>
 <tr>
-<td> 10:30-11:00 </td>
+<td> 14:00-15:30 </td>
   <td> Simona Panni </td>
   <td> Use case </td>
   <td> RNA-Protein interactions –Which is the State of Art? (topics for discussion: RNA nomenclature, methodologies)
@@ -316,11 +378,14 @@ IMEx Consortium: overview of activities of the Molecular Interaction group </td>
  </tr>
  <tr>
 <td> 16:00-16:30 </td>
-<td colspan="3"> Coffee Break </td>
+<td colspan="3"> <i>Coffee Break</i> </td>
 </tr>
  <tr>
 <td> 16:30-17:00 </td>
 <td colspan="3"> Summary, wrap-up </td>
+</tr>
+ <tr>
+<td colspan="4"> <b>Dinner on your own, restaurant recommendation</b> </td>
 </tr>
 </table>
 
