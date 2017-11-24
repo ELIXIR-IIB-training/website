@@ -9,8 +9,10 @@ description: The curation workshop on molecular and causal interactions is organ
 
 <table border="0" width="300">
   <tr>
-    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="90"></a></td>
-<td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate/"><img src="../../../img/Logo_excelerate_whitebackground.png" height="90" width="120"></a></td>
+  <td><a href="http://web.uniroma2.it/"><img src="../../../img/Logo_uni_torvergata.png" height="90" width="110"></a></td>
+  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="100"></a></td>
+<td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate/"><img src="../../../img/Logo_excelerate_whitebackground.png" height="80" width="140"></a></td>
   </tr>
 </table>
 
