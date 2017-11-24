@@ -1,0 +1,325 @@
+---
+layout: post
+title:  "Curation workshop on molecular and causal interactions"
+date_start:   2017-12-05
+date_end:   2017-12-07
+venue: Roma, Italy
+description: The curation workshop on molecular and causal interactions is organized under the ELIXIR Italy training program and the ELIXIR-EXCELERATE project. The workshop will bring together the main European protagonists in the landscape of manually curated molecular and causal interactions databases. 
+---
+
+<table border="0" width="300">
+  <tr>
+    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="90"></a></td>
+<td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate/"><img src="../../../img/Logo_excelerate_whitebackground.png" height="90" width="120"></a></td>
+  </tr>
+</table>
+
+<br>
+The curation workshop on molecular and causal interactions is organized under the ELIXIR Italy training program and the ELIXIR-EXCELERATE project.
+<br>
+<br>
+### Date
+05-07 December 2017
+### Venue 
+the Workshop will be held at the headquarters of the Italian National Research Council, <br>
+Piazzale Aldo Moro 7, Roma<br>
+
+### Course Description
+The workshop will bring together the main European protagonists in the landscape of manually curated molecular and causal interactions databases. During the workshop will be discussed the state of art of the curation of molecular and causal interactions; the guidelines of curation rules on causal interactions will be defined and some use cases will be analyse in the molecular interaction fields in order to update and maintain IMEx curation rules. Curation rules, controlled vocabularies and standards will be developed, updated and maintained, keeping in mind the FAIR (Findable, Accessible, Interoperable and Reusable) principles which aim to increase the finding and reusability of data resources. 
+<br>
+<br>
+**Objectives**
+
+In this workshop we aim at achieving the following:
+- Adding causality statements into the curation workflow
+- Define the Minimum Information for Causal Statements Representation 
+- Define a policy to annotate genomic regions and features involved in causal interactions with transcription regulators
+- Improving funders value for money – strengthening the work of IMEx Consortium
+- Adding RNA-protein interactions into the curation workflow
+- Develop a strategy for the curation of interactions involving intrinsically disordered protein regions
+- Discuss, analyse and if necessary define new curation rule for specific use cases.
+
+### Organisers
+- Luana Licata (ELIXIR-IIB Training Team and University of Rome Tor Vergata, Italy) - <luana.licata@gmail.com>
+- Allegra Via (ELIXIR-IIB Training Coordinator, IBPM-CNR, Italy)
+<br>
+
+### Practical info
+**Arriving by plane**<br>
+From Rome Fiumicino International airport (code FCO), take the “Leonardo express” no-stop train to Roma Termini railways station. The trip is about 30′ and trains are leaving every 15′ (see the related page for details). A connection by bus from Fiumicino airport to Roma Termini is also available. Once in Roma Termini, follow directions below from this station to the venue.
+ 
+**From Roma Termini to CNR Headquarters**<br>
+Roma Termini is about 1.5 Km far from CNR Headquarters.
+You can reach the venue on foot in ca. 15 minutes. Alternatively, take the bus n. 492 which leaves just outside Roma Termini every 7′, direction “Stazione Tiburtina”. Exit the bus after six stops at “Ramni”. 
+ 
+**From Roma Termini to the hotel**<br>
+You can reach the hotel by the bus n. 649 which leaves just outside Roma Termini (via Gioberti) every 15′, direction “Stazione Tiburtina”.  Exit the bus after 8 stops at “Bari/Como” and then 3 minutes by walk.<br>
+Or by metro B, direction “Rebibbia”, exit policlinico and then 5 minutes by walk.<br>
+Map: [https://goo.gl/maps/BqCBs2xMv322](https://goo.gl/maps/BqCBs2xMv322)<br>
+ 
+**From the Hotel to CNR Headquarters**<br> 
+You can go either by bus or by feet,<br> 
+please follow the directions on the map: [https://goo.gl/maps/t795Th712BF2](https://goo.gl/maps/t795Th712BF2)
+
+**Hotel:** [http://www.casaviatore.it/room/dependance/](http://www.casaviatore.it/room/dependance/)<br>
+Map: [https://goo.gl/maps/3kWS6i9Z1sN2](https://goo.gl/maps/3kWS6i9Z1sN2)
+
+**Social dinner**<br>
+When: Wed, Dec 6 at 20:00<br>
+Where: Ristorante Maccheroni ([http://www.ristorantemaccheroni.com/](http://www.ristorantemaccheroni.com/))<br>
+Address: Piazza delle Coppelle, 44, Rome<br>
+Map: [https://goo.gl/maps/T3Ca7XwLQ142](https://goo.gl/maps/T3Ca7XwLQ142)<br>
+
+
+### Participants
+1. Gianni Cesareni [Professor and Team leader of Molecular genetics group, University of Rome Tor Vergata]
+2. Luisa Castagnoli [Professor and Team leader of Molecular genetics group, University of Rome Tor Vergata] 
+3. Luana Licata [Research fellow, MINT and SIGNOR Scientific database 4. curator, University of Rome Tor Vergata]
+4. Marta Iannuccelli [Research fellow, MINT and SIGNOR Scientific database curator, University of Rome Tor Vergata]
+5. Ilaria Rozzo [student at the University of Rome Tor Vergata]
+6. Vasundra Toure [PhD student in Martin Kuiper’s group, Trondheim, NTNU, currently exchange student with Emmanuel Barillot and Denis Thieffry. (Curie and ENS), Paris] 
+7. David Fazekas [Database developer at the Eotvos Lorand University, Budapest, Hungary]
+8. Sandra Orchard [Team leader for Protein Function Content (EBI)
+9. Pablo Porras, Team Leader for IntAct (EBI)]
+10. Livia Perfetto [Scientific Data Base Curator at IntAct (EBI)]
+11. Martin Kuiper [Professor in System Biology, Department of Biology, NTNU]
+12. Marcio Luis Acencio [PostDoc, Department of Clinical and Molecular Medicine, NTNU] 
+13. Ruth Lovering [GO, UCL-IRIS]
+14. Pascale Gaudet [NextProt, GO, SIB]
+15. Cristina Casals Casas [SWISS PROT, SIB]
+16. Anne Niknejad [VITAL-IT, SIB]
+17. Simona Panni [Professor, University of Calabria, Department of Biology]
+18. Silvio Tosatto [Professor and Team Leader of BioComputingUP lab, University of Padua]
+19. Damiano Piovesan [Research fellow, Scientific database curator for Disprot and MobiDB, BioComputingUP lab, University of Padua]
+20. Colin Logie [Professor, Faculty of Science, Radboud Institute for Molecular Life Science]
+
+
+### Preliminary Programme
+
+<table border="1">
+<tr>
+   <td colspan="4"><h4>Tuesday 5th Dec 2017 - Causal interaction</h4></td>
+</tr>
+<tr>
+   <td width="60"> 09:00-09:30 </td>
+    <td width="120"> All Participants </td>
+    <td width="120"> Tour de table </td>
+   <td colspan="2"> Short presentation of the participants </td>
+</tr>
+<tr>
+   <td width="60"> 09:30-11:00 </td>
+   <td width="120"> Livia Perfetto, Marcio Acencio, David Fakezas, Pascale Gaudet, Ruth Lovering, Anne Niknejad, Cristina Casals Casas
+</td>
+<td width="120"> Short presentations </td>
+   <td> Signor; TF-TG interactions: what is known about causality?; Signalink 2.0; neXtProt; GO; annotation of causal interactions curation at SIB </td>
+</tr>
+<tr>
+   <td> 11:00-11:30 </td>
+   <td colspan="3"> Coffee break </td>
+</tr>
+<tr>
+   <td> 11:30-11:50 </td>
+   <td> Pascale Gaudet </td>
+   <td> Lecture </td>
+   <td> GO-NOCTUA </td>
+</tr>
+<tr>
+   <td> 11:50-13:00 </td>
+   <td> All Participants </td>
+   <td> Discussion </td>
+   <td> Causal interaction Representation, what is missing? </td>
+</tr>
+<tr>
+<td> 13:00-14:00 </td>
+<td colspan="3"> Lunch </td>
+</tr>
+<tr>
+   <td> 14:00-14:30 </td>
+   <td> Anne Niknejad and/or Cristina Casals Casas </td>
+   <td> Use cases </td>
+   <td> Issues and questions on causal interactions annotation </td>
+</tr>
+<tr>
+   <td> 14:30-15:30 </td>
+   <td> Luana Licata, Vasundra Touré, Martin Kuiper </td>
+   <td> Lecture </td>
+   <td> Standards and Ontology: Causal tab; Minimum Information for Causal Statements (MICaSt); Ontology
+ </td>
+</tr>
+<tr>
+   <td> 15:30-16:00 </td>
+   <td> All Participants </td>
+   <td> Discussion </td>
+   <td> </td>
+</tr>
+<tr>
+   <td> 16:00-16:30 </td>
+   <td colspan="3"> Coffee break </td>
+</tr>
+<tr>
+   <td> 16:30-16:50 </td>
+   <td> Sandra Orchard </td>
+   <td> Lecture </td>
+   <td> Complex Portal </td>
+</tr>
+<tr>
+   <td> 16:50-17:10 </td>
+   <td> Marta Iannuccelli or Livia Perfetto </td>
+   <td> Use case </td>
+   <td> Complexes representation in SIGNOR/ dealing with TF complex </td>
+</tr>
+<tr>
+   <td> 17:10-17:30 </td>
+   <td> David Fakezas </td>
+   <td> Use case </td>
+   <td> Complexes representation in SIGNALINK? </td>
+</tr>
+<tr>
+   <td> 17:30-17:50 </td>
+   <td> Marcio Acencio </td>
+   <td> Use case </td>
+   <td> Transcription Factor complexes representation </td>
+</tr>
+<tr>
+   <td colspan="4"><h4>Wednesday 6th Dec 2017 </h4></td>
+</tr>
+<tr>
+   <td> 09:00-09:30 </td>
+   <td> All Participants <br> Martin Kuiper (moderator)
+</td>
+   <td> Use case </td>
+   <td> Genomic regions and features involved in causal interactions with transcription regulators </td>
+</tr>
+<tr>
+  <td> 09:30-10:00 </td>
+  <td> Colin Logie </td>
+  <td> Lecture/use case </td>
+  <td> DNA centric annotation: leveraging the concept of topologically associating chromosome domains </td>
+</tr>
+<tr>
+  <td> 10:00-11:00 </td>
+  <td> All Participants </td>
+  <td>  </td>
+  <td> Set up curation rules to apply to all the community </td>
+</tr>
+<tr>
+   <td> 11:00-11:30 </td>
+   <td colspan="3"> Coffee break </td>
+</tr>
+<tr>
+  <td> 11:30-13:00 </td>
+  <td> All Participants </td>
+  <td> Writing session </td>
+  <td> Dissemination </td>
+</tr>
+<tr>
+<td> 13:00-14:00 </td>
+<td colspan="3"> Lunch </td>
+</tr>
+<tr>
+  <td> 14:00-14:30 </td>
+  <td> Sandra Orchard </td>
+  <td> Lecture </td>
+  <td> MOLECULAR INTERACTION 
+IMEx Consortium: overview of activities of the Molecular Interaction group </td>
+</tr>
+<tr>
+  <td> 14:30-15:00 </td>
+  <td> Luana Licata </td>
+  <td> Lecture </td>
+  <td> MINTAct and becoming an Elixir core resource </td>
+</tr>
+<tr>
+  <td> 15:00-15:40 </td>
+  <td> Lecture </td>
+  <td> Pablo Porras </td>
+  <td> Dark Space Project and putting in value detailed curation: the mutations dataset </td>
+</tr>
+<tr>
+<td> 15:40-16:00 </td>
+<td colspan="3"> Coffee Break </td>
+</tr>
+<tr>
+  <td> 16:00-17:30 </td>
+  <td> </td>
+  <td> IMEx meeting </td>
+  <td> IMEx paper, new rules, new members) </td>
+</tr>
+  <tr>
+<td>  </td>
+<td colspan="3"> Walk tour and Social dinner </td>
+</tr>
+<tr>
+   <td colspan="4"><h4>Thursday 7th Dec 2017 </h4></td>
+</tr>
+<tr>
+  <td> 09:00-09:30 </td>
+  <td> Damiano Piovesan </td>
+  <td> Use case </td>
+  <td> Intrinsic disorder annotation in MobiDB and DisProt
+ </td>
+</tr>
+<tr>
+<td> 09:30-09:50 </td>
+  <td> Sylvie Ricard-Blum<br> (via Skype) </td>
+  <td> Use case </td>
+  <td> Intrinsic disorder of the extracellular matrix
+ </td>
+ </tr>
+ <tr>
+<td> 09:50-10:30 </td>
+  <td> All Participants </td>
+  <td> Discussion </td>
+  <td> How to curate interaction involving intrinsically disordered protein regions
+ </td>
+ </tr>
+<tr>
+<td> 10:30-11:00 </td>
+  <td> Sylvie Ricard-Blum<br> (via Skype) </td>
+  <td> Use case </td>
+  <td> Curation of protein-glycosaminoglycan interactions
+ </td>
+ </tr>
+ <tr>
+   <td> 11:00-11:30 </td>
+   <td colspan="3"> Coffee break </td>
+</tr>
+ <tr>
+  <td> 11:30-13:00 </td>
+  <td> Pablo Porras </td>
+  <td>  </td>
+  <td> Curation to-do lists (DSP)<br> 
+	Curation coordination (DSP)<br>
+	Curation rules<br>
+	Adding value through deep curation: use cases
+ </td>
+ </tr>
+ <tr>
+<td> 13:00-14:00 </td>
+<td colspan="3"> Lunch </td>
+</tr>
+<tr>
+<td> 10:30-11:00 </td>
+  <td> Simona Panni </td>
+  <td> Use case </td>
+  <td> RNA-Protein interactions –Which is the State of Art? (topics for discussion: RNA nomenclature, methodologies)
+ </td>
+ </tr>
+ <tr>
+<td> 15:30-16:00 </td>
+  <td>  </td>
+  <td> Other use cases </td>
+  <td> CV maintenance
+ </td>
+ </tr>
+ <tr>
+<td> 16:00-16:30 </td>
+<td colspan="3"> Coffee Break </td>
+</tr>
+ <tr>
+<td> 16:30-17:00 </td>
+<td colspan="3"> Summary, wrap-up </td>
+</tr>
+</table>
+
+<br>
