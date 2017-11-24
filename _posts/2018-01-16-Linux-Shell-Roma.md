@@ -4,7 +4,7 @@ title:  "Linux shell scripting for high-throughput biological data processing on
 date_start:   2018-01-16
 date_end:   2018-01-17
 venue: Roma, Italy
-description: Biological big data increasingly require supercomputers for their processing and analysis. Running high-throughput (HTP) bioinformatics data pipelines on supercomputing machines requires advanced Linux shell command line and scripting skills. In this two-day course, we will introduce  the Linux shell and, on day one, we will show how to navigate and work with files and directories, how to combine commands to do new things, how to perform the same actions on many different files, how to filter and selectively extract data from tables, and how to find objects in files. Moreover, we will show how to connect to a remote supercomputer and how to utilise a supercomputing environment to analyse big amount of biological data, run simple shell scripts and bioinformatics pipelines. Day 2 will be wholly practical.
+description: Biological big data increasingly require supercomputers for their processing and analysis. Running high-throughput (HTP) bioinformatics data pipelines on supercomputing machines requires advanced Linux shell command line and scripting skills. In this two-day course, we will introduce  the Linux shell and we will show how to navigate and work with files and directories, how to combine commands to do new things, how to perform the same actions on many different files, how to filter and selectively extract data from tables, and how to find objects in files. Moreover, we will show how to connect to a remote supercomputer and how to utilise a supercomputing environment to analyse big amount of biological data. 
 
 ---
 
