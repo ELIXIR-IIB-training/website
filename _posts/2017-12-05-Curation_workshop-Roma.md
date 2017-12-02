@@ -4,7 +4,7 @@ title:  "Curation workshop on molecular and causal interactions"
 date_start:   2017-12-05
 date_end:   2017-12-07
 venue: Roma, Italy
-description: The curation workshop on molecular and causal interactions is organized under the ELIXIR Italy training program and the ELIXIR-EXCELERATE project. The workshop will bring together the main European protagonists in the landscape of manually curated molecular and causal interactions databases. 
+description: The curation workshop on molecular and causal interactions is organized by the University of Rome Tor Vergata under the ELIXIR Italy training program and the ELIXIR-EXCELERATE project. The workshop will bring together the main European protagonists in the landscape of manually curated molecular and causal interactions databases. 
 ---
 
 <table border="0" width="300">
@@ -17,7 +17,7 @@ description: The curation workshop on molecular and causal interactions is organ
 </table>
 
 <br>
-The curation workshop on molecular and causal interactions is organized under the ELIXIR Italy training program and the ELIXIR-EXCELERATE project.
+The curation workshop on molecular and causal interactions is organized by the University of Rome Tor Vergata under the ELIXIR Italy training program and the ELIXIR-EXCELERATE project.
 <br>
 <br>
 ### Date
