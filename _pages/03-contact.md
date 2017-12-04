@@ -16,7 +16,7 @@ ELIXIR-IIB Training Coordinator<br>
 ELIXIR-IIB website and repository management<br>
 Workshop design organization and delivery<br>
 <loredanalepera@gmail.com><br>
-<loredana.lepera@iit.it>
+<l.lepera@ibiom.it>
 
 **Vincenza Colonna**<br>
 Workshop design organization and delivery <br>
