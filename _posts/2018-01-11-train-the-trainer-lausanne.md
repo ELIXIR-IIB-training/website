@@ -86,10 +86,10 @@ If you have questions like the following ones, this course may be very helpful t
 
  Time | Activity
 :---------------------|:----------------
-**DAY 1**   |
+**DAY 1**             |
 09.00 - 09.30         | Introductions, who is who and what we need to achieve
-09.30 - 12.30        | [**Session 1**](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_1.md): Review of learning principles and how they apply to training and teaching
+09.30 - 12.30         | [**Session 1**](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_1.md): Review of learning principles and how they apply to training and teaching
 14.00 - 18.00         | [**Session 2**](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
-**DAY 2**   |
+**DAY 2**             |
 09.00 - 12.30         | [**Session 3**](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_3.md): Session, course, and materials design
 14.00 - 18.00         | [**Session 4**](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_4.md): Assessment and feedback in training
