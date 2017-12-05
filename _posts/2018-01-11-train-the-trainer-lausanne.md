@@ -46,9 +46,9 @@ The course is made up of four sessions, covering:
 * [Assessment and feedback in training and teaching](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_3.md)
 * [Lesson, course, and materials design](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_4.md)
 
-Examples and discussions will also focus on the challenges presented by academic teaching.
-
+<br>
 ### [Application form](https://goo.gl/forms/RMm1PgFffkpYyJX12)
+<br>
 
 ### Target Audience
 Whoever is interested in becoming a teacher or a better one.
@@ -79,7 +79,8 @@ If you have questions like the following ones, this course may be very helpful t
  * Learners can develop assessment questionnaires
  * Learners can enumerate types of materials needed for each part of a training session or course
 
----
+<br>
+<br>
 
 # Preliminary Programme
 
