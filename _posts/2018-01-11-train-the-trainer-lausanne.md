@@ -4,7 +4,7 @@ title:  "ELIXIR-EXCELERATE Train the Trainer"
 date_start:   2018-01-11
 date_end:   2018-01-12
 venue: Lausanne, Switzerland
-description: ELIXIR-EXCELERATE Train-The-Trainer programme will hold a Train the Trainer (TtT) event. This course is meant to offer guidance, ideas and tips for training/teaching design, development and delivery based on research-driven educational principles. Examples and discussions will also focus on the challenges presented by academic teaching.
+description: ELIXIR-IIB and ELIXIR-CH/SIB, in cooperation with the ELIXIR-EXCELERATE Train-The-Trainer programme, are pleased to announce a Train the Trainer (TtT) event. This course is meant to offer guidance, ideas and tips for training/teaching design, development and delivery based on research-driven educational principles. Examples and discussions will also focus on the challenges presented by academic teaching.
 
 ---
 
