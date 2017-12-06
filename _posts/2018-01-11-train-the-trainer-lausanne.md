@@ -20,8 +20,7 @@ description: ELIXIR-CH in collaboration with ELIXIR-EXCELERATE and ELIXIR Italy 
 ELIXIR-CH in collaboration with ELIXIR-EXCELERATE and ELIXIR Italy are pleased to announce a Train the Trainer (TtT) event.
 
 ## Important dates
-- Deadline for applications:
-- Course date: 11-12 January, 2018
+Course date: 11-12 January, 2018
 
 We will accept a maximum of **15** participants. Priority will be given to candidates from ELIXIR nodes. Notifications of acceptance will be sent shortly after the application, which will remain open until we reach 15 participants.
 
