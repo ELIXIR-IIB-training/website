@@ -32,10 +32,10 @@ There is no course attendance fee. The participants will need to bear their trav
 
 ## Instructors
 [**Allegra Via**](../../../instructors/allegra_via.html), ELIXIR-IT, National Research Council (CNR), Italy <br>
-[**Patricia Palagi**](), ELIXIR-CH<br>
+[**Patricia Palagi**](../../../instructors/patricia_palagi.html), SIB Swiss Institute of bioinformatics, Switzerland<br>
 
 ## Local organisers
-Patricia Palagi, ELIXIR-CH<br>
+**Patricia Palagi**, SIB Swiss Institute of bioinformatics, Switzerland<br>
 
 ## Description
 The course is made up of four sessions, covering:
