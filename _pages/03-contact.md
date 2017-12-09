@@ -15,6 +15,7 @@ ELIXIR-IIB Training Coordinator<br>
 **Loredana Le Pera**<br>
 ELIXIR-IIB website and repository management<br>
 Workshop design organization and delivery<br>
+Dissemination & Outreach<br>
 <loredanalepera@gmail.com><br>
 <l.lepera@ibiom.cnr.it>
 
