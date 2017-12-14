@@ -94,7 +94,7 @@ The course is directed to biologists with little or no experience in Linux shell
 <br>
 
 
-### [Application Form](https://goo.gl/forms/0n5x8XL4hWTWrjbs2) <font color="red"><b>[FULL]</b></font>
+### [Application Form](https://goo.gl/forms/0n5x8XL4hWTWrjbs2)  <font color="red">[FULL]</font>
 <br>
 <br>
 
