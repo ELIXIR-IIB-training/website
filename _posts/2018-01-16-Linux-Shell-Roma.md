@@ -21,7 +21,7 @@ description: Biological big data increasingly require supercomputers for their p
 **IMPORTANT DATES** for this Training course:
 
 
-- Deadline for applications: 20 Dec 2017
+- Deadline for applications: 20 Dec 2017    <font color="red"> [Full] </font>
 - Course date: 16-17 Jan 2018
 <br>
 
