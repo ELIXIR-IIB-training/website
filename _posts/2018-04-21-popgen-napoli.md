@@ -11,7 +11,7 @@ description: Study methods in population genomics have been profoundly reshaped 
 
 <table border="0">
 <tr>
-	<td><a href="https://github.com/ELIXIR-IIB-training/POPGEN2018/blob/master/README.md"><img src="../../../img/logo_elixir_popgen.2018.png" height="150" width="600"></a>
+	<td><a href="https://github.com/ELIXIR-IIB-training/POPGEN2018/blob/master/README.md"><img src="../../../img/logo_elixir_popgen.2018.png" height="170" width="500"></a>
 	</td>	
 </tr>
 </table>
