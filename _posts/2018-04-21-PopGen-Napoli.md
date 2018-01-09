@@ -44,71 +44,73 @@ via Pietro Castellino 111 <br>
 [www.igb.cnr.it](www.igb.cnr.it)
 
 ## Registration fee: 500€
-Registration fee includes course material, coffee breaks and lunches. A maximum of **28** candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions and ELIXIR nodes. Incomplete applications or applications for only parts of the course will not be accepted.<br>
+Registration fee includes course material, coffee breaks and lunches. A maximum of **28** candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. Incomplete applications or applications for only parts of the course will not be accepted.<br>
 Abstract (max 200 words) for poster presentation must be submitted through the application form.
+<br>
+<br>
 
-## Application form [it will open very soon] 
+## [Application form](https://goo.gl/forms/dDQLyAB4cX1iRNMb2)
+<br> 
 
 ## Speakers 
-<table style="width:100%">
- <tr>
-   <td > 
+<table border="1">
+ <tr height="200">
+   <td width="210" height="200"> 
       <a href="http://www.eva.mpg.de/genetics/genetic-diversity-and-selection/overview.html">Aida Andrés</a> <br>
-      Max Planck Institute <br>for Evolutionary Anthropology, Germany <br> 
-      <img src="../../../img/speakers/AidaAndres.jpg" alt="yay" >
+      Max Planck Institute <br>for Evolutionary Anthropology,<br> Germany <br> 
+      <img src="../../../img/speakers/AidaAndres.jpg" alt="yay" width="150" height="150">
     </td>
-     <td> 
+     <td width="210">  
       <a href="http://www.zoo.cam.ac.uk/directory/andrea-manica">Andrea Manica </a><br>
-     University of Cambridge, UK <br>
-     <img src="../../../img/speakers/AndreaManica.jpeg" alt="yay" >
+     University of Cambridge,<br>Cambridge,<br>UK <br>
+     <img src="../../../img/speakers/AndreaManica.jpeg" alt="yay" width="150" height="150">
     </td>
-     <td> 
+     <td width="210"> 
       <a href="https://blogs.cornell.edu/clarklabblog/">Andrew Clark </a><br>
-      Cornell University, USA<br>
-      <img src="../../../img/speakers/AndrewClarkOK.png" alt="yay" >
+      Cornell University,<br>New York,<br> USA<br>
+      <img src="../../../img/speakers/AndrewClarkOK.png" alt="yay" width="150" height="150">
     </td>
    </tr>
    
-   <tr>
+   <tr height="200">
     <td> 
       <a href="http://www.homepages.ucl.ac.uk/~ucbtgrh/"> Garrett Hellenthal</a><br>
-       University College London, UK<br>
-       <img src="../../../img/speakers/GarrettHellenthalOK.jpg" alt="yay">
+       University College London,<br> UK<br>
+       <img src="../../../img/speakers/GarrettHellenthalOK.jpg" alt="yay" width="150">
     </td>
     <td> 
       <a href="https://idamoltke.wordpress.com/">Ida Moltke</a><br>
       University of Copenhagen, Denmark<br>
-      <img src="../../../img/speakers/IdaMoltkeOK.jpg" alt="yay" >
+      <img src="../../../img/speakers/IdaMoltkeOK.jpg" alt="yay" width="150">
     </td>
     <td> 
       <a href="http://geogenetics.ku.dk/staff/?pure=en%2Fpersons%2Fmartin-sikora(ca4b071d-000d-4aaf-badb-67d9b017ec38)%2Fpublications.html">Martin Sikora</a><br>
        Natural History Museum of Denmark, Denmark<br>
-       <img src="../../../img/speakers/MartinSikoraOK.jpg" alt="yay">
+       <img src="../../../img/speakers/MartinSikoraOK.jpg" alt="yay" width="150">
     </td>
     </tr> 
-    <tr> 
+    <tr height="200"> 
     <td> 
       <a href="http://ua.unige.ch/en/personne/mathiascurrat/">Mathias Currat </a><br>
-      Université de Genève, Switzerland<br>
-      <img src="../../../img/speakers/MathiasCurratOK.jpg" alt="yay" >
+      Université de Genève,<br> Switzerland<br>
+      <img src="../../../img/speakers/MathiasCurratOK.jpg" alt="yay" width="150">
     </td>
     <td> 
       <a href="http://funpopgen.unige.ch/">Olivier Delaneau</a><br>
-     Université de Genève, Switzerland<br>
-      <img src="../../../img/speakers/OlivierDelaneauOK.jpg" alt="yay" >
+     Université de Genève,<br> Switzerland<br>
+      <img src="../../../img/speakers/OlivierDelaneauOK.jpg" alt="yay" width="150">
     </td>
     <td> 
       <a href="https://www.westminster.ac.uk/about-us/our-people/directory/gerbault-pascale">Pascale Gerbault</a><br>
-      University of Westminster, UK<br>
-      <img src="../../../img/speakers/PascaleGerbaultOK.jpg" alt="yay" >
+      University of Westminster,<br> UK<br>
+      <img src="../../../img/speakers/PascaleGerbaultOK.jpg" alt="yay" width="150">
     </td>
    </tr>
 </table>
 <br>
 
 ## Programme
-<table>
-   
+
 <table border="1">
 <tr>
    <td colspan="4"><h3>Saturday 21 April 2018</h3></td>
@@ -416,9 +418,8 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on species divergence. Coffee will be available during the practicals.</td>
 </tr>
   </table>
-
-
 <br>
+
 ## Transport 
 #### HOW TO REACH NAPOLI
 
@@ -439,8 +440,8 @@ Taxi - Ask for “tariffa predeterminata” (fixed fare) if you are going to one
 The CNR is right outside the exit Montedonzelli of the metro Linea1. Check this website for more details. Once at the CNR reception you will find indications for the course. To enter the building it is mandatory to sign a registry of presence at the reception. You will be asked to sign when you enter for the first time in the morning and when you leave in the evening. This is a security requirement.
 
 ## Contact
-<p>Email: elixr.popgen.2018@gmail.com <br>
-Phone: +39 0816 132 254 </p>
+Email: <elixr.popgen.2018@gmail.com> <br>
+Phone: +39 0816 132 254
 
 ## Organisers 
 
@@ -471,10 +472,10 @@ Phone: +39 0816 132 254 </p>
 
 <table style="width:100%">
    <tr>
-     <td><img src="../../../img/pompei1.jpg" alt="yay" height="300" width="600"></td>
-     <tr/>
+     <td><img src="../../../img/pompei1.jpg" alt="yay" height="300"></td>
+     </tr>
 </table>
-
+<br>
 
 [Pompei](https://en.wikipedia.org/wiki/Pompeii) and [Ercolano](https://en.wikipedia.org/wiki/Ercolano) are two famous archaeological sites that lie in the shadow of [mount Vesuvius](https://en.wikipedia.org/wiki/Mount_Vesuvius), the active volcano that dominates the area.
 
@@ -483,3 +484,27 @@ They were destroyed by pyroclastic flows during the massive eruption of Vesuvius
 Go to the central train station at Piazza Garibaldi. You'll find the Circumvesuviana (the train system that connects the Napoli and the towns and cities in the region around Vesuvius) on the lower level of the station. Buy tickets (about 3 euro each way) and take the Circumvesuviana to Pompei _Scavi_. Note that other regional trains go to the modern city of Pompei but you will need to walk about 25 minutes from that station to the archaeological site while the station Pompei Scavi is just a few minutes from the entrance to the park. A single cafeteria serves the site, so you may want to bring snacks. It can be hot and there is virtually no shade, so dress accordingly. Pompei is a vast ruin, and a walk through most of it should take at least three hours.
 
 Ercolano lies on the same train line as Pompei, but is closer to Napoli. To get there, leave the Circumvesuviana at Ercolano Scavi, and walk down the hill towards the sea for about ten minutes. Ercolano is much smaller than Pompei, but what it lacks in size it makes up in the quality of its preservation. It is possible to visit both sites in one day, but you will probably want to start early.
+<br>
+<br>
+
+<h3>ELIXIR-IIB member institutions</h3>
+
+<ul>
+   <li> CNR (ELIXIR-IIB coordinator)</li>
+   <li> CRS4</li>
+   <li> CINECA</li>
+   <li> Fondazione Edmund Mach, Trento</li>
+   <li> INFN</li>
+   <li> GARR</li>
+   <li> Sapienza Università di Roma</li>
+   <li> Università di Bari</li>
+   <li> Università di Bologna</li>
+   <li> Università di Firenze</li>
+   <li> Università di Milano</li>
+   <li> Università di Milano Bicocca</li>
+   <li> Università di Padova</li>
+   <li> Università di Parma</li>
+   <li> Università di Roma "Tor Vergata"</li>
+   <li> Università di Salerno</li>
+   <li> Università della Tuscia</li>
+</ul>
