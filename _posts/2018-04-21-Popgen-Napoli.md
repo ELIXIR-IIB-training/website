@@ -12,14 +12,14 @@ description: Study methods in population genomics have been profoundly reshaped 
    <tr>
      <td><img src="./img/logos/IGB-logo.jpg" alt="cnr" height="100" width="150"></td>
       <td><img src="./img/elixir_ita_logo.png" alt="yay" height="100" width="150"></td>
-     <tr/>
+     </tr>
 </table>
 <br>
 
 <table border="0">
  <tr>
     <td><img src="./img/tw.png" alt="yay" height="100" width="100"> <b>#popgenELIXIR</b></td>
-   <tr/>
+   </tr>
 </table>
 <br>
 
