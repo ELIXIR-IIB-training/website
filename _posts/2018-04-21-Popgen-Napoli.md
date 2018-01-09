@@ -8,7 +8,7 @@ description: Study methods in population genomics have been profoundly reshaped 
 
 ---
 
-<table border="0" width=400">
+<table border="0" width="400">
    <tr>
      <td><img src="./img/logos/IGB-logo.jpg" alt="cnr" height="100" width="150"></td>
       <td><img src="./img/elixir_ita_logo.png" alt="yay" height="100" width="150"></td>
