@@ -28,21 +28,26 @@ Study methods in population genomics have been profoundly reshaped in the last f
 Practicals includes computer exercises supervised by lecturers and training assistants. After attending the course participants will be aware of up-to-date concepts in population genetics, capable of running analyses using software based on whole genome data sequences and able to deal with basic aspects of any population genomics project. This Practical Course aims at evolutionary biologists who already have bioinformatics skills. PhD students and Post-Doc researchers will benefit the most out of this course, but applications from all candidates will be evaluated in their context.
 
 ## Important Dates 
-<p><b>Deadline for applications:</b> 5 February 2018 <br>
-   <b>Chosen participants will be notified by:</b> 28 February 2018<br> 
-   <b>Payment deadline:</b> 10 March 2018<br>  
-   <b>Course date:</b> 21-27 April 2018</p>
+<b>Deadline for applications:</b> 5 February 2018 <br>
+<b>Chosen participants will be notified by:</b> 28 February 2018<br> 
+<b>Payment deadline:</b> 10 March 2018<br>  
+<b>Course date:</b> 21-27 April 2018<br>
 
 ## Venue
-<p>Biblioteca <br> Consiglio Nazionale delle Ricerche <br> Istituto di Genetica e Biofisica "Adriano Buzzati-Traverso" <br> via Pietro Castellino 111 <br> 80131 Napoli - IT <br> www.igb.cnr.it
+Biblioteca <br> 
+Consiglio Nazionale delle Ricerche <br> 
+Istituto di Genetica e Biofisica "Adriano Buzzati-Traverso" <br> 
+via Pietro Castellino 111 <br> 
+80131 Napoli - IT <br> 
+www.igb.cnr.it
 
 ## Registration fee: 500€
-<p>Registration fee includes course material, coffee breaks and lunches. <br>
+Registration fee includes course material, coffee breaks and lunches. <br>
 A maximum of 28 candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions and ELIXIR nodes.<br> 
 Incomplete applications or applications for only parts of the course will not be accepted <br>
-Abstract (max 200 words) for poster presentation must be submitted through the application form.</p>
+Abstract (max 200 words) for poster presentation must be submitted through the application form.
 
-### APPLY NOW [it will open very soon]! 
+## APPLICATION FORM [it will open very soon]! 
 
 ## Speakers 
 <table style="width:100%">
