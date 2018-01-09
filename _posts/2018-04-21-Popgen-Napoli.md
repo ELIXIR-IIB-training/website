@@ -10,15 +10,15 @@ description: Study methods in population genomics have been profoundly reshaped 
 
 <table border="0" width="400">
    <tr>
-     <td><img src="./img/logos/IGB-logo.jpg" alt="cnr" height="100" width="150"></td>
-      <td><img src="./img/elixir_ita_logo.png" alt="yay" height="100" width="150"></td>
+     <td><img src="../../../img/logos/IGB-logo.jpg" alt="cnr" height="100" width="150"></td>
+      <td><img src="../../../img/elixir_ita_logo.png" alt="yay" height="100" width="150"></td>
      </tr>
 </table>
 <br>
 
 <table border="0">
  <tr>
-    <td><img src="./img/tw.png" alt="yay" height="100" width="100"> <b>#popgenELIXIR</b></td>
+    <td><img src="../../../img/tw.png" alt="yay" height="100" width="100"> <b>#popgenELIXIR</b></td>
    </tr>
 </table>
 <br>
@@ -30,7 +30,7 @@ Practicals includes computer exercises supervised by lecturers and training assi
 ## Important Dates 
 <b>Deadline for applications:</b> 5 February 2018 <br>
 <b>Chosen participants will be notified by:</b> 28 February 2018<br> 
-<b>Payment deadline:</b> 10 March 2018<br>  
+<b>Payment deadline:</b> 10 March 2018<br>
 <b>Course date:</b> 21-27 April 2018<br>
 
 ## Venue
@@ -42,9 +42,7 @@ via Pietro Castellino 111 <br>
 www.igb.cnr.it
 
 ## Registration fee: 500€
-Registration fee includes course material, coffee breaks and lunches. <br>
-A maximum of 28 candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions and ELIXIR nodes.<br> 
-Incomplete applications or applications for only parts of the course will not be accepted <br>
+Registration fee includes course material, coffee breaks and lunches. A maximum of **28** candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions and ELIXIR nodes. Incomplete applications or applications for only parts of the course will not be accepted.<br>
 Abstract (max 200 words) for poster presentation must be submitted through the application form.
 
 ## APPLICATION FORM [it will open very soon]! 
@@ -55,54 +53,54 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td> 
       <a href="http://www.eva.mpg.de/genetics/genetic-diversity-and-selection/overview.html">Aida Andrés </a> <br>
       Max Planck Institute <br>for Evolutionary Anthropology, Germany <br> 
-      <img src="./img/speakers/AidaAndres.jpg" alt="yay" >
+      <img src="../../../img/speakers/AidaAndres.jpg" alt="yay" >
     </td>
      <td> 
       <a href="http://www.zoo.cam.ac.uk/directory/andrea-manica">Andrea Manica </a><br>
      University of Cambridge, UK <br>
-     <img src="./img/speakers/AndreaManica.jpeg" alt="yay" >
+     <img src="../../../img/speakers/AndreaManica.jpeg" alt="yay" >
     </td>
      <td> 
       <a href="https://blogs.cornell.edu/clarklabblog/">Andrew Clark </a><br>
       Cornell University, USA<br>
-      <img src="./img/speakers/AndrewClarkOK.png" alt="yay" >
+      <img src="../../../img/speakers/AndrewClarkOK.png" alt="yay" >
     </td>
-   <tr/>
+   </tr>
    
    <tr>
     <td> 
       <a href="http://www.homepages.ucl.ac.uk/~ucbtgrh/"> Garrett Hellenthal</a><br>
        University College London, UK<br>
-       <img src="./img/speakers/GarrettHellenthalOK.jpg" alt="yay">
+       <img src="../../../img/speakers/GarrettHellenthalOK.jpg" alt="yay">
     </td>
     <td> 
       <a href="https://idamoltke.wordpress.com/">Ida Moltke</a><br>
       University of Copenhagen, Denmark<br>
-      <img src="./img/speakers/IdaMoltkeOK.jpg" alt="yay" >
+      <img src="../../../img/speakers/IdaMoltkeOK.jpg" alt="yay" >
     </td>
     <td> 
       <a href="http://geogenetics.ku.dk/staff/?pure=en%2Fpersons%2Fmartin-sikora(ca4b071d-000d-4aaf-badb-67d9b017ec38)%2Fpublications.html">Martin Sikora</a><br>
        Natural History Museum of Denmark, Denmark<br>
-       <img src="./img/speakers/MartinSikoraOK.jpg" alt="yay">
+       <img src="../../../img/speakers/MartinSikoraOK.jpg" alt="yay">
     </td>
     </tr> 
     <tr> 
     <td> 
       <a href="http://ua.unige.ch/en/personne/mathiascurrat/">Mathias Currat </a><br>
       Université de Genève, Switzerland<br>
-      <img src="./img/speakers/MathiasCurratOK.jpg" alt="yay" >
+      <img src="../../../img/speakers/MathiasCurratOK.jpg" alt="yay" >
     </td>
     <td> 
       <a href="http://funpopgen.unige.ch/">Olivier Delaneau</a><br>
      Université de Genève, Switzerland<br>
-      <img src="./img/speakers/OlivierDelaneauOK.jpg" alt="yay" >
+      <img src="../../../img/speakers/OlivierDelaneauOK.jpg" alt="yay" >
     </td>
     <td> 
       <a href="https://www.westminster.ac.uk/about-us/our-people/directory/gerbault-pascale">Pascale Gerbault</a><br>
       University of Westminster, UK<br>
-      <img src="./img/speakers/PascaleGerbaultOK.jpg" alt="yay" >
+      <img src="../../../img/speakers/PascaleGerbaultOK.jpg" alt="yay" >
     </td>
-   <tr/>
+   </tr>
 </table>
 
 
@@ -200,17 +198,17 @@ Phone: +39 0816 132 254 </p>
    <td> 
       <a href="https://allegravia.github.io/website/publications/">Allegra Via  </a> <br>
       Consiglio Nazionale delle Ricerche, Italy  <br> 
-      <img src="./img/organisers/AllegraVia.jpg" alt="yay" >
+      <img src="../../../img/organisers/AllegraVia.jpg" alt="yay" >
     </td>
      <td> 
       <a href="https://www2.le.ac.uk/departments/health-sciences/people/staff-pages/research-and-teaching-staff-pages/chiara-batini">Chiara Batini </a><br>
      University of Leicester, UK <br>
-     <img src="./img/organisers/ChiaraBatiniOK.jpg" alt="yay" >
+     <img src="../../../img/organisers/ChiaraBatiniOK.jpg" alt="yay" >
     </td>
      <td> 
       <a href="http://www.igb.cnr.it/popgenlab">Vincenza Colonna </a><br>
       Consiglio Nazionale delle Ricerche, Italy<br>
-      <img src="./img/organisers/VincenzaColonnaOK.jpg" alt="yay" >
+      <img src="../../../img/organisers/VincenzaColonnaOK.jpg" alt="yay" >
     </td>
    <tr/>
    
@@ -223,7 +221,7 @@ Phone: +39 0816 132 254 </p>
 
 <table style="width:100%">
    <tr>
-     <td><img src="./img/pompei1.jpg" alt="yay" height="300" width="600"></td>
+     <td><img src="../../../img/pompei1.jpg" alt="yay" height="300" width="600"></td>
      <tr/>
 </table>
 
