@@ -16,3 +16,5 @@ description: Software Carpentry aims to help researchers get their work done in 
 </table>
 
 <br>
+The course webpage with all the information and the link to submit your application can be found at:<br>
+[Software Carpentry Workshop, Milano-Bicocca, 22-23 Feb 2018.](https://elixir-iib-training.github.io/2018-02-22-milan/)
