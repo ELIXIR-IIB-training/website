@@ -16,7 +16,7 @@ description: Study methods in population genomics have been profoundly reshaped 
 <br>
 <table border="0" width="600">
    <tr>
-     <td><img src="../../../img/logos/IGB-logo.jpg" alt="cnr" height="150" width="300"></td>
+     <td><img src="../../../img/logos/IGB-logo.jpg" alt="cnr" height="150" width="350"></td>
       <td><img src="../../../img/elixir_ita_logo.png" alt="yay" height="150" width="300"></td>
       <td width="100"></td>
     <td><img src="../../../img/tw.png" alt="yay" height="100" width="150"></td>
