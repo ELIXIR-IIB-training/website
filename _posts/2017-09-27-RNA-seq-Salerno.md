@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Training Course on Best practices for RNA-Seq data analysis"
+title:  "Training Course on Best practices for RNA-Seq data analysis <font color='black'>[CLOSED]</font>"
 date_start:   2017-09-27
 date_end:   2017-09-29
 venue: Salerno, Italy

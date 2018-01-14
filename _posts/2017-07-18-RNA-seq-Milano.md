@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Training Course on RNA-Seq data analysis"
+title:  "Training Course on RNA-Seq data analysis <font color='black'>[CLOSED]</font>"
 date_start:   2017-07-18
 date_end:   2017-07-20
 venue: Milano, Italy

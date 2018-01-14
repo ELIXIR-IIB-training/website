@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Elixir-IIB/NETTAB Tutorial on Biological Networks: data analysis, visualization and medical application"
+title:  "Elixir-IIB/NETTAB Tutorial on Biological Networks: data analysis, visualization and medical application <font color='black'>[CLOSED]</font>"
 date_start:   2017-10-18
 date_end:   2017-10-19
 venue: Palermo, Italy

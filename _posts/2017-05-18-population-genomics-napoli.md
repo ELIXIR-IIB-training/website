@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  EMBO Practical Course on "Population Genomics&#58; background and tools"
+title:  EMBO Practical Course on "Population Genomics&#58; background and tools" <font color='black'>[CLOSED]</font>
 date_start:   2017-05-18
 date_end:   2017-05-26
 venue: Napoli, Italy

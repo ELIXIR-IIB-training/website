@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ELIXIR-EXCELERATE Train the Trainer"
+title:  "ELIXIR-EXCELERATE Train the Trainer <font color='black'>[CLOSED]</font>"
 date_start:   2017-09-27
 date_end:   2017-09-29
 venue: Salerno, Italy

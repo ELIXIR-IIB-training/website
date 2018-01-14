@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Workshop + Summer School in Advanced Computational Metagenomics"
+title:  "Workshop + Summer School in Advanced Computational Metagenomics <font color='black'>[CLOSED]</font>"
 date_start:   2017-06-19
 date_end:   2017-06-23
 venue: Bari, Italy
