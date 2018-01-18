@@ -27,7 +27,11 @@ description: Study methods in population genomics have been profoundly reshaped 
 
 Study methods in population genomics have been profoundly reshaped in the last few years thanks to the growing availability of complete genomic sequences at population level. The rapid and recent growth of data and methods calls for new approaches to become routine in evolutionary genomics laboratories. The objective of this Practical Course is to give an overview of state of the art methods in population genomics combining lecturing from outstanding experienced population geneticists and software developers. All conceptual innovation will be presented in lectures and applied in practice both individually and in group work.
 
-Practicals includes computer exercises supervised by lecturers and training assistants. After attending the course participants will be aware of up-to-date concepts in population genetics, capable of running analyses using software based on whole genome data sequences and able to deal with basic aspects of any population genomics project. This Practical Course aims at evolutionary biologists who already have bioinformatics skills. PhD students and Post-Doc researchers will benefit the most out of this course, but applications from all candidates will be evaluated in their context.
+Practicals includes computer exercises supervised by lecturers and training assistants. <br>
+After attending the course participants will be aware of up-to-date concepts in population genetics, capable of running analyses using software based on whole genome data sequences and able to deal with basic aspects of any population genomics project.<br>
+
+This Practical Course aims at evolutionary biologists who already have bioinformatics skills. PhD students and Post-Doc researchers will benefit the most out of this course, but applications from all candidates will be evaluated in their context.<br>
+Participants will need to bring their own laptop in order to connect to a server to run the practical exercise. 
 
 ## Important Dates 
 <b>Deadline for applications:</b> 5 February 2018 <br>
@@ -57,7 +61,8 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
  <tr height="200">
    <td width="210" height="200"> 
       <a href="http://www.eva.mpg.de/genetics/genetic-diversity-and-selection/overview.html">Aida Andrés</a> <br>
-      Max Planck Institute <br>for Evolutionary Anthropology,<br> Germany <br> 
+      UCL Genetics Institute,<br>London,<br>UK
+      <br>
       <img src="../../../img/speakers/AidaAndres.jpg" alt="yay" width="150" height="150">
     </td>
      <td width="210">  
