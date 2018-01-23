@@ -445,7 +445,7 @@ Taxi - Ask for “tariffa predeterminata” (fixed fare) if you are going to one
 The CNR is right outside the exit Montedonzelli of the metro Linea1. Check this website for more details. Once at the CNR reception you will find indications for the course. To enter the building it is mandatory to sign a registry of presence at the reception. You will be asked to sign when you enter for the first time in the morning and when you leave in the evening. This is a security requirement.
 
 ## Contact
-Email: <elixr.popgen.2018@gmail.com> <br>
+Email: <elixir.popgen.2018@gmail.com> <br>
 Phone: +39 0816 132 254
 
 ## Organisers 
