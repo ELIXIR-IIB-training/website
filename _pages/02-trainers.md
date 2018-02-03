@@ -29,7 +29,7 @@ permalink: /trainers/
 
 [**Giacomo Janson**](../instructors/giacomo_janson.html) [Dept. of Biochemical Sciences, "Sapienza" University, Roma, IT]<br>
 
-[**Loredana Le Pera**](../instructors/loredana_le_pera.html) [Institute of Biomembrane and Bioenergetics IBIOM-CNR, Bari, IT]<br>
+[**Loredana Le Pera**](../instructors/loredana_le_pera.html) [IBIOM-CNR, Bari and IBPM-CNR, Roma, Italy]<br>
 
 [**Luana Licata**](../instructors/luana_licata.html) [Dept. of Molecular Biology, "Tor Vergata" University, Roma, IT]<br>
 
