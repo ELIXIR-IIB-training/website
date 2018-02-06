@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Training Course on Galaxy for Bioinformatics tool developers <font color='black'>[CLOSED]</font>"
+title:  "Training Course on Galaxy for Bioinformatics tool developers <font color='black'>[closed]</font>"
 date_start:   2017-07-03
 date_end:   2017-07-05
 venue: Cagliari, Italy

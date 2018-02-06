@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Curation workshop on molecular and causal interactions <font color='black'>[CLOSED]</font>"
+title:  "Curation workshop on molecular and causal interactions <font color='black'>[closed]</font>"
 date_start:   2017-12-05
 date_end:   2017-12-07
 venue: Roma, Italy

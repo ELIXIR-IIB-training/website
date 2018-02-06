@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Training course on Python for Life Scientists <font color='black'>[CLOSED]</font>"
+title:  "Training course on Python for Life Scientists <font color='black'>[closed]</font>"
 date_start:   2017-09-11
 date_end:   2017-09-15
 venue: Roma, Italy

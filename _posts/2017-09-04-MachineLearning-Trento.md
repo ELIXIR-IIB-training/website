@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Training course on Machine Learning for Biologists <font color='black'>[CLOSED]</font>"
+title:  "Training course on Machine Learning for Biologists <font color='black'>[closed]</font>"
 date_start:   2017-09-04
 date_end:   2017-09-07
 venue: San Michele all'Adige (TN), Italy

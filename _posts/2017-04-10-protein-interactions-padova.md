@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Workshop on "Computational approaches to the study of protein interactions and rational drug design" <font color='black'>[CLOSED]</font>
+title:  Workshop on "Computational approaches to the study of protein interactions and rational drug design" <font color='black'>[closed]</font>
 date_start:   2017-04-10
 date_end:   2017-04-13
 venue: Padova, Italy
