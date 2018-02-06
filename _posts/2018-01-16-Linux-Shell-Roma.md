@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Linux shell scripting for high-throughput biological data processing on supercomputers <font color='black'>[CLOSED]</font>"
+title:  "Linux shell scripting for high-throughput biological data processing on supercomputers <font color='black'>[closed]</font>"
 date_start:   2018-01-16
 date_end:   2018-01-17
 venue: Roma, Italy

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ELIXIR-EXCELERATE Train the Trainer <font color='black'>[CLOSED]</font>"
+title:  "ELIXIR-EXCELERATE Train the Trainer <font color='black'>[closed]</font>"
 date_start:   2018-01-30
 date_end:   2018-01-31
 venue: Lausanne, Switzerland

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Population Genomics: background and tools <font color='green'>[OPEN]</font>"
+title:  "Population Genomics: background and tools <font color='red'>[full]</font>"
 date_start:   2018-04-21
 date_end:   2018-04-27
 venue: Napoli, Italy
