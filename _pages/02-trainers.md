@@ -25,6 +25,8 @@ permalink: /trainers/
 
 [**Fabrizio Ferré**](https://www.unibo.it/sitoweb/fabrizio.ferre) [Dept. of Pharmacy and Biotechnology, University of Bologna, IT]<br>
 
+[**Tiziano Flati**](../instructors/tiziano_flati.html) [IBIOM-CNR, Bari and CINECA, Roma, IT]<br>
+
 [**Silvia Gioiosa**](../instructors/silvia_gioiosa.html) [IBIOM-CNR, Bari and CINECA, Roma, IT]<br>
 
 [**Giorgio Giurato**](http://www.labmedmolge.unisa.it/italiano/teamit/giorgiogiurato) [Genomix4Life srl and University of Salerno, IT]<br>
