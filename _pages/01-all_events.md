@@ -66,7 +66,7 @@ permalink: /all_events/
 <tr>
    <td height="50">[Software Carpentry Workshop](https://elixir-iib-training.github.io/2018-02-22-milan/)</td>
    <td height="50" width="110">A. Via<br>G. Della Vedova<br>L Le Pera</td>
-   <td height="50">Milano, Italy</td>
+   <td height="50">Milano,<brItaly</td>
    <td height="50">Feb 22-23</td>
    <td height="50">closed</td>
    <td height="50">ELIXIR-IIB<br>Training Course</td>
@@ -88,5 +88,3 @@ permalink: /all_events/
    <td height="50">ELIXIR-IIB<br>Training Course</td>
 </tr>
 </table>
-
-
