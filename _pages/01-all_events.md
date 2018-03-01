@@ -8,9 +8,9 @@ permalink: /all_events/
 <tr>
    <td height="50"><b>Title</b></td>
    <td height="50"><b>Organisers</b></td>
-   <td height="50"><b>Place<br>Date</td>
-   <td height="50"><b>Date<br>Date</td>
-   <td height="50"><b>Application</td>
+   <td height="50"><b>Place</b></td>
+   <td height="50"><b>Date</b></td>
+   <td height="50"><b>Application</b></td>
    <td height="50"><b>Course type</b></td>
    </tr>
 <tr>
