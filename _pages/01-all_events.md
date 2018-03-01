@@ -38,7 +38,7 @@ permalink: /all_events/
 </tr>
 -->
 <tr>
-   <td height="50">[Population Genomics: background and tools](https://elixir-iib-training.github.io/website/2018/04/21/PopGen-Napoli.html)</td>
+   <td height="50"><a href="https://elixir-iib-training.github.io/website/2018/04/21/PopGen-Napoli.html">Population Genomics: background and tools</a></td>
    <td height="50" width="110">V. Colonna<br>C. Batini<br>A. Via<br>L. Le Pera</td>
    <td height="50">Napoli,<br>Italy</td>
    <td height="50">Apr 21-27</td>
@@ -46,7 +46,7 @@ permalink: /all_events/
    <td height="50">ELIXIR-IIB<br>Training Course</td>
 </tr>
 <tr>
-   <td height="50">[Dai Big Data alla Data Science: sfide e professioni nascenti nell’era dei grandi dati]()
+   <td height="50"><a href="https://elixir-iib-training.github.io/website/docs/Workshop-CNR-Righi_Roma2018.html">Dai Big Data alla Data Science: sfide e professioni nascenti nell’era dei grandi dati</a>
 </td>
    <td height="50" width="110">C. Fantaccione<br>A. Calderone<br>L. Le Pera<br>L. Licata<br>A. Marabotti<br>V. Morea<br>A. Via
 </td>
@@ -64,7 +64,7 @@ permalink: /all_events/
    <td height="50">ELIXIR-IIB</td>
 </tr>
 <tr>
-   <td height="50">[Software Carpentry Workshop](https://elixir-iib-training.github.io/2018-02-22-milan/)</td>
+   <td height="50"><a href="https://elixir-iib-training.github.io/2018-02-22-milan/">Software Carpentry Workshop</a></td>
    <td height="50" width="110">A. Via<br>G. Della Vedova<br>L Le Pera</td>
    <td height="50">Milano,<brItaly</td>
    <td height="50">Feb 22-23</td>
@@ -72,7 +72,7 @@ permalink: /all_events/
    <td height="50">ELIXIR-IIB<br>Training Course</td>
 </tr>
 <tr>
-   <td height="50">[Train the Trainer](https://elixir-iib-training.github.io/website/2018/01/30/train-the-trainer-lausanne.html)</td>
+   <td height="50"><a href="https://elixir-iib-training.github.io/website/2018/01/30/train-the-trainer-lausanne.html">Train the Trainer</a></td>
    <td height="50" width="110">P. Palagi<br>A. Via</td>
    <td height="50">Lausanne,<br>Switzerland</td>
    <td height="50">Jan 30-31</td>
@@ -80,7 +80,7 @@ permalink: /all_events/
    <td height="50">ELIXIR-EXCELERATE</td>
 </tr>
 <tr>
-   <td height="50">[Linux shell scripting for high-throughput biological data processing on supercomputers](https://elixir-iib-training.github.io/website/2018/01/16/Linux-Shell-Roma.html)</td>
+   <td height="50"><a href="https://elixir-iib-training.github.io/website/2018/01/16/Linux-Shell-Roma.html">Linux shell scripting for high-throughput biological data processing on supercomputers</a></td>
    <td height="50" width="110">L. Le Pera<br>A. Via<br>T. Castrignanò</td>
    <td height="50">Roma,<br>Italy</td>
    <td height="50">Jan 16-17</td>
