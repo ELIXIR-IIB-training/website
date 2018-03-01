@@ -19,7 +19,7 @@ permalink: /all_events/
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75"  align="center">Nov 05-10</td>
    <td height="50" align="center">will open</td>
-   <td height="50">EMBO<br>Course</td>
+   <td height="50" align="center">EMBO<br>Course</td>
 </tr>
 <tr>
    <td height="50">Train the Trainer</td>
@@ -27,7 +27,7 @@ permalink: /all_events/
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75"  align="center">Sep 20-21</td>
    <td height="50" align="center">will open</td>
-   <td height="50">ELIXIR-EXCELERATE</td>
+   <td height="50" align="center">ELIXIR-EXCELERATE</td>
 </tr>
 <!-- <tr>
    <td height="50">Exploiting Docker for reproducibility in bioinformatics analysis</td>
@@ -35,7 +35,7 @@ permalink: /all_events/
    <td height="50" align="center">Torino,<br>Italy</td>
    <td height="50" width="75"  align="center">Jun 25-26</td>
    <td height="50" align="center">will open</td>
-   <td height="50">ELIXIR-IIB<br>Tutorial at BITS</td>
+   <td height="50" align="center">ELIXIR-IIB<br>Tutorial at BITS</td>
 </tr>
 -->
 <tr>
@@ -44,7 +44,7 @@ permalink: /all_events/
    <td height="50" align="center">Napoli,<br>Italy</td>
    <td height="50" width="75"  align="center">Apr 21-27</td>
    <td height="50" align="center">full</td>
-   <td height="50">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
 </tr>
 <tr>
    <td height="50"><a href="https://elixir-iib-training.github.io/website/docs/Workshop-CNR-Righi_Roma2018.html">Dai Big Data alla Data Science: sfide e professioni nascenti nell’era dei grandi dati</a>
@@ -54,7 +54,7 @@ permalink: /all_events/
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Mar 19</td>
    <td height="50"></td>
-   <td height="50">CNR and ELIXIR-IIB<br>ASL workshop for high-schools</td>
+   <td height="50" align="center">CNR and ELIXIR-IIB<br>ASL workshop for high-schools</td>
 </tr>
 <tr>
    <td height="50">Train the Trainer@high-school</td>
@@ -62,7 +62,7 @@ permalink: /all_events/
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Mar - May</td>
    <td height="50"></td>
-   <td height="50">ELIXIR-IIB</td>
+   <td height="50" align="center">ELIXIR-IIB</td>
 </tr>
 <tr>
    <td height="50"><a href="https://elixir-iib-training.github.io/2018-02-22-milan/">Software Carpentry Workshop</a></td>
@@ -70,7 +70,7 @@ permalink: /all_events/
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Feb 22-23</td>
    <td height="50" align="center">closed</td>
-   <td height="50">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
 </tr>
 <tr>
    <td height="50"><a href="https://elixir-iib-training.github.io/website/2018/01/30/train-the-trainer-lausanne.html">Train the Trainer</a></td>
@@ -78,7 +78,7 @@ permalink: /all_events/
    <td height="50" align="center">Lausanne,<br>Switzerland</td>
    <td height="50" width="75" align="center">Jan 30-31</td>
    <td height="50" align="center">closed</td>
-   <td height="50">ELIXIR-EXCELERATE</td>
+   <td height="50" align="center">ELIXIR-EXCELERATE</td>
 </tr>
 <tr>
    <td height="50"><a href="https://elixir-iib-training.github.io/website/2018/01/16/Linux-Shell-Roma.html">Linux shell scripting for high-throughput biological data processing on supercomputers</a></td>
@@ -86,7 +86,7 @@ permalink: /all_events/
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Jan 16-17</td>
    <td height="50" align="center">closed</td>
-   <td height="50">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
 </tr>
 </table>
 <br>
