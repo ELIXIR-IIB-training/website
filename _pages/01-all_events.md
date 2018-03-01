@@ -5,15 +5,14 @@ permalink: /all_events/
 ---
 
 <table border="1">
-<tr><font size="3" face="verdana">
+<tr>
    <td height="50"><b>Title</b></td>
    <td height="50"><b>Organisers</b></td>
    <td height="50"><b>Place<br>Date</td>
    <td height="50"><b>Date<br>Date</td>
    <td height="50"><b>Application</td>
    <td height="50"><b>Course type</b></td>
-   </font>
-</tr>
+   </tr>
 <tr>
    <td height="50">Computational Analysis of PPI: Sequences, networks and diseases</td>
    <td height="50" width="110">A. Via<br>V. Morea</td>
@@ -88,5 +87,6 @@ permalink: /all_events/
    <td height="50">closed</td>
    <td height="50">ELIXIR-IIB<br>Training Course</td>
 </tr>
+</table>
 
 
