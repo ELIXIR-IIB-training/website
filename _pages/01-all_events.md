@@ -7,7 +7,7 @@ permalink: /all_events/
 <table border="1">
 <tr>
    <td height="50"><b>Title</b></td>
-   <td height="50"><b>Organisers</b></td>
+   <td height="50" width="110"><b>Organisers</b></td>
    <td height="50"><b>Place</b></td>
    <td height="50"><b>Date</b></td>
    <td height="50"><b>Application</b></td>
