@@ -16,32 +16,32 @@ permalink: /all_events/
 <tr>
    <td height="50">Computational Analysis of PPI: Sequences, networks and diseases</td>
    <td height="50" width="150">A. Via<br>V. Morea</td>
-   <td height="50"  align="center">Roma,<br>Italy</td>
+   <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75"  align="center">Nov 05-10</td>
-   <td height="50"  align="center">will open</td>
+   <td height="50" align="center">will open</td>
    <td height="50">EMBO<br>Course</td>
 </tr>
 <tr>
    <td height="50">Train the Trainer</td>
    <td height="50" width="150">A. Via</td>
-   <td height="50"  align="center">Roma,<br>Italy</td>
+   <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75"  align="center">Sep 20-21</td>
-   <td height="50"  align="center">will open</td>
+   <td height="50" align="center">will open</td>
    <td height="50">ELIXIR-EXCELERATE</td>
 </tr>
 <!-- <tr>
    <td height="50">Exploiting Docker for reproducibility in bioinformatics analysis</td>
    <td height="50" width="150"></td>
-   <td height="50"  align="center">Torino,<br>Italy</td>
+   <td height="50" align="center">Torino,<br>Italy</td>
    <td height="50" width="75"  align="center">Jun 25-26</td>
-   <td height="50"  align="center">will open</td>
+   <td height="50" align="center">will open</td>
    <td height="50">ELIXIR-IIB<br>Tutorial at BITS</td>
 </tr>
 -->
 <tr>
    <td height="50"><a href="https://elixir-iib-training.github.io/website/2018/04/21/PopGen-Napoli.html">Population Genomics: background and tools</a></td>
    <td height="50" width="150">V. Colonna<br>C. Batini<br>A. Via<br>L. Le Pera</td>
-   <td height="50"  align="center">Napoli,<br>Italy</td>
+   <td height="50" align="center">Napoli,<br>Italy</td>
    <td height="50" width="75"  align="center">Apr 21-27</td>
    <td height="50" align="center">full</td>
    <td height="50">ELIXIR-IIB<br>Training Course</td>
