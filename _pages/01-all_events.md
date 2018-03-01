@@ -11,7 +11,7 @@ permalink: /all_events/
    <td height="50"><b>Place</b></td>
    <td height="50" width="75"><b>Date</b></td>
    <td height="50"><b>Application</b></td>
-   <td height="50"><b>Course type</b></td>
+   <td height="50"><b>Event type</b></td>
    </tr>
 <tr>
    <td height="50">Computational Analysis of PPI: Sequences, networks and diseases</td>
