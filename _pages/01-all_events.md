@@ -89,3 +89,5 @@ permalink: /all_events/
    <td height="50">ELIXIR-IIB<br>Training Course</td>
 </tr>
 </table>
+
+<p><i><b>More events to be announced soon!</b></i></p>
