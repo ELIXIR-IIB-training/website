@@ -4,7 +4,7 @@ title: All events
 permalink: /all_events/
 ---
 
-<table border="1">
+<table border="1" width="900">
 <tr>
    <td height="50"><b>Title</b></td>
    <td height="50" width="110"><b>Organisers</b></td>
