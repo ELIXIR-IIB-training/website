@@ -54,7 +54,7 @@ permalink: /all_events/
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Mar 19</td>
    <td height="50"></td>
-   <td height="50" align="center">CNR and ELIXIR-IIB<br>ASL<br> workshop for high-schools</td>
+   <td height="50" align="center">CNR and ELIXIR-IIB<br>ASL workshop<br>for high-schools</td>
 </tr>
 <tr>
    <td height="50">Train the Trainer@high-school</td>
