@@ -6,12 +6,12 @@ permalink: /all_events/
 
 <table border="1" width="800">
 <tr>
-<td height="50" width="200" align="center"><b>Event</b></td>
+	<td height="50" width="200" align="center"><b>Event</b></td>
    <td height="50" width="220" align="center"><b>Title</b></td>
    <td height="50" width="150" align="center"><b>Organisers</b></td>
    <td height="50" width="75" align="center"><b>Venue</b></td>
    <td height="50" width="75" align="center"><b>Date</b></td>
-   <td height="50" width="75" align="center"><b>Application</b></td>
+   <td height="50" width="80" align="center"><b>Application</b></td>
    </tr>
 <tr>
 	<td height="50" align="center">EMBO<br>Practical Course</td>
