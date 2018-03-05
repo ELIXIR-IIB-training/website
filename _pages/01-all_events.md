@@ -91,4 +91,4 @@ permalink: /all_events/
 </table>
 <br>
 <br>
-<p><font color="blue"><i><b>More events to be announced soon!</b></i></font></p>
+<p><font color="blue"><i><b>More events will be soon announced!</b></i></font></p>
