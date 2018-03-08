@@ -19,11 +19,11 @@ description: Study methods in population genomics have been profoundly reshaped 
      <td><img src="../../../img/logos/IGB-logo.jpg" alt="cnr" height="150" width="350"></td>
       <td><img src="../../../img/elixir_ita_logo.png" alt="yay" height="150" width="300"></td>
       <td width="100"></td>
-    <td><img src="../../../img/logos/Logo_Macrogen_300x300.png" alt="yay" height="300" width="300"></td>
+    <td><img src="../../../img/logos/Logo_Macrogen_300x300.png" alt="yay" height="250" width="300"></td>
    </tr>
    <tr>
-    <td colspan="2" align=center><img src="../../../img/tw.png" alt="yay" height="100" width="100"></td>
-    <td colspan="2" ><b>#popgenELIXIR</b></td>
+    <td colspan="2"><img src="../../../img/tw.png" alt="yay" height="100" width="100"></td>
+    <td colspan="2"><b>#popgenELIXIR</b></td>
    </tr>
 </table>
 <br>
