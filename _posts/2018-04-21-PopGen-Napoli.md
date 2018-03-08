@@ -138,25 +138,25 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
 </tr>
 <tr>
    <td>12:00-13:00</td>
-   <td>Keynote lecture</td>
-   <td>Andrew Clark</td>
-   <td>Population Genomics: where are we going? - Overview of major achievements and current goals of population genomics.</td>
+   <td>Lecture</td>
+   <td>Olivier Delaneau</td>
+   <td>Data QC and Exploratory Data Analysis /Basic operations to perform on genome sequences data sets before applying population genomic analyses.</td>
 </tr>
 <tr>
-   <td>13:00-14:15</td>
+   <td>13:00-14:30</td>
    <td colspan="3">Lunch and coffee</td>
 </tr>
 <tr>
-   <td>14:15-15:00</td>
-   <td>Lecture</td>
-   <td>Olivier Delaneau</td>
-   <td>Data QC and Exploratory Data Analysis - Basic operations to perform on genome sequences data sets before applying population genomic analyses.</td>
-</tr>
-<tr>
-   <td>15:00-17:00</td>
+   <td>14:30-17:00</td>
    <td>Practical</td>
    <td>Olivier Delaneau</td>
-   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on clustering methods to detect sample substructure (e.g. principal component analyses).</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on clustering methods to detect sample substructure (e.g. principal component analyses). Coffee will be available during the practicals.</td>
+</tr>
+<tr>
+   <td>17:00-18:00</td>
+   <td>Keynote lecture</td>
+   <td>Andrew Clark</td>
+   <td>Population Genomics: where are we going? - Overview of major achievements and current goals of population genomics. Include question session.</td>
 </tr>
 <tr>
    <td colspan="4"><h3>Sunday 22 April 2018</h3></td>
@@ -204,11 +204,10 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td colspan="3">Coffee break</td>
 </tr>
 <tr>
-   <td>17:00-18:00</td>
-   <td>Lecture</td>
-   <td>Andrew Clark</td>
-   <td>Coalescence theory made fun and easy / Coalescent models describing genetic diversity in populations as consequence of their demographic history.</td>
+   <td>17:00-18:30</td>
+   <td colspan="3">Poster session</td>
 </tr>
+
 <tr>
    <td colspan="4"><h3>Monday 23 April 2018</h3></td>
 </tr>
@@ -221,8 +220,8 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
 <tr>
    <td>09:30-10:15</td>
    <td>Lecture</td>
-   <td>Ida Moltke</td>
-   <td>Inference of relatedness and identity by descent sharing - Relatedness inference and identical by descent sharing.</td>
+   <td>Andrew Clark</td>
+   <td>Coalescence theory made fun and easy / Coalescent models describing genetic diversity in populations as consequence of their demographic history.</td>
 </tr>
 <tr>
    <td>10:15-10:30</td>
@@ -230,27 +229,31 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
 </tr>
 <tr>
    <td>10:30-12:30</td>
-   <td>Practical </td>
-   <td>Ida Moltke</td>
-   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on relatedness inference and identical by descent sharing.</td>
-</tr>
-<tr>
-   <td>12:30-13:30</td>
-   <td colspan="3">Lunch in the park</td>
-</tr>
-<tr>
-   <td>13:30-15:30</td>
    <td>Practical</td>
    <td>Andrew Clark</td>
    <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on genetic drift and coalescence: coalescent simulations made with pen and paper. Coffee will be available during the practicals.</td>
 </tr>
 <tr>
-   <td>15:30-16:00</td>
-   <td colspan="3">Coffee break</td>
+   <td>12:30-13:30</td>
+   <td colspan="3">Lunch at the park near the venue</td>
 </tr>
 <tr>
-   <td>16:00-18:00</td>
-   <td colspan="3">Poster session</td>
+   <td>13:30-14:15</td>
+   <td>Lecture</td>
+   <td>Ida Moltke</td>
+   <td>Inference of relatedness and identity by descent sharing - Relatedness inference and identical by descent sharing.</td>
+</tr>
+<tr>
+   <td>14:15-16:30</td>
+   <td>Practical </td>
+   <td>Ida Moltke</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on relatedness inference and identical by descent sharing.</td>
+</tr>
+<tr>
+   <td>16:30-17:30</td>
+   <td></td>
+   <td>Taichi Ochi (Macrogen)</td>
+   <td>Introduction to NGS -  Current applications and its impact on research and healthcare.</td>
 </tr>
 <tr>
    <td colspan="4"><h3>Tuesday 24 April 2018</h3></td>
@@ -268,25 +271,27 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td>f3 and f4 statistics - Methods to detect population admixture from genomic data .</td>
 </tr>
 <tr>
-   <td>10:15-10:30</td>
-   <td colspan="3">Coffee break</td>
-</tr>
-<tr>
-   <td>10:30-12:30</td>
+   <td>10:15-12:30</td>
    <td>Practical </td>
    <td>Martin Sikora</td>
    <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on population admixture using the software ADMIXTOOL. Possible extra topic: ROLLOFCoffee will be available during the practicals.</td>
 </tr>
 <tr>
    <td>12:30-13:30</td>
-   <td colspan="3">Lunch in the park</td>
+   <td colspan="3">Lunch</td>
 </tr>
 <tr>
-   <td>13:30-15:00</td>
+   <td>13:30-14:30</td>
+   <td></td>
+   <td>Taichi Ochi (Macrogen)</td>
+   <td>Metagenomic Sequencing - What can we sequence and discover.</td>
+</tr>
+<tr>
+   <td>14:30-15:30</td>
    <td colspan="3">Poster session</td>
 </tr>
 <tr>
-   <td>15:00-19:00</td>
+   <td>15:30 onwards</td>
    <td colspan="3">Walk in Naples</td>
 </tr>
 <tr>
@@ -316,7 +321,7 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
 </tr>
 <tr>
    <td>12:30-13:30</td>
-   <td colspan="3">Lunch in the park</td>
+   <td colspan="3">Lunch at the park near the venue</td>
 </tr>
 <tr>
    <td>13:30-14:15</td>
@@ -329,6 +334,10 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td>Practical</td>
    <td>Garrett Hellenthal</td>
    <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on inferring population demography (admixture population splits and size changes) using the software MSMC/PSMC and GLOBETROTTER. Coffee will be available during the practicals.</td>
+</tr>
+<tr>
+   <td>16:30-18:00</td>
+   <td colspan="3">Poster session</td>
 </tr>
 <tr>
    <td colspan="4"><h3>Thursday 26 April 2018</h3></td>
@@ -357,7 +366,7 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
 </tr>
 <tr>
    <td>12:30-13:30</td>
-   <td colspan="3">Lunch in the park</td>
+   <td colspan="3">Lunch at the park near the venue</td>
 </tr>
 <tr>
    <td>13:30-14:15</td>
@@ -366,14 +375,10 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td>Types and measurements of natural selection - Mechanisms through which new advantageous genetic variants become fixed in populations and natural selection favours extreme phenotypes in changing environments.</td>
 </tr>
 <tr>
-   <td>14:15-16:30</td>
+   <td>14:15-17:00</td>
    <td>Practical</td>
    <td>Pascale Gerbault</td>
    <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on detecting natural selection. Coffee will be available during the practicals.</td>
-</tr>
-<tr>
-   <td>16:30-17:00</td>
-   <td colspan="3">Coffee break</td>
 </tr>
 <tr>
    <td>17:00-18:00</td>
@@ -408,7 +413,7 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
 </tr>
 <tr>
    <td>12:30-13:30</td>
-   <td colspan="3">Lunch in the park</td>
+   <td colspan="3">Lunch at the park near the venue</td>
 </tr>
 <tr>
    <td>13:30-14:15</td>
