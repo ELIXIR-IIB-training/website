@@ -174,18 +174,14 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td>Haplotype phasing and imputation - Attribution of alleles on maternal and paternal chromosomes to determine haplotypes, statistical inference of unobserved genotypes using known haplotypes in a population.</td>
 </tr>
 <tr>
-   <td>10:15-10:30</td>
-   <td colspan="3">Coffee break</td>
-</tr>
-<tr>
-   <td>10:30-12:30</td>
+   <td>10:15-12:30</td>
    <td>Practical </td>
    <td>Olivier Delaneau</td>
-   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on imputation and phasing using the software Impute, and Shapeit.</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on imputation and phasing using the software Impute, and Shapeit. Coffee will be available during the practicals.</td>
 </tr>
 <tr>
    <td>12:30-13:30</td>
-   <td colspan="3">Lunch in the park</td>
+   <td colspan="3">Lunch</td>
 </tr>
 <tr>
    <td>13:30-14:15</td>
@@ -194,14 +190,10 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td>Forces shaping genetic diversity: recombination, mutation, selection, drift - An overview of basic concepts in population genomics in the light of the recent achievements and discoveries.</td>
 </tr>
 <tr>
-   <td>14:15-16:30</td>
+   <td>14:15-17:00</td>
    <td>Practical</td>
    <td>Andrew Clark</td>
    <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on classical and modern population genomics concepts. Coffee will be available during the practicals.</td>
-</tr>
-<tr>
-   <td>16:30-17:00</td>
-   <td colspan="3">Coffee break</td>
 </tr>
 <tr>
    <td>17:00-18:30</td>
@@ -247,7 +239,7 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td>14:15-16:30</td>
    <td>Practical </td>
    <td>Ida Moltke</td>
-   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on relatedness inference and identical by descent sharing.</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on relatedness inference and identical by descent sharing. Coffee will be available during the practicals.</td>
 </tr>
 <tr>
    <td>16:30-17:30</td>
@@ -274,7 +266,7 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td>10:15-12:30</td>
    <td>Practical </td>
    <td>Martin Sikora</td>
-   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on population admixture using the software ADMIXTOOL. Possible extra topic: ROLLOFCoffee will be available during the practicals.</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on population admixture using the software ADMIXTOOL. Possible extra topic: ROLLOF. Coffee will be available during the practicals.</td>
 </tr>
 <tr>
    <td>12:30-13:30</td>
