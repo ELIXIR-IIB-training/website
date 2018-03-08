@@ -223,7 +223,7 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td>10:30-12:30</td>
    <td>Practical</td>
    <td>Andrew Clark</td>
-   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on genetic drift and coalescence: coalescent simulations made with pen and paper. Coffee will be available during the practicals.</td>
+   <td>Practical demonstrations (estimated 45' within practicals). Individual exercises on genetic drift and coalescence: coalescent simulations made with pen and paper.</td>
 </tr>
 <tr>
    <td>12:30-13:30</td>
