@@ -117,6 +117,7 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
       Macrogen<br>
       <img src="../../../img/speakers/taichi_ochi_macrogen_photo.jpeg" alt="yay" width="150">
     </td>
+    </tr>
 </table>
 <br>
 
