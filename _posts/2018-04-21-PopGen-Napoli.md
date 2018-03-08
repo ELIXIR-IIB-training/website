@@ -13,20 +13,18 @@ description: Study methods in population genomics have been profoundly reshaped 
 	</td>	
 </tr>
 </table>
-<br>
-<table border="0" width="600">
+<table border="0" width="700">
    <tr>
-     <td><img src="../../../img/logos/IGB-logo.jpg" alt="cnr" height="150" width="350"></td>
-      <td><img src="../../../img/elixir_ita_logo.png" alt="yay" height="150" width="300"></td>
+     <td><a href="http://www.igb.cnr.it/"><img src="../../../img/logos/IGB-logo.jpg" alt="cnr" height="150" width="400"></a></td>
+     <td width="50"></td>
+      <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" alt="yay" height="80" width="450"></a></td>
       <td width="100"></td>
-    <td><img src="../../../img/logos/Logo_Macrogen_300x300.png" alt="yay" height="250" width="300"></td>
+    <td align="right"><a href="https://dna.macrogen.com/eng/"><img src="../../../img/logos/Logo_Macrogen_300x300.png" alt="yay" height="220" width="300"></a></td>
    </tr>
    <tr>
-    <td colspan="2"><img src="../../../img/tw.png" alt="yay" height="100" width="100"></td>
-    <td colspan="2"><b>#popgenELIXIR</b></td>
+    <td colspan="2"><img src="../../../img/tw.png" alt="yay" height="80" width="80"><b>#popgenELIXIR</b></td>    
    </tr>
 </table>
-<br>
 
 Study methods in population genomics have been profoundly reshaped in the last few years thanks to the growing availability of complete genomic sequences at population level. The rapid and recent growth of data and methods calls for new approaches to become routine in evolutionary genomics laboratories. The objective of this Practical Course is to give an overview of state of the art methods in population genomics combining lecturing from outstanding experienced population geneticists and software developers. All conceptual innovation will be presented in lectures and applied in practice both individually and in group work.
 
