@@ -111,7 +111,7 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
       <img src="../../../img/speakers/PascaleGerbaultOK.jpg" alt="yay" width="150">
     </td>
    </tr>
-   <tr height="200"> 
+   <tr height="150"> 
     <td> 
       <a href="https://dna.macrogen.com/eng/">Taichi Ochi</a><br>
       Macrogen<br>
