@@ -128,11 +128,11 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td colspan="4"><h3>Saturday 21 April 2018</h3></td>
 </tr>
 <tr>
-   <td>9:00-9:30</td>
+   <td>09:00-09:30</td>
    <td colspan="3">Coffee and registration</td>
 </tr>
 <tr>
-   <td>9:30-11:00</td>
+   <td>09:30-11:00</td>
    <td>Welcome session</td>
    <td>Organizers, Trainers and Participants</td>
    <td>Introduction to the course, presentation of the course website and repository with all the material for the course. Trainers and participants presentation: current position in science, course motivations, objectives and expectations.</td>
@@ -169,7 +169,7 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td colspan="4"><h3>Sunday 22 April 2018</h3></td>
 </tr>
 <tr>
-   <td>9:00-9:30</td>
+   <td>09:00-09:30</td>
    <td>Recap session</td>
    <td>Participants and Trainers</td>
    <td>Quick recapitulation of concepts from the previous day</td>
@@ -211,7 +211,7 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td colspan="4"><h3>Monday 23 April 2018</h3></td>
 </tr>
 <tr>
-   <td>9:00-9:30</td>
+   <td>09:00-09:30</td>
    <td>Recap session</td>
    <td>Participants and Trainers</td>
    <td>Quick recapitulation of concepts from the previous day</td>
@@ -297,7 +297,7 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td colspan="4"><h3>Wednesday 25 April 2018</h3></td>
 </tr>
 <tr>
-   <td>9:00-9:30</td>
+   <td>09:00-09:30</td>
    <td>Recap session</td>
    <td>Participants and Trainers</td>
    <td>Quick recapitulation of concepts from the previous day</td>
@@ -342,7 +342,7 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td colspan="4"><h3>Thursday 26 April 2018</h3></td>
 </tr>
 <tr>
-   <td>9:00-9:30</td>
+   <td>09:00-09:30</td>
    <td>Recap session</td>
    <td>Participants and Trainers</td>
    <td>Quick recapitulation of concepts from the previous day</td>
@@ -389,7 +389,7 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
    <td colspan="4"><h3>Friday 27 April 2018</h3></td>
 </tr>
 <tr>
-   <td>9:00-9:30</td>
+   <td>09:00-09:30</td>
    <td>Recap session</td>
    <td>Participants and Trainers</td>
    <td>Quick recapitulation of concepts from the previous day</td>
