@@ -19,7 +19,7 @@ permalink: /all_events_2018/
    <td height="50" width="150">A. Via<br>V. Morea</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Nov<br>05-10</td>
-   <td height="50" align="center" color="blue"><b>will open</b></td>   
+   <td height="50" align="center">will open</td>   
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-EXCELERATE</td>
@@ -27,7 +27,7 @@ permalink: /all_events_2018/
    <td height="50" width="150">A. Via</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Sep<br>20-21</td>
-   <td height="50" align="center" color="blue"><b>will open</b></td>   
+   <td height="50" align="center">will open</td>   
 </tr>
 
 
@@ -80,7 +80,7 @@ permalink: /all_events_2018/
    <td height="50" width="150">A. Via<br>G. Della Vedova<br>L Le Pera</td>
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Feb<br>22-23</td>
-   <td height="50" align="center">closed</td>
+   <td height="50" align="center" color="light grey"><b>closed</b></td>
 </tr>
 <tr>
 	<td height="50" align="center">ELIXIR-EXCELERATE</td>
@@ -88,7 +88,7 @@ permalink: /all_events_2018/
    <td height="50" width="150">P. Palagi<br>A. Via</td>
    <td height="50" align="center">Lausanne,<br>Switzerland</td>
    <td height="50" width="75" width="75" align="center">Jan<br>30-31</td>
-   <td height="50" align="center">closed</td>
+   <td height="50" align="center" color="light grey"><b>closed</b></td>
 </tr>
 <tr>
 	<td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
@@ -96,8 +96,8 @@ permalink: /all_events_2018/
    <td height="50" width="150">L. Le Pera<br>A. Via<br>T. Castrignanò</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Jan<br>16-17</td>
-   <td height="50" align="center">closed</td>
-</tr>
+   <td height="50" align="center" color="light grey"><b>closed</b></td>
+</tr> 
 </table>
 <br>
 <br>
