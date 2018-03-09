@@ -26,9 +26,18 @@ permalink: /all_events/
    <td height="50">Train the Trainer</td>
    <td height="50" width="150">A. Via</td>
    <td height="50" align="center">Roma,<br>Italy</td>
-   <td height="50" width="75" width="75" align="center">Sep<br> 20-21</td>
+   <td height="50" width="75" width="75" align="center">Sep<br>20-21</td>
    <td height="50" align="center">will open</td>   
 </tr>
+<tr>
+<td height="50" align="center">ELIXIR-EXCELERATE</td>
+   <td height="50">Train the Trainer</td>
+   <td height="50" width="150">ELIXIR-FR<br>ELIXIR-IIB<br>SIB</td>
+   <td height="50" align="center">Paris,<br>France</td>
+   <td height="50" width="75" width="75" align="center">Mar<br>26-27</td>
+   <td height="50" align="center">will open</td>   
+</tr>
+
 <!-- <tr>
    <td height="50">Exploiting Docker for reproducibility in bioinformatics analysis</td>
    <td height="50" width="150"></td>
