@@ -1,7 +1,7 @@
 ---
 layout: page
-title: All events
-permalink: /all_events/
+title: All events 2018
+permalink: /all_events_2018/
 ---
 
 <table border="1" width="810">
@@ -29,14 +29,7 @@ permalink: /all_events/
    <td height="50" width="75" width="75" align="center">Sep<br>20-21</td>
    <td height="50" align="center">will open</td>   
 </tr>
-<tr>
-<td height="50" align="center">ELIXIR-EXCELERATE</td>
-   <td height="50">Train the Trainer</td>
-   <td height="50" width="150">ELIXIR-FR<br>ELIXIR-IIB<br>SIB</td>
-   <td height="50" align="center">Paris,<br>France</td>
-   <td height="50" width="75" width="75" align="center">Mar<br>26-27</td>
-   <td height="50" align="center">will open</td>   
-</tr>
+
 
 <!-- <tr>
    <td height="50">Exploiting Docker for reproducibility in bioinformatics analysis</td>
@@ -53,8 +46,16 @@ permalink: /all_events/
    <td height="50" width="150">V. Colonna<br>C. Batini<br>A. Via<br>L. Le Pera</td>
    <td height="50" align="center">Napoli,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Apr<br>21-27</td>
-   <td height="50" align="center">full</td>
+   <td height="50" align="center"><font color="red"><b>full</b></font></td>
    </tr>
+   <tr>
+<td height="50" align="center">ELIXIR-EXCELERATE</td>
+   <td height="50"><a href="https://elixir-iib-training.github.io/website/2018/03/26/train-the-trainer-paris.html">Train the Trainer</a></td>
+   <td height="50" width="150">ELIXIR-FR<br>ELIXIR-IIB<br>SIB</td>
+   <td height="50" align="center">Paris,<br>France</td>
+   <td height="50" width="75" width="75" align="center">Mar<br>26-27</td>
+   <td height="50" align="center"><font color="green"><b>Deadline:<br>15 March</b></font></td>   
+</tr>
 <tr>
 <td height="50" align="center">CNR and ELIXIR-IIB<br>ASL workshop<br>for high-schools</td>
    <td height="50"><a href="https://elixir-iib-training.github.io/website/docs/Workshop-CNR-Righi_Roma2018.html">Dai Big Data alla Data Science: sfide e professioni nascenti nell’era dei grandi dati</a>
