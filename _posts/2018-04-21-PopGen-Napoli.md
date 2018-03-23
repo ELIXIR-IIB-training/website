@@ -15,10 +15,13 @@ description: Study methods in population genomics have been profoundly reshaped 
 </table>
 <table width="700">
    <tr>
+   <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_excelerate_whitebackground.png" alt="yay" height="80" width="400"></a></td>
+   <td width="10"></td>
+   <td></td>
+      <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" alt="yay" height="80" width="600"></a></td>
      <td><a href="http://www.igb.cnr.it/"><img src="../../../img/logos/IGB-logo.jpg" alt="cnr" height="150" width="500"></a></td>
-     <td width="20"></td>
-      <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" alt="yay" height="80" width="500"></a></td>
-      <td width="100"></td>
+      
+      <td width="50"></td>
       <td align="right"><a href="https://dna.macrogen.com/eng/"><img src="../../../img/logos/Logo_Macrogen_300x300.png" alt="yay" height="200" width="400"></a></td>
        <td width="20"></td>
       <td><a href="http://www.genomix4life.com/it/"><img src="../../../img/Logo_genomix4life.png" height="120" width="500"></a></td>
