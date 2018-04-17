@@ -54,7 +54,7 @@ permalink: /all_events_2018/
    <td height="50" width="150">ELIXIR-FR<br>ELIXIR-IIB<br>SIB</td>
    <td height="50" align="center">Paris,<br>France</td>
    <td height="50" width="75" width="75" align="center">Mar<br>26-27</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+   <td height="50" align="center"><font color="black"><b>closed</b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">CNR and ELIXIR-IIB<br>ASL workshop<br>for high-schools</td>
