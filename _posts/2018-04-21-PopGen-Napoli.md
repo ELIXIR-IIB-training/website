@@ -15,15 +15,18 @@ description: Study methods in population genomics have been profoundly reshaped 
 </table>
 <table width="700">
    <tr>
-   <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_excelerate_whitebackground.png" alt="yay" height="80" width="400"></a></td>
-   <td width="10"></td>
+   <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" alt="yay" height="80" width="700"></a></td>
    <td></td>
-      <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" alt="yay" height="80" width="600"></a></td>
-     <td><a href="http://www.igb.cnr.it/"><img src="../../../img/logos/IGB-logo.jpg" alt="cnr" height="150" width="500"></a></td>    
-      <td width="50"></td>
-      <td align="right"><a href="https://dna.macrogen.com/eng/"><img src="../../../img/logos/Logo_Macrogen_300x300.png" alt="yay" height="200" width="400"></a></td>
-       <td width="20"></td>
-      <td><a href="http://www.genomix4life.com/it/"><img src="../../../img/Logo_genomix4life.png" height="120" width="500"></a></td>
+   <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_excelerate_whitebackground.png" alt="yay" height="80" width="300"></a></td>
+   <td width="50"></td>
+     <td><a href="http://www.igb.cnr.it/"><img src="../../../img/logos/IGB-logo.jpg" alt="cnr" height="150" width="550"></a></td>
+      </tr>
+      <tr>
+      <td><a href="http://www.genomix4life.com/it/"><img src="../../../img/Logo_genomix4life.png" height="100" width="500"></a></td>
+      <td width="100"></td>
+      <td align="right"><a href="https://dna.macrogen.com/eng/"><img src="../../../img/logos/Logo_Macrogen_300x300.png" alt="yay" height="200" width="450"></a></td>
+      <td width="100"></td>
+        <td align="right"><a href="https://dna.macrogen.com/eng/"><img src="../../../img/Logo_INFN.png" alt="yay" height="100" width="150"></a></td>          
         </tr>
         <tr height="50"></tr>
    <tr>
@@ -453,9 +456,6 @@ Taxi - Ask for “tariffa predeterminata” (fixed fare) if you are going to one
 
 The CNR is right outside the exit Montedonzelli of the metro Linea1. Check this website for more details. Once at the CNR reception you will find indications for the course. To enter the building it is mandatory to sign a registry of presence at the reception. You will be asked to sign when you enter for the first time in the morning and when you leave in the evening. This is a security requirement.
 
-## Contact
-Email: <elixir.popgen.2018@gmail.com> <br>
-Phone: +39 0816 132 254
 
 ## Organisers 
 
@@ -474,17 +474,33 @@ Phone: +39 0816 132 254
     <td width="150"> 
       <a href="https://allegravia.github.io/website/publications/">Allegra Via</a> <br>
       Consiglio Nazionale delle Ricerche, Italy  <br> 
-      <img src="../../../img/organisers/AllegraVia.jpg" alt="yay" height="150" width="150">
+      <img src="../../../img/organisers/AllegraVia.jpg" alt="yay" height="150" width="150"></td>
+      <td width="150"> 
+      <a href="">Loredana Le Pera</a> <br>
+      Consiglio Nazionale delle Ricerche, Italy  <br> 
+      <img src="../../../img/organisers/LoredanaLePera.png" alt="yay" height="150" width="150">
     </td>
    </tr>   
   </table>
+<br>
 
+## IT Technical support
+<b>Giacinto Donvito (INFN - Istituto Nazionale di Fisica Nucleare, Bari)</b><br>
+Claudia Rallo (CNR - Istituto di genetica delle popolazioni, Napoli)<br>
+Mario Aversano (CNR - Istituto di genetica delle popolazioni, Napoli)<br>
+Pasquale Elefante (CNR - Istituto di genetica delle popolazioni, Napoli)<br>
+<br>
+
+## Contact
+Email: <elixir.popgen.2018@gmail.com> <br>
+Phone: +39 0816 132 254
+<br>
+<br>
 <br>
 
 ## Pompei - Ercolano
 
-
-<table style="width:100%">
+<table width="600">
    <tr>
      <td><img src="../../../img/pompei1.jpg" alt="yay" height="300"></td>
      </tr>
