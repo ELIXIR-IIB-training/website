@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ELIXIR-EXCELERATE Train the Trainer <font color='green'>[open]</font>"
+title:  "ELIXIR-EXCELERATE Train the Trainer <font color='black'>[closed]</font>"
 date_start:   2018-03-26
 date_end:   2018-03-27
 venue: Paris, France
@@ -11,7 +11,7 @@ description: ELIXIR-FR in collaboration with ELIXIR-IT and Swiss Institute of Bi
 
 <table border="0" width="600">
   <tr>
-  <td><a href="https://www.elixir-europe.org/about-us/who-we-are/nodes/switzerland"><img src="../../../img/Logo_elixir_france.png" height="80" width="100"></a></td>
+  <td><a href="https://www.elixir-europe.org/about-us/who-we-are/nodes/france"><img src="../../../img/Logo_elixir_france.png" height="80" width="100"></a></td>
   <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="110"></a></td>
   <td><a href="https://www.sib.swiss/"><img src="../../../img/Logo_SIB.jpg" height="90" width="120"></a></td>
   </tr>
