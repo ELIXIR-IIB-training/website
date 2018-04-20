@@ -32,7 +32,7 @@ permalink: /all_events_2018/
 <tr>
    <td height="50" align="center">ELIXIR-IIB/BITS2018 Workshop</td>
    <td height="50"><a href="http://bioinformatics.it/bits2018/1294/bits2018-docker-and-reproducibility">Docker and Reproducibility</a></td>
-   <td height="50" width="150">M. Beccuti<br>R. Calogero<br>R. Bonnal<br>L. Le Pera<br>A. Via</td>
+    <td height="50" width="150"><!--M. Beccuti<br>R. Calogero<br>R. Bonnal<br>L. Le Pera<br>A. Via --> </td>
    <td height="50" align="center">Torino,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Jun<br>25-26</td>
    <td height="50" align="center"><font color="orange"><b>will open soon</b></font></td> 
@@ -44,10 +44,10 @@ permalink: /all_events_2018/
    <td height="50" align="center">Napoli,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Apr<br>21-27</td>
    <td height="50" align="center"><font color="red"><b>full</b></font></td>
-   </tr>
+</tr>
    <tr>
-<td height="50" align="center">ELIXIR-EXCELERATE</td>
-   <td height="50"><a href="https://elixir-iib-training.github.io/website/2018/03/26/train-the-trainer-paris.html">Train the Trainer</a></td>
+	<td height="50" align="center">ELIXIR-EXCELERATE</td>
+   <td height="50"><a href="https://elixir-iib-training.github.io/website/2018/03/26/	train-the-trainer-paris.html">Train the Trainer</a></td>
    <td height="50" width="150">ELIXIR-FR<br>ELIXIR-IIB<br>SIB</td>
    <td height="50" align="center">Paris,<br>France</td>
    <td height="50" width="75" width="75" align="center">Mar<br>26-27</td>
