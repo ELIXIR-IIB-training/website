@@ -24,6 +24,5 @@ Places on the workshop are limited to **20**.<br>
 You can submit an application by filling out [this form](). 
 The application will open on <b>1st May</b> and those with an adequate profile will be accepted immediately, until we reach 20 participants.<br>  
 <br>
-
 For any further information, please contact Marco Beccuti:
 <beccuti@di.unito.it>
