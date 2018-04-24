@@ -32,7 +32,7 @@ permalink: /all_events_2018/
 <tr>
    <td height="50" align="center">BITS2018/ELIXIR-IIB Workshop</td>
    <td height="50"><a href="http://bioinformatics.it/bits2018/1294/bits2018-docker-and-reproducibility">Docker and Reproducibility</a></td>
-    <td height="50" width="150">R. Bonnal<br>M. Beccuti<br>R. Calogero<br>L. Le Pera<br>A. Via</td>
+    <td height="50" width="150">R. Bonnal<br>R.A. Calogero<br>M. Beccuti<br>L. Le Pera<br>A. Via</td>
    <td height="50" align="center">Torino,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Jun<br>25-26</td>
    <td height="50" align="center"><font color="orange"><b>will open soon</b></font></td> 
