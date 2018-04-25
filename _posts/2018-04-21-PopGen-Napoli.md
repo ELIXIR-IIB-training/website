@@ -30,9 +30,12 @@ description: Study methods in population genomics have been profoundly reshaped 
         </tr>
         <tr height="50"></tr>
    <tr>
-    <td colspan="4"><img src="../../../img/tw.png" alt="yay" height="80" width="80"><b>#popgenELIXIR</b></td>    
+    <td colspan="4"><img src="../../../img/tw.png" alt="yay" height="80" width="80"><b>#elixirpopgen</b></td>    
    </tr>
 </table>
+
+<a href="https://github.com/ELIXIR-IIB-training/POPGEN2018">Go to the course material on git</a>
+
 Study methods in population genomics have been profoundly reshaped in the last few years thanks to the growing availability of complete genomic sequences at population level. The rapid and recent growth of data and methods calls for new approaches to become routine in evolutionary genomics laboratories. The objective of this Practical Course is to give an overview of state of the art methods in population genomics combining lecturing from outstanding experienced population geneticists and software developers. All conceptual innovation will be presented in lectures and applied in practice both individually and in group work.
 
 Practicals includes computer exercises supervised by lecturers and training assistants. <br>
