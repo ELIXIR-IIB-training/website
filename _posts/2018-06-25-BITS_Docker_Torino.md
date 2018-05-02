@@ -21,7 +21,7 @@ This workshop is a satellite event held jointly with the BITS Annual Meeting 201
 The workshop webpage with all the information can be found at:
 [BITS2018 - DOCKER AND REPRODUCIBILITY, Torino (Italy), 25-26 Jun 2018.](http://bioinformatics.it/bits2018/1294/bits2018-docker-and-reproducibility)<br>
 Places on the workshop are limited to **20**.<br> 
-You can submit an application by filling out [this form](). 
+You can submit an application by filling out [this form](https://goo.gl/forms/HIxHDGIWPq9TcJYl2). 
 The application will open on <b>1st May</b> and those with an adequate profile will be accepted immediately, until we reach 20 participants.<br>  
 <br>
 For any further information, please contact Marco Beccuti:
