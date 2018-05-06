@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Et cetera
+title: Et Cetera
 permalink: /et_cetera/
 ---
 
