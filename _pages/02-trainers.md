@@ -13,6 +13,8 @@ permalink: /trainers/
 
 [**Alberto Calderone**](../instructors/alberto_calderone.html) [Dept. of Molecular Biology, "Tor Vergata" University,  Roma, IT]<br>
 
+[**Raffaele Calogero**](../instructors/raffaele_calogero.html) [Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT]<br>
+
 [**Tiziana Castrignanò**](../instructors/tiziana_castrignano.html) [CINECA, Roma, IT]<br>
 
 [**Matteo Chiara**](http://159.149.160.56/beacon/) [Dept. of Biosciences, University of Milano, IT]<br>
