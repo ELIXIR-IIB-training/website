@@ -43,7 +43,7 @@ permalink: /all_events_2018/
    <td height="50" width="150">V. Colonna<br>C. Batini<br>A. Via<br>L. Le Pera</td>
    <td height="50" align="center">Napoli,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Apr<br>21-27</td>
-   <td height="50" align="center"><font color="red"><b>full</b></font></td>
+   <td height="50" align="center"><font color="black"><b>closed</b></font></td>
 </tr>
    <tr>
 	<td height="50" align="center">ELIXIR-EXCELERATE</td>
