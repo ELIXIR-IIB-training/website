@@ -22,20 +22,20 @@ permalink: /all_events_2018/
    <td height="50" align="center">will open soon</td>   
 </tr>
 <tr>
-<td height="50" align="center">Bring Your Own Data Workshop</td>
-   <td height="50"><a href="http://old.iss.it/cnmr/?cookie=1">Summer School on Rare Disease and Orphan Drug Registries including BYOD</a></td>
-   <td height="50" width="150"><br></td>
-   <td height="50" align="center">Roma,<br>Italy</td>
-   <td height="50" width="75" width="75" align="center">Sep<br>10-14</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
-</tr>
-<tr>
 <td height="50" align="center">ELIXIR-EXCELERATE</td>
    <td height="50">Train the Trainer</td>
    <td height="50" width="150">A. Via<br>L. Le Pera</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Sep<br>27-28</td>
    <td height="50" align="center">will open soon</td>   
+</tr>
+<tr>
+<td height="50" align="center">Bring Your Own Data Workshop</td>
+   <td height="50"><a href="http://old.iss.it/cnmr/?cookie=1">Summer School on Rare Disease and Orphan Drug Registries including BYOD</a></td>
+   <td height="50" width="150"><br></td>
+   <td height="50" align="center">Roma,<br>Italy</td>
+   <td height="50" width="75" width="75" align="center">Sep<br>10-14</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
 </tr>
 <tr>
    <td height="50" align="center">BITS2018/ELIXIR-IIB Workshop</td>
