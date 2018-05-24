@@ -19,7 +19,7 @@ permalink: /all_events_2018/
    <td height="50" width="150">A. Via<br>V. Morea</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Nov<br>05-10</td>
-   <td height="50" align="center">will open</td>   
+   <td height="50" align="center">will open soon</td>   
 </tr>
 <tr>
 <td height="50" align="center">Bring Your Own Data Workshop</td>
@@ -35,7 +35,7 @@ permalink: /all_events_2018/
    <td height="50" width="150">A. Via<br>L. Le Pera</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Sep<br>27-28</td>
-   <td height="50" align="center">will open</td>   
+   <td height="50" align="center">will open soon</td>   
 </tr>
 <tr>
    <td height="50" align="center">BITS2018/ELIXIR-IIB Workshop</td>
