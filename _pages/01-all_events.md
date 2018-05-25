@@ -24,6 +24,14 @@ permalink: /all_events_2018/
 <tr>
 <td height="50" align="center">ELIXIR-EXCELERATE</td>
    <td height="50">Train the Trainer</td>
+   <td height="50" width="150">A. Via<br>J. Lindvall</td>
+   <td height="50" align="center">Stockholm,<br>Sweden</td>
+   <td height="50" width="75" width="75" align="center">Oct<br>9-11</td>
+   <td height="50" align="center">will open soon</td>   
+</tr>
+<tr>
+<td height="50" align="center">ELIXIR-EXCELERATE</td>
+   <td height="50"><a href="https://elixir-iib-training.github.io/website/2018/09/27/train-the-trainer-rome.html">Train the Trainer</a></td>
    <td height="50" width="150">A. Via<br>L. Le Pera</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Sep<br>27-28</td>
