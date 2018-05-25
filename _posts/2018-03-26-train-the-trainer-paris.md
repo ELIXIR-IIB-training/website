@@ -33,7 +33,6 @@ There is no course attendance fee. The participants will need to bear their trav
 ## Instructors
 [**Allegra Via**](../../../instructors/allegra_via.html) (TrC Elixir-Italy, IBPM-CNR)<br>
 [**Patricia Palagi**](../../../instructors/patricia_palagi.html) (TrC Elixir-Switzerland, SIB)<br>
-[**Rochelle E. Tractenberg**](https://neurology.georgetown.edu/faculty/tractenberg) (Georgetown University Medical Center)
 
 ## Local organisers
 **Victoria Dominguez Del Angel**, TrC Elixir-France, French Insitute of Bioinformatics UMS3601-CNRS, Campus Universitaire d'Orsay, France<br>
