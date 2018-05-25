@@ -40,6 +40,7 @@ There is no course attendance fee. The participants will need to bear their trav
 
 ## Description
 The course is made up of four sessions, covering:
+
 * [Learning principles and how they apply to training and teaching](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_1.md)
 * [Teaching techniques that can be used to enhance learner engagement and participation](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_2.md)
 * [Assessment and feedback in training and teaching](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_3.md)
