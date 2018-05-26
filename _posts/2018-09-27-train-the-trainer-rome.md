@@ -32,7 +32,7 @@ Italian National Research Council, p.le Aldo Moro 7, 00185 Roma, Italy
 <br>
 
 ## Fee
-There is no course attendance fee. The participants will need to bear their travel, hotel and meal costs.
+There is no course attendance fee. The participants will need to bear their travel, hotel (if any) and meal costs. Candidates from ELIXIR nodes might apply for an [ELIXIR-EXCELERATE TtT Exchange Program Travel Grant](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT-exchange-programme.md) when they fill their application form.
 <br>
 <br>
 
