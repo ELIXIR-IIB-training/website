@@ -4,7 +4,7 @@ title:  "ELIXIR-EXCELERATE Train the Trainer <font color='green'>[open]</font>"
 date_start:   2018-09-27
 date_end:   2018-09-28
 venue: Rome, Italy
-description: ELIXIR-EXCELERATE, in collaboration with ELIXIR-IIB, are pleased to announce a Train the Trainer (TtT) event. This course is meant to offer guidance, ideas and tips for training/teaching design, development and delivery based on research-driven educational principles. Examples and discussions will also focus on the challenges presented by academic teaching.
+description: ELIXIR-EXCELERATE, in collaboration with ELIXIR-IIB, is pleased to announce a Train the Trainer (TtT) event. This course is meant to offer guidance, ideas and tips for training/teaching design, development and delivery based on research-driven educational principles. Examples and discussions will also focus on the challenges presented by academic teaching.
 
 ---
 
