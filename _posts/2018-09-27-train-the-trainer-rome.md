@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ELIXIR-EXCELERATE Train the Trainer <font color='green'><b>open</b></font>"
+title:  "ELIXIR-EXCELERATE Train the Trainer <font color='green'>[open]</font>"
 date_start:   2018-09-27
 date_end:   2018-09-28
 venue: Rome, Italy
@@ -22,7 +22,7 @@ ELIXIR-EXCELERATE in collaboration with ELIXIR-IIB are pleased to announce a Tra
 ## Important dates
 <b>Course date:</b> 27-28 September, 2018
 
-We will accept a maximum of **25** participants. Priority will be given to candidates from Elixir-IIB and ELIXIR nodes. Notifications of acceptance will be sent shortly after the application, which will remain open until we reach 25 participants.
+We will accept a maximum of **20** participants. Priority will be given to candidates from Elixir-IIB and ELIXIR nodes. Notifications of acceptance will be sent shortly after the application, which will remain open until we reach 20 participants.
 <br>
 <br>
 
