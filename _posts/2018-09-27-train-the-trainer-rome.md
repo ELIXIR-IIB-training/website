@@ -27,7 +27,7 @@ We will accept a maximum of **25** participants. Priority will be given to candi
 <br>
 
 ## Venue
-National Research Council, p.le Aldo Moro 7, 00185 Roma, Italy
+Italian National Research Council, p.le Aldo Moro 7, 00185 Roma, Italy
 <br>
 <br>
 
@@ -58,7 +58,7 @@ The course is made up of four sessions, covering:
 <br>
 <br>
 
-### Application form (will open soon)
+### [Application form](https://goo.gl/forms/aQSgdYwQydUnW6j22)
 <br>
 
 ### Target Audience
