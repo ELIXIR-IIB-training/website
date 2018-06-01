@@ -37,5 +37,5 @@ Workshop design organization and delivery<br>
 
 **Francesca De Leo**<br>
 Dissemination & Outreach<br>
-Fundraising<br>
+Research fundraising<br>
 <f.deleo@ibiom.cnr.it>
