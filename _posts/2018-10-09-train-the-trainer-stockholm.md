@@ -12,7 +12,7 @@ description: ELIXIR-EXCELERATE, in collaboration with ELIXIR-IIB, is pleased to 
 <table border="0" width="600">
   <tr>
   <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_excelerate_whitebackground.png" alt="yay" height="80" width="150"></a></td>
-  <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_sweden.png" height="110"></a></td>
+  <td><a href="https://www.elixir-europe.org/about-us/who-we-are/nodes/sweden"><img src="../../../img/Logo_elixir_sweden.png" height="110"></a></td>
   <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="110"></a></td>
   </tr>
 </table>
