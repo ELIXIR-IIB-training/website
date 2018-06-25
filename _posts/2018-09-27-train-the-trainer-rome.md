@@ -16,7 +16,7 @@ description: ELIXIR-EXCELERATE, in collaboration with ELIXIR-IIB, is pleased to 
   </tr>
 </table>
 <br>
-ELIXIR-EXCELERATE in collaboration with ELIXIR-IIB are pleased to announce a Train the Trainer (TtT) event.
+ELIXIR-EXCELERATE in collaboration with ELIXIR-IIB is pleased to announce a Train the Trainer (TtT) event.
 <br>
 
 ## Important dates
@@ -32,7 +32,7 @@ Italian National Research Council, p.le Aldo Moro 7, 00185 Roma, Italy
 <br>
 
 ## Fee
-There is no course attendance fee. The participants will need to bear their travel, hotel (if any) and meal costs. Candidates from ELIXIR nodes might apply for an [ELIXIR-EXCELERATE TtT Exchange Programme Travel Grant](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT-exchange-programme.md) when they fill their application form.
+There is no course attendance fee. The participants will need to bear their travel, hotel (if any) and meal costs. Candidates from ELIXIR nodes might apply for an [ELIXIR Staff Exchange Programme Travel Grant](https://goo.gl/auzcnY) when they fill their application form.
 <br>
 <br>
 
