@@ -14,7 +14,7 @@ description: ELIXIR-EXCELERATE, in collaboration with ELIXIR Sweden and ELIXIR-I
   <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_Excelerate_EU-flag-acknowledgement.png" height="80" width="300"></a></td>
   <td width="50"></td>
   <td><a href="https://www.elixir-europe.org/about-us/who-we-are/nodes/sweden"><img src="../../../img/Logo_elixir_sweden.png" height="75"></a></td>
-  <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="100"></a></td>
+  <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="105"></a></td>
   </tr>
 </table>
 <br>
