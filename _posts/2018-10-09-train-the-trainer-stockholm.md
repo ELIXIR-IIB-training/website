@@ -11,7 +11,7 @@ description: ELIXIR-EXCELERATE, in collaboration with ELIXIR Sweden and ELIXIR-I
 
 <table border="0" width="600">
   <tr>
-  <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_excelerate_whitebackground.png" alt="yay" height="80" width="150"></a></td>
+  <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_Excelerate_EU-flag-acknowledgement.png" height="80" width="350"></a></td>
   <td><a href="https://www.elixir-europe.org/about-us/who-we-are/nodes/sweden"><img src="../../../img/Logo_elixir_sweden.png" height="80"></a></td>
   <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.jpg" height="110"></a></td>
   </tr>
@@ -33,7 +33,7 @@ Science for Life Laboratory, Tomtebodavägen 23A, 17165 Solna, Sweden
 <br>
 
 ## Fee
-There is no course attendance fee. The participants will need to bear their travel, hotel (if any) and meal costs. Candidates from ELIXIR nodes might apply for an [ELIXIR-EXCELERATE TtT Exchange Programme Travel Grant](https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT-exchange-programme.md) when they fill their application form.
+There is no course attendance fee. The participants will need to bear their travel, hotel (if any) and meal costs. Candidates from ELIXIR nodes might apply for an [ELIXIR Staff Exchange Programme Travel Grant](https://goo.gl/auzcnY) when they fill their application form.
 <br>
 <br>
 
