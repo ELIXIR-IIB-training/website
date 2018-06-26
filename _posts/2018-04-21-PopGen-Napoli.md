@@ -151,7 +151,7 @@ Abstract (max 200 words) for poster presentation must be submitted through the a
 <tr>
    <td>11:00-12:00</td>
    <td>Practical</td>
-   <td>Allegra Via</td>
+   <td>Vincenza Colonna</td>
    <td>Linux recap - Assessment of participants for basic knowledge of linux necessary for the following sessions. Quick recapitulation of linux based on the assessment to ensure all participants are at the same level.</td>
 </tr>
 <tr>
