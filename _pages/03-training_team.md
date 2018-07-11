@@ -45,7 +45,7 @@ If you want to be involved in the ELIXIR-IIB Training Programme or need more inf
 		<a href="mailto:luana.licata@uniroma2.it">luana.licata@uniroma2.it</a><br>
 		University Tor Vergata, Rome
 	</td>
-   <td>	
+   <td width="300">	
 		<a href="mailto:vincenza.colonna@igb.cnr.it">vincenza.colonna@igb.cnr.it</a><br>
 		Institute of Genetics and Biophysics, CNR, Napoli
    </td>
