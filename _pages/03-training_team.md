@@ -10,7 +10,7 @@ If you want to be involved in the ELIXIR-IIB Training Programme or need more inf
  <tr style="background-color:rgba(255,165,0,0.3)">
    <td width="300">
    		<b>Allegra Via</b><br>
-		ELIXIR-IIB Training Coordinator<br>
+		ELIXIR-IIB Training Coordinator
 	</td>
 	<td width="300" >  
    		<b>Loredana Le Pera</b><br>
