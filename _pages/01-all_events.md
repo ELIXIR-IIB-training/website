@@ -15,11 +15,11 @@ permalink: /all_events_2018/
    </tr>
 <tr>
 	<td height="50" align="center">EMBO<br>Practical Course</td>
-   <td height="50">Computational Analysis of PPI: Sequences, networks and diseases</td>
-   <td height="50" width="150">A. Via<br>V. Morea</td>
+   <td height="50"><a href="http://meetings.embo.org/event/18-protein-protein">Computational Analysis of PPI: Sequences, networks and diseases</a></td>
+   <td height="50" width="150">A. Via<br>V. Morea<br>L. Le Pera</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Nov<br>05-10</td>
-   <td height="50" align="center">will open soon</td>   
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-EXCELERATE</td>
