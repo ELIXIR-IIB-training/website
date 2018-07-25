@@ -38,12 +38,21 @@ permalink: /all_events_2018/
    <td height="50" align="center"><font color="green"><b>open</b></font></td>   
 </tr>
 <tr>
+<td height="50" align="center">ELIXIR-IIB Training Course</td>
+   <td height="50"><a href="https://elixir-iib-training.github.io/website/2018/09/26/Docker_Milano_Bicocca.html">Docker Advanced Course</a></td>
+   <td height="50" width="150">G. Della Vedova<br>L. Le Pera<br>A. Via<br></td>
+   <td height="50" align="center">Milano,<br>Italy</td>
+   <td height="50" width="75" width="75" align="center">Sep<br>26-27</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+</tr>
+
+<tr>
 <td height="50" align="center">Bring Your Own Data Workshop</td>
    <td height="50"><a href="http://old.iss.it/cnmr/?lang=1&id=2795&tipo=3">Summer School on Rare Disease and Orphan Drug Registries including BYOD</a></td>
    <td height="50" width="150">D. Taruscio<br>M. Roos<br>C. Carta<br></td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Sep<br>10-14</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+   <td height="50" align="center"><font color="black"><b>closed</b></font></td>   
 </tr>
 <tr>
    <td height="50" align="center">BITS2018/ELIXIR-IIB Workshop</td>
