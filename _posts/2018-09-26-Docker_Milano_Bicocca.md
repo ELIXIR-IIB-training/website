@@ -36,7 +36,7 @@ via Bicocca degli Arcimboldi, 8<br>
 The course does not include a fee, but the participants are expected to pay their own travel, meals and hotel costs (if any).
 
 
-A maximum of **20** candidates will be selected based on their need for the course as emerging from the application form. Notifications of acceptance will be sent after the deadline for applications (6 Sep 2018). Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. 
+A maximum of **20** candidates will be selected based on their need for the course as emerging from the application form. Chosen participants will be notified by 10 September 2018. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. 
 
 **Cancellation policy:** Attendance is limited to 20 participants. We expect many more applications. Accepted participants commit to attend the course for its whole duration. Failure to attend training sessions is disruptive. Moreover, it blocks other candidates from participating. Therefore a cancellation policy is in place so that only written requests presented 10 days in advance relatively to the course starting date are accepted.
 <br>
@@ -54,9 +54,16 @@ A maximum of **20** candidates will be selected based on their need for the cour
 - Allegra Via - ELIXIR-IIB Training Coordinator, IBPM-CNR, IT
 <br>
 
+
+### Contact
+For all kinds of queries, please contact the local organiser at: <gianluca.dellavedova@unimib.it>
+<br>
+
+
 ### Course Description
 Docker is used to run "containers" that are essentially lightweight virtual machines. Containers are isolated from each other and use their own set of tools and libraries; they can communicate through well-defined channels. This allows to easily deploy programs since all requisites of a program are stored inside the containers.
 This course will provide the basic notions and tool to allow a developer to "dockerize" her programs, and to manage a set of containers, hence greatly improving the installation process.
+<br>
 
 
 ### Target audience
@@ -156,7 +163,7 @@ By the end of this course, learners will be independently able to use docker to 
 
 
 <br>
-
+<br>
 
 <h3>ELIXIR-IIB member institutions</h3>
 <ul>
