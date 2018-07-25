@@ -53,12 +53,12 @@ A maximum of **20** candidates will be selected based on their need for the cour
 - Loredana Le Pera - ELIXIR-IIB Training Coordinator Deputy, IBIOM-CNR, IT
 - Allegra Via - ELIXIR-IIB Training Coordinator, IBPM-CNR, IT
 <br>
-
+<br>
 
 ### Contact
 For all kinds of queries, please contact the local organiser at: <gianluca.dellavedova@unimib.it>
 <br>
-
+<br>
 
 ### Course Description
 Docker is used to run "containers" that are essentially lightweight virtual machines. Containers are isolated from each other and use their own set of tools and libraries; they can communicate through well-defined channels. This allows to easily deploy programs since all requisites of a program are stored inside the containers.
