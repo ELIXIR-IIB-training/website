@@ -10,26 +10,24 @@ description: Docker is an open source software that is used to run "containers" 
 
 <table border="0">
 <tr>
-	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="150" width="600"></a>
+	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="130" width="300"></a>
 	</td>
 	<td width="50"></td>
-	<td><a href="https://www.unimib.it/"><img src="../../../img/Logo_unimilano_bicocca.png" height="150" width="600"></a>
+	<td><a href="https://www.unimib.it/"><img src="../../../img/Logo_unimilano_bicocca.png" height="140" width="140"></a>
 	</td>
 </tr>
 </table>
 <br>
 
-**IMPORTANT DATES** for this Training course:
-
-
-- Deadline for applications: 6 Sep 2018
-- Course date: 26-27 Sep 2018
+**IMPORTANT DATES** 
+- Deadline for applications: **6 Sep 2018**
+- Course date: **26-27 Sep 2018**
 <br>
 
 
 **VENUE:**
-University of Milano-Bicocca, Lab. 715, U7 Building 
-via Bicocca degli Arcimboldi, 8 
+University of Milano-Bicocca, Lab. 715, U7 Building<br> 
+via Bicocca degli Arcimboldi, 8<br> 
 20126 Milano, Italy
 <br>
 
@@ -70,7 +68,7 @@ This course is aimed at developers, DevOps in any field.
 By the end of this course, learners will be independently able to use docker to deploy their own applications, especially in an HPC setting, and to manage a set of coordinated docker applications.
 
 
-### Course prerequisites
+<!-- ### Course prerequisites -->
 
 <br>
 <br>
@@ -85,15 +83,15 @@ By the end of this course, learners will be independently able to use docker to 
 
 <table border="1">
 <tr>
-   <td colspan="4"><h3>Wednesday - 26 Sep 2018</h3></td>
+   <td colspan="2"><h3>Wednesday - 26 Sep 2018</h3></td>
 </tr>
 <tr>
    <td height="50">09:00 - 10:30</td>
-   <td colspan="3" height="50">Presentation of the course and quick Introduction to Docker</td>
+   <td height="50">Presentation of the course and quick Introduction to Docker</td>
 </tr>
 <tr>
    <td height="50">10:30 - 11:00</td>
-   <td colspan="3" height="50">Coffee break</td>
+   <td height="50">Coffee break</td>
 </tr>
 <tr>
    <td height="50">11:00 - 12:30</td>
@@ -101,16 +99,15 @@ By the end of this course, learners will be independently able to use docker to 
 </tr>
 <tr>
    <td height="50">12:30 - 13:30</td>
-   <td colspan="3" height="50">Lunch break </td>
+   <td height="50">Lunch break </td>
 </tr>
 <tr>
   <td height="50">13:30 - 15:00</td>
   <td height="50">Writing a Dockerfile. Dockerfile best practices</td>
-  </td>
 </tr>
 <tr>
    <td height="50">15:00 - 15:30</td>
-   <td colspan="3" height="50">Coffee break</td>
+   <td height="50">Coffee break</td>
 </tr>
 <tr>
   <td height="50">15:30 - 17:00</td>
@@ -121,15 +118,15 @@ By the end of this course, learners will be independently able to use docker to 
   <td height="50">End of Day 1</td>
 </tr>
 <tr>
-   <td colspan="4"><h3>Thursday - 27 Sep 2018</h3></td>
+   <td colspan="2"><h3>Thursday - 27 Sep 2018</h3></td>
 </tr>
 <tr>
-<td rowspan="2" height="50">09:00 - 10:30</td>
- <td rowspan="2" height="50">Dockerizing an application (part 2)</td>
+ <td height="50">09:00 - 10:30</td>
+ <td height="50">Dockerizing an application (part 2)</td>
 </tr>
 <tr>
    <td height="50">10:30 - 11:00</td>
-   <td colspan="3" height="50">Coffee break</td>
+   <td height="50">Coffee break</td>
 </tr>
 <tr>
    <td height="50">11:00 - 12:30</td>
@@ -137,20 +134,15 @@ By the end of this course, learners will be independently able to use docker to 
 </tr>
 <tr>
    <td height="50">12:30 - 13:30</td>
-   <td colspan="3" height="50">Lunch break </td>
-</tr>
-
-<tr>
-   <td colspan="3" height="50"><h>Pick programs you want to run and write a Linux shell script to run them in sequence (pipeline)</h></td>
+   <td height="50">Lunch break </td>
 </tr>
 <tr>
   <td height="50">13:30 - 15:00</td>
   <td height="50">Docker and singularity</td>
-  </td>
 </tr>
 <tr>
    <td height="50">15:00 - 15:30</td>
-   <td colspan="3" height="50">Coffee break</td>
+   <td height="50">Coffee break</td>
 </tr>
 <tr>
   <td height="50">15:30 - 17:00</td>
