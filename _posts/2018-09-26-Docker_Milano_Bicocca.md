@@ -4,9 +4,7 @@ title:  "Docker Advanced Course <font color='green'>[open]</font>"
 date_start:   2018-09-26
 date_end:   2018-09-27
 venue: Milano, Italy
-description: Docker is an open source software that is used to run "containers" that are essentially lightweight virtual machines.
-Containers are isolated from each other and use their own set of tools and libraries; they can communicate through well-defined channels.
-This allows to easily deploy programs since all requisites of a program are stored inside the containers. This course will provide the basic notions and tool to allow a developer to "dockerize" her programs, and to manage a set of containers, hence greatly improving the installation process.
+description: Docker is an open source software that is used to run "containers" that are essentially lightweight virtual machines. Containers are isolated from each other and use their own set of tools and libraries; they can communicate through well-defined channels. This allows to easily deploy programs since all requisites of a program are stored inside the containers. This course will provide the basic notions and tool to allow a developer to "dockerize" her programs, and to manage a set of containers, hence greatly improving the installation process.
 
 ---
 
