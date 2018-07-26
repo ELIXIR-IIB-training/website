@@ -37,7 +37,7 @@ via Bicocca degli Arcimboldi, 8<br>
 The course does not include a fee, but the participants are expected to pay their own travel, meals and hotel costs (if any).
 
 
-A maximum of **20** candidates will be selected based on their need for the course as emerging from the application form. Chosen participants will be notified by 10 September 2018. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. 
+A maximum of **20** candidates will be selected based on their need for the course as emerging from the application form. Chosen participants will be notified by 10th September 2018. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. 
 
 **Cancellation policy:** Attendance is limited to 20 participants. We expect many more applications. Accepted participants commit to attend the course for its whole duration. Failure to attend training sessions is disruptive. Moreover, it blocks other candidates from participating. Therefore a cancellation policy is in place so that only written requests presented 10 days in advance relatively to the course starting date are accepted.
 <br>
