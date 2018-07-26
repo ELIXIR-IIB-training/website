@@ -27,7 +27,7 @@ description: Docker is an open source software that is used to run "containers" 
 
 **VENUE:**
 University of Milano-Bicocca<br>
-[Lab. 715, U7 Building]( https://www.google.it/maps/place/Edificio+U7+-+Universit%C3%A0+degli+Studi+di+Milano+-+Bicocca/@45.5169838,9.2112628,16.75z)<br> 
+Lab. 715, U7 Building [link to the map location](https://www.google.it/maps/place/Edificio+U7+-+Universit%C3%A0+degli+Studi+di+Milano+-+Bicocca/@45.5169838,9.2112628,16.75z)<br> 
 via Bicocca degli Arcimboldi, 8<br> 
 20126 Milano, Italy
 <br>
