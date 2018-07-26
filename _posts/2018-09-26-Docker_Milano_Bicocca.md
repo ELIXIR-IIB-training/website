@@ -57,7 +57,7 @@ A maximum of **20** candidates will be selected based on their need for the cour
 <br>
 
 ### Contact
-For all kinds of queries, please contact the local organiser at: <gianluca.dellavedova@unimib.it>
+For all kinds of queries, please contact the local organiser Gianluca Della Vedova at: <gianluca.dellavedova@unimib.it>
 <br>
 <br>
 
