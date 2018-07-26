@@ -26,7 +26,8 @@ description: Docker is an open source software that is used to run "containers" 
 
 
 **VENUE:**
-University of Milano-Bicocca, Lab. 715, U7 Building<br> 
+University of Milano-Bicocca<br>
+[Lab. 715, U7 Building]( https://www.google.it/maps/place/Edificio+U7+-+Universit%C3%A0+degli+Studi+di+Milano+-+Bicocca/@45.5169838,9.2112628,16.75z)<br> 
 via Bicocca degli Arcimboldi, 8<br> 
 20126 Milano, Italy
 <br>
@@ -75,10 +76,11 @@ This course is aimed at developers, DevOps in any field.
 By the end of this course, learners will be independently able to use docker to deploy their own applications, especially in an HPC setting, and to manage a set of coordinated docker applications.
 
 
-<!-- ### Course prerequisites -->
+### Course prerequisites
+The participants will need to know how to execute and manage docker images (docker commands: run ps images)
+<br>
+<br>
 
-<br>
-<br>
 
 
 ### [Application Form]()
