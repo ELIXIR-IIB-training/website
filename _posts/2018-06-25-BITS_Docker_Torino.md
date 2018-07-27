@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BITS2018/ELIXIR-IIB Workshop on Docker and Reproducibility <font color='red'>[full]</font>"
+title:  "BITS2018/ELIXIR-IIB Workshop on Docker and Reproducibility <font color='black'>[closed]</font>"
 date_start:   2018-06-25
 date_end:   2018-06-26
 venue: Torino, Italy
