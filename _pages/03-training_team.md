@@ -4,7 +4,8 @@ title: The Training Team
 permalink: /the_training_team/
 ---
 
-If you want to be involved in the ELIXIR-IIB Training Programme or need more information, you can write an email to **<elixir.ita.training@gmail.com>**, or contact:
+If you want to be involved in the ELIXIR-IIB Training Programme or need more information,<br>
+you can write an email to **<elixir.ita.training@gmail.com>**, or contact:
 
 <table border="0" width="740">
  <tr style="background-color:rgba(255,165,0,0.3)">
@@ -20,11 +21,12 @@ If you want to be involved in the ELIXIR-IIB Training Programme or need more inf
 <tr>
 	<td width="300" height="100">
 		<a href="mailto:allegra.via@cnr.it">allegra.via@cnr.it</a><br>
-		Institute of Molecular Biology and Pathology, CNR, Rome<br>
+		Institute of Molecular Biology and Pathology (IBPM), CNR, Rome<br>
    </td>
    <td width="300" height="100">
 		<a href="mailto:l.lepera@ibiom.cnr.it">l.lepera@ibiom.cnr.it</a><br>
-		Institute of Biomembrane and Bioenergetics & Institute of Molecular Biology and Pathology, 		CNR, Rome
+		Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies (IBIOM) &<br>
+		Institute of Molecular Biology and Pathology (IBPM), CNR, Rome
    </td>
 </tr>
 <tr height="20"></tr>
@@ -58,7 +60,8 @@ If you want to be involved in the ELIXIR-IIB Training Programme or need more inf
    </td>
    <td width="300" height="60">
    		<b>Francesca De Leo</b><br>
-		Research fundraising
+		Research fundraising<br>
+		Dissemination & Outreach
 	</td>
 </tr>
 <tr>
@@ -68,7 +71,7 @@ If you want to be involved in the ELIXIR-IIB Training Programme or need more inf
    </td>
    <td width="300" height="100">
 		<a href="mailto:f.deleo@ibiom.cnr.it">f.deleo@ibiom.cnr.it</a><br>
-		Institute of Biomembrane and Bioenergetics, CNR, Bari
+		Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies (IBIOM), CNR, Bari
 	</td>	
 </tr>
     </table>
