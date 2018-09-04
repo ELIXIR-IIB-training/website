@@ -19,7 +19,7 @@ permalink: /all_events_2018/
    <td height="50" width="150">A. Via<br>V. Morea<br>L. Le Pera</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Nov<br>05-10</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+   <td height="50" align="center"><font color="red"><b>full</b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-EXCELERATE</td>
