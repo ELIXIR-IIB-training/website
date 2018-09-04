@@ -35,10 +35,10 @@ permalink: /all_events_2018/
    <td height="50" width="150">A. Via<br>L. Le Pera</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Sep<br>27-28</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+   <td height="50" align="center"><font color="red"><b>full</b></font></td>   
 </tr>
 <tr>
-<td height="50" align="center">ELIXIR-IIB Training Course</td>
+<td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50"><a href="https://elixir-iib-training.github.io/website/2018/09/26/Docker_Milano_Bicocca.html">Docker Advanced Course</a></td>
    <td height="50" width="150">G. Della Vedova<br>L. Le Pera<br>A. Via<br></td>
    <td height="50" align="center">Milano,<br>Italy</td>
