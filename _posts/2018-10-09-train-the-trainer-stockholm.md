@@ -99,7 +99,7 @@ If you have questions like the following ones, this course may be very helpful t
 # Programme
 <table border="1">
 <tr>
-   <td colspan="2"><h3>Tuesday - 9 Oct 2018</h3></td>
+   <td colspan="2" width="100"><h3>Tuesday - 9 Oct 2018</h3></td>
 </tr>
 <tr>
    <td height="50">13:30 - 14:00</td>
