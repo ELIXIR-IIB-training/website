@@ -98,19 +98,20 @@ If you have questions like the following ones, this course may be very helpful t
 
 # Programme
 
- Time                 | Activity
-:---------------------|:----------------
-**DAY 1**             |
-13.30 - 14.00         | Introductions, who is who and what we need to achieve
-14.00 - 17.30         | [**Session 1**](https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_1.md): Review of learning principles and how they apply to training and teaching
+ Time                 			  | Activity
+:-------------------------------|:----------------
+**DAY 1**                       |
+13.30 - 14.00                   | Introductions, who is who and what we need to achieve
+14.00 - 17.30                   | [**Session 1**](https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_1.md): Review of learning principles and how they apply to training and teaching
 
-:---------------------|:----------------
-**DAY 2**             |
-09.00 - 12.30.        | [**Session 2**](https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
-12.30 - 13.30         | Lunch time
-13.30 - 17.30         | [**Session 3**](https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_3.md): Session, course, and materials design 
+:-------------------------------|:----------------
+**DAY 2**                       |
+09.00 - 12.30                   | [**Session 2**](https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
+12.30 - 13.30                   | Lunch time
+13.30 - 17.30                   | [**Session 3**](https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_3.md): Session, course, and materials design 
 
-**DAY 3**             |
-09.00 - 12.30         | [**Session 4**](https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_4.md): Assessment and feedback in training
-12.30 - 13.30         | Lunch time
-13.30 - 14.00         | Wrap-up
+
+**DAY 3**                       |
+09.00 - 12.30                   | [**Session 4**](https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_4.md): Assessment and feedback in training
+12.30 - 13.30                   | Lunch time
+13.30 - 14.00                   | Wrap-up
