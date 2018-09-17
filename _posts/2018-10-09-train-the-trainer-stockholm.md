@@ -96,7 +96,7 @@ If you have questions like the following ones, this course may be very helpful t
 <br>
 <br>
 
-# Preliminary Programme
+# Programme
 
  Time | Activity
 :---------------------|:----------------
