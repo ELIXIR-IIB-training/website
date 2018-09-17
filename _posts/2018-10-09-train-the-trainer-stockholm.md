@@ -97,21 +97,48 @@ If you have questions like the following ones, this course may be very helpful t
 <br>
 
 # Programme
-
- Time                 			  | Activity
-:-------------------------------|:----------------
-**DAY 1**                       |
-13.30 - 14.00                   | Introductions, who is who and what we need to achieve
-14.00 - 17.30                   | [**Session 1**](https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_1.md): Review of learning principles and how they apply to training and teaching
-
-:-------------------------------|:----------------
-**DAY 2**                       |
-09.00 - 12.30                   | [**Session 2**](https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_2.md): Training techniques that can be used to enhance learner engagement and participation
-12.30 - 13.30                   | Lunch time
-13.30 - 17.30                   | [**Session 3**](https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_3.md): Session, course, and materials design 
-
-
-**DAY 3**                       |
-09.00 - 12.30                   | [**Session 4**](https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_4.md): Assessment and feedback in training
-12.30 - 13.30                   | Lunch time
-13.30 - 14.00                   | Wrap-up
+<table border="1">
+<tr>
+   <td colspan="2"><h3>Tuesday - 9 Oct 2018</h3></td>
+</tr>
+<tr>
+   <td height="50">13:30 - 14:00</td>
+   <td height="50">Introductions, who is who and what we need to achieve</td>
+</tr>
+<tr>
+   <td height="50">14:00 - 17:30</td>
+   <td height="50"><b>[Session 1]</b><a href="https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_1.md">: Review of learning principles and how they apply to training and teaching</a></td>
+</tr>
+<tr>
+</tr>
+   <td colspan="2"><h3>Wednesday - 10 Oct 2018</h3></td>
+</tr>
+<tr>
+ <td height="50">09:00 - 12:30</td>
+ <td height="50"><b>[Session 2]</b><a href="https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_2.md">: Training techniques that can be used to enhance learner engagement and participation</a></td>
+</tr>
+<tr>
+   <td height="50">12:30 - 13:30</td>
+   <td height="50">Lunch time</td>
+</tr>
+<tr>
+   <td height="50">13:30 - 17:30</td>
+   <td height="50"><b>[Session 3]</b><a href="https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_3.md">: Session, course, and materials design</a></td>
+</tr>
+<tr>
+</tr>
+   <td colspan="2"><h3>Thursday - 11 Oct 2018</h3></td>
+</tr>
+<tr>
+ <td height="50">09:00 - 12:30</td>
+ <td height="50"><b>[Session 4]</b><a href="https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_4.md">: Assessment and feedback in training</a></td>
+</tr>
+<tr>
+   <td height="50">12:30 - 13:30</td>
+   <td height="50">Lunch time</td>
+</tr>
+<tr>
+   <td height="50">13:30 - 14:00</td>
+   <td height="50">Wrap-up</td>
+</tr>
+</table>
