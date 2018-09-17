@@ -107,7 +107,7 @@ If you have questions like the following ones, this course may be very helpful t
 </tr>
 <tr>
    <td height="50">14:00 - 17:30</td>
-   <td height="50"><b>[Session 1]</b><a href="https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_1.md">: Review of learning principles and how they apply to training and teaching</a></td>
+   <td height="50"><b>[Session 1]</b><a href="https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_1.md"> Review of learning principles and how they apply to training and teaching</a></td>
 </tr>
 <tr>
 </tr>
@@ -115,7 +115,7 @@ If you have questions like the following ones, this course may be very helpful t
 </tr>
 <tr>
  <td height="50">09:00 - 12:30</td>
- <td height="50"><b>[Session 2]</b><a href="https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_2.md">: Training techniques that can be used to enhance learner engagement and participation</a></td>
+ <td height="50"><b>[Session 2]</b><a href="https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_2.md"> Training techniques that can be used to enhance learner engagement and participation</a></td>
 </tr>
 <tr>
    <td height="50">12:30 - 13:30</td>
@@ -123,7 +123,7 @@ If you have questions like the following ones, this course may be very helpful t
 </tr>
 <tr>
    <td height="50">13:30 - 17:30</td>
-   <td height="50"><b>[Session 3]</b><a href="https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_3.md">: Session, course, and materials design</a></td>
+   <td height="50"><b>[Session 3]</b><a href="https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_3.md"> Session, course, and materials design</a></td>
 </tr>
 <tr>
 </tr>
@@ -131,7 +131,7 @@ If you have questions like the following ones, this course may be very helpful t
 </tr>
 <tr>
  <td height="50">09:00 - 12:30</td>
- <td height="50"><b>[Session 4]</b><a href="https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_4.md">: Assessment and feedback in training</a></td>
+ <td height="50"><b>[Session 4]</b><a href="https://github.com/ppalagi/EXCELERATE-TtT/blob/master/TtT_session_4.md"> Assessment and feedback in training</a></td>
 </tr>
 <tr>
    <td height="50">12:30 - 13:30</td>
