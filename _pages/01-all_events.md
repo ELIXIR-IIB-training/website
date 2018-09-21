@@ -16,7 +16,7 @@ permalink: /all_events_2018/
    <tr>
 	<td height="50" align="center">EMBO<br>Practical Course</td>
    <td height="50" width="220" align="center"><a href="http://meetings.embo.org/event/18-protein-protein">Computational Analysis of PPI: Sequences, networks and diseases</a></td>
-   <td height="50">A. Via<br>T. Gibson<br>M. Sharan<br>V. Morea<br>L. Le Pera</td>
+   <td height="50"> A. Via<br> T. Gibson<br> M. Sharan<br> V. Morea<br> L. Le Pera</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Nov<br>05-10</td>
    <td height="50" align="center"><font color="red"><b>full</b></font></td>   
@@ -80,7 +80,7 @@ permalink: /all_events_2018/
 </tr>
    <tr>
 	<td height="50" align="center">ELIXIR-EXCELERATE</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2018/03/26/	train-the-trainer-paris.html">Train the Trainer</a></td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2018/03/26/train-the-trainer-paris.html">Train the Trainer</a></td>
    <td height="50" width="150">ELIXIR-FR<br>ELIXIR-IIB<br>SIB</td>
    <td height="50" align="center">Paris,<br>France</td>
    <td height="50" width="75" align="center">Mar<br>26-27</td>
