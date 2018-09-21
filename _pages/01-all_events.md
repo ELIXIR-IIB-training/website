@@ -31,7 +31,7 @@ permalink: /all_events_2018/
 </tr>
 <tr>
 	<td height="50" align="center">ELIXIR<br>Scientific dissemination activity</td>
-   <td height="50" width="220" align="center"><a href="http://www.laricercaviendinotte.it/">Notte Europea dei Ricercatori</a></td>
+   <td height="50" width="220" align="center"><a href="http://www.laricercaviendinotte.it/">Notte Europea dei Ricercatori</a><br><a href="https://www.facebook.com/events/240703663214038/">(Facebook page link)</a></td>
    <td height="50" width="150">ERN-Apulia<br>University of Salento<br>F. De Leo<br>A. Marabotti</td>
    <td height="50" align="center">Bari,<br>Italy</td>
    <td height="50" width="75" align="center">Sep<br>28</td>
