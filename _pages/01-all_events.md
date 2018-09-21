@@ -13,10 +13,10 @@ permalink: /all_events_2018/
    <td height="50" width="75" align="center"><b>Date</b></td>
    <td height="50" width="90" align="center"><b>Application</b></td>
    </tr>
-<tr>
+   <tr>
 	<td height="50" align="center">EMBO<br>Practical Course</td>
    <td height="50"><a href="http://meetings.embo.org/event/18-protein-protein">Computational Analysis of PPI: Sequences, networks and diseases</a></td>
-   <td height="50" width="150">A. Via<br>V. Morea<br>L. Le Pera</td>
+   <td height="50" width="150">A. Via<br>T. Gibson<br>M. Sharan<br>V. Morea<br>L. Le Pera</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" width="75" align="center">Nov<br>05-10</td>
    <td height="50" align="center"><font color="red"><b>full</b></font></td>   
@@ -28,6 +28,14 @@ permalink: /all_events_2018/
    <td height="50" align="center">Stockholm,<br>Sweden</td>
    <td height="50" width="75" width="75" align="center">Oct<br>9-11</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+</tr>
+<tr>
+	<td height="50" align="center">ELIXIR<br>Scientific dissemination activity</td>
+   <td height="50"><a href="http://www.laricercaviendinotte.it/">Notte Europea dei Ricercatori</a></td>
+   <td height="50" width="150">ERN-Apulia<br>University of Salento<br>F. De Leo<br>A. Marabotti</td>
+   <td height="50" align="center">Bari,<br>Italy</td>
+   <td height="50" width="75" width="75" align="center">Sep<br>28</td>
+   <td height="50" align="center"><font color="red"><b></b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-EXCELERATE</td>
