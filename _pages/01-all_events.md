@@ -19,7 +19,7 @@ permalink: /all_events_2018/
    <td height="50">A. Via<br>T. Gibson<br>M. Sharan<br>V. Morea<br>L. Le Pera</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Nov<br>05-10</td>
-   <td height="50" align="center"><font color="red"><b>full</b></font></td>   
+   <td height="50" align="center"><font color="black"><b>closed</b></font></td>   
 </tr>
  <tr>
 	<td height="50" align="center">NETTAB2018/ELIXIR-IIB<br>Workshop</td>
@@ -43,7 +43,7 @@ permalink: /all_events_2018/
    <td height="50" width="150">ERN-Apulia<br>University of Salento<br>F. De Leo<br>A. Marabotti</td>
    <td height="50" align="center">Bari,<br>Italy</td>
    <td height="50" width="75" align="center">Sep<br>28</td>
-   <td height="50" align="center"><font color="red"><b></b></font></td>   
+   <td height="50" align="center"><font color="black"><b></b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-EXCELERATE</td>
@@ -51,7 +51,7 @@ permalink: /all_events_2018/
    <td height="50" width="150">A. Via<br>L. Le Pera</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Sep<br>27-28</td>
-   <td height="50" align="center"><font color="red"><b>full</b></font></td>   
+   <td height="50" align="center"><font color="black"><b>closed</b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
