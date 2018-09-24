@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ELIXIR-EXCELERATE Train the Trainer <font color='red'>[full]</font>"
+title:  "ELIXIR-EXCELERATE Train the Trainer <font color='black'>[closed]</font>"
 date_start:   2018-09-27
 date_end:   2018-09-28
 venue: Rome, Italy
