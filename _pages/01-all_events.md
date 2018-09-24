@@ -21,6 +21,14 @@ permalink: /all_events_2018/
    <td height="50" width="75" align="center">Nov<br>05-10</td>
    <td height="50" align="center"><font color="red"><b>full</b></font></td>   
 </tr>
+ <tr>
+	<td height="50" align="center">NETTAB2018/ELIXIR-IIB<br>Workshop</td>
+   <td height="50" width="220" align="center"><a href="http://www.igst.it/nettab/2018/">Building a FAIR Bioinformatics environment</a></td>
+   <td height="50">P. Romano<br>ELIXIR-IIB<br>ELIXIR-UK<br>BITS</td>
+   <td height="50" align="center">Genova,<br>Italy</td>
+   <td height="50" width="75" align="center">Oct<br>22-24</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+</tr>
 <tr>
 <td height="50" align="center">ELIXIR-EXCELERATE</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2018/10/09/train-the-trainer-stockholm.html">Train the Trainer</a></td>
