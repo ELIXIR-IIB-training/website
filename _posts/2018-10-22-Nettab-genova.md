@@ -4,7 +4,7 @@ title:  "NETTAB18/ELIXIR-IIB Building a FAIR Bioinformatics environment <font co
 date_start:   2018-10-22
 date_end:   2018-10-24
 venue: Genova, Italy
-description: The Eighteenth NETTAB Workshop is organised in collaboration with ELIXIR Nodes of the UK and Italy. The main focus will be on FAIR principles in bioinformatics, a challenging topic that we hope will attract many researchers from all over the world, including but not limited to, Bioinformaticians, Biologists, Computer Scientists, and others working or interested in the above research scope.
+description: The Eighteenth NETTAB Workshop is organised in collaboration with ELIXIR Nodes of the UK and Italy, as well as the Italian Society of Bioinformatics BITS. The main focus will be on FAIR principles in bioinformatics, a challenging topic that we hope will attract many researchers from all over the world, including but not limited to, Bioinformaticians, Biologists, Computer Scientists, and others working or interested in the above research scope.
 
 ---
 
@@ -29,6 +29,8 @@ The Principles are a guide to enabling and testing datasets, software, and other
 In order to make the FAIR concept a reality, we need to answer many questions, like: What is FAIRness? How to make FAIR data a reality? How to facilitate the translation to FAIR data? How to measure it? On these topics, there are many ongoing projects, such as EOSCpilot, FAIRmetrics, FAIRsharing, and GO-FAIR.
 
 Now is the perfect time to discuss on these topics and related actions, and to move on from FAIR principles to FAIR practice. All interested actors, with different levels of involvement and expertise, are invited to join forces and promote a common effort towards the implementation of a FAIR environment. The workshop will provide an excellent environment and a range of opportunities to present and discuss methods, theoretical approaches, algorithms, tools, platforms, practical applications and experiences of FAIR in Bioinformatics.
+
+Please, have a careful look at the [Programme](http://www.igst.it/nettab/2018/programme/scientific-programme/).
 
 **Venue**<br>
 Ospedale Policlinico San Martino - Largo Rosanna Benzi, 10 - 16132 Genova
