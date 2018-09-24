@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Docker Advanced Course <font color='green'>[open]</font>"
+title:  "Docker Advanced Course <font color='black'>[closed]</font>"
 date_start:   2018-09-26
 date_end:   2018-09-27
 venue: Milano, Italy
