@@ -31,5 +31,5 @@ In order to make the FAIR concept a reality, we need to answer many questions, l
 Now is the perfect time to discuss on these topics and related actions, and to move on from FAIR principles to FAIR practice. All interested actors, with different levels of involvement and expertise, are invited to join forces and promote a common effort towards the implementation of a FAIR environment. The workshop will provide an excellent environment and a range of opportunities to present and discuss methods, theoretical approaches, algorithms, tools, platforms, practical applications and experiences of FAIR in Bioinformatics.
 
 **Venue**<br>
-Ospedale Policlinico San Martino, 10, Largo Rosanna Benzi
+Ospedale Policlinico San Martino - Largo Rosanna Benzi, 10 - 16132 Genova
 
