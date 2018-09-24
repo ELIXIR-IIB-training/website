@@ -51,7 +51,7 @@ permalink: /all_events_2018/
    <td height="50" width="150">G. Della Vedova<br>L. Le Pera<br>A. Via<br></td>
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Sep<br>26-27</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+   <td height="50" align="center"><font color="black"><b>closed</b></font></td>   
 </tr>
 
 <tr>
