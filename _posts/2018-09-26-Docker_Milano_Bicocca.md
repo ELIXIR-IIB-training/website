@@ -15,6 +15,8 @@ description: Docker is an open source software that is used to run "containers" 
 	<td width="50"></td>
 	<td><a href="https://www.unimib.it/"><img src="../../../img/Logo_unimilano_bicocca.png" height="140" width="140"></a>
 	</td>
+	<td><a href="http://www.ingm.org/"><img src="../../../img/Logo_INGM_web.jpeg" height="140" width="140"></a>
+	</td>
 </tr>
 </table>
 <br>
@@ -56,10 +58,16 @@ A maximum of **20** candidates will be selected based on their need for the cour
 <br>
 <br>
 
+### IT Technical support
+Simone Donizetti - Istituto Nazionale Genetica Molecolare "Romeo ed Enrica Invernizzi"​ (INGM), Milano, IT
+Francesco Manfre’ - Istituto Nazionale Genetica Molecolare "Romeo ed Enrica Invernizzi"​ (INGM), Milano, IT
+
+
 ### Contact
 For all kinds of queries, please contact the local organiser Gianluca Della Vedova at: <gianluca.dellavedova@unimib.it>
 <br>
 <br>
+
 
 ### Course Description
 Docker is used to run "containers" that are essentially lightweight virtual machines. Containers are isolated from each other and use their own set of tools and libraries; they can communicate through well-defined channels. This allows to easily deploy programs since all requisites of a program are stored inside the containers.
