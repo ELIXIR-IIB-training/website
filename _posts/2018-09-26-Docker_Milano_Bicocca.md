@@ -10,12 +10,13 @@ description: Docker is an open source software that is used to run "containers" 
 
 <table border="0">
 <tr>
-	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="130" width="300"></a>
+	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="110" width="260"></a>
 	</td>
-	<td width="50"></td>
-	<td><a href="https://www.unimib.it/"><img src="../../../img/Logo_unimilano_bicocca.png" height="140" width="140"></a>
+	<td width="20"></td>
+	<td><a href="https://www.unimib.it/"><img src="../../../img/Logo_unimilano_bicocca.png" height="110" width="110"></a>
 	</td>
-	<td><a href="http://www.ingm.org/"><img src="../../../img/Logo_INGM_web.jpeg" height="140" width="140"></a>
+	<td width="20"></td>
+	<td><a href="http://www.ingm.org/"><img src="../../../img/Logo_INGM_web.jpeg" height="110" width="230"></a>
 	</td>
 </tr>
 </table>
@@ -59,9 +60,9 @@ A maximum of **20** candidates will be selected based on their need for the cour
 <br>
 
 ### IT Technical support
-Simone Donizetti - Istituto Nazionale Genetica Molecolare "Romeo ed Enrica Invernizzi"​ (INGM), Milano, IT
-Francesco Manfre’ - Istituto Nazionale Genetica Molecolare "Romeo ed Enrica Invernizzi"​ (INGM), Milano, IT
-
+- Simone Donizetti - Istituto Nazionale Genetica Molecolare "Romeo ed Enrica Invernizzi"​ (INGM), Milano, IT<br>
+- Francesco Manfre’ - Istituto Nazionale Genetica Molecolare "Romeo ed Enrica Invernizzi"​ (INGM), Milano, IT<br>
+<br>
 
 ### Contact
 For all kinds of queries, please contact the local organiser Gianluca Della Vedova at: <gianluca.dellavedova@unimib.it>
