@@ -27,7 +27,8 @@ We will accept a maximum of **20** participants. Priority will be given to candi
 <br>
 
 ## Venue
-Italian National Research Council, p.le Aldo Moro 7, 00185 Roma, Italy
+[Department of Biochemical Sciences "A. Rossi Fanelli"](http://dsb.uniroma1.it/) - Sapienza University of Rome<br>
+Viale Regina Elena, 332, 00185 Roma, IT
 <br>
 <br>
 
