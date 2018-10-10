@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ELIXIR-EXCELERATE Train the Trainer <font color='green'>[open]</font>"
+title:  "ELIXIR-EXCELERATE Train the Trainer <font color='black'>[closed]</font>"
 date_start:   2018-10-09
 date_end:   2018-10-11
 venue: Stockholm, Sweden
