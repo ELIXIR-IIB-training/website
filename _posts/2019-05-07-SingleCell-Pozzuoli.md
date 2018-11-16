@@ -31,7 +31,7 @@ This 3-day course aims to provide an overview of a complete Single-Cell RNA sequ
 -       A theoretical overview of all existing methods to perform Single-Cell RNA sequencing libraries with a focus on individual features and weaknesses;<br>
 -       A practical hands-on laboratory training to produce 10X Genomics 3’ Single-Cell RNA sequencing libraries;<br>
 -       A practical bioinformatics training that will provide guidelines and tools to process and analyze Single-Cell RNA sequencing libraries from raw sequences to visualization.<br>
-
+<br>
 
 ## Important Dates 
 <b>Deadline for applications:</b> 28 February 2019 <br>
@@ -48,7 +48,7 @@ Via dei Campi Flegrei, 34<br>
 ## Registration fee: 600€
 Registration fee includes accommodation for three nights (May 7-9, double or triple occupancy), course material, coffee breaks and lunches. A maximum of **25** candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. Incomplete applications or applications for only parts of the course will not be accepted. The requirement for this course is an advanced knowledge on RNA-sequencing<br>
 <br>
-##Selection criteria 
+## Selection criteria 
 Participants will be selected based on a solid background in RNA sequencing theory and practice.  Applicants with a dataset ready to be analyzed in their own research project will be given priority.
 <br>
 <br>
@@ -68,7 +68,7 @@ Participants will be selected based on a solid background in RNA sequencing theo
 
 <table border="1">
 <tr>
-   <td colspan="4"><h3>Tuesday 07 May 2019</h3>Single-Cell RNA sequencing Theory </td>
+   <td colspan="4"><h3>Tuesday 07 May 2019</h3><b>Single-Cell RNA sequencing Theory</b></td>
 </tr>
 <tr>
    <td>14:00-14:30</td>
@@ -101,7 +101,7 @@ Participants will be selected based on a solid background in RNA sequencing theo
    <td colspan="3">Poster session I (Posters 1-12) - Wine and Cheese welcome reception</td>
 </tr>
 <tr>
-   <td colspan="4"><h3>Wednesday 08 May 2019</h3>Hands-on laboratory training to produce 10X Genomics 3’ Single-Cell RNA sequencing libraries</td>
+   <td colspan="4"><h3>Wednesday 08 May 2019</h3><b>Hands-on laboratory training to produce 10X Genomics 3’ Single-Cell RNA sequencing libraries</b></td>
 </tr>
 <tr>
    <td>09:00-09:30</td>
@@ -153,7 +153,7 @@ Participants will be selected based on a solid background in RNA sequencing theo
 </tr>
 
 <tr>
-   <td colspan="4"><h3>Thursday 09 May 2019</h3>Practical bioinformatics training to process and analyze Single-Cell RNA sequencing libraries from raw sequences to visualization</td>
+   <td colspan="4"><h3>Thursday 09 May 2019</h3><b>Practical bioinformatics training to process and analyze Single-Cell RNA sequencing libraries from raw sequences to visualization</b></td>
 </tr>
 <tr>
    <td>09:00-09:30</td>
@@ -209,10 +209,10 @@ Participants will be selected based on a solid background in RNA sequencing theo
 </table>
 <br>
 
-##Abstract guidelines 
+## Abstract guidelines 
 Participants will be required to submit an abstract (max 1500 characters). Abstracts should describe participants’ research projects to be presented with a poster during the course. Applications without abstract will not be considered.
 <br>
-##Poster specification 
+## Poster specification 
 Poster specifications: vertical, maximum dimensions A0 (119 X 84cm).
 <br>
 <br>
