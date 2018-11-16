@@ -61,7 +61,7 @@ Participants will be selected based on a solid background in RNA sequencing theo
 **Anna Manfredi** - TIGEM, Pozzuoli (NA), IT <br>
 **Antonio Grimaldi** - TIGEM, Pozzuoli (NA), IT <br>
 **Gennaro Gambardella** - TIGEM, Pozzuoli (NA), IT <br>
-**10X Genomics Specialist** - 
+**10X Genomics Specialist**
 <br>
 
 ## Preliminary programme
