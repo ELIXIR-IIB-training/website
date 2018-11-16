@@ -63,6 +63,8 @@ Participants will be selected based on a solid background in RNA sequencing theo
 **Gennaro Gambardella** - TIGEM, Pozzuoli (NA), IT <br>
 **10X Genomics Specialist**
 <br>
+<br>
+<br>
 
 ## Preliminary programme
 
