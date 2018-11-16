@@ -27,7 +27,7 @@ permalink: /all_events_2018/
    <td height="50">P. Romano<br>ELIXIR-IIB<br>ELIXIR-UK<br>BITS</td>
    <td height="50" align="center">Genova,<br>Italy</td>
    <td height="50" width="75" align="center">Oct<br>22-24</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+   <td height="50" align="center"><font color="black"><b>closed</b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-EXCELERATE</td>
@@ -35,7 +35,7 @@ permalink: /all_events_2018/
    <td height="50">A. Via<br>J. Lindvall<br>L. Le Pera</td>
    <td height="50" align="center">Stockholm,<br>Sweden</td>
    <td height="50" width="75" align="center">Oct<br>9-11</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+   <td height="50" align="center"><font color="black"><b>closed</b></font></td>   
 </tr>
 <tr>
 	<td height="50" align="center">ELIXIR<br>Scientific dissemination activity</td>
