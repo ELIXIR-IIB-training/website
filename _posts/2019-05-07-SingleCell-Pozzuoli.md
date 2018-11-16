@@ -8,20 +8,14 @@ description: Single-Cell Transcriptomics is improving the quality of biological 
 
 
 ---
-<table border="0" width="700">
-<tr>
-	<td><img src="../../../img/">
-	</td>	
-</tr>
-</table>
 <table width="700">
    <tr>
-   <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" alt="yay" height="80" width="700"></a></td>
-   <td></td>
-   <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/></a></td>
-   <td width="50"></td>
-     <td><a href="http://www.igb.cnr.it/"><img src="../../../img/logos/IGB-logo.jpg" alt="cnr" height="150" width="550"></a></td>
-      </tr>
+   	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" alt="yay" height="80" width="400"></a></td>
+   	<td width="50"></td>
+   	   	<td><a href=""><img src="../../../img/Logo_tigem.png" alt="yay" height="80" width="400"></a></td>
+   	<td width="50"></td>
+   		<td><a href="http://www.igb.cnr.it/"><img src="../../../img/Logo_IGB_CNR.jpg" alt="cnr" height="150" width="550"></a></td>
+      </tr>   
    <tr height="50"></tr>
    <tr>
     <td colspan="4"><img src="../../../img/tw.png" alt="yay" height="80" width="80"><b>#singlecellelixir</b></td>    
