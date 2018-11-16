@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NETTAB18/ELIXIR-IIB Building a FAIR Bioinformatics environment <font color='green'>[open]</font>"
+title:  "NETTAB18/ELIXIR-IIB Building a FAIR Bioinformatics environment <font color='black'>[closed]</font>"
 date_start:   2018-10-22
 date_end:   2018-10-24
 venue: Genova, Italy
