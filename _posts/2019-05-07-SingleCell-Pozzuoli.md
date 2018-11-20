@@ -18,7 +18,7 @@ description: Single-Cell Transcriptomics is improving the quality of biological 
       </tr>   
    <tr height="50"></tr>
    <tr>
-    <td colspan="4"><img src="../../../img/tw.png" alt="yay" height="80" width="80"><b>#singlecellelixir</b></td>    
+    <td colspan="4"><img src="../../../img/tw.png" alt="yay" height="80" width="80"><b>#elixirsinglecell</b></td>    
    </tr>
 </table>
 
