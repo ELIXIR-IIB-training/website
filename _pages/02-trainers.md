@@ -9,9 +9,9 @@ permalink: /trainers/
  <br>
 [**Rossano Atzeni**](http://www.crs4.it/peopledetails/357/rossano-atzeni/) [CRS4, Pula (Cagliari), IT]<br>
 
-[**Chiara Batini**](../instructors/chiara_batini.html) [Dept. of Health Sciences, University of Leicester, UK]<br>
+[**Chiara Batini**](../instructors/chiara_batini.html) [Dep. of Health Sciences, University of Leicester, UK]<br>
 
-[**Alberto Calderone**](../instructors/alberto_calderone.html) [Dept. of Molecular Biology, "Tor Vergata" University,  Roma, IT]<br>
+[**Alberto Calderone**](../instructors/alberto_calderone.html) [Dep. of Molecular Biology, "Tor Vergata" University,  Roma, IT]<br>
 
 [**Raffaele Calogero**](../instructors/raffaele_calogero.html) [Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT]<br>
 
@@ -25,9 +25,9 @@ permalink: /trainers/
 
 [**Gianmauro Cuccuru**](http://www.crs4.it/peopledetails/195/gianmauro-cuccuru/) [CRS4, Pula (Cagliari), IT]<br>
 
-[**Gianluca Della Vedova**](../instructors/gianluca_dellavedova.html) [Dip. di Informatica, Sistemistica e Comunicazione, University of Milano-Bicocca, IT]
+[**Gianluca Della Vedova**](../instructors/gianluca_dellavedova.html) [Dep. of Informatics Systems and Communication, Univ. of Milano-Bicocca, IT]
 
-[**Fabrizio Ferré**](https://www.unibo.it/sitoweb/fabrizio.ferre) [Dept. of Pharmacy and Biotechnology, University of Bologna, IT]<br>
+[**Fabrizio Ferré**](https://www.unibo.it/sitoweb/fabrizio.ferre) [Dep. of Pharmacy and Biotechnology, Univ. of Bologna, IT]<br>
 
 [**Tiziano Flati**](../instructors/tiziano_flati.html) [IBIOM-CNR, Bari and CINECA, Roma, IT]<br>
 
@@ -35,13 +35,13 @@ permalink: /trainers/
 
 [**Giorgio Giurato**](http://www.labmedmolge.unisa.it/italiano/teamit/giorgiogiurato) [Genomix4Life srl and University of Salerno, IT]<br>
 
-[**Giacomo Janson**](../instructors/giacomo_janson.html) [Dept. of Biochemical Sciences, "Sapienza" University, Roma, IT]<br>
+[**Giacomo Janson**](../instructors/giacomo_janson.html) [Dep. of Biochemical Sciences, "Sapienza" University, Roma, IT]<br>
 
 [**Loredana Le Pera**](../instructors/loredana_le_pera.html) [IBIOM-CNR, Bari and IBPM-CNR, Roma, Italy]<br>
 
-[**Luana Licata**](../instructors/luana_licata.html) [Dept. of Molecular Biology, "Tor Vergata" University, Roma, IT]<br>
+[**Luana Licata**](../instructors/luana_licata.html) [Dep. of Molecular Biology, "Tor Vergata" University, Roma, IT]<br>
 
-[**Giulio Pavesi**](http://159.149.160.56/beacon/) [Dept. of Biosciences, University of Milano, IT]<br>
+[**Giulio Pavesi**](http://159.149.160.56/beacon/) [Dep. of Biosciences, University of Milano, IT]<br>
 
 [**Giuseppe Profiti**](../instructors/giuseppe_profiti.html) [Biocomputing group, University of Bologna, IT]
 
@@ -51,4 +51,4 @@ permalink: /trainers/
 
 [**Allegra Via**](../instructors/allegra_via.html) [Institute of Molecular Biology and Pathology IBPM-CNR, Roma, IT]<br>
 
-[**Federico Zambelli**](http://159.149.160.56/beacon/) [Dept. of Biosciences, University of Milano, IT]<br>
+[**Federico Zambelli**](http://159.149.160.56/beacon/) [Dep. of Biosciences, University of Milano, IT]<br>
