@@ -25,6 +25,8 @@ permalink: /trainers/
 
 [**Gianmauro Cuccuru**](http://www.crs4.it/peopledetails/195/gianmauro-cuccuru/) [CRS4, Pula (Cagliari), IT]<br>
 
+[**Gianluca Della Vedova**](../instructors/gianluca_dellavedova.html) [University of Milano-Bicocca, IT]
+
 [**Fabrizio Ferré**](https://www.unibo.it/sitoweb/fabrizio.ferre) [Dept. of Pharmacy and Biotechnology, University of Bologna, IT]<br>
 
 [**Tiziano Flati**](../instructors/tiziano_flati.html) [IBIOM-CNR, Bari and CINECA, Roma, IT]<br>
