@@ -12,7 +12,7 @@ description: Single-Cell Transcriptomics is improving the quality of biological 
    <tr>
    	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" alt="yay" height="80" width="400"></a></td>
    	<td width="50"></td>
-   	   	<td><a href="http://www.tigem.it/"><img src="../../../img/Logo_tigem.png" alt="yay" height="90" width="400"></a></td>
+   	   	<td><a href="http://www.tigem.it/"><img src="../../../img/Logo_tigem.png" alt="yay" height="120" width="400"></a></td>
    	<td width="50"></td>
    		<td><a href="http://www.igb.cnr.it/"><img src="../../../img/Logo_IGB_CNR.jpg" alt="cnr" height="150" width="550"></a></td>
       </tr>   
