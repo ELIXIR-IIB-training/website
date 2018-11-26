@@ -46,10 +46,10 @@ Via dei Campi Flegrei, 34<br>
 [www.tigem.it](http://www.tigem.it)
 
 ## Registration fee: 600€
-Registration fee includes accommodation for three nights (May 7-9, double or triple occupancy), course material, coffee breaks and lunches. A maximum of **25** candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. Incomplete applications or applications for only parts of the course will not be accepted. The requirement for this course is an advanced knowledge on RNA-sequencing<br>
+Registration fee includes accommodation for three nights (May 7-9, double or triple occupancy), course material, coffee breaks and lunches. A maximum of **25** candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. Incomplete applications or applications for only parts of the course will not be accepted.<br>
 <br>
 ## Selection criteria 
-Participants will be selected based on a solid background in RNA sequencing theory and practice.  Applicants with a dataset ready to be analyzed in their own research project will be given priority.
+The requirement for this course is an advanced knowledge on RNA-sequencing. Participants will be selected based on a solid background in RNA sequencing theory and practice. Applicants with a dataset ready to be analyzed in their own research project will be given priority.
 <br>
 <br>
 
@@ -61,7 +61,7 @@ Participants will be selected based on a solid background in RNA sequencing theo
 **Anna Manfredi** - TIGEM, Pozzuoli (NA), IT <br>
 **Antonio Grimaldi** - TIGEM, Pozzuoli (NA), IT <br>
 **Gennaro Gambardella** - TIGEM, Pozzuoli (NA), IT <br>
-**10X Genomics Specialist**
+**10X Genomics Specialist** - TBA
 <br>
 <br>
 <br>
