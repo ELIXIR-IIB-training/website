@@ -231,7 +231,7 @@ Poster specifications: vertical, maximum dimensions A0 (119 X 84cm).
 
 
 ## Contact
-Barbara Zimbardi <course2018@tigem.it><br>
+Barbara Zimbardi <course2019@tigem.it><br>
 <br>
 <br>
 <br>
