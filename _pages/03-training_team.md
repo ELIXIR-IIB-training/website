@@ -74,4 +74,23 @@ you can write an email to **<elixir.ita.training@gmail.com>**, or contact:
 		Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies (IBIOM), CNR, Bari
 	</td>	
 </tr>
+<tr height="20"></tr>
+ <tr style="background-color:rgba(255,165,0,0.3)">
+   	<td width="300" height="60">
+   		<b>Ivan Mičetić</b><br>
+   		Workshop design organization and delivery
+   </td>
+   <td width="300" height="60">
+   			</td>
+</tr>
+<tr>
+	<td width="300" height="100">
+		<a href="mailto:ivan.micetic@unipd.it">ivan.micetic@unipd.it</a><br>
+		University of Padova
+   </td>
+   <td width="300" height="100">
+		
+	</td>	
+</tr>
+
     </table>
