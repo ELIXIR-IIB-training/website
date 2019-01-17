@@ -44,8 +44,10 @@ Jessica Lindvall (Training Coordinator ELIXIR-SE, NBIS)<br>
 <br>
 <br>
 
-## Local organisers
-**Jessica Lindvall**, NBIS (National Bioinformatics Infrastructure Sweden), Elixir-SE<br>
+## Organisers
+**Jessica Lindvall**, NBIS (National Bioinformatics Infrastructure Sweden), Elixir-SE [Local Organiser]<br>
+**Loredana Le Pera**, ELIXIR Italy<br>
+**Allegra Via**, ELIXIR Italy<br>
 <br>
 <br>
 
