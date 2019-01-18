@@ -15,7 +15,7 @@ permalink: /all_events_2018_2019/
    </tr>
   <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/2018-02-22-milan/">Single Cell RNA Sequencing and Data Analysis</a></td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/05/07/SingleCell-Pozzuoli.html">Single Cell RNA Sequencing and Data Analysis</a></td>
    <td height="50" width="150">D. Cacchiarelli<br>V. Colonna</td>
    <td height="50" align="center">Pozzuoli<br>Italy</td>
    <td height="50" width="75" align="center">May<br>07-10<br>2019</td>
@@ -23,7 +23,7 @@ permalink: /all_events_2018_2019/
 </tr> 
    <tr>
 <td height="50" align="center">EMBO<br>Practical Course</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2018/04/21/PopGen-Napoli.html">Population Genomics: background and tools</a></td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/03/30/population-genomics-procida.html">Population Genomics: background and tools</a></td>
    <td height="50" width="150">V. Colonna<br>C. Batini</td>
    <td height="50" align="center">Napoli,<br>Italy</td>
    <td height="50" width="75" align="center">Apr 30-<br>May 06<br>2019</td>
@@ -31,7 +31,7 @@ permalink: /all_events_2018_2019/
 </tr> 
    <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/2018-02-22-milan/">Data Carpentry <br>Workshop</a></td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/02/14/DC-Milano-Bicocca.html">Data Carpentry <br>Workshop</a></td>
    <td height="50" width="150">G. Della Vedova<br>L. Le Pera<br>A. Via</td>
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Feb<br>14-15<br>2019</td>
@@ -39,7 +39,7 @@ permalink: /all_events_2018_2019/
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/2018-02-22-milan/">Software Carpentry Workshop</a></td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/02/11/SWC-Naples.html">Software Carpentry Workshop</a></td>
    <td height="50" width="150">V. Colonna<br>L. Le Pera<br>A. Via</td>
    <td height="50" align="center">Napoli,<br>Italy</td>
    <td height="50" width="75" align="center">Feb<br>11-12<br>2019</td>
