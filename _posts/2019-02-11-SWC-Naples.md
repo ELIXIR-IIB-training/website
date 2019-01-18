@@ -3,7 +3,7 @@ layout: post
 title:  "Software Carpentry Workshop <font color='green'>[open]</font>"
 date_start:   2019-02-11
 date_end:   2019-02-12
-venue: Milano, Italy
+venue: Naples, Italy
 description: Software Carpentry aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills. This hands-on workshop will cover basic concepts and tools, including program design, version control, data management, and task automation. Participants will be encouraged to help one another and to apply what they have learned to their own research problems. In particular, in this workshop we will cover the Unix Shell, programming in R and version control with Git. 
 
 ---
