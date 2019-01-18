@@ -10,7 +10,13 @@ description: Data Carpentry develops and teaches workshops on the fundamental da
 
 <table border="0">
 <tr>
-	<td><a href="https://anacost.github.io/2019-02-14-elixir-milano/"><img src="../../../img/Logo_Carpentry_Elixir.png" height="130" width="500"></a>
+<td><img src="../../../img/Logo_Excelerate_EU-flag-acknowledgement.png" height="60" width="500">
+	</td>
+	</tr>
+	<tr height="50">
+	</tr>
+	<tr>
+	<td><img src="../../../img/Logo_Carpentry_Elixir.png" height="130" width="500">
 	</td>	
 </tr>
 </table>
