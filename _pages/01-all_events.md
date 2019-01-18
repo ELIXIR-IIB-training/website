@@ -23,7 +23,7 @@ permalink: /all_events_2018_2019/
 </tr> 
    <tr>
 <td height="50" align="center">EMBO<br>Practical Course</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/03/30/population-genomics-procida.html">Population Genomics: background and tools</a></td>
+   <td height="50" width="220" align="center"><a href="http://meetings.embo.org/event/19-population-genomics">Population Genomics: background and tools</a></td>
    <td height="50" width="150">V. Colonna<br>C. Batini</td>
    <td height="50" align="center">Napoli,<br>Italy</td>
    <td height="50" width="75" align="center">Apr 30-<br>May 06<br>2019</td>
