@@ -10,7 +10,7 @@ description: Data Carpentry develops and teaches workshops on the fundamental da
 
 <table border="0">
 <tr>
-	<td><a href="https://elixir-iib-training.github.io/2018-02-22-milan/"><img src="../../../img/Logo_SWC_Elixir.png" height="150" width="600"></a>
+	<td><a href="https://elixir-iib-training.github.io/2018-02-22-milan/"><img src="../../../img/Logo_Carpentry_Elixir.png" height="150" width="600"></a>
 	</td>	
 </tr>
 </table>
