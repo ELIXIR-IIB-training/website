@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Software Carpentry Workshop <font color='green'>[open]</font>"
+title:  "Data Carpentry Workshop <font color='green'>[open]</font>"
 date_start:   2019-02-14
 date_end:   2019-02-15
 venue: Milano, Italy
