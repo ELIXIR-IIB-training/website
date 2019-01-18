@@ -10,7 +10,7 @@ description: Software Carpentry aims to help researchers get their work done in 
 
 <table border="0">
 <tr>
-	<td><a href="https://elixir-iib-training.github.io/2018-02-22-milan/"><img src="../../../img/Logo_Carpentry_Elixir.png" height="130" width="500"></a>
+	<td><a href="https://elixir-iib-training.github.io/website/2019/02/11/SWC-Naples.html"><img src="../../../img/Logo_Carpentry_Elixir.png" height="130" width="500"></a>
 	</td>	
 </tr>
 </table>
