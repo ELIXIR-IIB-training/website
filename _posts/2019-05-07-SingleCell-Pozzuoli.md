@@ -88,6 +88,29 @@ The requirement for this course is an advanced knowledge on RNA-sequencing. Part
 <br>
 <br>
 
+
+
+## Abstract guidelines
+Participants will be required to submit an abstract (max 1500 characters). Abstracts should describe participants’ research projects to be presented with a poster during the course. Applications without abstract will not be considered.
+<br>
+<br>
+
+## Poster specification
+Poster specifications: vertical, maximum dimensions A0 (119 X 84cm).
+<br>
+<br>
+
+## Organisers
+**Davide Cacchiarelli** (TIGEM & University of Naples “Federico II”, IT)<br>
+**Vincenza Colonna** (CNR-IGB, Naples, IT)<br>
+[**ELIXIR-IIB Training Platform**](https://elixir-iib-training.github.io/website/)
+<br>
+<br>
+
+
+## Contact
+Barbara Zimbardi <course2019@tigem.it><br>
+
 ## Preliminary programme
 
 <table>
@@ -220,27 +243,6 @@ The requirement for this course is an advanced knowledge on RNA-sequencing. Part
 <br>
 
 
-
-## Abstract guidelines
-Participants will be required to submit an abstract (max 1500 characters). Abstracts should describe participants’ research projects to be presented with a poster during the course. Applications without abstract will not be considered.
-<br>
-<br>
-
-## Poster specification
-Poster specifications: vertical, maximum dimensions A0 (119 X 84cm).
-<br>
-<br>
-
-## Organisers
-**Davide Cacchiarelli** (TIGEM & University of Naples “Federico II”, IT)<br>
-**Vincenza Colonna** (CNR-IGB, Naples, IT)<br>
-[**ELIXIR-IIB Training Platform**](https://elixir-iib-training.github.io/website/)
-<br>
-<br>
-
-
-## Contact
-Barbara Zimbardi <course2019@tigem.it><br>
 <br>
 <br>
 <br>
