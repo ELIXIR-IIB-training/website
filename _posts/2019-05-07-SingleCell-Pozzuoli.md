@@ -90,6 +90,7 @@ The requirement for this course is an advanced knowledge on RNA-sequencing. Part
 
 ## Preliminary programme
 
+<table>
 <table border="1">
 <tr>
    <td colspan="4"><h3>Tuesday 07 May 2019</h3><b>Single-Cell RNA sequencing Theory</b></td>
@@ -214,12 +215,10 @@ The requirement for this course is an advanced knowledge on RNA-sequencing. Part
    <td>AnnaMaria Carissimo</td>
    <td>Statistical analysis of Single Cell data</td>
 </tr>
-
-<tr>
-   <td>17:30- 20:30</td>
-   <td>Dinner Buffet</td>
+ <tr>
+   <td>117:30- 20:30</td>
+   <td colspan="3">Dinner Buffeto</td>
 </tr>
-<tr>
 
 </table>
 <br>
