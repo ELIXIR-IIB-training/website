@@ -125,9 +125,6 @@ The requirement for this course is an advanced knowledge on RNA-sequencing. Part
    <td>18:00-19:30</td>
    <td colspan="3">Dinner Buffet sponsored by  Mettler-Toledo</td>
 </tr>
-
-
-
 <tr>
    <td colspan="4"><h3>Wednesday 08 May 2019</h3><b>Hands-on laboratory training to produce 10X Genomics 3’ Single-Cell RNA sequencing libraries</b></td>
 </tr>
@@ -179,7 +176,6 @@ The requirement for this course is an advanced knowledge on RNA-sequencing. Part
    <td>17:30-20:30</td>
    <td colspan="3">Dinner Buffet sponsored by 10X genomics </td>
 </tr>
-
 <tr>
    <td colspan="4"><h3>Thursday 09 May 2019</h3><b>Practical bioinformatics training to process and analyze Single-Cell RNA sequencing libraries from raw sequences to visualization</b></td>
 </tr>
@@ -219,10 +215,11 @@ The requirement for this course is an advanced knowledge on RNA-sequencing. Part
    <td>117:30- 20:30</td>
    <td colspan="3">Dinner Buffet</td>
 </tr>
-
 </table>
 <br>
 <br>
+
+
 
 ## Abstract guidelines
 Participants will be required to submit an abstract (max 1500 characters). Abstracts should describe participants’ research projects to be presented with a poster during the course. Applications without abstract will not be considered.
