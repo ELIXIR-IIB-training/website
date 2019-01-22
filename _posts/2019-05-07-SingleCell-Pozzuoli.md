@@ -33,30 +33,48 @@ This 3-day course aims to provide an overview of a complete Single-Cell RNA sequ
 -       A practical bioinformatics training that will provide guidelines and tools to process and analyze Single-Cell RNA sequencing libraries from raw sequences to visualization.<br>
 <br>
 
-## Important Dates 
-<b>Deadline for applications:</b> 28 February 2019 <br>
-<b>Chosen participants will be notified by:</b> 01 April 2019<br> 
+## Important Dates
+<b>Deadline for applications:</b> 16 March  2019 <br>
+<b>Chosen participants will be notified by:</b> 01 April 2019<br>
 <b>Payment deadline:</b> 20 April 2019<br>
-<b>Course date:</b> 07-10 May 2019<br>
+<b>Course date:</b> 07-09 May 2019<br>
+
+
 
 ## Venue
 Telethon Institute of Genetics and Medicine (TIGEM)<br>
 Via dei Campi Flegrei, 34<br>
-80078 Pozzuoli (NA) - Italy<br> 
+80078 Pozzuoli (NA) - Italy<br>
 [www.tigem.it](http://www.tigem.it)
 
-## Registration fee: 600€
-Registration fee includes accommodation for three nights (May 7-9, double or triple occupancy), course material, coffee breaks and lunches. A maximum of **25** candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. Incomplete applications or applications for only parts of the course will not be accepted.<br>
+## Registration fee: 350€
+Registration fee includes course material, coffee breaks, lunchs and dinner buffets, transfer from the partner hotels. A maximum of **25** candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. Incomplete applications or applications for only parts of the course will not be accepted.<br>
 <br>
-## Selection criteria 
+
+## Travel Grants
+Five travel grants of  EUR 200 will be available for candidates that will be accepted. If you are interested in applying for a travel grant please email organizer after you have been selected.
+
+## Accomodation
+We suggest these three options for acccomodation:
+
+| hotel          | website                     | booking code | price in EUR for single occupancy | price in EUR for twin occupancy  |
+|----------------|-----------------------------|--------------|-----------------------------------|----------------------------------|
+| Villa Avellino | www.villaavellino.it        | TIGEM        | 115                               | 121                              |
+| Miramare       | www.miramareresidence.com   | TIGEMMAY19   | 66                                | 71                               |
+| Maison Toledo  | www.maisontoledopozzuoli.it | TIGEMMAY19   | 80                                | 80                               |
+
+Transfer between hotels and the course venue will be available for free.
+
+
+## Selection criteria
 The requirement for this course is an advanced knowledge on RNA-sequencing. Participants will be selected based on a solid background in RNA sequencing theory and practice. Applicants with a dataset ready to be analyzed in their own research project will be given priority.
 <br>
 <br>
 
 ## [Application form](https://goo.gl/forms/NutD8Lv3dp7sAbto1)
-<br> 
+<br>
 
-## Speakers 
+## Speakers
 **Annamaria Carissimo** - National Research Council, Naples, IT<br>
 **Anna Manfredi** - TIGEM, Pozzuoli (NA), IT <br>
 **Antonio Grimaldi** - TIGEM, Pozzuoli (NA), IT <br>
@@ -100,8 +118,11 @@ The requirement for this course is an advanced knowledge on RNA-sequencing. Part
 </tr>
 <tr>
    <td>18:00-19:30</td>
-   <td colspan="3">Poster session I (Posters 1-12) - Wine and Cheese welcome reception</td>
+   <td colspan="3">Dinner Buffet sponsored by  Mettler-Toledo</td>
 </tr>
+
+
+
 <tr>
    <td colspan="4"><h3>Wednesday 08 May 2019</h3><b>Hands-on laboratory training to produce 10X Genomics 3’ Single-Cell RNA sequencing libraries</b></td>
 </tr>
@@ -151,7 +172,7 @@ The requirement for this course is an advanced knowledge on RNA-sequencing. Part
 </tr>
 <tr>
    <td>17:30-20:30</td>
-   <td colspan="3">Poster session II (Posters 13-25) - Social Pizza dinner </td>
+   <td colspan="3">Dinner Buffet sponsored by 10X genomics </td>
 </tr>
 
 <tr>
@@ -166,7 +187,7 @@ The requirement for this course is an advanced knowledge on RNA-sequencing. Part
 <tr>
    <td>09:30-10:30</td>
    <td>Lecture</td>
-   <td></td>
+   <td>Francesco Panariello</td>
    <td>Theory Refresher and Software Overview: Cell Ranger</td>
 </tr>
 <tr>
@@ -176,8 +197,8 @@ The requirement for this course is an advanced knowledge on RNA-sequencing. Part
 <tr>
    <td>10:30-12:30</td>
    <td>Practical</td>
-   <td></td>
-   <td>TBA</td>
+   <td>Gennaro  Gambardella</td>
+   <td>Visualizing Single Cell Data</td>
 </tr>
 <tr>
    <td>12:30-13:30</td>
@@ -186,43 +207,31 @@ The requirement for this course is an advanced knowledge on RNA-sequencing. Part
 <tr>
    <td>13:30-17:30</td>
    <td>Lecture</td>
-   <td></td>
-   <td>TBA</td>
+   <td>AnnaMaria Carissimo</td>
+   <td>Statistical analysis of Single Cell data</td>
+</tr>
+
+<tr>
+   <td>17:30- 20:30</td>
+   <td>Dinner Buffet</td>
 </tr>
 <tr>
-   <td colspan="4"><h3>Friday 10 May 2019</h3></td>
-</tr>
-<tr>
-   <td>09:00-09:30</td>
-   <td>Recap session</td>
-   <td>Participants and Trainers</td>
-   <td>Quick recapitulation of concepts from the previous day</td>
-</tr>
-<tr>
-   <td>09:30-12:30</td>
-   <td>Lecture</td>
-   <td></td>
-   <td>TBA</td>
-</tr>
-<tr>
-   <td>12:30-13:30</td>
-   <td colspan="3">Closing Lunch</td>
-</tr>
+
 </table>
 <br>
 <br>
 
-## Abstract guidelines 
+## Abstract guidelines
 Participants will be required to submit an abstract (max 1500 characters). Abstracts should describe participants’ research projects to be presented with a poster during the course. Applications without abstract will not be considered.
 <br>
 <br>
 
-## Poster specification 
+## Poster specification
 Poster specifications: vertical, maximum dimensions A0 (119 X 84cm).
 <br>
 <br>
 
-## Organisers 
+## Organisers
 **Davide Cacchiarelli** (TIGEM & University of Naples “Federico II”, IT)<br>
 **Vincenza Colonna** (CNR-IGB, Naples, IT)<br>
 [**ELIXIR-IIB Training Platform**](https://elixir-iib-training.github.io/website/)
