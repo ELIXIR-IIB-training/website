@@ -64,6 +64,9 @@ We suggest these three options for acccomodation:
 | Miramare       | www.miramareresidence.com   | TIGEMMAY19   | 66 EUR                         | 71 EUR                              |
 | Maison Toledo  | www.maisontoledopozzuoli.it | TIGEMMAY19   | 80 EUR                               | 80 EUR                              |
 
+
+
+
 Transfer between hotels and the course venue will be available for free.
 
 
