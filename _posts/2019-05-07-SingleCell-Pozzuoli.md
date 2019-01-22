@@ -54,14 +54,15 @@ Registration fee includes course material, coffee breaks, lunchs and dinner buff
 ## Travel Grants
 Five travel grants of  EUR 200 will be available for candidates that will be accepted. If you are interested in applying for a travel grant please email organizer after you have been selected.
 
+
 ## Accomodation
 We suggest these three options for acccomodation:
 
-| hotel          | website                     | booking code | price in EUR for single occupancy | price in EUR for twin occupancy  |
+| hotel          | website                     | booking code | single occupancy | twin occupancy  |
 |----------------|-----------------------------|--------------|-----------------------------------|----------------------------------|
-| Villa Avellino | www.villaavellino.it        | TIGEM        | 115                               | 121                              |
-| Miramare       | www.miramareresidence.com   | TIGEMMAY19   | 66                                | 71                               |
-| Maison Toledo  | www.maisontoledopozzuoli.it | TIGEMMAY19   | 80                                | 80                               |
+| Villa Avellino | www.villaavellino.it        | TIGEM        | 115 EUR                           | 121 EUR                            |
+| Miramare       | www.miramareresidence.com   | TIGEMMAY19   | 66 EUR                         | 71 EUR                              |
+| Maison Toledo  | www.maisontoledopozzuoli.it | TIGEMMAY19   | 80 EUR                               | 80 EUR                              |
 
 Transfer between hotels and the course venue will be available for free.
 
