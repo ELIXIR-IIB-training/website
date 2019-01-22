@@ -217,7 +217,7 @@ The requirement for this course is an advanced knowledge on RNA-sequencing. Part
 </tr>
  <tr>
    <td>117:30- 20:30</td>
-   <td colspan="3">Dinner Buffeto</td>
+   <td colspan="3">Dinner Buffet</td>
 </tr>
 
 </table>
