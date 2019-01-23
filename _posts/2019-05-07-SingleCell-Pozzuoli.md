@@ -46,7 +46,8 @@ Via dei Campi Flegrei, 34<br>
 80078 Pozzuoli (NA) - Italy<br>
 [www.tigem.it](http://www.tigem.it)
 
-## Registration fee: Academic 350€ - Non-academic 500€ 
+## Registration fee: <br>
+### Academic 350€ - Non-academic 500€ 
 Registration fee includes course material, coffee breaks, lunchs and dinner buffets, transfer from the partner hotels. A maximum of **25** candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. Incomplete applications or applications for only parts of the course will not be accepted.<br>
 <br>
 
