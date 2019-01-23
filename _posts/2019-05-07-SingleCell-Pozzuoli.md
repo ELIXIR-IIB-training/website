@@ -36,7 +36,7 @@ This 3-day course aims to provide an overview of a complete Single-Cell RNA sequ
 ## Important Dates
 <b>Deadline for applications:</b> 16 March  2019 <br>
 <b>Chosen participants will be notified by:</b> 01 April 2019<br>
-<b>Payment deadline:</b> 20 April 2019<br>
+<b>Payment deadline:</b> 10 April 2019<br>
 <b>Course date:</b> 07-09 May 2019<br>
 
 
@@ -52,11 +52,11 @@ Registration fee includes course material, coffee breaks, lunchs and dinner buff
 <br>
 
 ## Travel Grants
-Five travel grants of  EUR 200 will be available for candidates that will be accepted. If you are interested in applying for a travel grant please email organizer after you have been selected.
+Five travel grants of  EUR 200 will be available for candidates that will be accepted. If you are interested in applying for a travel grant please state it in the application form.
 
 
 ## Accomodation
-We suggest these three options for acccomodation:
+We suggest the three options listed below for acccomodation. Transfer between hotels and the course venue will be available for free.
 
 | hotel          | website                     | booking code | single occupancy | twin occupancy  |
 |----------------|-----------------------------|--------------|-----------------------------------|----------------------------------|
@@ -67,11 +67,10 @@ We suggest these three options for acccomodation:
 
 
 
-Transfer between hotels and the course venue will be available for free.
 
 
 ## Selection criteria
-The requirement for this course is an advanced knowledge on RNA-sequencing. Participants will be selected based on a solid background in RNA sequencing theory and practice. Applicants with a dataset ready to be analyzed in their own research project will be given priority.
+The requirement for this course is knowledge of RNA-sequencing theory and practice. Participants will be selected based on a solid background in RNA sequencing. Applicants already working on a research project that involves single-cell sequencing will be given priority.
 <br>
 <br>
 
@@ -79,11 +78,17 @@ The requirement for this course is an advanced knowledge on RNA-sequencing. Part
 <br>
 
 ## Speakers
-**Annamaria Carissimo** - National Research Council, Naples, IT<br>
+
+### Wet-lab specialists
 **Anna Manfredi** - TIGEM, Pozzuoli (NA), IT <br>
 **Antonio Grimaldi** - TIGEM, Pozzuoli (NA), IT <br>
+**10X Genomics Specialist** - TBA <br> 
+
+### Bionformatics
+**Annamaria Carissimo** - National Research Council, Naples, IT<br>
 **Gennaro Gambardella** - TIGEM, Pozzuoli (NA), IT <br>
-**10X Genomics Specialist** - TBA
+**Francesco Panariello** - TIGEM, Pozzuoli (NA), IT <br>
+
 <br>
 <br>
 <br>
@@ -91,14 +96,10 @@ The requirement for this course is an advanced knowledge on RNA-sequencing. Part
 
 
 ## Abstract guidelines
-Participants will be required to submit an abstract (max 1500 characters). Abstracts should describe participants’ research projects to be presented with a poster during the course. Applications without abstract will not be considered.
+Participants will be required to submit an abstract (max 1500 characters). Abstracts should describe participants’ research projects. Applications without abstract will not be considered.
 <br>
 <br>
 
-## Poster specification
-Poster specifications: vertical, maximum dimensions A0 (119 X 84cm).
-<br>
-<br>
 
 ## Organisers
 **Davide Cacchiarelli** (TIGEM & University of Naples “Federico II”, IT)<br>
@@ -109,7 +110,7 @@ Poster specifications: vertical, maximum dimensions A0 (119 X 84cm).
 
 
 ## Contact
-Barbara Zimbardi <course2019@tigem.it><br>
+Barbara Zimbardi and Marica Giovannini <course2019@tigem.it><br>
 
 ## Preliminary programme
 
