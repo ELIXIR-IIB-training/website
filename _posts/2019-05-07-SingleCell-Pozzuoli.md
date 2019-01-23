@@ -65,7 +65,8 @@ We suggest the three options listed below for acccomodation. Transfer between ho
 | Villa Avellino | www.villaavellino.it        | TIGEM        | 115 EUR                           | 121 EUR                            |
 | Miramare       | www.miramareresidence.com   | TIGEMMAY19   | 66 EUR                         | 71 EUR                              |
 | Maison Toledo  | www.maisontoledopozzuoli.it | TIGEMMAY19   | 80 EUR                               | 80 EUR                              |
-<br>
+
+
 
 
 ## Selection criteria
