@@ -40,14 +40,13 @@ This 3-day course aims to provide an overview of a complete Single-Cell RNA sequ
 <b>Course date:</b> 07-09 May 2019<br>
 
 
-
 ## Venue
 Telethon Institute of Genetics and Medicine (TIGEM)<br>
 Via dei Campi Flegrei, 34<br>
 80078 Pozzuoli (NA) - Italy<br>
 [www.tigem.it](http://www.tigem.it)
 
-## Registration fee: 350€
+## Registration fee: Academic 350€ - Non-academic 500€ 
 Registration fee includes course material, coffee breaks, lunchs and dinner buffets, transfer from the partner hotels. A maximum of **25** candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. Incomplete applications or applications for only parts of the course will not be accepted.<br>
 <br>
 
@@ -63,9 +62,6 @@ We suggest the three options listed below for acccomodation. Transfer between ho
 | Villa Avellino | www.villaavellino.it        | TIGEM        | 115 EUR                           | 121 EUR                            |
 | Miramare       | www.miramareresidence.com   | TIGEMMAY19   | 66 EUR                         | 71 EUR                              |
 | Maison Toledo  | www.maisontoledopozzuoli.it | TIGEMMAY19   | 80 EUR                               | 80 EUR                              |
-
-
-
 
 
 
