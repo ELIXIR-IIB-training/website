@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Single Cell RNA Sequencing and Data Analysis <font color='green'>[open]</font>"
+title:  "Single-Cell RNA Sequencing and Data Analysis <font color='green'>[open]</font>"
 date_start:   2019-05-07
 date_end:   2019-05-10
 venue: Pozzuoli (Napoli), Italy
@@ -45,15 +45,17 @@ Telethon Institute of Genetics and Medicine (TIGEM)<br>
 Via dei Campi Flegrei, 34<br>
 80078 Pozzuoli (NA) - Italy<br>
 [www.tigem.it](http://www.tigem.it)
+<br>
 
 ## Registration fee: <br>
 ### Academic 350€ - Non-academic 500€ 
 Registration fee includes course material, coffee breaks, lunchs and dinner buffets, transfer from the partner hotels. A maximum of **25** candidates will be accepted in the course. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. Incomplete applications or applications for only parts of the course will not be accepted.<br>
 <br>
 
+
 ## Travel Grants
 Five travel grants of  EUR 200 will be available for candidates that will be accepted. If you are interested in applying for a travel grant please state it in the application form.
-
+<br>
 
 ## Accomodation
 We suggest the three options listed below for acccomodation. Transfer between hotels and the course venue will be available for free.
@@ -63,13 +65,13 @@ We suggest the three options listed below for acccomodation. Transfer between ho
 | Villa Avellino | www.villaavellino.it        | TIGEM        | 115 EUR                           | 121 EUR                            |
 | Miramare       | www.miramareresidence.com   | TIGEMMAY19   | 66 EUR                         | 71 EUR                              |
 | Maison Toledo  | www.maisontoledopozzuoli.it | TIGEMMAY19   | 80 EUR                               | 80 EUR                              |
-
+<br>
 
 
 ## Selection criteria
 The requirement for this course is knowledge of RNA-sequencing theory and practice. Participants will be selected based on a solid background in RNA sequencing. Applicants already working on a research project that involves single-cell sequencing will be given priority.
 <br>
-<br>
+
 
 ## [Application form](https://goo.gl/forms/NutD8Lv3dp7sAbto1)
 <br>
@@ -85,16 +87,10 @@ The requirement for this course is knowledge of RNA-sequencing theory and practi
 **Annamaria Carissimo** - National Research Council, Naples, IT<br>
 **Gennaro Gambardella** - TIGEM, Pozzuoli (NA), IT <br>
 **Francesco Panariello** - TIGEM, Pozzuoli (NA), IT <br>
-
 <br>
-<br>
-<br>
-
-
 
 ## Abstract guidelines
 Participants will be required to submit an abstract (max 1500 characters). Abstracts should describe participants’ research projects. Applications without abstract will not be considered.
-<br>
 <br>
 
 
@@ -103,11 +99,12 @@ Participants will be required to submit an abstract (max 1500 characters). Abstr
 **Vincenza Colonna** (CNR-IGB, Naples, IT)<br>
 [**ELIXIR-IIB Training Platform**](https://elixir-iib-training.github.io/website/)
 <br>
-<br>
 
 
 ## Contact
 Barbara Zimbardi and Marica Giovannini <course2019@tigem.it><br>
+<br>
+
 
 ## Preliminary programme
 
