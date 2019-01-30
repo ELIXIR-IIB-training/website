@@ -23,26 +23,26 @@ description:
 <br>
 
 **IMPORTANT DATES** 
-- Deadline for applications: **... 2019**
-- Course date: **... Mar/Apr 2019**
+- Deadline for applications: **XX-XX-2019**
+- Course date: **XX-XX Mar/Apr 2019**
 <br>
 
 
-**VENUE:**
-Istituto per la protezione Sostenibile delle Piante (IPSP) - CNR<br>
+**VENUE**
+Institute for Sustainable Plant Protection (IPSP) of the National Research Council of Italy (CNR)<br>
 [**(link to the map)**]()<br> 
-Strada delle Cacce 73
-10135 Torino, Italy
+Strada delle Cacce 73<br>
+10135 Torino, Italy<br>
 <br>
 
 
-**FEE:** 
+**FEE** 
 The course does not include a fee, but the participants are expected to pay their own travel, meals and hotel costs (if any).
 
 
-A maximum of **XX** candidates will be selected based on their need for the course as emerging from the application form. Chosen participants will be notified by XXX 2019. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. 
+A maximum of **XX** candidates will be selected based on their need for the course as emerging from the application form. Chosen participants will be notified by **XX-XX 2019**. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. 
 
-**Cancellation policy:** Attendance is limited to XX participants. We expect many more applications. Accepted participants commit to attend the course for its whole duration. Failure to attend training sessions is disruptive. Moreover, it blocks other candidates from participating. Therefore a cancellation policy is in place so that only written requests presented 10 days in advance relatively to the course starting date are accepted.
+**Cancellation policy:** Attendance is limited to **XX** participants. We expect many more applications. Accepted participants commit to attend the course for its whole duration. Failure to attend training sessions is disruptive. Moreover, it blocks other candidates from participating. Therefore a cancellation policy is in place so that only written requests presented 10 days in advance relatively to the course starting date are accepted.
 <br>
 
 
@@ -50,16 +50,17 @@ A maximum of **XX** candidates will be selected based on their need for the cour
 - [**Raffaele Calogero**](https://elixir-iib-training.github.io/website/instructors/raffaele_calogero.html) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT 
 - [**Marco Beccuti**] (XXX) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
 - [**Raoul Bonnal**] (XXX) -  Istituto Nazionale Genetica Molecolare "Romeo ed Enrica Invernizzi"​ (INGM), Milano, IT
+- ...
 <br>
 <br>
 
 ### Helpers
-....
+- ...
 <br>
 <br>
 
 ### Organisers
-- Marco Chiapello 
+- Marco Chiapello - Institute for Sustainable Plant Protection of the National Research Council of Italy (CNR)
 - 
 - 
 <br>
@@ -83,26 +84,26 @@ While the raw datasets are generally available; a clear workflow detailing the r
 Virtual machines are very good at isolating system resources and entire working environments, while , containers’ philosophy is to isolate only individual applications, not the entire system. Thus, containers are a lightweight fast and scalable alternative to Virtual machines when an completely isolated execution is not mandatory.
 
 Docker is a container framework for Linux that allows a developer to make easier the creation, deployment, and execution of applications by using containers.
-Recently it is becoming a promising approach to computational biology research reproducibility by:<br
-- Saving time and expenses on human and computational resources allocated to already performed analysis;<br>
-- Boosting communication between computational biologists working on similar topics;<br>
-- Enhancing transparency within the community;<br
+Recently it is becoming a promising approach to computational biology research reproducibility by:<br>
+- Saving time and expenses on human and computational resources allocated to already performed analysis;
+- Boosting communication between computational biologists working on similar topics;
+- Enhancing transparency within the community;
 - Granting open access computational knowledge to the community.
 <br>
-<br
+<br>
 
 
 ### Target audience
-This course is aimed at developers, DevOps in any field.
+This course is aimed at **XXXXXXXXX**.
 <br>
 
 
 ### Learning outcomes
-By the end of this course, the participant will learn the core concepts of Docker and how to easily embed bioinformatic pipelines/workflows into a docker container.
+By the end of this course, the participant will learn the core concepts of Docker and how to easily embed bioinformatic pipelines/workflows into a docker container. **XXXXXXXXXXXX*
 
 
 ### Course prerequisites
-The participants will need to know how to execute and manage docker images (docker commands: run ps images)
+The participants will need to know **XXXXXXXXXXXXXXXX**.
 <br>
 <br>
 
