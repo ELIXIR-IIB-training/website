@@ -43,7 +43,7 @@ Recently it is becoming a promising approach to computational biology research r
 <br>
 <br>
 
-**VENUE**
+**VENUE**<br>
 Institute for Sustainable Plant Protection (IPSP) of the National Research Council of Italy (CNR)<br>
 Strada delle Cacce 73<br>
 10135 Torino, Italy<br>
@@ -51,7 +51,7 @@ Strada delle Cacce 73<br>
 <br>
 
 
-**FEE** 
+**FEE**<br> 
 The course does not include a fee, but the participants are expected to pay their own travel, meals and hotel costs (if any).
 
 A maximum of **XX** candidates will be selected based on their need for the course as emerging from the application form. Chosen participants will be notified by **XX-XX 2019**. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. 
@@ -118,7 +118,7 @@ The participants will need to know **XXXXXXXXXXXXXXXX**.
 
 <table border="1">
 <tr>
-   <td colspan="3"><h3>Day 1 </h3></td>
+   <td colspan="3"><h3>Day 1 - Theoretical Day</h3></td>
 </tr>
 <tr>
    <td height="50">09:00 - 10:30</td>
@@ -158,7 +158,7 @@ The participants will need to know **XXXXXXXXXXXXXXXX**.
   <td height="50"></td>
 </tr>
 <tr>
-   <td colspan="3"><h3>Day 2 </h3></td>
+   <td colspan="3"><h3>Day 2 - Training Day</h3></td>
 </tr>
 <tr>
  <td height="50">09:00 - 10:30</td>
