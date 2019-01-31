@@ -95,6 +95,7 @@ Recently it is becoming a promising approach to computational biology research r
 This course is aimed at ........
 <br>
 
+
 ### Course prerequisites
 The participants will need to know ..........
 
@@ -102,8 +103,8 @@ The participants will need to know ..........
 ### Learning objectives
 (.........Learning objectives describe the goals and intentions of the instructor who teaches the course. They state the purpose and goals of a session or of the course...)
 
-By the end of this course, the participant will learn the core concepts of Docker and how to easily embed bioinformatic pipelines/workflows into a docker container.
-..........................
+By the end of this course, the participant will learn the core concepts of Docker and how to easily embed bioinformatic pipelines/workflows into a docker container...........................
+
 
 ### Learning outcomes
 By the end of this course, the participant will be able to
@@ -118,8 +119,6 @@ By the end of this course, the participant will be able to
 ### [Application Form]()
 <br>
 <br>
-
-
 
 
 
