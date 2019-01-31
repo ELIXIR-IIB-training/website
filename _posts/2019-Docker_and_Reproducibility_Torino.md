@@ -24,7 +24,7 @@ description:
 
 ### Important Dates 
 - Deadline for applications: **XX-XX-2019**
-- Course date: **XX-XX Mar/Apr 2019**
+- Course date: **XX-XX Month 2019**
 <br>
 <br>
 
