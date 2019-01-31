@@ -145,8 +145,8 @@ By the end of this course, the participant will be able to
 <tr>
    <td height="50">11:00 - 12:30</td>
    <td height="50">Lecture or Practical</td>
-   <td height="50"></td>
-   <td height="50"></td>
+   <td height="50">Who</td>
+   <td height="50">What</td>
 </tr>
 <tr>
    <td height="50">12:30 - 13:30</td>
@@ -155,8 +155,8 @@ By the end of this course, the participant will be able to
 <tr>
   <td height="50">13:30 - 15:00</td>
   <td height="50">Lecture or Practical</td>
-   <td height="50"></td>
-   <td height="50"></td>
+   <td height="50">Who</td>
+   <td height="50">What</td>
 </tr>
 <tr>
    <td height="50">15:00 - 15:30</td>
