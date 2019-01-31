@@ -65,6 +65,15 @@ A maximum of **15** candidates will be selected based on their need for the cour
 <br>
 <br>
 
+### IT Technical support (??)
+- 
+- 
+<br>
+
+### Contact
+For all kinds of queries, please contact the local organiser XXX : <XXX>
+<br>
+<br>
 
 ### Course Description
 Bioinformatics analysis typically integrate a large number of different tools, reference data to elaborate the input data and derive results. Reproducing the same analysis by other researchers is often a hard task as many pieces of the puzzle are missing from the used methodology.
@@ -111,15 +120,7 @@ By the end of this course, the participant will be able to
 <br>
 
 
-### IT Technical support (??)
-- 
-- 
-<br>
 
-### Contact
-For all kinds of queries, please contact the local organiser XXX : <XXX>
-<br>
-<br>
 
 
 ### Preliminary programme
