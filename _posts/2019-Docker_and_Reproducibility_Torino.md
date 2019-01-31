@@ -90,13 +90,15 @@ This course is aimed at ........
 The participants will need to know ..........
 
 
-### Teaching objectives
+### Learning objectives
+(.........Learning objectives describe the goals and intentions of the instructor who teaches the course. They state the purpose and goals of a session or of the course...)
+
 By the end of this course, the participant will learn the core concepts of Docker and how to easily embed bioinformatic pipelines/workflows into a docker container.
 ..........................
 
-### Learinig outcomes
+### Learning outcomes
 By the end of this course, the participant will be able to
-- .......one sentence that clearly states the knowledge or the skills that students should be able to demonstrate
+(.......one sentence that clearly states the knowledge or the skill that students should be able to demonstrate, to exhibit...)
 -
 -
 <br>
