@@ -98,13 +98,13 @@ This course is aimed at ........
 
 ### Course prerequisites
 The participants will need to know ..........
-
+<br
 
 ### Learning objectives
 (.........Learning objectives describe the goals and intentions of the instructor who teaches the course. They state the purpose and goals of a session or of the course...)
 
 By the end of this course, the participant will learn the core concepts of Docker and how to easily embed bioinformatic pipelines/workflows into a docker container...........................
-
+<br>
 
 ### Learning outcomes
 By the end of this course, the participant will be able to
