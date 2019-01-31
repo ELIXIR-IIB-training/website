@@ -134,9 +134,9 @@ By the end of this course, the participant will be able to
 </tr>
 <tr>
    <td height="50">09:30 - 10:30</td>
-   <td height="50">Lecture & Practical</td>
-   <td height="50">Who??</td>
-   <td height="50">What??</td>
+   <td height="50">Lecture or Practical (?)</td>
+   <td height="50">Who (?)</td>
+   <td height="50">What (?)</td>
 </tr>
 <tr>
    <td height="50">10:30 - 11:00</td>
@@ -144,9 +144,9 @@ By the end of this course, the participant will be able to
 </tr>
 <tr>
    <td height="50">11:00 - 12:30</td>
-   <td height="50">Lecture & Practical</td>
-   <td height="50">Who??</td>
-   <td height="50">What??</td>
+   <td height="50">Lecture or Practical</td>
+   <td height="50"></td>
+   <td height="50"></td>
 </tr>
 <tr>
    <td height="50">12:30 - 13:30</td>
@@ -154,9 +154,9 @@ By the end of this course, the participant will be able to
 </tr>
 <tr>
   <td height="50">13:30 - 15:00</td>
-  <td height="50">Lecture & Practical</td>
-   <td height="50">Who??</td>
-   <td height="50">What??</td>
+  <td height="50">Lecture or Practical</td>
+   <td height="50"></td>
+   <td height="50"></td>
 </tr>
 <tr>
    <td height="50">15:00 - 15:30</td>
@@ -164,14 +164,14 @@ By the end of this course, the participant will be able to
 </tr>
 <tr>
   <td height="50">15:30 - 17:00</td>
-  <td height="50">Lecture & Practical</td>
-   <td height="50">Who??</td>
-   <td height="50">What??</td></tr>
+  <td height="50">Lecture or Practical</td>
+   <td height="50">Who</td>
+   <td height="50">What</td></tr>
 <tr>
   <td height="50">17:00 - 18:00</td>
-  <td height="50">Lecture & Practical</td>
-   <td height="50">Who??</td>
-   <td height="50">What??</td>
+  <td height="50">Lecture or Practical</td>
+   <td height="50">Who</td>
+   <td height="50">What</td>
 </tr>
 <tr>
    <td colspan="3"><h3>Day 2 - </h3></td>
@@ -182,9 +182,9 @@ By the end of this course, the participant will be able to
 </tr>
 <tr>
  <td height="50">09:00 - 10:30</td>
- <td height="50">Lecture & Practical</td>
-   <td height="50">Who??</td>
-   <td height="50">What??</td>
+ <td height="50">Lecture or Practical</td>
+   <td height="50">Who</td>
+   <td height="50">What</td>
 </tr>
 <tr>
    <td height="50">10:30 - 11:00</td>
@@ -192,9 +192,9 @@ By the end of this course, the participant will be able to
 </tr>
 <tr>
    <td height="50">11:00 - 12:30</td>
-   <td height="50">Lecture & Practical</td>
-   <td height="50">Who??</td>
-   <td height="50">What??</td>
+   <td height="50">Lecture or Practical</td>
+   <td height="50">Who</td>
+   <td height="50">What</td>
 </tr>
 <tr>
    <td height="50">12:30 - 13:30</td>
@@ -202,9 +202,9 @@ By the end of this course, the participant will be able to
 </tr>
 <tr>
   <td height="50">13:30 - 15:00</td>
-  <td height="50">Lecture & Practical</td>
-   <td height="50">Who??</td>
-   <td height="50">What??</td>
+  <td height="50">Lecture or Practical</td>
+   <td height="50">Who</td>
+   <td height="50">What</td>
 </tr>
 <tr>
    <td height="50">15:00 - 15:30</td>
@@ -212,15 +212,15 @@ By the end of this course, the participant will be able to
 </tr>
 <tr>
   <td height="50">15:30 - 17:00</td>
-  <td height="50">Lecture & Practical</td>
-   <td height="50">Who??</td>
-   <td height="50">What??</td>
+  <td height="50">Lecture or Practical</td>
+   <td height="50">Who</td>
+   <td height="50">What</td>
 </tr>
 <tr>
   <td height="50">17:00 - 18:00</td>
-  <td height="50">Lecture & Practical</td>
-   <td height="50">Who??</td>
-   <td height="50">What??</td>
+  <td height="50">Lecture or Practical</td>
+   <td height="50">Who</td>
+   <td height="50">What</td>
 </tr>
 </table>
 
