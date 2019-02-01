@@ -2,7 +2,7 @@
 layout: post
 title:  "Single-Cell RNA Sequencing and Data Analysis <font color='green'>[open]</font>"
 date_start:   2019-05-07
-date_end:   2019-05-10
+date_end:   2019-05-09
 venue: Pozzuoli (Napoli), Italy
 description: Single-Cell Transcriptomics is improving the quality of biological investigations by enhancing the dissection of heterogeneity in complex tissues and cell cultures. This 3-day course aims to provide an overview of a complete Single-Cell RNA sequencing workflow.
 
