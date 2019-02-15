@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  EMBO Practical Course on "Population Genomics&#58; background and tools" <font color='green'>[open]</font>
+title:  EMBO Practical Course on "Population Genomics&#58; background and tools" <font color='black'>[closed]</font>
 date_start: 2019-03-30
 date_end:   2019-04-06
 venue: Procida (Napoli), Italy
