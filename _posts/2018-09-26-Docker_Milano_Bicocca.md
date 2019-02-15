@@ -54,6 +54,7 @@ A maximum of **20** candidates will be selected based on their need for the cour
 
 ### Organisers
 - Gianluca Della Vedova - Department of Computer Science, University of Milano-Bicocca, IT
+- Raoul Bonnal - Istituto Nazionale Genetica Molecolare "Romeo ed Enrica Invernizzi"​ (INGM), Milano, IT
 - Loredana Le Pera - ELIXIR-IIB Training Coordinator Deputy, IBIOM-CNR, IT
 - Allegra Via - ELIXIR-IIB Training Coordinator, IBPM-CNR, IT
 <br>
