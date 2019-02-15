@@ -18,8 +18,8 @@ permalink: /all_events_2018_2019/
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/05/07/SingleCell-Pozzuoli.html">Single Cell RNA Sequencing and Data Analysis</a></td>
    <td height="50" width="150">D. Cacchiarelli<br>V. Colonna</td>
    <td height="50" align="center">Pozzuoli<br>Italy</td>
-   <td height="50" width="75" align="center">May<br>07-10<br>2019</td>
-   <td height="50" align="center" color="green"><b>open</b></td>
+   <td height="50" width="75" align="center">May<br>07-09<br>2019</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>
 </tr> 
    <tr>
 <td height="50" align="center">EMBO<br>Practical Course</td>
@@ -32,10 +32,10 @@ permalink: /all_events_2018_2019/
    <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/02/14/DC-Milano-Bicocca.html">Data Carpentry <br>Workshop</a></td>
-   <td height="50" width="150">G. Della Vedova<br>L. Le Pera<br>A. Via</td>
+   <td height="50" width="150">G. Della Vedova<br>R. Bonnal<br>L. Le Pera<br>A. Via</td>
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Feb<br>14-15<br>2019</td>
-   <td height="50" align="center" color="green"><b>open</b></td>
+   <td height="50" align="center"><font color="black"><b>closed</b></font></td> 
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
@@ -43,7 +43,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">V. Colonna<br>L. Le Pera<br>A. Via</td>
    <td height="50" align="center">Napoli,<br>Italy</td>
    <td height="50" width="75" align="center">Feb<br>11-12<br>2019</td>
-   <td height="50" align="center" color="green"><b>open</b></td>
+   <td height="50" align="center"><font color="black"><b>closed</b></font></td> 
 </tr>
    <tr>
 	<td height="50" align="center">EMBO<br>Practical Course</td>
@@ -150,7 +150,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">A. Via<br>G. Della Vedova<br>L Le Pera</td>
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Feb<br>22-23<br>2018</td>
-   <td height="50" align="center" color="light grey"><b>closed</b></td>
+   <td height="50" align="center"><font color="black"><b>closed</b></font></td>
 </tr>
 <tr>
 	<td height="50" align="center">ELIXIR-EXCELERATE</td>
@@ -158,7 +158,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">P. Palagi<br>A. Via</td>
    <td height="50" align="center">Lausanne,<br>Switzerland</td>
    <td height="50" width="75" align="center">Jan<br>30-31<br>2018</td>
-   <td height="50" align="center" color="light grey"><b>closed</b></td>
+   <td height="50" align="center"><font color="black"><b>closed</b></font></td>
 </tr>
 <tr>
 	<td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
@@ -166,7 +166,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">L. Le Pera<br>A. Via<br>T. Castrignanò</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Jan<br>16-17<br>2018</td>
-   <td height="50" align="center" color="light grey"><b>closed</b></td>
+   <td height="50" align="center"><font color="black"><b>closed</b></font></td>
 </tr> 
 </table>
 <br>
