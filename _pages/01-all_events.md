@@ -35,7 +35,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">G. Della Vedova<br>R. Bonnal<br>L. Le Pera<br>A. Via</td>
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Feb<br>14-15<br>2019</td>
-   <td height="50" align="center"><font color="black"><b>closed</b></font></td> 
+   <td height="50" align="center"><font color="light grey"><b>closed</b></font></td> 
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
@@ -43,7 +43,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">V. Colonna<br>L. Le Pera<br>A. Via</td>
    <td height="50" align="center">Napoli,<br>Italy</td>
    <td height="50" width="75" align="center">Feb<br>11-12<br>2019</td>
-   <td height="50" align="center"><font color="black"><b>closed</b></font></td> 
+   <td height="50" align="center"><font color="light grey"><b>closed</b></font></td> 
 </tr>
    <tr>
 	<td height="50" align="center">EMBO<br>Practical Course</td>
@@ -51,7 +51,7 @@ permalink: /all_events_2018_2019/
    <td height="50">A. Via<br>T. Gibson<br>M. Sharan<br>V. Morea<br>L. Le Pera</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Nov<br>05-10<br>2018</td>
-   <td height="50" align="center"><font color="black"><b>closed</b></font></td>   
+   <td height="50" align="center"><font color="light grey"><b>closed</b></font></td>   
 </tr>
  <tr>
 	<td height="50" align="center">NETTAB2018/ELIXIR-IIB<br>Workshop</td>
@@ -59,7 +59,7 @@ permalink: /all_events_2018_2019/
    <td height="50">P. Romano<br>ELIXIR-IIB<br>ELIXIR-UK<br>BITS</td>
    <td height="50" align="center">Genova,<br>Italy</td>
    <td height="50" width="75" align="center">Oct<br>22-24<br>2018</td>
-   <td height="50" align="center"><font color="black"><b>closed</b></font></td>   
+   <td height="50" align="center"><font color="light grey"><b>closed</b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-EXCELERATE</td>
@@ -67,7 +67,7 @@ permalink: /all_events_2018_2019/
    <td height="50">A. Via<br>J. Lindvall<br>L. Le Pera</td>
    <td height="50" align="center">Stockholm,<br>Sweden</td>
    <td height="50" width="75" align="center">Oct<br>9-11<br>2018</td>
-   <td height="50" align="center"><font color="black"><b>closed</b></font></td>   
+   <td height="50" align="center"><font color="light grey"><b>closed</b></font></td>   
 </tr>
 <tr>
 	<td height="50" align="center">ELIXIR<br>Scientific dissemination activity</td>
@@ -75,7 +75,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">ERN-Apulia<br>University of Salento<br>F. De Leo<br>A. Marabotti</td>
    <td height="50" align="center">Bari,<br>Italy</td>
    <td height="50" width="75" align="center">Sep<br>28<br>2018</td>
-   <td height="50" align="center"><font color="black"><b></b></font></td>   
+   <td height="50" align="center"><font color="light grey"><b>closed</b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-EXCELERATE</td>
@@ -83,7 +83,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">A. Via<br>L. Le Pera</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Sep<br>27-28<br>2018</td>
-   <td height="50" align="center"><font color="black"><b>closed</b></font></td>   
+   <td height="50" align="center"><font color="light grey"><b>closed</b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
@@ -91,7 +91,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">G. Della Vedova<br>L. Le Pera<br>A. Via<br></td>
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Sep<br>26-27<br>2018</td>
-   <td height="50" align="center"><font color="black"><b>closed</b></font></td>   
+   <td height="50" align="center"><font color="light grey"><b>closed</b></font></td>   
 </tr>
 
 <tr>
@@ -100,7 +100,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">D. Taruscio<br>M. Roos<br>C. Carta<br></td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Sep<br>10-14<br>2018</td>
-   <td height="50" align="center"><font color="black"><b>closed</b></font></td>   
+   <td height="50" align="center"><font color="light grey"><b>closed</b></font></td>   
 </tr>
 <tr>
    <td height="50" align="center">BITS2018/ELIXIR-IIB Workshop</td>
@@ -108,7 +108,7 @@ permalink: /all_events_2018_2019/
     <td height="50" width="150">R. Bonnal<br>R.A. Calogero<br>M. Beccuti<br>L. Le Pera<br>A. Via</td>
    <td height="50" align="center">Torino,<br>Italy</td>
    <td height="50" width="75" align="center">Jun<br>25-26<br>2018</td>
-   <td height="50" align="center"><font color="black"><b>closed</b></font></td> 
+   <td height="50" align="center"><font color="light grey"><b>closed</b></font></td> 
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
@@ -116,7 +116,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">V. Colonna<br>C. Batini<br>A. Via<br>L. Le Pera</td>
    <td height="50" align="center">Napoli,<br>Italy</td>
    <td height="50" width="75" align="center">Apr<br>21-27<br>2018</td>
-   <td height="50" align="center"><font color="black"><b>closed</b></font></td>
+   <td height="50" align="center"><font color="light grey"><b>closed</b></font></td>
 </tr>
    <tr>
 	<td height="50" align="center">ELIXIR-EXCELERATE</td>
@@ -124,7 +124,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">ELIXIR-FR<br>ELIXIR-IIB<br>SIB</td>
    <td height="50" align="center">Paris,<br>France</td>
    <td height="50" width="75" align="center">Mar<br>26-27<br>2018</td>
-   <td height="50" align="center"><font color="black"><b>closed</b></font></td>   
+   <td height="50" align="center"><font color="light grey"><b>closed</b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">CNR and ELIXIR-IIB<br>ASL workshop<br>for high-schools</td>
@@ -150,7 +150,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">A. Via<br>G. Della Vedova<br>L Le Pera</td>
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Feb<br>22-23<br>2018</td>
-   <td height="50" align="center"><font color="black"><b>closed</b></font></td>
+   <td height="50" align="center"><font color="light grey"><b>closed</b></font></td>
 </tr>
 <tr>
 	<td height="50" align="center">ELIXIR-EXCELERATE</td>
@@ -158,7 +158,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">P. Palagi<br>A. Via</td>
    <td height="50" align="center">Lausanne,<br>Switzerland</td>
    <td height="50" width="75" align="center">Jan<br>30-31<br>2018</td>
-   <td height="50" align="center"><font color="black"><b>closed</b></font></td>
+   <td height="50" align="center"><font color="light grey"><b>closed</b></font></td>
 </tr>
 <tr>
 	<td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
@@ -166,7 +166,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">L. Le Pera<br>A. Via<br>T. Castrignanò</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Jan<br>16-17<br>2018</td>
-   <td height="50" align="center"><font color="black"><b>closed</b></font></td>
+   <td height="50" align="center"><font color="light grey"><b>closed</b></font></td>
 </tr> 
 </table>
 <br>
