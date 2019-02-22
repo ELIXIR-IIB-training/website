@@ -11,7 +11,9 @@ permalink: /trainers/
 
 [**Chiara Batini**](../instructors/chiara_batini.html) [Dep. of Health Sciences, University of Leicester, UK]<br>
 
-[**Alberto Calderone**](../instructors/alberto_calderone.html) [Dep. of Molecular Biology, "Tor Vergata" University,  Roma, IT]<br>
+[**Raoul Jean Pierre Bonnal**](../instructors/raoul_bonnal.html) [Istituto Nazionale Genetica Molecolare “Romeo ed Enrica Invernizzi”​ (INGM), Milano, IT]<br>
+
+[**Alberto Calderone**](../instructors/alberto_calderone.html) [Dep. of Molecular Biology, "Tor Vergata" University, Roma, IT]<br>
 
 [**Raffaele Calogero**](../instructors/raffaele_calogero.html) [Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT]<br>
 
@@ -19,7 +21,7 @@ permalink: /trainers/
 
 [**Matteo Chiara**](http://159.149.160.56/beacon/) [Dept. of Biosciences, University of Milano, IT]<br>
 
-[**Teresa Colombo**](../instructors/teresa_colombo.html) [Istituto di analisi dei sistemi ed informatica IASI-CNR, Roma, IT]<br>
+[**Teresa Colombo**](../instructors/teresa_colombo.html) [Institute of Molecular Biology and Pathology IBPM-CNR, Roma, IT]<br>
 
 [**Vincenza Colonna**](../instructors/vincenza_colonna.html) [Institute of Genetics and Biophysic IGB-CNR, Napoli, IT]<br>
 
@@ -37,7 +39,7 @@ permalink: /trainers/
 
 [**Giacomo Janson**](../instructors/giacomo_janson.html) [Dep. of Biochemical Sciences, "Sapienza" University, Roma, IT]<br>
 
-[**Loredana Le Pera**](../instructors/loredana_le_pera.html) [IBIOM-CNR, Bari and IBPM-CNR, Roma, Italy]<br>
+[**Loredana Le Pera**](../instructors/loredana_le_pera.html) [IBIOM-CNR, Bari and IBPM-CNR, Roma, IT]<br>
 
 [**Luana Licata**](../instructors/luana_licata.html) [Dep. of Molecular Biology, "Tor Vergata" University, Roma, IT]<br>
 
