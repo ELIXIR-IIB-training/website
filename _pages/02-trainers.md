@@ -11,7 +11,7 @@ permalink: /trainers/
 
 [**Chiara Batini**](../instructors/chiara_batini.html) [Dep. of Health Sciences, University of Leicester, UK]<br>
 
-[**Raoul Jean Pierre Bonnal**](../instructors/raoul_bonnal.html) [Istituto Nazionale Genetica Molecolare “Romeo ed Enrica Invernizzi”​ (INGM), Milano, IT]<br>
+[**Raoul Jean Pierre Bonnal**](../instructors/raoul_bonnal.html) [National Institute of Molecular Genetics (INGM), Milano, IT]<br>
 
 [**Alberto Calderone**](../instructors/alberto_calderone.html) [Dep. of Molecular Biology, "Tor Vergata" University, Roma, IT]<br>
 
