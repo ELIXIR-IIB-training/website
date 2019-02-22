@@ -32,7 +32,7 @@ permalink: /all_events_2018_2019/
    <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/02/14/DC-Milano-Bicocca.html">Data Carpentry <br>Workshop</a></td>
-   <td height="50" width="150">G. Della Vedova<br>R. Bonnal<br>L. Le Pera<br>A. Via</td>
+   <td height="50" width="150">G. Della Vedova<br>L. Le Pera<br>A. Via</td>
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Feb<br>14-15<br>2019</td>
    <td height="50" align="center"><font color="light grey"><b>closed</b></font></td> 
@@ -88,7 +88,7 @@ permalink: /all_events_2018_2019/
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2018/09/26/Docker_Milano_Bicocca.html">Docker Advanced Course</a></td>
-   <td height="50" width="150">G. Della Vedova<br>L. Le Pera<br>A. Via<br></td>
+   <td height="50" width="150">G. Della Vedova<br>R. Bonnal<br>L. Le Pera<br>A. Via<br></td>
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Sep<br>26-27<br>2018</td>
    <td height="50" align="center"><font color="light grey"><b>closed</b></font></td>   
