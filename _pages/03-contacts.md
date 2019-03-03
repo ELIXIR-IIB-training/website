@@ -3,6 +3,8 @@ layout: page
 title: Contacts
 permalink: /contacts/
 ---
+
+
 ###The ELIXIR Training Team (ETT)
 
 If you want to be involved in the ELIXIR-IIB Training Programme or need more information,<br>
