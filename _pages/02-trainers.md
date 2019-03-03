@@ -11,6 +11,8 @@ permalink: /trainers/
 
 [**Chiara Batini**](../instructors/chiara_batini.html) [Dep. of Health Sciences, University of Leicester, UK]<br>
 
+[**Marco Beccuti**](../instructors/marco_beccuti.html) [Department of Computer Science, University of Torino, IT]<br>
+
 [**Raoul Jean Pierre Bonnal**](../instructors/raoul_bonnal.html) [National Institute of Molecular Genetics (INGM), Milano, IT]<br>
 
 [**Alberto Calderone**](../instructors/alberto_calderone.html) [Dep. of Molecular Biology, "Tor Vergata" University, Roma, IT]<br>
