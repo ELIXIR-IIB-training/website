@@ -11,13 +11,12 @@ description: The course will take the participants through all steps of a genome
 
 <table border="0" width="700">
   <tr> 
-    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="110" width="250"></a></td>
-    <td width="50"></td>
+    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="100" width="200"></a></td>
+    <td width="10"></td>
 	<td><a href="https://www.unimib.it/"><img src="../../../img/Logo_unimilano_bicocca.png" height="110" width="110"></a></td>
-	<td width="50"></td>
-	<td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_excelerate_whitebackground.png" height="100" width="200"></a></td>
+	<td width="30"></td>
+	<td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_excelerate_whitebackground.png" height="100" width="150"></a></td>
     </tr>
-    <tr height="50"></tr>
     <tr>
     <td><a href="https://www.cnr.it/en"><img src="../../../img/Logo_CNR_Italy.png" height="110" width="250"></a></td>
     <td></td>
