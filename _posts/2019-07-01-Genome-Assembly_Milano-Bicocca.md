@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Genome Assembly and Annotation <font color='green'>[open]</font>"
+title:  "Genome Assembly and Annotation <font color='green'></font>"
 date_start:   2019-07-01
 date_end:   2019-07-05
 venue: Milano, Italy
@@ -40,7 +40,7 @@ Lab. 715, U7 Building [**(link to the map)**](https://www.google.it/maps/place/E
 via Bicocca degli Arcimboldi, 8<br> 
 20126 Milano, Italy
 <br>
-
+<br>
 
 **FEE:** 
 The course does not include a fee, but the participants are expected to pay their own travel and accomodation costs (if any).
@@ -53,12 +53,12 @@ A maximum of **24** candidates will be selected based on their need for the cour
 <br>
 
 ### Instructors
-- [**Henrik Lantz**](../../../instructors/allegra_via.html) - ELIXIR-SE
-- [**Jacques Dainat**](../../../instructors/loredana_le_pera.html) - ELIXIR-SE
-- [**Lucile Soler**](../../../instructors/tiziana_castrignano.html) - ELIXIR-SE
-- [**Tomas Larsson**](../../../instructors/allegra_via.html) - ELIXIR-SE
-- [**Christophe Klopp**](../../../instructors/allegra_via.html) - ELIXIR-SE
-- [**Joelle Amselem**](../../../instructors/allegra_via.html) - ELIXIR-SE
+- [**Henrik Lantz**] - ELIXIR-SE
+- [**Jacques Dainat**] - ELIXIR-SE
+- [**Lucile Soler**] - ELIXIR-SE
+- [**Tomas Larsson**] - ELIXIR-SE
+- [**Christophe Klopp**] - ELIXIR-SE
+- [**Joelle Amselem**] - ELIXIR-SE
 <br>
 <br>
 
@@ -73,7 +73,7 @@ The course will take the participants through all steps of a genome assembly and
 <br>
 
 ### Target audience
-This course is aimed at PhD-students, post docs or other researchers interested in learning about genome assembly and genome annotation. It will be especially useful for researchers that have (or will have) data of their own and want run the assembly- and annotation-tools themselves.
+This course is aimed at PhD-students, post docs or other researchers interested in learning about genome assembly and genome annotation. It will be especially useful for researchers that have (or will have) data of their own and want run the assembly - and annotation - tools themselves.
 <br>
 <br>
 
