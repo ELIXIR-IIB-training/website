@@ -23,7 +23,7 @@ description: The course will take the participants through all steps of a genome
   </tr>
 </table>
 <br>
-
+<br>
 
 **IMPORTANT DATES**
 - Deadline for applications: **10 May 2019**
