@@ -61,6 +61,15 @@ A maximum of **24** candidates will be selected based on their need for the cour
 <br>
 <br>
 
+### Organisers
+- **Henrik Lantz** - ELIXIR-SE
+- **Gianluca Della vedova** - ELIXIR-IT
+- **Brane L. Leskosek** - ELIXIR-SI
+- **Loredana Le Pera** - ELIXIR-IT
+- **Allegra Via** - ELIXIR-IT
+<br>
+<br>
+
 ### Contact
 For all kinds of queries, please contact the local organiser Gianluca Della Vedova at: <gianluca.dellavedova@unimib.it>. For questions about course content, please contact Henrik Lantz at: <henrik.lantz@nbis.se>.
 <br>
