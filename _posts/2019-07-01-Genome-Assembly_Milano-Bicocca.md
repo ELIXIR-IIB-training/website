@@ -20,6 +20,7 @@ description: The course will take the participants through all steps of a genome
     <tr height="50"></tr>
     <tr>
     <td><a href="https://www.cnr.it/en"><img src="../../../img/Logo_CNR_Italy.png" height="110" width="250"></a></td>
+    <td></td>
   </tr>
 </table>
 <br>
