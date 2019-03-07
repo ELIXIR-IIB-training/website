@@ -51,12 +51,12 @@ A maximum of **24** candidates will be selected based on their need for the cour
 <br>
 
 ### Instructors
-- [**Henrik Lantz**] - ELIXIR-SE
-- [**Jacques Dainat**] - ELIXIR-SE
-- [**Lucile Soler**] - ELIXIR-SE
-- [**Tomas Larsson**] - ELIXIR-SE
-- [**Christophe Klopp**] - ELIXIR-SE
-- [**Joelle Amselem**] - ELIXIR-SE
+- [**Henrik Lantz**]() - ELIXIR-SE
+- [**Jacques Dainat**]() - ELIXIR-SE
+- [**Lucile Soler**]() - ELIXIR-SE
+- [**Tomas Larsson**]() - ELIXIR-SE
+- [**Christophe Klopp**]() - ELIXIR-SE
+- [**Joelle Amselem**]() - ELIXIR-SE
 <br>
 <br>
 
