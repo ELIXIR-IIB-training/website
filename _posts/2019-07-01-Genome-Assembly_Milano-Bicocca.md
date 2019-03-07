@@ -26,8 +26,6 @@ description: The course will take the participants through all steps of a genome
 
 
 **IMPORTANT DATES**
-
-
 - Deadline for applications: **10 May 2019**
 - Chosen participants will be notified by: 17 May 2019
 - Course date: 1-5 July 2019
