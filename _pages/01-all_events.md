@@ -12,12 +12,20 @@ permalink: /all_events_2018_2019/
    <td height="50" width="75" align="center"><b>Venue</b></td>
    <td height="50" width="75" align="center"><b>Date</b></td>
    <td height="50" width="90" align="center"><b>Application</b></td>
-   </tr>
-  <tr>
+</tr>
+<tr>
+<td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/05/07/SingleCell-Pozzuoli.html">Genome Assembly and Annotation</a></td>
+   <td height="50" width="150">H. Lantz<br>G. Della Vedova<br>B.L. Leskosek<br>L. Le Pera<br>A. Via</td>
+   <td height="50" align="center">Milano,<br>Italy</td>
+   <td height="50" width="75" align="center">Jul<br>01-05<br>2019</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+</tr> 
+<tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/05/07/SingleCell-Pozzuoli.html">Single Cell RNA Sequencing and Data Analysis</a></td>
    <td height="50" width="150">D. Cacchiarelli<br>V. Colonna</td>
-   <td height="50" align="center">Pozzuoli<br>Italy</td>
+   <td height="50" align="center">Pozzuoli,<br>Italy</td>
    <td height="50" width="75" align="center">May<br>07-09<br>2019</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>
 </tr> 
