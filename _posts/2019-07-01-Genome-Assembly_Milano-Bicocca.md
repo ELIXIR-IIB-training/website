@@ -20,18 +20,18 @@ description: The course will take the participants through all steps of a genome
     </tr>
     <tr height="50"></tr>
     <tr>
-    <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_ELIXIR_SWEDEN_white_background.png" height="100" ></a></td>
+    <td><a href="https://www.elixir-europe.org/about-us/who-we-are/nodes/sweden"><img src="../../../img/Logo_ELIXIR_SWEDEN_white_background.png" height="100" ></a></td>
     <td width="20"></td>
-    <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_ELIXIR_Node_FRANCE.png" height="100" ></a></td>
+    <td><a href="https://www.elixir-europe.org/about-us/who-we-are/nodes/france"><img src="../../../img/Logo_ELIXIR_Node_FRANCE.png" height="100" ></a></td>
     <td width="20"></td>
-    <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_ELIXIR_SLOVENIA_white_background.png" height="100" width="150"></a></td>
+    <td><a href="https://www.elixir-europe.org/about-us/who-we-are/nodes/slovenia"><img src="../../../img/Logo_ELIXIR_SLOVENIA_white_background.png" height="100" width="150"></a></td>
     <td></td>
   </tr>
   <tr height="50"></tr>
   <tr>
-   <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_INRA.png" height="80"></a></td>
+   <td><a href=""><img src="../../../img/Logo_INRA.png" height="80"></a></td>
   <td width="20"></td>
-    <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_NBIS.png" height="80"></a></td>
+    <td><a href=""><img src="../../../img/Logo_NBIS.png" height="80"></a></td>
     <td></td>  
     <td><a href="https://www.cnr.it/en"><img src="../../../img/Logo_CNR_Italy.png" height="110" width="270"></a></td>
     <td></td>
