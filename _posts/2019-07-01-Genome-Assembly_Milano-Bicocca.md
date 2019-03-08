@@ -130,7 +130,7 @@ The participants will need to have some experience in Linux command line (bash),
 
 ### Programme
 
-<table border="1" width="800">
+<table border="1" width="700">
 <tr>
    <td colspan="4"><h3>Monday - 1 July</h3></td>
 </tr>
