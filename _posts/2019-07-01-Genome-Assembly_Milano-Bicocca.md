@@ -11,20 +11,36 @@ description: The course will take the participants through all steps of a genome
 
 <table border="0" width="700">
   <tr> 
-    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="100" width="200"></a></td>
-    <td width="10"></td>
+    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="100" width="250"></a></td>
+    <td width="20"></td>
 	<td><a href="https://www.unimib.it/"><img src="../../../img/Logo_unimilano_bicocca.png" height="110" width="110"></a></td>
-	<td width="30"></td>
-	<td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_excelerate_whitebackground.png" height="100" width="150"></a></td>
+	<td width="20"></td>
+	<td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_excelerate_whitebackground.png" height="100" width="200"></a></td>
+	<td></td>
     </tr>
     <tr height="50"></tr>
     <tr>
-    <td><a href="https://www.cnr.it/en"><img src="../../../img/Logo_CNR_Italy.png" height="110" width="250"></a></td>
+    <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_ELIXIR_SWEDEN_white_background.png" height="100" ></a></td>
+    <td width="20"></td>
+    <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_ELIXIR_Node_FRANCE.png" height="100" ></a></td>
+    <td width="20"></td>
+    <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_ELIXIR_SLOVENIA_white_background.png" height="100" width="150"></a></td>
     <td></td>
   </tr>
+  <tr height="50"></tr>
+  <tr>
+   <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_INRA.png" height="80"></a></td>
+  <td width="20"></td>
+    <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_NBIS.png" height="80"></a></td>
+    <td></td>  
+    <td><a href="https://www.cnr.it/en"><img src="../../../img/Logo_CNR_Italy.png" height="110" width="270"></a></td>
+    <td></td>
+    </tr>
 </table>
 <br>
 <br>
+
+
 
 **IMPORTANT DATES**
 - Deadline for applications: **10 May 2019**
@@ -33,7 +49,7 @@ description: The course will take the participants through all steps of a genome
 <br>
 <br>
 
-**VENUE:**
+**VENUE**<br>
 University of Milano-Bicocca<br>
 Lab. 715, U7 Building [**(link to the map)**](https://www.google.it/maps/place/Edificio+U7+-+Universit%C3%A0+degli+Studi+di+Milano+-+Bicocca/@45.5169838,9.2112628,16.75z)<br> 
 via Bicocca degli Arcimboldi, 8<br> 
@@ -41,12 +57,15 @@ via Bicocca degli Arcimboldi, 8<br>
 <br>
 <br>
 
-**FEE:** 
+**FEE**<br> 
 The course does not include a fee, but the participants are expected to pay their own travel and accomodation costs (if any).
+<br>
+<br>
 
-
-A maximum of **24** candidates will be selected based on their need for the course as emerging from the application form. Chosen participants will be notified by 17th May 2019 . Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes. 
-
+**SELECTION**<br>
+A maximum of **24** candidates will be selected based on their need for the course as emerging from the application form. Chosen participants will be notified by 17th May 2019. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes.<br>
+Got to the [**Application Form - Registration**](https://www.eventbrite.com/e/genome-assembly-and-annotation-5-2019-milan-italy-tickets-57745231542).
+ 
 **Cancellation policy:** Attendance is limited to 24 participants. We expect many more applications. Accepted participants commit to attend the course for its whole duration. Failure to attend training sessions is disruptive. Moreover, it blocks other candidates from participating. Therefore, a cancellation policy is in place so that only written requests presented 10 days in advance relatively to the course starting date are accepted.
 <br>
 <br>
@@ -56,17 +75,17 @@ A maximum of **24** candidates will be selected based on their need for the cour
 - [**Jacques Dainat**]() - ELIXIR-SE
 - [**Lucile Soler**]() - ELIXIR-SE
 - [**Tomas Larsson**]() - ELIXIR-SE
-- [**Christophe Klopp**]() - ELIXIR-SE
-- [**Joelle Amselem**]() - ELIXIR-SE
+- [**Christophe Klopp**]() - ELIXIR-FR
+- [**Joelle Amselem**]() - ELIXIR-FR
 <br>
 <br>
 
 ### Organisers
 - **Henrik Lantz** - ELIXIR-SE
-- **Gianluca Della vedova** - ELIXIR-IT
+- **Gianluca Della vedova** - ELIXIR-IT (Local Organiser) - Univ. of Milano-Bicocca
 - **Brane L. Leskosek** - ELIXIR-SI
-- **Loredana Le Pera** - ELIXIR-IT
-- **Allegra Via** - ELIXIR-IT
+- **Loredana Le Pera** - ELIXIR-IT (Training Coordinator Deputy) - CNR-IBPM/CNR-IBIOM
+- **Allegra Via** - ELIXIR-IT (Training Coordinator) - CNR-IBPM
 <br>
 <br>
 
@@ -102,16 +121,16 @@ By the end of this course, learners will be independently able to:
 The participants will need to have some experience in Linux command line (bash), enough to start tools and find paths to files. Experience with Next Generation Sequencing data and common file formats (fasta, fastq, bam, etc.) will be very useful, but is not mandatory. 
 <br>
 <br>
+<br>
 
-
-### [Application Form](https://www.eventbrite.com/e/genome-assembly-and-annotation-5-2019-milan-italy-tickets-57745231542)
+### [Application Form - Registration](https://www.eventbrite.com/e/genome-assembly-and-annotation-5-2019-milan-italy-tickets-57745231542)
 <br>
 <br>
 
 
 ### Programme
 
-<table border="1" width="700">
+<table border="1" width="800">
 <tr>
    <td colspan="4"><h3>Monday - 1 July</h3></td>
 </tr>
