@@ -64,7 +64,7 @@ The course does not include a fee, but the participants are expected to pay thei
 
 **SELECTION**<br>
 A maximum of **24** candidates will be selected based on their need for the course as emerging from the application form. Chosen participants will be notified by 17th May 2019. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes.<br>
-Got to the [**Application Form - Registration**](https://www.eventbrite.com/e/genome-assembly-and-annotation-5-2019-milan-italy-tickets-57745231542).
+Go to the [**Application Form - Registration**](https://www.eventbrite.com/e/genome-assembly-and-annotation-5-2019-milan-italy-tickets-57745231542).
  
 **Cancellation policy:** Attendance is limited to 24 participants. We expect many more applications. Accepted participants commit to attend the course for its whole duration. Failure to attend training sessions is disruptive. Moreover, it blocks other candidates from participating. Therefore, a cancellation policy is in place so that only written requests presented 10 days in advance relatively to the course starting date are accepted.
 <br>
