@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Genome Assembly and Annotation <font color='green'></font>"
+title:  "Genome Assembly and Annotation <font color='green'>[open]</font>"
 date_start:   2019-07-01
 date_end:   2019-07-05
 venue: Milano, Italy
