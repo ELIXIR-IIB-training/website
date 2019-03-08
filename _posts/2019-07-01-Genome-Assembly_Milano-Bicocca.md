@@ -82,7 +82,7 @@ Go to the [**Application Form - Registration**](https://www.eventbrite.com/e/gen
 
 ### Organisers
 - **Henrik Lantz** - ELIXIR-SE
-- **Gianluca Della vedova** - ELIXIR-IT (Local Organiser) - Univ. of Milano-Bicocca
+- **Gianluca Della Vedova** - ELIXIR-IT (Local Organiser) - Univ. of Milano-Bicocca
 - **Brane L. Leskosek** - ELIXIR-SI
 - **Loredana Le Pera** - ELIXIR-IT (Training Coordinator Deputy) - CNR-IBPM/CNR-IBIOM
 - **Allegra Via** - ELIXIR-IT (Training Coordinator) - CNR-IBPM
