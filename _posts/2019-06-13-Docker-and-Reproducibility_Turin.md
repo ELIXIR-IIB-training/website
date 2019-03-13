@@ -10,20 +10,20 @@ description: Docker is a container framework for Linux that allows a developer t
 
 <table border="0" width="600">
 <tr>
-	<td><a href="https://elixir-iib-training.github.io/website/"><img src="./img/logo_iib.png" height="80"></a>
+	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../img/logo_iib.png" height="80"></a>
 	</td>
 	<td weight="20"></td>
-	<td><a href=""><img src="./img/Logo_CNR_IBPM.jpeg" height="80"></a></td>
+	<td><a href=""><img src="../img/Logo_CNR_IBPM.jpeg" height="80"></a></td>
 	<td weight="20"></td>
-	<td><a href=""><img src="./img/Logo_unito.png" height="60"></a></td>
+	<td><a href=""><img src="../img/Logo_unito.png" height="60"></a></td>
 	</tr>
 	</table>
 	
 <table border="0" width="600">
 <tr>
-<td><a href=""><img src="./img/Logo_INGM_web.jpeg" height="60"></a></td>
+<td><a href=""><img src="../img/Logo_INGM_web.jpeg" height="60"></a></td>
 <td weight="20"></td>
-<td><a href=""><img src="./img/Logo_cnr_ipsp.jpeg" height="60"></a></td>
+<td><a href=""><img src="../img/Logo_cnr_ipsp.jpeg" height="60"></a></td>
 </tr>
 </table>
 <br>
@@ -85,7 +85,7 @@ For all kinds of queries, please contact the ELIXIR-IIB Training Team at:  <elix
 
 <table border="0">
 <tr>
-	<td><a href=""><img src="./img/logoCorso_Docker.png" height="80"></a></td>
+	<td><a href=""><img src="../img/logoCorso_Docker.png" height="80"></a></td>
 	</tr>
 	</table>
 
