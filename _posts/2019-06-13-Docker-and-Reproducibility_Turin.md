@@ -13,18 +13,19 @@ description: Docker is a container framework for Linux that allows a developer t
 	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="80"></a>
 	</td>
 	<td weight="20"></td>
-	<td><a href=""><img src="../../../img/Logo_CNR_IBPM.jpeg" height="80"></a></td>
+	<td><a href="https://www.ibpm.cnr.it/"><img src="../../../img/Logo_CNR_IBPM.jpeg" height="80"></a></td>
 	<td weight="20"></td>
-	<td><a href=""><img src="../../../img/Logo_unito.png" height="60"></a></td>
+	<td><a href="https://www.unito.it/"><img src="../../../img/Logo_unito.png" height="60"></a></td>
 	</tr>
 	</table>
 <br>
 <br>
 <table border="0" width="600">
 <tr>
-<td><a href=""><img src="../../../img/Logo_INGM_web.jpeg" height="60"></a></td>
+<td><a href="www.ingm.org/
+"><img src="../../../img/Logo_INGM_web.jpeg" height="60"></a></td>
 <td weight="20"></td>
-<td><a href=""><img src="../../../img/Logo_cnr_ipsp.jpeg" height="60"></a></td>
+<td><a href="http://www.ipsp.cnr.it/?lang=en"><img src="../../../img/Logo_cnr_ipsp.jpeg" height="60"></a></td>
 </tr>
 </table>
 <br>
