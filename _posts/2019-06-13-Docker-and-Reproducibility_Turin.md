@@ -277,14 +277,12 @@ By the end of this course, the participants will be able to:
    <td height="50">Deploy services on a cluster using docker swarm.</td>
 </tr>
 </table>
-
-
 <br>
 <br>
 
 <h3>ELIXIR-IIB member institutes</h3>
 <ol>
-   <li> <b>CNR</b> (Lead Institute)</li>
+   <li> <b>CNR, National Research Council </b> (Lead Institute)</li>
    <li> CRS4</li>
    <li> CINECA</li>
    <li> Edmund Mach Foundation, Trento</li>
