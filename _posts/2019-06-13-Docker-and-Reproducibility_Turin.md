@@ -190,7 +190,6 @@ By the end of this course, the participants will be able to:
    <td height="50">Beccuti/Bonnal/Calogero</td>
    <td height="50">Build a docker image embedding R enviroment.</td>
 </tr>
-</tr>
 <tr>
    <td height="50">10:30 - 11:00</td>
    <td height="50" colspan="3">Coffee break</td>
