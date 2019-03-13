@@ -282,9 +282,9 @@ By the end of this course, the participants will be able to:
 <br>
 <br>
 
-<h3>ELIXIR-IIB member institutions</h3>
+<h3>ELIXIR-IIB member institutes</h3>
 <ol>
-   <li> CNR (ELIXIR-IIB coordinator)</li>
+   <li> <b>CNR</b> (Lead Institute)</li>
    <li> CRS4</li>
    <li> CINECA</li>
    <li> Edmund Mach Foundation, Trento</li>
