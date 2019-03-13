@@ -18,7 +18,8 @@ description: Docker is a container framework for Linux that allows a developer t
 	<td><a href=""><img src="../../../img/Logo_unito.png" height="60"></a></td>
 	</tr>
 	</table>
-	
+<br>
+<br>
 <table border="0" width="600">
 <tr>
 <td><a href=""><img src="../../../img/Logo_INGM_web.jpeg" height="60"></a></td>
@@ -88,7 +89,8 @@ For all kinds of queries, please contact the ELIXIR-IIB Training Team at:  <elix
 	<td><a href=""><img src="../../../img/logoCorso_Docker.png" height="80"></a></td>
 	</tr>
 	</table>
-
+<br>
+<br>
 ### Course Description
 Bioinformatics analysis typically integrate a large number of different tools, reference data to elaborate the input data and derive results. Reproducing the same analysis by other researchers is often a hard task as many pieces of the puzzle are missing from the used methodology. While the raw datasets are generally available; a clear workflow detailing the results reproducibility is often missing. Indeed, a simple list of tools used in the workflow could be not enough to guarantee the result reproducibility: different releases of the same tools or/and of the system libraries (exploited by such tools) might lead to sneaky reproducibility issues. The biggest obstacle in computational reproducibility is then to create a reliable, standalone, multiplatform and lightweight-working environment in which all the computational needs for a study are installed and frozen. Virtualization and containerization are the two approaches proposed to address this issue.
 
