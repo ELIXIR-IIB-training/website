@@ -3,7 +3,7 @@ layout: post
 title:  "Docker and Reproducibility"
 date_start:  2019-06-13 
 date_end: 2019-06-14   
-venue: Milano, Italy
+venue: Torino, Italy
 description: Docker is a container framework for Linux that allows a developer to make easier the creation, deployment and execution of applications by using containers. During the workshop the participant will learn the core concepts of Docker and how to easily embed bioinformatic pipelines/workflows into a docker container.
 
 ---
@@ -152,7 +152,7 @@ By the end of this course, the participants will be able to:
    <td height="50">09:30 - 10:30</td>
    <td height="50">Lecture </td>
    <td height="50">Beccuti/Bonnal/Calogero</td>
-   <td height="50">General Information on Docker infrastructure<td>
+   <td height="50">General Information on Docker infrastructure</td>
 </tr>
 <tr>
    <td height="50">10:30 - 11:00</td>
