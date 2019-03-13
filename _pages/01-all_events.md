@@ -20,6 +20,14 @@ permalink: /all_events_2018_2019/
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Jul<br>01-05<br>2019</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>
+</tr>
+<tr>
+<td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/06/13/Docker-and-Reproducibility_Turin.html">Docker and Reproducibility</a></td>
+   <td height="50" width="150">R. Calogero<br>M. Chiapello<br>M. Beccuti<br>L. Le Pera<br>A. Via</td>
+   <td height="50" align="center">Torino,<br>Italy</td>
+   <td height="50" width="75" align="center">Jun<br>13-14<br>2019</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>
 </tr> 
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
