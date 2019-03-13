@@ -142,7 +142,7 @@ By the end of this course, the participants will be able to:
 
 <table border="1" width="600">
 <tr>
-   <td colspan="4"><h3>Day 1 - </h3></td>
+   <td colspan="4"><h3>Day 1 </h3></td>
 </tr>
 <tr>
    <td height="50">09:00 - 09:30</td>
@@ -228,7 +228,7 @@ By the end of this course, the participants will be able to:
 </td>
 </tr>
 <tr>
-   <td colspan="3"><h3>Day 2 - </h3></td>
+   <td colspan="3"><h3>Day 2 </h3></td>
 </tr>
 <tr>
    <td height="50">09:00 - 09:30</td>
