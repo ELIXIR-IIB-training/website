@@ -15,7 +15,7 @@ permalink: /all_events_2018_2019/
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/05/07/SingleCell-Pozzuoli.html">Genome Assembly and Annotation</a></td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/07/01/Genome-Assembly_Milano-Bicocca.html">Genome Assembly and Annotation</a></td>
    <td height="50" width="150">H. Lantz<br>G. Della Vedova<br>B.L. Leskosek<br>L. Le Pera<br>A. Via</td>
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Jul<br>01-05<br>2019</td>
