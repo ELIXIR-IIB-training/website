@@ -300,31 +300,35 @@ The participants will need to have some experience in Linux command line (bash),
 </tr>
 
 </table>
-
-
+<br>
 <br>
 
-
-<h4><b>ELIXIR-IIB member institutions</b></h4>
-<ul>
-   <li> CNR (ELIXIR-IIB coordinator)</li>
+<h3>ELIXIR-IIB member institutes</h3>
+<ol>
+   <li> <b>CNR, National Research Council </b> (Lead Institute)</li>
    <li> CRS4</li>
    <li> CINECA</li>
-   <li> Fondazione Edmund Mach, Trento</li>
+   <li> Edmund Mach Foundation, Trento</li>
+   <li> ENEA</li>
+   <li> Fondazione Telethon</li> 
    <li> INFN</li>
+   <li> Istituto Superiore di Sanità (ISS)</li> 
    <li> GARR</li>
-   <li> Sapienza Università di Roma</li>
-   <li> Università di Bari</li>
-   <li> Università di Bologna</li>
-   <li> Università di Firenze</li>
-   <li> Università di Milano</li>
-   <li> Università di Milano Bicocca</li>
-   <li> Università di Padova</li>
-   <li> Università di Parma</li>
-   <li> Università di Roma "Tor Vergata"</li>
-   <li> Università di Salerno</li>
-   <li> Università della Tuscia </li>
-</ul>
+   <li> Stazione Zoologica Anton Dohrn, Napoli</li>
+   <li> University of Roma "Sapienza"</li>
+   <li> University of Bari</li>
+   <li> University of Bologna</li>
+   <li> University of Firenze</li>
+   <li> University of Milano</li>
+   <li> University of Milano Bicocca</li>
+   <li> University of Napoli</li>
+   <li> University of Padova</li>
+   <li> University of Parma</li>
+   <li> University of Roma "Tor Vergata"</li>
+   <li> University of Salerno</li>
+   <li> University of Torino</li>
+   <li> University of Tuscia </li>
+</ol>
 <br>
 <br>
 <table border="0">
