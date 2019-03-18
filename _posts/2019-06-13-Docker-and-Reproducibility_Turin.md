@@ -47,7 +47,7 @@ Via Nizza, 52<br>
 <br>
 
 ### Fee 
-The course includes a fee of **60 Euros**, covering 4 coffee breaks and 2 lunches. Participants are expected to pay their own travel and accomodation costs (if any).
+The course includes a fee of **60 Euros**, covering 4 coffee breaks and 2 lunches. Participants are expected to pay their own travel and accommodation costs (if any).
 <br>
 <br>
 
