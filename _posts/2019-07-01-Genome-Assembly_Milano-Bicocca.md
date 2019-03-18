@@ -327,7 +327,7 @@ The participants will need to have some experience in Linux command line (bash),
 </ul>
 <br>
 <br>
-<table border="0" width="600">
+<table border="0">
   <tr>
     <td><a href="https://www.cineca.it/en"><img src="../../../img/Logo_Excelerate_EU-flag-acknowledgement.png" height="100" width="500"></a></td>
   </tr>
