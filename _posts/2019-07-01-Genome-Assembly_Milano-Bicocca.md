@@ -63,7 +63,7 @@ The course does not include a fee, but the participants are expected to pay thei
 <br>
 
 **SELECTION**<br>
-A maximum of **24** candidates will be selected based on their need for the course as emerging from the application form. Chosen participants will be notified by 17th May 2019. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes.<br>
+A maximum of **24** candidates will be selected based on their need for the course as emerging from the application form. Chosen participants will be notified by 17th May 2019. Priority will be given to candidates from ELIXIR-IIB member institutes (see the list at the bottom) and ELIXIR Nodes.<br>
 Go to the [**Application Form - Registration**](https://www.eventbrite.com/e/genome-assembly-and-annotation-5-2019-milan-italy-tickets-57745231542).
  
 **Cancellation policy:** Attendance is limited to 24 participants. We expect many more applications. Accepted participants commit to attend the course for its whole duration. Failure to attend training sessions is disruptive. Moreover, it blocks other candidates from participating. Therefore, a cancellation policy is in place so that only written requests presented 10 days in advance relatively to the course starting date are accepted.
@@ -128,6 +128,9 @@ The participants will need to have some experience in Linux command line (bash),
 <br>
 
 
+Confirmed participants will be able to access the course agenda, materials and communication tools on the [**ELIXIR-SI eLearning Platform (EeLP)**](https://elixir.mf.uni-lj.si/enrol/index.php?id=45).
+<br>
+<br>
 ### Programme
 
 <table border="1" width="700">
@@ -333,6 +336,6 @@ The participants will need to have some experience in Linux command line (bash),
 <br>
 <table border="0">
   <tr>
-    <td><a href="https://www.cineca.it/en"><img src="../../../img/Logo_Excelerate_EU-flag-acknowledgement.png" height="100" width="500"></a></td>
+    <td><a href="https://www.cineca.it/en"><img src="../../../img/Logo_Excelerate_EU-flag-acknowledgement.png" height="100"></a></td>
   </tr>
 </table>
