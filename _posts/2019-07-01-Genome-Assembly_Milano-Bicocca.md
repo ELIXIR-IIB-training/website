@@ -128,7 +128,7 @@ The participants will need to have some experience in Linux command line (bash),
 <br>
 
 
-Confirmed participants will be able to access the course agenda, materials and communication tools on the [**ELIXIR-SI eLearning Platform (EeLP)**](https://elixir.mf.uni-lj.si/enrol/index.php?id=45).
+After selection, confirmed participants will be able to access the course agenda, materials and communication tools on the [**ELIXIR-SI eLearning Platform (EeLP)**](https://elixir.mf.uni-lj.si/enrol/index.php?id=45).
 <br>
 <br>
 ### Programme
