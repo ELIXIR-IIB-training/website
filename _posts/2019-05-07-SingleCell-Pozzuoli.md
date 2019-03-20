@@ -231,7 +231,7 @@ Barbara Zimbardi and Marica Giovannini <course2019@tigem.it><br>
    <td>Statistical analysis of Single Cell data</td>
 </tr>
  <tr>
-   <td>117:30- 20:30</td>
+   <td>17:30- 20:30</td>
    <td colspan="3">Dinner Buffet</td>
 </tr>
 </table>
