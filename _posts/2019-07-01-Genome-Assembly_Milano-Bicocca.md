@@ -54,6 +54,9 @@ University of Milano-Bicocca<br>
 Lab. 715, U7 Building [**(link to the map)**](https://www.google.it/maps/place/Edificio+U7+-+Universit%C3%A0+degli+Studi+di+Milano+-+Bicocca/@45.5169838,9.2112628,16.75z)<br> 
 via Bicocca degli Arcimboldi, 8<br> 
 20126 Milano, Italy
+
+**Accommodation**<br> 
+Suggested hotels are [Starhotel Tourist](https://www.starhotels.com/en/our-hotels/tourist-milan/) and [Hotel Arcimboldi](http://www.hotelarcimboldi.it/en/), which are both within a 10-minute walk from the course venue. 
 <br>
 <br>
 
@@ -131,6 +134,7 @@ The participants will need to have some experience in Linux command line (bash),
 After selection, confirmed participants will be able to access the course agenda, materials and communication tools on the [**ELIXIR-SI eLearning Platform (EeLP)**](https://elixir.mf.uni-lj.si/enrol/index.php?id=45).
 <br>
 <br>
+
 ### Programme
 
 <table border="1" width="700">
