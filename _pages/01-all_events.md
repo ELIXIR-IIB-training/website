@@ -28,7 +28,15 @@ permalink: /all_events_2018_2019/
    <td height="50" align="center">Torino,<br>Italy</td>
    <td height="50" width="75" align="center">Jun<br>13-14<br>2019</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>
-</tr> 
+</tr>
+<tr>
+<td height="50" align="center">ELIXIR-EXCELERATE</td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2018/10/09/train-the-trainer-stockholm.html">Train the Trainer</a></td>
+   <td height="50">I. Mičetić<br>S. Tosatto<br>A. Via<br>L. Le Pera</td>
+   <td height="50" align="center">Padua,<br>Italy</td>
+   <td height="50" width="75" align="center">May<br>30-31<br>2019</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+</tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/05/07/SingleCell-Pozzuoli.html">Single Cell RNA Sequencing and Data Analysis</a></td>
