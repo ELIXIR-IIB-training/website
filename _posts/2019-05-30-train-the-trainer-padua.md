@@ -34,7 +34,7 @@ We will accept a maximum of **20** participants. Priority will be given to candi
 <br>
 <br>
 <br>
-## [Application form - Registration]()
+## [Application form - Registration](https://forms.gle/Z9Jdg9bH3qCsaCgY8)
 <br>
 <br>
 <br>
