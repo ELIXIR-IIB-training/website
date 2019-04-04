@@ -53,7 +53,7 @@ Suggested hotels are [Hotel NH Padova (ca. 80-90€ per night)](https://www.nh-h
 
 
 ## Fee
-There is no course attendance fee. The participants will need to bear their travel and accomodation costs. Candidates from ELIXIR nodes might apply for an [ELIXIR Staff Exchange Programme Travel Grant](https://goo.gl/auzcnY) when they fill their application form.
+There is no course attendance fee. The participants will need to bear their travel and accommodation costs. Candidates from ELIXIR nodes might apply for an [ELIXIR Staff Exchange Programme Travel Grant](https://goo.gl/auzcnY) when they fill their application form.
 <br>
 <br>
 
