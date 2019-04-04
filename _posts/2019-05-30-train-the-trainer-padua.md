@@ -40,10 +40,10 @@ We will accept a maximum of **20** participants. Priority will be given to candi
 <br>
 
 ## Venue
-University of Padova, 
-Building "Fiore di Botta",
-via del Pescarotto 8, 
-35131, Padova, IT
+University of Padova,<br> 
+Building "Fiore di Botta",<br>
+via del Pescarotto 8,<br>
+35131, Padova, IT<br>
 <br>
 <br>
 
