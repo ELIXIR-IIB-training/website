@@ -122,7 +122,7 @@ If you have questions like the following ones, this course may be very helpful t
 
 <table border="1">
 <tr>
-  <td colspan="2"><h3><b>Day 1</b></h3></td>
+  <td colspan="2"><h4><b>Day 1</b></h4></td>
 </tr>
 <tr>
    <td height="50" width="100">09:00 - 09:30</td>
@@ -159,7 +159,7 @@ If you have questions like the following ones, this course may be very helpful t
 <tr>
 </tr>
 <tr>
-  <td colspan="2"><h3><b>Day 2</b></h3></td>
+  <td colspan="2"><h4><b>Day 2</b></h4></td>
 </tr>
 <tr>
  <td height="50" width="100">09:00 - 10:30</td>
