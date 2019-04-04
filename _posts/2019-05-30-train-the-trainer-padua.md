@@ -115,25 +115,76 @@ If you have questions like the following ones, this course may be very helpful t
 
 # Programme
 
- Time | Activity
-:---------------------|:----------------
-**DAY 1**             |
-09.00 - 09.30         | Introductions, who is who and what we need to achieve
-09.30 - 10.30         | **Session 1**: Review of learning principles and how they apply to training and teaching
-10.30 - 11.00         | Coffee break
-11.00 - 12.30         | **Session 1**: Review of learning principles and how they apply to training and teaching
-12.30 - 14.00         | Lunch
-14.00 - 16.00         | **Session 2**: Training techniques that can be used to enhance learner engagement and participation
-16.00 - 16.30         | Coffee break
-16.30 - 18.00         | **Session 2**: Training techniques that can be used to enhance learner engagement and participation
-**DAY 2**             |
-09.00 - 10.30         | **Session 3**: Session, course, and materials design
-10.30 - 11.00         | Coffee break
-11.00 - 12.30         | **Session 3**: Session, course, and materials design
-12.30 - 14.00         | Lunch
-14.00 - 16.00         | **Session 4**: Assessment and feedback in training
-16.00 - 16.30         | Coffee break
-16.30 - 18.00         | **Session 4**: Assessment and feedback in training
+<table border="1">
+<tr>
+  <td colspan="2"><h3><b>Day 1</b></h3></td>
+</tr>
+<tr>
+   <td height="50" width="100">09:00 - 09:30</td>
+   <td height="50">Introductions, who is who and what we need to achieve</td>
+</tr>
+<tr>
+   <td height="50" width="100">09:30 - 10:30</td>
+   <td height="50"><b>[Session 1]: </b>Review of learning principles and how they apply to training and teaching</td>
+</tr>
+<tr>
+   <td height="50" width="100">10:30 - 11:00</td>
+   <td height="50">Coffee break</td>
+</tr>
+<tr>
+   <td height="50" width="100">11:00 - 12:30</td>
+   <td height="50"><b>[Session 1]: </b>Review of learning principles and how they apply to training and teaching</td>
+</tr>
+<tr>
+   <td height="50" width="100">12:30 - 14:00</td>
+   <td height="50">Lunch time</td>
+</tr>
+<tr>
+   <td height="50" width="100">14:00 - 16:00</td>
+   <td height="50"><b>[Session 2]: </b>**Training techniques that can be used to enhance learner engagement and participation</td>
+</tr>
+<tr>
+   <td height="50" width="100">16:00 - 16:30</td>
+   <td height="50">Coffee break</td>
+</tr>
+<tr>
+   <td height="50" width="100">16:30 - 18:00</td>
+   <td height="50"><b>[Session 2]: </b>**Training techniques that can be used to enhance learner engagement and participation</td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td colspan="2"><h3><b>Day 1</b></h3></td>
+</tr>
+<tr>
+ <td height="50" width="100">09:00 - 10:30</td>
+ <td height="50"><b>[Session 3]: </b>Session, course, and materials design</td>
+</tr>
+<tr>
+   <td height="50" width="100">10:30 - 11:00</td>
+   <td height="50">Coffee break</td>
+</tr>
+<tr>
+ <td height="50" width="100">11:00 - 12:30</td>
+ <td height="50"><b>[Session 3]: </b>Session, course, and materials design</td>
+</tr>
+<tr>
+   <td height="50" width="100">12:30 - 14:00</td>
+   <td height="50">Lunch time</td>
+</tr>
+<tr>
+ <td height="50" width="100">14:00 - 16:00</td>
+ <td height="50"><b>[Session 4]: </b>Assessment and feedback in training</td>
+</tr>
+<tr>
+   <td height="50" width="100">16:00 - 16:30</td>
+   <td height="50">Coffee break</td>
+</tr>
+<tr>
+ <td height="50" width="100">16:30 - 18:00</td>
+ <td height="50"><b>[Session 4]: </b>Assessment and feedback in training</td>
+</tr>
+</table>
 <br>
 <br>
 <br>
