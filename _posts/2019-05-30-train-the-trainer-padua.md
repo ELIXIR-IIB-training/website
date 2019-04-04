@@ -37,7 +37,7 @@ We will accept a maximum of **20** participants. Priority will be given to candi
 ## [Application form - Registration](https://forms.gle/Z9Jdg9bH3qCsaCgY8)
 <br>
 <br>
-<br>
+
 
 ## Venue
 University of Padova,<br> 
