@@ -45,7 +45,11 @@ Building "Fiore di Botta",<br>
 via del Pescarotto 8,<br>
 35131, Padova, IT<br>
 <br>
+**Accommodation**<br> 
+Suggested hotels are [Hotel NH Padova (ca. 80-90€ per night)](https://www.nh-hotels.com/hotel/nh-padova) and [Hotel Galileo (ca. 70-80€ per night)](https://www.hotelgalileopadova.it/en/home-page.aspx), which are both very near to the course venue. 
 <br>
+<br>
+
 
 ## Fee
 There is no course attendance fee. The participants will need to bear their travel and accomodation costs. Candidates from ELIXIR nodes might apply for an [ELIXIR Staff Exchange Programme Travel Grant](https://goo.gl/auzcnY) when they fill their application form.
