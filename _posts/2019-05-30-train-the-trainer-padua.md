@@ -15,7 +15,7 @@ description: ELIXIR-EXCELERATE, in collaboration with ELIXIR-IIB, is pleased to 
   <td width="20"></td>
  <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="80"></a></td>
  <td width="20"></td>
- <td><a href="https://www.unipd.it/"><img src="../../../img/logo_uni_padova.png" height="80"></a></td>
+ <td><a href="https://www.unipd.it/"><img src="../../../img/logo_uni_padova.png" height="110"></a></td>
   </tr>
 </table>
 <br>
