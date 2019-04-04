@@ -40,9 +40,9 @@ We will accept a maximum of **20** participants. Priority will be given to candi
 
 
 ## Venue
-University of Padova,<br> 
+University of Padua,<br> 
 [Campus of Biology and Biomedicine "Fiore di Botta"](https://goo.gl/maps/KTfu5iZ7TnQ2),<br>
-Aula Studio 2, floor -1<br
+Aula Studio 2, floor -1<br>
 via del Pescarotto 8,<br>
 35131, Padova, IT<br>
 <br>
