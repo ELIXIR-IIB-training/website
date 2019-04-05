@@ -24,22 +24,22 @@ description: ELIXIR-EXCELERATE, in collaboration with ELIXIR-IIB, is pleased to 
 ELIXIR-EXCELERATE in collaboration with ELIXIR-IIB is pleased to announce a Train the Trainer (TtT) event.
 <br>
 
-## Important dates
+### Important dates
 Course date: <b>30-31 May, 2019</b>
 <br>
 <br>
 
-## Selection
+### Selection
 We will accept a maximum of **20** participants. Priority will be given to candidates from Elixir-IIB institutes (see below) and ELIXIR nodes. Notifications of acceptance will be sent shortly after the application, which will remain open until we reach 20 participants.
 <br>
 <br>
 <br>
-## [Application form - Registration](https://forms.gle/Z9Jdg9bH3qCsaCgY8)
+### [Application form - Registration](https://forms.gle/Z9Jdg9bH3qCsaCgY8)
 <br>
 <br>
 
 
-## Venue
+### Venue
 University of Padua,<br> 
 [Campus of Biology and Biomedicine "Fiore di Botta"](https://goo.gl/maps/KTfu5iZ7TnQ2),<br>
 Aula Studio 2, floor -1<br>
@@ -52,22 +52,22 @@ Suggested hotels are [Hotel NH Padova (ca. 80-90€ per night)](https://www.nh-h
 <br>
 
 
-## Fee
+### Fee
 There is no course attendance fee. The participants will need to bear their travel and accommodation costs. Candidates from ELIXIR nodes might apply for an [ELIXIR Staff Exchange Programme Travel Grant](https://goo.gl/auzcnY) when they fill their application form.
 <br>
 <br>
 
-## Instructors
+### Instructors
 [**Allegra Via**](../../../instructors/allegra_via.html) (ELIXIR-IIB Training Coordinator, IBPM-CNR, IT)<br>
 **Jessica Lindvall** (ELIXIR-SE Training Coordinator, NBIS, SE)<br>
 
-## Helpers
+### Helpers
 [**Loredana Le Pera**](../../../instructors/loredana_le_pera.html) (ELIXIR-IIB Deputy Training Coordinator, IBIOM/IBPM-CNR, IT)<br>
 [**Malvika Sharan**](https://about.me/malvikasharan) (EMBL, Heidelberg, DE)
 <br>
 <br>
 
-## Organisers
+### Organisers
 **Ivan Mičetić**, University of Padua, ELIXIR-IIB, IT (Local Organiser)<br>
 **Silvio Tosatto**, University of Padua, ELIXIR-IIB, IT<br>
 **Allegra Via**, IBPM-CNR, ELIXIR-IIB, IT<br>
@@ -75,7 +75,12 @@ There is no course attendance fee. The participants will need to bear their trav
 <br>
 <br>
 
-## Description - Course materials
+### Contact
+For all kinds of queries, please contact us at <elixir.ita.training@gmail.com>. 
+<br>
+<br>
+
+### Description - Course materials
 The course is made up of four sessions, covering:
 * [Learning principles and how they apply to training and teaching](https://github.com/TrainTheTrainer/ELIXIR-EXCELERATE-TtT/blob/master/TtT_session_1.md)
 * [Teaching techniques that can be used to enhance learner engagement and participation](https://github.com/TrainTheTrainer/ELIXIR-EXCELERATE-TtT/blob/master/TtT_session_2.md)
@@ -119,7 +124,7 @@ If you have questions like the following ones, this course may be very helpful t
 <br>
 <br>
 
-# Programme
+## Programme
 
 <table border="1">
 <tr>
