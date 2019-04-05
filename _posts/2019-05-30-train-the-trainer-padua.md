@@ -25,7 +25,7 @@ ELIXIR-EXCELERATE in collaboration with ELIXIR-IIB is pleased to announce a Trai
 <br>
 
 ## Important dates
-<b>Course date:</b> 30-31 May, 2019
+Course date: <b>30-31 May, 2019</b>
 <br>
 <br>
 
@@ -63,6 +63,7 @@ There is no course attendance fee. The participants will need to bear their trav
 
 ## Helpers
 [**Loredana Le Pera**](../../../instructors/loredana_le_pera.html) (ELIXIR-IIB Deputy Training Coordinator, IBIOM/IBPM-CNR, IT)
+[**Malvika Sharan**](https://about.me/malvikasharan) (EMBL, Heidelberg, Germany)
 <br>
 <br>
 
