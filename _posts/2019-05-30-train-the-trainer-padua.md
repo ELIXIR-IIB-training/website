@@ -46,7 +46,7 @@ Aula Studio 2, floor -1<br>
 via del Pescarotto 8,<br>
 35131, Padova, IT<br>
 <br>
-##### Accommodation 
+#### Accommodation 
 Suggested hotels are [Hotel NH Padova (ca. 80-90€ per night)](https://www.nh-hotels.com/hotel/nh-padova) and [Hotel Galileo (ca. 70-80€ per night)](https://www.hotelgalileopadova.it/en/home-page.aspx), which are both very near to the course venue. 
 <br>
 <br>
