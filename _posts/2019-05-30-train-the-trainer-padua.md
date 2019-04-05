@@ -62,7 +62,7 @@ There is no course attendance fee. The participants will need to bear their trav
 **Jessica Lindvall** (ELIXIR-SE Training Coordinator, NBIS, SE)<br>
 
 ## Helpers
-[**Loredana Le Pera**](../../../instructors/loredana_le_pera.html) (ELIXIR-IIB Deputy Training Coordinator, IBIOM/IBPM-CNR, IT)
+[**Loredana Le Pera**](../../../instructors/loredana_le_pera.html) (ELIXIR-IIB Deputy Training Coordinator, IBIOM/IBPM-CNR, IT)<br>
 [**Malvika Sharan**](https://about.me/malvikasharan) (EMBL, Heidelberg, Germany)
 <br>
 <br>
