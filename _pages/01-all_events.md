@@ -43,7 +43,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">D. Cacchiarelli<br>V. Colonna</td>
    <td height="50" align="center">Pozzuoli,<br>Italy</td>
    <td height="50" width="75" align="center">May<br>07-09<br>2019</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
 <td height="50" align="center">CNR and ELIXIR-IIB<br>dissemination<br>for high-school</td>
