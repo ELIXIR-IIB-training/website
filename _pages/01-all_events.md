@@ -55,7 +55,7 @@ permalink: /all_events_2018_2019/
 </tr>
 <tr>
 <td height="50" align="center">CNR and ELIXIR-IIB<br>dissemination<br>for high-school</td>
-   <td height="50" width="220" align="center"><a href="http://liceodantealighieri.it/content/ciclo-di-conferenze-2-3-maggio-2019-dipartimento-di-matematica-e-fisica-0">Big Data: nuove esigenze e sfide per la conoscenza, la società, le persone</a></td>
+   <td height="50" width="220" align="center"><a href="http://liceodantealighieri.it/content/ciclo-di-conferenze-2-3-maggio-2019-dipartimento-di-matematica-e-fisica-0">Big Data: nuove esigenze e sfide per la conoscenza, la società, le persone"</a></td>
    <td height="50" width="150">L. Le Pera <br>V. Morea<br>A. Via</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">May<br>03<br>2019</td>
