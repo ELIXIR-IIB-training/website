@@ -51,7 +51,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">L. Le Pera <br>V. Morea<br>A. Via</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">May<br>03<br>2019</td>
-   <td height="50"</td>
+   <td height="50"></td>
 </tr>
 <tr>
 <td height="50" align="center">EMBO<br>Practical Course</td>
@@ -107,7 +107,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">ERN-Apulia<br>University of Salento<br>F. De Leo<br>A. Marabotti</td>
    <td height="50" align="center">Bari,<br>Italy</td>
    <td height="50" width="75" align="center">Sep<br>28<br>2018</td>
-   <td height="50"</td>   
+   <td height="50"></td>   
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-EXCELERATE</td>
