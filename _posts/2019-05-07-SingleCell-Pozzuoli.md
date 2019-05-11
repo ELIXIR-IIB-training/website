@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Single-Cell RNA Sequencing and Data Analysis <font color='green'>[open]</font>"
+title:  "Single-Cell RNA Sequencing and Data Analysis <font color='grey'>[closed]</font>"
 date_start:   2019-05-07
 date_end:   2019-05-09
 venue: Pozzuoli (Napoli), Italy
