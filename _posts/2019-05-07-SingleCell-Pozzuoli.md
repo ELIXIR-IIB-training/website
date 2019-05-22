@@ -106,6 +106,9 @@ Participants will be required to submit an abstract (max 1500 characters). Abstr
 Barbara Zimbardi and Marica Giovannini <course2019@tigem.it><br>
 <br>
 
+## Link to course material 
+
+Pdf of lectures can be found [here](https://elixir-iib-training.github.io/2019-05-07-pozzuoli-singlecell/) 
 
 ## Programme
 
