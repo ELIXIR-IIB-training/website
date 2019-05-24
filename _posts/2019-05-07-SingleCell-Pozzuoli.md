@@ -106,8 +106,11 @@ Participants will be required to submit an abstract (max 1500 characters). Abstr
 Barbara Zimbardi and Marica Giovannini <course2019@tigem.it><br>
 <br>
 
+## Link to course material 
 
-## Preliminary programme
+Pdf of lectures can be found [here](https://elixir-iib-training.github.io/2019-05-07-pozzuoli-singlecell/) 
+
+## Programme
 
 <table>
 <table border="1">
@@ -126,19 +129,25 @@ Barbara Zimbardi and Marica Giovannini <course2019@tigem.it><br>
 </tr>
 <tr>
    <td>15:00-16:30</td>
-   <td>Practical</td>
-   <td></td>
+   <td>Lecture</td>
+   <td>Bashir Sadet</td>
    <td>Chromium Single Cell 3’ Application and Protocol Overview</td>
 </tr>
 <tr>
    <td>16:30-17:00</td>
    <td colspan="3">Coffee break</td>
 </tr>
-<tr>
-   <td>17:00-18:00</td>
-   <td>Practical</td>
+   <tr>
+   <td>17:00-17:30</td>
+   <td>Presentation</td>
    <td></td>
-   <td>Platform Technique Training</td>
+   <td>Mattler Toledo</td>
+</tr>
+<tr>
+   <td>17:30-18:00</td>
+   <td>Practical</td>
+   <td>Participants and Trainers</td>
+   <td>Organization for the practical section of the next day </td>
 </tr>
 <tr>
    <td>18:00-19:30</td>
@@ -154,22 +163,16 @@ Barbara Zimbardi and Marica Giovannini <course2019@tigem.it><br>
    <td>Quick recapitulation of concepts from the previous day</td>
 </tr>
 <tr>
-   <td>09:30-11:30</td>
+   <td>09:30-12:00</td>
    <td>Practical</td>
-   <td></td>
-   <td>Cell Preparation, Application Setup, Start run </td>
-</tr>
-<tr>
-   <td>11:30-12:00</td>
-   <td>Practical </td>
-   <td></td>
-   <td>Each Trainee Performs One Real Run</td>
+   <td>Participants and Trainers</td>
+   <td>Cell Preparation, Application Setup, Start run: Each Trainee Performs One Real Chip loading. Post Cycling Recovery, Dynabeads Cleanup</td>
 </tr>
 <tr>
    <td>12:00-12:30</td>
    <td>Practical </td>
-   <td></td>
-   <td>Review and Prep for afternoon </td>
+   <td>Participants and Trainers</td>
+   <td>Review and discussion</td>
 </tr>
 <tr>
    <td>12:30-14:00</td>
@@ -179,7 +182,7 @@ Barbara Zimbardi and Marica Giovannini <course2019@tigem.it><br>
    <td>14:00-15:30</td>
    <td>Practical</td>
    <td></td>
-   <td>Post Cycling Recovery, Silane and SPRI Cleanups, cDNA Amplification</td>
+   <td>Visualization of QC (examples of Bioanalyzer results) </td>
 </tr>
 <tr>
    <td>15:30-16:00</td>
@@ -187,12 +190,12 @@ Barbara Zimbardi and Marica Giovannini <course2019@tigem.it><br>
 </tr>
 <tr>
    <td>16:00-17:30</td>
-   <td>Practical</td>
-   <td></td>
-   <td>Clean Up cDNA Amplification and Bioanalyzer QC</td>
+   <td>Lecture</td>
+   <td>Chiara Reggio</td>
+   <td>Latest Application of 10x Genomic </td>
 </tr>
 <tr>
-   <td>17:30-20:30</td>
+   <td>17:30-18:30</td>
    <td colspan="3">Dinner Buffet sponsored by 10X genomics </td>
 </tr>
 <tr>
@@ -225,10 +228,16 @@ Barbara Zimbardi and Marica Giovannini <course2019@tigem.it><br>
    <td colspan="3">Lunch</td>
 </tr>
 <tr>
-   <td>13:30-17:30</td>
+   <td>13:30-14:30</td>
    <td>Lecture</td>
    <td>AnnaMaria Carissimo</td>
    <td>Statistical analysis of Single Cell data</td>
+</tr>
+   <tr>
+   <td>14:30-17:30</td>
+   <td>Practical</td>
+   <td></td>
+   <td>Practical exercises </td>
 </tr>
  <tr>
    <td>17:30- 20:30</td>
