@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Docker and Reproducibility <font color='green'>[open]</font>"
+title:  "Docker and Reproducibility <font color='gray'>[closed]</font>"
 date_start:  2019-06-13 
 date_end: 2019-06-14   
 venue: Torino, Italy
