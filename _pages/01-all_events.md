@@ -14,6 +14,14 @@ permalink: /all_events_2018_2019/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 <tr>
+<td height="50" align="center">European Joint Programme<br>Rare Diseases</td>
+   <td height="50" width="220" align="center"><a href="http://www.ejprarediseases.org/index.php/international-summer-school-on-rare-disease-registries-and-fairification-of-data/">International Summer School on Rare Disease Registries and FAIRification of Data</a></td>
+   <td height="50" width="150">Istituto Superiore di Sanità (ISS)<br>EJP RD task partners</td>
+   <td height="50" align="center">Roma,<br>Italy</td>
+   <td height="50" width="75" align="center">Sep<br>23-27<br>2019</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+</tr>
+<tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/07/05/SWC-Napoli.html">Software Carpentry Workshop</a></td>
    <td height="50" width="150">V. Colonna<br>A. Marabotti<br>L. Le Pera</td>
@@ -43,7 +51,7 @@ permalink: /all_events_2018_2019/
    <td height="50">I. Mičetić<br>S. Tosatto<br>A. Via<br>L. Le Pera</td>
    <td height="50" align="center">Padua,<br>Italy</td>
    <td height="50" width="75" align="center">May<br>30-31<br>2019</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
