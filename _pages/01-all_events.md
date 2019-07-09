@@ -27,7 +27,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">V. Colonna<br>A. Marabotti<br>L. Le Pera</td>
    <td height="50" align="center">Napoli,<br>Italy</td>
    <td height="50" width="75" align="center">Jul<br>03-05<br>2019</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+   <td height="50" align="center"><font color="grey"><b> closed </b></font></td>
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
