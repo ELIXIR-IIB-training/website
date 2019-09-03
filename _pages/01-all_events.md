@@ -4,7 +4,7 @@ title: All events 2018-2019
 permalink: /all_events_2018_2019/
 ---
 
-<table border="1" width="850">
+<table border="1" width="950">
 <tr>
 	<td height="50" width="200" align="center"><b>Event</b></td>
    <td height="50" width="220" align="center"><b>Title</b></td>
