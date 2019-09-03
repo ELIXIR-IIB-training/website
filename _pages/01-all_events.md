@@ -23,7 +23,7 @@ permalink: /all_events_2018_2019/
 </tr>
 <tr>
 <td height="50" align="center">Foundational <br>Open Science Skills <br>Workshop Series</td>
-   <td height="50" width="220" align="center"><a href="http://bit.ly/foss-rome-19">Practical Software Skills Workshop</a></td>
+   <td height="50" width="220" align="center"><a href="http://bit.ly/foss-rome-19">Practical Software Skills<br>Workshop</a></td>
    <td height="50" width="150">University of Arkansas<br>CNR<br>CERTH<br>Netherlands eScience Center<br>University of Arizona</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Oct<br>03-04<br>2019</td>
@@ -31,7 +31,7 @@ permalink: /all_events_2018_2019/
 </tr>
 <tr>
 <td height="50" align="center">Foundational <br>Open Science Skills <br>Workshop Series</td>
-   <td height="50" width="220" align="center"><a href="http://bit.ly/foss-rome-19">Practical Data Skills Workshop</a></td>
+   <td height="50" width="220" align="center"><a href="http://bit.ly/foss-rome-19">Practical Data Skills<br>Workshop</a></td>
    <td height="50" width="150">University of Arkansas<br>CNR<br>CERTH<br>Netherlands eScience Center<br>University of Arizona</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Oct<br>02-03<br>2019</td>
@@ -47,7 +47,7 @@ permalink: /all_events_2018_2019/
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/07/05/SWC-Napoli.html">Software Carpentry Workshop</a></td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/07/05/SWC-Napoli.html">Software Carpentry<br>Workshop</a></td>
    <td height="50" width="150">V. Colonna<br>A. Marabotti<br>L. Le Pera</td>
    <td height="50" align="center">Napoli,<br>Italy</td>
    <td height="50" width="75" align="center">Jul<br>03-05<br>2019</td>
@@ -103,7 +103,7 @@ permalink: /all_events_2018_2019/
 </tr> 
    <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/02/14/DC-Milano-Bicocca.html">Data Carpentry <br>Workshop</a></td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/02/14/DC-Milano-Bicocca.html">Data Carpentry<br>Workshop</a></td>
    <td height="50" width="150">G. Della Vedova<br>L. Le Pera<br>A. Via</td>
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Feb<br>14-15<br>2019</td>
@@ -111,7 +111,7 @@ permalink: /all_events_2018_2019/
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/02/11/SWC-Naples.html">Software Carpentry Workshop</a></td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/02/11/SWC-Naples.html">Software Carpentry<br>Workshop</a></td>
    <td height="50" width="150">V. Colonna<br>L. Le Pera<br>A. Via</td>
    <td height="50" align="center">Napoli,<br>Italy</td>
    <td height="50" width="75" align="center">Feb<br>11-12<br>2019</td>
@@ -218,7 +218,7 @@ permalink: /all_events_2018_2019/
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/2018-02-22-milan/">Software Carpentry Workshop</a></td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/2018-02-22-milan/">Software Carpentry<br>Workshop</a></td>
    <td height="50" width="150">A. Via<br>G. Della Vedova<br>L Le Pera</td>
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Feb<br>22-23<br>2018</td>
