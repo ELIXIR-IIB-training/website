@@ -46,6 +46,14 @@ permalink: /all_events_2018_2019/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
+<td height="50" align="center">FEBS Education<br>Workshop<br>Scientific dissemination activity</td>
+   <td height="50" width="220" align="center"><a href="https://sites.google.com/prod/uniroma1.it/eltbiochemistry2019/">Excellence in Learning and Teaching Biochemistry</a></td>
+   <td height="50" width="150">FEBS Education<br>SIB<br>IUBMB<br>Sapienza University</td>
+   <td height="50" align="center">Roma,<br>Italy</td>
+   <td height="50" width="75" align="center">Sep<br>16-17<br>2019</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
+</tr>
+<tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/07/05/SWC-Napoli.html">Software Carpentry<br>Workshop</a></td>
    <td height="50" width="150">V. Colonna<br>A. Marabotti<br>L. Le Pera</td>
@@ -199,7 +207,7 @@ permalink: /all_events_2018_2019/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
-<td height="50" align="center">CNR and ELIXIR-IIB<br>ASL workshop<br>for high-schools</td>
+<td height="50" align="center">CNR and ELIXIR-IIB<br>ASL workshop<br>for high-schools.<br>Scientific dissemination activity</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/docs/Workshop-CNR-Righi_Roma2018.html">Dai Big Data alla Data Science: sfide e professioni nascenti nell’era dei grandi dati</a>
 </td>
    <td height="50" width="150">A. Calderone<br>C. Fantaccione<br>L. Le Pera<br>L. Licata<br>A. Marabotti<br>V. Morea<br>A. Via
