@@ -22,6 +22,14 @@ permalink: /all_events_2018_2019/
    <td height="50" align="center"><font color="red"><b>full</b></font></td>
 </tr>
 <tr>
+<td height="50" align="center">NETTAB/BBCC2019<br>Joint Meeting</td>
+   <td height="50" width="220" align="center"><a href="http://www.igst.it/nettab/2019/">NETTAB/BBCC 2019<br>Meeting<br></a></td>
+   <td height="50" width="150"></td>
+   <td height="50" align="center">Salerno,<br>Italy</td>
+   <td height="50" width="75" align="center">Nov<br>11-13<br>2019</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+</tr>
+<tr>
 <td height="50" align="center">Foundational <br>Open Science Skills <br>Workshop Series</td>
    <td height="50" width="220" align="center"><a href="http://bit.ly/foss-rome-19">Practical Software Skills<br>Workshop</a></td>
    <td height="50" width="150">University of Arkansas<br>CNR<br>CERTH<br>Netherlands eScience Center<br>University of Arizona</td>
