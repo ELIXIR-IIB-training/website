@@ -48,7 +48,7 @@ permalink: /all_events_2018_2019/
 <tr>
 <td height="50" align="center">European Joint Programme<br>Rare Diseases</td>
    <td height="50" width="220" align="center"><a href="http://www.ejprarediseases.org/index.php/international-summer-school-on-rare-disease-registries-and-fairification-of-data/">International Summer School on Rare Disease Registries and FAIRification of Data</a></td>
-   <td height="50" width="150">Istituto Superiore di Sanità (ISS)<br>EJP RD task partners</td>
+   <td height="50" width="150">Istituto Superiore di Sanità<br>EJP RD task partners</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Sep<br>23-27<br>2019</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
