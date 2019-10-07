@@ -14,6 +14,14 @@ permalink: /all_events_2018_2019/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 <tr>
+<td height="50" align="center">ELIXIR-IIB<br>Training Course<br>(as part of the<br>Ph.D. Program in Science, Technology and Biotechnology for Sustainability)</td>
+   <td height="50" width="220" align="center"><a href="https://datacarpentry.org/python-ecology-lesson/">Data manipulation and visualisation in Python</a><br>(materials from<br>Data Carpentry for Ecologists, <a href="https://creativecommons.org/licenses/by/4.0/">Copyright © Software Carpentry</a>)</td>
+   <td height="50" width="150">Tuscia University<br>G. Chillemi<br>A. Via</td>
+   <td height="50" align="center">Viterbo,<br>Italy</td>
+   <td height="50" width="75" align="center">Oct<br>09<br>2019</td>
+   <td height="50" align="center"><font color="red"><b>full</b></font></td>
+</tr>
+<tr>
 <td height="50" align="center">Biohackathon-Europe</td>
    <td height="50" width="220" align="center"><a href="https://www.biohackathon-europe.org/index.html">ELIXIR<br>Biohackathon 2019</a></td>
    <td height="50" width="150">ELIXIR<br>National Bioscience Database Center (NBDC)<br>Database Center for Life Science (DBCLS)</td>
@@ -35,7 +43,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">University of Arkansas<br>CNR<br>CERTH<br>Netherlands eScience Center<br>University of Arizona</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Oct<br>03-04<br>2019</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+   <td height="50" align="center"><font color="grey"><b> cancelled </b></font></td>
 </tr>
 <tr>
 <td height="50" align="center">Foundational <br>Open Science Skills <br>Workshop Series</td>
@@ -43,7 +51,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">University of Arkansas<br>CNR<br>CERTH<br>Netherlands eScience Center<br>University of Arizona</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Oct<br>02-03<br>2019</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+   <td height="50" align="center"><font color="grey"><b> cancelled </b></font></td>
 </tr>
 <tr>
 <td height="50" align="center">European Joint Programme<br>Rare Diseases</td>
