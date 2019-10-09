@@ -9,7 +9,7 @@ permalink: /all_events_2018_2019/
 	<td height="50" width="200" align="center"><b>Event</b></td>
    <td height="50" width="220" align="center"><b>Title</b></td>
    <td height="50" width="180" align="center"><b>Organisers</b></td>
-   <td height="50" width="180" align="center"><b>ELIXIR-IIB Speakers/Trainers/Helpers</b></td>
+   <td height="50" width="180" align="center"><b>ELIXIR-IIB Speakers/<br>Trainers/Helpers</b></td>
    <td height="50" width="75" align="center"><b>Venue</b></td>
    <td height="50" width="75" align="center"><b>Date</b></td>
    <td height="50" width="90" align="center"><b>Application</b></td>
