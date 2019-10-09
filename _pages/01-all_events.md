@@ -45,7 +45,7 @@ permalink: /all_events_2018_2019/
 <td height="50" align="center">ELIXIR-IIB<br>Training Session<br>(as part of the<br>Ph.D. Program in Science, Technology and Biotechnology for Sustainability)</td>
    <td height="50" width="220" align="center"><a href="https://datacarpentry.org/python-ecology-lesson/">Data manipulation and visualisation in Python</a><br>(materials from<br>Data Carpentry for Ecologists, <a href="https://creativecommons.org/licenses/by/4.0/">Copyright © Software Carpentry</a>)</td>
    <td height="50" width="150">Tuscia University<br>G. Chillemi</td>
-   <td height="50" width="150">A. Via</td>
+   <td height="50" width="150">G. Chillemi<br>A. Via</td>
    <td height="50" align="center">Viterbo,<br>Italy</td>
    <td height="50" width="75" align="center">Oct<br>09<br>2019</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
