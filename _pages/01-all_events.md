@@ -14,6 +14,14 @@ permalink: /all_events_2018_2019/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 <tr>
+<td height="50" align="center">ELIXIR Innovation and SME Forum</td>
+   <td height="50" width="220" align="center"><a href="https://elixir-europe.org/events/sme-2019-milan">Data management<br>in the life sciences - a driver<br>for innovation</a></td>
+   <td height="50" width="150"></td>
+   <td height="50" align="center">Milano,<br>Italy</td>
+   <td height="50" width="75" align="center">Nov<br>27-28<br>2019</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+</tr>
+<tr>
 <td height="50" align="center">Biohackathon-Europe</td>
    <td height="50" width="220" align="center"><a href="https://www.biohackathon-europe.org/index.html">ELIXIR<br>Biohackathon 2019</a></td>
    <td height="50" width="150">ELIXIR<br>National Bioscience Database Center (NBDC)<br>Database Center for Life Science (DBCLS)</td>
