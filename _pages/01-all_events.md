@@ -48,7 +48,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="150">A. Via</td>
    <td height="50" align="center">Viterbo,<br>Italy</td>
    <td height="50" width="75" align="center">Oct<br>09<br>2019</td>
-   <td height="50" align="center"><font color="red"><b>full</b></font></td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
 <td height="50" align="center">Foundational <br>Open Science Skills <br>Workshop Series</td>
