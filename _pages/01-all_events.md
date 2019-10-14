@@ -17,7 +17,7 @@ permalink: /all_events_2018_2019/
 <tr>
 <td height="50" align="center">ELIXIR Innovation and SME Forum</td>
    <td height="50" width="220" align="center"><a href="https://elixir-europe.org/events/sme-2019-milan">Data management<br>in the life sciences - a driver<br>for innovation</a></td>
-   <td height="50" width="150">ELIXIR-IIB Industry Work Group<br>ELIXIR-EU Industry Officer</td>
+   <td height="50" width="150">ELIXIR-IIB Industry Working Group<br>ELIXIR-EU Industry Officer</td>
    #<td height="50" width="150"></td>
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Nov<br>27-28<br>2019</td>
