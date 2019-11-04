@@ -4,7 +4,7 @@ title:  "Disorder in Disorders: Pathogenic mechanisms of Intrinsically Disordere
 date_start: 2020-01-27
 date_end:   2020-01-31
 venue: Bressanone-Brixen, Italy
-description: During lectures and practicals, experts of the field will provide students with an overview of Intrinsically Disordered Proteins (IDP) biological mechanisms that develop pathogenic phenotypes. They will explore the concepts of folding, unfolding and misfolding, highlighting their differences and similarities. Practical exercises aim at transferring to students basic skills for the study of IDPs using bioinformatic tools to solve complex problems.
+description: During lectures and practicals, experts of the field will provide students with an overview of Intrinsically Disordered Protein (IDP) biological mechanisms that develop pathogenic phenotypes. They will explore the concepts of folding, unfolding and misfolding, highlighting their differences and similarities. Practical exercises aim at transferring to students basic skills for the study of IDPs using bioinformatic tools to solve complex problems.
 
 ---
 
@@ -13,9 +13,9 @@ description: During lectures and practicals, experts of the field will provide s
   <tr>
   <td><a href="https://idpfun.eu/"><img src="../../../img/Logo_IDPfun.png" height="70" ></a></td>
   <td width="20"></td>
- <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="80"></a></td>
- <td width="20"></td>
  <td><a href="https://www.unipd.it/"><img src="../../../img/logo_uni_padova.png" height="150"></a></td>
+ <td width="20"></td>
+ <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="80"></a></td>
   </tr>
 </table>
 <br>
