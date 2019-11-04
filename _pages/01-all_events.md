@@ -15,7 +15,16 @@ permalink: /all_events_2018_2019/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 <tr>
-<td height="50" align="center">ELIXIR Innovation and SME Forum</td>
+<td height="50" align="center">ELIXIR-IIB<br>Winter School</td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/01/27/winter-school-idp-brixen.html">Disorder in Disorders:<br>Pathogenic mechanisms of<br>Intrinsically Disordered Proteins</a></td>
+   <td height="50" width="150">MSCA-RISE IDPfun<br>University of Padua<br>ELIXIR-IIB</td>
+   <!-- <td height="50" width="150"></td> -->
+   <td height="50" align="center">Bressanone-Brixen,<br>Italy</td>
+   <td height="50" width="75" align="center">Jan<br>27-31<br>2020</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+</tr>
+<tr>
+<td height="50" align="center">ELIXIR Innovation and<br>SME Forum</td>
    <td height="50" width="220" align="center"><a href="https://elixir-europe.org/events/sme-2019-milan">Data management<br>in the life sciences - a driver<br>for innovation</a></td>
    <td height="50" width="150">ELIXIR-IIB Industry Working Group<br>ELIXIR-EU Industry Officer</td>
    <!-- <td height="50" width="150"></td> -->
