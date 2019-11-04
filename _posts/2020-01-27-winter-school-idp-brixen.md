@@ -27,16 +27,16 @@ organised by MSCA-RISE IDPfun.
 <br>
 
 ### Important dates
-Course date: <b>27-31 January, 2020</b><br>
+Course date: <b>27-31 January, 2020 </b> <br>
 Deadline for applications:  15 Jan 2020 <br>
 Deadline for trainee grant applications: 15 Nov 2019 <br>
 <br>
 <br>
 
 ### Venue
-Università degli Studi di Padova -  Casa della Gioventù, <br>
-Via Rio Bianco,12 <br>
-39042 Bressanone-Brixen (BZ), Italy. <br>
+Università degli Studi di Padova -  Casa della Gioventù,<br>
+Via Rio Bianco,12<br>
+39042 Bressanone-Brixen (BZ), Italy.<br>
 
 The venue can be easily reached by train, travelling on the international railway line between Verona and Innsbruck/Munich. The closest airports are Innsbruck, Verona, Munich, Venice and Milan (with increasing distance).
 <br>
