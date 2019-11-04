@@ -50,6 +50,16 @@ A limited number of fellowships will be available covering registration fee and 
 <br>
 <br>
 
+### Description 
+Intrinsically Disordered Proteins (IDPs) are a highly abundant class of proteins that lack stable tertiary and/or secondary structures under physiological conditions. Numerous IDPs are associated with human diseases, including cancer, cardiovascular disease, amyloidoses, neurodegenerative diseases, and diabetes. Overall, intriguing interconnections among intrinsic disorder, cell signaling, and human diseases suggest that protein conformational diseases may result not only from protein misfolding, but also from misidentification, missignaling, and unnatural or nonnative folding.
+
+The winter school will alternate lectures to practicals. During lectures, experts of the field will provide students an overview of IDP biological mechanisms that develop pathogenic phenotypes. They will explore the concepts of folding, unfolding and misfolding, highlighting their differences and similarities. Practical exercises aim at transferring to students basic skills for the study of IDPs and will revolve around the use of bioinformatic tools to solve complex problems.
+
+The school includes a half day workshop on [ELIXIR interoperability](https://elixir-europe.org/platforms/interoperability) services and support for the [IDP Community](https://elixir-europe.org/communities/intrinsically-disordered-proteins).<br>
+<br>
+<br>
+<br>
+
 <b>Full details at [disprotcentral.org/idpschool20](http://disprotcentral.org/idpschool20).</b><br>
 A flyer of the event is in the attachment and also available here for [download](http://disprotcentral.org/assets/docs/Flyer-Brixen20.pdf).<br>
 <br>
@@ -65,11 +75,3 @@ For all kinds of queries, please contact us at <idpfun@ngp-net.bio.unipd.it>.
 <br>
 <br>
 
-### Description 
-Intrinsically Disordered Proteins (IDPs) are a highly abundant class of proteins that lack stable tertiary and/or secondary structures under physiological conditions. Numerous IDPs are associated with human diseases, including cancer, cardiovascular disease, amyloidoses, neurodegenerative diseases, and diabetes. Overall, intriguing interconnections among intrinsic disorder, cell signaling, and human diseases suggest that protein conformational diseases may result not only from protein misfolding, but also from misidentification, missignaling, and unnatural or nonnative folding.
-
-The winter school will alternate lectures to practicals. During lectures, experts of the field will provide students an overview of IDP biological mechanisms that develop pathogenic phenotypes. They will explore the concepts of folding, unfolding and misfolding, highlighting their differences and similarities. Practical exercises aim at transferring to students basic skills for the study of IDPs and will revolve around the use of bioinformatic tools to solve complex problems.
-
-The school includes a half day workshop on [ELIXIR interoperability](https://elixir-europe.org/platforms/interoperability) services and support for the [IDP Community](https://elixir-europe.org/communities/intrinsically-disordered-proteins).<br>
-<br>
-<br>
