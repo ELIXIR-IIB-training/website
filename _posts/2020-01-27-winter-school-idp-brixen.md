@@ -24,11 +24,12 @@ description: During lectures and practicals, experts of the field will provide s
 ELIXIR-IIB (ELIXIR Italy) is pleased to announce the upcoming Winter School “Disorder in Disorders: Pathogenic mechanisms of Intrinsically Disordered Proteins”,
 organised by MSCA-RISE IDPfun.
 <br>
+<br>
 
 ### Important dates
-Course date: <b>27-31 January, 2020</b>
-Deadline for applications:  15 Jan 2020 </b>
-Deadline for trainee grant applications: 15 Nov 2019 </b>
+Course date: <b>27-31 January, 2020</b><br>
+Deadline for applications:  15 Jan 2020 <br>
+Deadline for trainee grant applications: 15 Nov 2019 <br>
 <br>
 <br>
 
@@ -37,8 +38,7 @@ Università degli Studi di Padova -  Casa della Gioventù, <br>
 Via Rio Bianco,12 <br>
 39042 Bressanone-Brixen (BZ), Italy. <br>
 
-The venue can be easily reached by train, travelling on the international railway line between Verona and Innsbruck/Munich.<br>
-The closest airports are Innsbruck, Verona, Munich, Venice and Milan (with increasing distance).
+The venue can be easily reached by train, travelling on the international railway line between Verona and Innsbruck/Munich. The closest airports are Innsbruck, Verona, Munich, Venice and Milan (with increasing distance).
 <br>
 <br>
 
@@ -50,7 +50,7 @@ A limited number of fellowships will be available covering registration fee and 
 <br>
 <br>
 
-<b>Full details at [disprotcentral.org/idpschool20](disprotcentral.org/idpschool20).</b><br>
+<b>Full details at [disprotcentral.org/idpschool20](http://disprotcentral.org/idpschool20).</b><br>
 A flyer of the event is in the attachment and also available here for [download](http://disprotcentral.org/assets/docs/Flyer-Brixen20.pdf).<br>
 <br>
 <br>
