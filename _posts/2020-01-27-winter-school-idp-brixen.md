@@ -55,7 +55,7 @@ Intrinsically Disordered Proteins (IDPs) are a highly abundant class of proteins
 
 The winter school will alternate lectures to practicals. During lectures, experts of the field will provide students an overview of IDP biological mechanisms that develop pathogenic phenotypes. They will explore the concepts of folding, unfolding and misfolding, highlighting their differences and similarities. Practical exercises aim at transferring to students basic skills for the study of IDPs and will revolve around the use of bioinformatic tools to solve complex problems.
 
-The school includes a half day workshop on [ELIXIR interoperability](https://elixir-europe.org/platforms/interoperability) services and support for the [IDP Community](https://elixir-europe.org/communities/intrinsically-disordered-proteins).<br>
+The school includes a half-day workshop on [ELIXIR interoperability](https://elixir-europe.org/platforms/interoperability) services and support for the [IDP Community](https://elixir-europe.org/communities/intrinsically-disordered-proteins).<br>
 <br>
 <br>
 <br>
