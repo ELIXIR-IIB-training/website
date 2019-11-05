@@ -61,12 +61,16 @@ The school includes a half day workshop on [ELIXIR interoperability](https://eli
 <br>
 
 <b>Full details at [disprotcentral.org/idpschool20](http://disprotcentral.org/idpschool20).</b><br>
-A flyer of the event is in the attachment and also available here for [download](http://disprotcentral.org/assets/docs/Flyer-Brixen20.pdf).<br>
+A flyer of the event is available here for [download](http://disprotcentral.org/assets/docs/Flyer-Brixen20.pdf).<br>
 <br>
 <br>
 
 ### Organisers
-
+L. Paladin - University of Padua<br>
+M. Necci - University of Padua<br>
+M. Carraro - University of Padua<br>
+I. Mičetić - University of Padua, ELIXIR-IIB Training Team<br>
+D. Battistella - University of Padua<br>
 <br>
 <br>
 
