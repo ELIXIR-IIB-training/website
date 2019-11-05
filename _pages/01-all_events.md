@@ -15,7 +15,7 @@ permalink: /all_events_2018_2019/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 <tr>
-<td height="50" align="center">ELIXIR-IIB<br>Winter School</td>
+<td height="50" align="center">ELIXIR<br>Winter School</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/01/27/winter-school-idp-brixen.html">Disorder in Disorders:<br>Pathogenic mechanisms of<br>Intrinsically Disordered Proteins</a></td>
    <td height="50" width="150">MSCA-RISE IDPfun<br>University of Padua<br>ELIXIR-IIB</td>
    <!-- <td height="50" width="150"></td> -->
