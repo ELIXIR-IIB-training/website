@@ -60,7 +60,7 @@ The school includes a half-day workshop on [ELIXIR interoperability](https://eli
 <br>
 
 <b>Full details at [disprotcentral.org/idpschool20](http://disprotcentral.org/idpschool20).</b><br>
-A flyer of the event is available here for [download](http://disprotcentral.org/assets/docs/Flyer-Brixen20.pdf).<br>
+A <b>flyer</b> of the event is available here for [download](http://disprotcentral.org/assets/docs/Flyer-Brixen20.pdf).<br>
 <br>
 <br>
 
