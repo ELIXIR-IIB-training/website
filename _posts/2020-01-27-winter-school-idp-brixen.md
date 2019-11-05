@@ -57,19 +57,18 @@ The winter school will alternate lectures to practicals. During lectures, expert
 
 The school includes a half-day workshop on [ELIXIR interoperability](https://elixir-europe.org/platforms/interoperability) services and support for the [IDP Community](https://elixir-europe.org/communities/intrinsically-disordered-proteins).<br>
 <br>
+
+**Full details at [disprotcentral.org/idpschool20](http://disprotcentral.org/idpschool20).**<br>
+A **flyer** of the event is available here for [download](http://disprotcentral.org/assets/docs/Flyer-Brixen20.pdf).<br>
 <br>
 
-<b>Full details at [disprotcentral.org/idpschool20](http://disprotcentral.org/idpschool20).</b><br>
-A <b>flyer</b> of the event is available here for [download](http://disprotcentral.org/assets/docs/Flyer-Brixen20.pdf).<br>
-<br>
-<br>
 
 ### Organisers
-L. Paladin - University of Padua<br>
-M. Necci - University of Padua<br>
-M. Carraro - University of Padua<br>
-I. Mičetić - University of Padua, ELIXIR-IIB (Local Organiser)<br>
-D. Battistella - University of Padua<br>
+**L. Paladin** - University of Padua<br>
+**M. Necci** - University of Padua<br>
+**M. Carraro** - University of Padua<br>
+**I. Mičetić** - University of Padua, ELIXIR-IIB (Local Organiser)<br>
+**D. Battistella** - University of Padua<br>
 <br>
 <br>
 
