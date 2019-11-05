@@ -58,7 +58,6 @@ The winter school will alternate lectures to practicals. During lectures, expert
 The school includes a half-day workshop on [ELIXIR interoperability](https://elixir-europe.org/platforms/interoperability) services and support for the [IDP Community](https://elixir-europe.org/communities/intrinsically-disordered-proteins).<br>
 <br>
 <br>
-<br>
 
 <b>Full details at [disprotcentral.org/idpschool20](http://disprotcentral.org/idpschool20).</b><br>
 A flyer of the event is available here for [download](http://disprotcentral.org/assets/docs/Flyer-Brixen20.pdf).<br>
