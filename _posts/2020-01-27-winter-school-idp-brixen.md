@@ -68,7 +68,7 @@ A <b>flyer</b> of the event is available here for [download](http://disprotcentr
 L. Paladin - University of Padua<br>
 M. Necci - University of Padua<br>
 M. Carraro - University of Padua<br>
-I. Mičetić - University of Padua, ELIXIR-IIB Training Team<br>
+I. Mičetić - University of Padua, ELIXIR-IIB (Local Organiser)<br>
 D. Battistella - University of Padua<br>
 <br>
 <br>
