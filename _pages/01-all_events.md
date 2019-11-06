@@ -42,8 +42,17 @@ permalink: /all_events_2018_2019/
    <td height="50" align="center"><font color="red"><b>full</b></font></td>
 </tr>
 <tr>
-<td height="50" align="center">NETTAB/BBCC2019<br>Joint Meeting</td>
-   <td height="50" width="220" align="center"><a href="http://www.igst.it/nettab/2019/">NETTAB/BBCC 2019<br>Meeting<br></a></td>
+<td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
+   <td height="50" width="220" align="center"><a href="https://agenda.infn.it/event/19596/">ShareScience 2019</a></td>
+   <td height="50" width="150">Sapienza University of Rome</td>
+   <!-- <td height="50" width="150"></td> -->
+   <td height="50" align="center">Rome,<br>Italy</td>
+   <td height="50" width="75" align="center">Oct<br>28-30<br>2019</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
+</tr>
+<tr>
+<td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
+   <td height="50" width="220" align="center"><a href="http://www.igst.it/nettab/2019/">NETTAB/BBCC 2019<br>Joint Meeting<br></a></td>
    <td height="50" width="150">A. Facchiano<br>P. Romano<br>A. Marabotti<br>R. Tagliaferri</td>
    <!-- <td height="50" width="150"></td> -->
    <td height="50" align="center">Salerno,<br>Italy</td>
