@@ -296,6 +296,15 @@ permalink: /all_events_2018_2019/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
+<td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
+   <td height="50" width="220" align="center"><a href="https://www.eventi.garr.it/it/conf18/home">Conferenza GARR 2018<br>Data Revolution</a></td>
+   <td height="50" width="150">GARR<br>University of Cagliari</td>
+   <!-- <td height="50" width="150"></td> -->
+   <td height="50" align="center">Cagliari,<br>Italy</td>
+   <td height="50" width="75" align="center">Oct<br>03-05<br>2018</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
+</tr>
+<tr>
 	<td height="50" align="center">ELIXIR-EXCELERATE</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2018/01/30/train-the-trainer-lausanne.html">Train the Trainer</a></td>
    <td height="50" width="150">P. Palagi<br>A. Via</td>
