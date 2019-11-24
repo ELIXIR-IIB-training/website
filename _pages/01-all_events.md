@@ -48,7 +48,7 @@ permalink: /all_events_2018_2019/
    <!-- <td height="50" width="150"></td> -->
    <td height="50" align="center">Salerno,<br>Italy</td>
    <td height="50" width="75" align="center">Nov<br>11-13<br>2019</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
