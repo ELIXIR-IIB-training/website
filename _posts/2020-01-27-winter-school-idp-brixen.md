@@ -43,7 +43,7 @@ The venue can be easily reached by train, travelling on the international railwa
 <br>
 
 ### Fee
-300€ - Early bird till **15 Dec 2019 <font color='red'>[NEW]</font>**"<br>
+300€ - Early bird till **15 Dec 2019 <font color='red'>[NEW]</font>**<br>
 400€ - Late registration till 15 Jan 2020<br>
 Registration fee includes course material, coffee breaks, lunches and dinners for five days.<br>
 A limited number of fellowships will be available covering registration fee and hostel accommodation. Participants will be selected based on their background in protein bioinformatics and a motivation statement.<br>
