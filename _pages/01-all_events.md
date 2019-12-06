@@ -196,11 +196,11 @@ permalink: /all_events_2018_2019/
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
-   <td height="50" width="220" align="center"><a href="https://www.eventi.garr.it/it/conf18/home">Conferenza GARR 2018<br>Data Revolution</a></td>
-   <td height="50" width="150">GARR<br>University of Cagliari</td>
+   <td height="50" width="220" align="center"><a href="https://www.garr.it/it/news-e-eventi/eventi/event/237-eapconnect-e-health-workshop">EaPConnect e-Health<br>workshop</a></td>
+   <td height="50" width="150">Istituto Superiore di Sanità</td>
    <!-- <td height="50" width="150"></td> -->
-   <td height="50" align="center">Cagliari,<br>Italy</td>
-   <td height="50" width="75" align="center">Oct<br>03-05<br>2018</td>
+   <td height="50" align="center">Roma,<br>Italy</td>
+   <td height="50" width="75" align="center">Oct<br>30-31<br>2018</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
  <tr>
@@ -220,6 +220,15 @@ permalink: /all_events_2018_2019/
    <td height="50" align="center">Stockholm,<br>Sweden</td>
    <td height="50" width="75" align="center">Oct<br>9-11<br>2018</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
+</tr>
+<tr>
+<td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
+   <td height="50" width="220" align="center"><a href="https://www.eventi.garr.it/it/conf18/home">Conferenza GARR 2018<br>Data Revolution</a></td>
+   <td height="50" width="150">GARR<br>University of Cagliari</td>
+   <!-- <td height="50" width="150"></td> -->
+   <td height="50" align="center">Cagliari,<br>Italy</td>
+   <td height="50" width="75" align="center">Oct<br>03-05<br>2018</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
 	<td height="50" align="center">ELIXIR<br>Scientific dissemination activity</td>
