@@ -60,6 +60,15 @@ permalink: /all_events_2018_2019/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
+<td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" width="220" align="center"><a href="https://tess.elixir-europe.org/events/elixir-train-the-trainer">Train the Trainer</a></td>
+   <td height="50">University of Cambridge<br>Alan Turing Institute</td>
+   <!-- <td height="50" width="150"></td> -->
+   <td height="50" align="center">London,<br>United Kingdom</td>
+   <td height="50" width="75" align="center">Oct<br>15-16<br>2019</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
+</tr>
+<tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Session<br>(as part of the<br>Ph.D. Program in Science, Technology and Biotechnology for Sustainability)</td>
    <td height="50" width="220" align="center"><a href="https://datacarpentry.org/python-ecology-lesson/">Data manipulation and visualisation in Python</a><br>(materials from<br>Data Carpentry for Ecologists, <a href="https://creativecommons.org/licenses/by/4.0/">Copyright © Software Carpentry</a>)</td>
    <td height="50" width="150">Tuscia University<br>G. Chillemi</td>
