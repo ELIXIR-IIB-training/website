@@ -78,8 +78,8 @@ permalink: /all_events_2018_2019/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-<td height="50" align="center">Foundational<br>Open Science Skills<br>Workshop Series</td>
-   <td height="50" width="220" align="center">Practical Software Skills<br>Hackathon for Training material development</td>
+<td height="50" align="center">Hackathon<br>for Training Material Development</td>
+   <td height="50" width="220" align="center">Practical Software Skills</td>
    <td height="50" width="150">University of Arkansas<br>CNR<br>CERTH<br>Netherlands eScience Center<br>University of Arizona</td>
    <!-- <td height="50" width="150"></td> -->
    <td height="50" align="center">Roma,<br>Italy</td>
@@ -87,7 +87,7 @@ permalink: /all_events_2018_2019/
    <td height="50" align="center"><font color="grey"></font></td>
 </tr>
 <tr>
-<td height="50" align="center">Foundational<br>Open Science Skills <br>Workshop Series</td>
+<td height="50" align="center">Hackathon<br>for Training Material Development</td>
    <td height="50" width="220" align="center">Practical Data Skills<br>Hackathon for Training material development</td>
    <td height="50" width="150">University of Arkansas<br>CNR<br>CERTH<br>Netherlands eScience Center<br>University of Arizona</td>
    <!-- <td height="50" width="150"></td> -->
