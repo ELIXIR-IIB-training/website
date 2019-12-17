@@ -286,6 +286,17 @@ permalink: /all_events_2018_2019/
    <td height="50" width="75" align="center">Jun<br>25-26<br>2018</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td> 
 </tr>
+
+<tr>
+   <td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
+   <td height="50" width="220" align="center"><a href="https://www.ibpm.cnr.it/index.php?option=com_k2&view=item&id=317:convegno-2018-it&Itemid=229&lang=it-IT">CNR-IBPM<br>Annual Meeting</a></td>
+    <td height="50" width="150">CNR-IBPM</td>
+    <!-- <td height="50" width="150"></td> -->
+   <td height="50" align="center">Roma,<br>Italy</td>
+   <td height="50" width="75" align="center">May<br>8<br>2018</td>
+   <td height="50" align="center"><font color="grey"><b></b></font></td> 
+</tr>
+
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2018/04/21/PopGen-Napoli.html">Population Genomics: background and tools</a></td>
