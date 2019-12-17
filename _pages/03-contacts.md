@@ -14,11 +14,11 @@ you can write an email to **<elixir.ita.training@gmail.com>**, or contact:
  <tr style="background-color:rgba(255,165,0,0.3)">
    <td width="300" height="60">
    		<b>Allegra Via</b><br>
-		ELIXIR-IIB Training Coordinator
+		Training Platform Coordinator
 	</td>
 	<td width="300" height="60"> 
    		<b>Loredana Le Pera</b><br>
-		ELIXIR-IIB Deputy Training Coordinator
+		Deputy Training Platform Coordinator
 	</td>
 </tr>
 <tr>
