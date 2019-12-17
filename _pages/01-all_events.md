@@ -69,22 +69,22 @@ permalink: /all_events_2018_2019/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-<td height="50" align="center">Foundational <br>Open Science Skills<br>Workshop Series</td>
-   <td height="50" width="220" align="center"><a href="http://bit.ly/foss-rome-19">Practical Software Skills<br>Workshop</a></td>
+<td height="50" align="center">Foundational<br>Open Science Skills<br>Workshop Series</td>
+   <td height="50" width="220" align="center">Practical Software Skills<br>Hackathon for Training material development</td>
    <td height="50" width="150">University of Arkansas<br>CNR<br>CERTH<br>Netherlands eScience Center<br>University of Arizona</td>
    <!-- <td height="50" width="150"></td> -->
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Oct<br>03-04<br>2019</td>
-   <td height="50" align="center"><font color="grey"><b> cancelled </b></font></td>
+   <td height="50" align="center"><font color="grey"></font></td>
 </tr>
 <tr>
-<td height="50" align="center">Foundational <br>Open Science Skills <br>Workshop Series</td>
-   <td height="50" width="220" align="center"><a href="http://bit.ly/foss-rome-19">Practical Data Skills<br>Workshop</a></td>
+<td height="50" align="center">Foundational<br>Open Science Skills <br>Workshop Series</td>
+   <td height="50" width="220" align="center">Practical Data Skills<br>Hackathon for Training material development</td>
    <td height="50" width="150">University of Arkansas<br>CNR<br>CERTH<br>Netherlands eScience Center<br>University of Arizona</td>
    <!-- <td height="50" width="150"></td> -->
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Oct<br>02-03<br>2019</td>
-   <td height="50" align="center"><font color="grey"><b> cancelled </b></font></td>
+   <td height="50" align="center"><font color="grey"></font></td>
 </tr>
 <tr>
 <td height="50" align="center">European Joint Programme<br>Rare Diseases</td>
@@ -150,7 +150,7 @@ permalink: /all_events_2018_2019/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-<td height="50" align="center">CNR and ELIXIR-IIB<br>dissemination<br>for high-school</td>
+<td height="50" align="center">CNR/ELIXIR-IIB<br>Dissemination for high-school</td>
    <td height="50" width="220" align="center"><a href="http://liceodantealighieri.it/content/ciclo-di-conferenze-2-3-maggio-2019-dipartimento-di-matematica-e-fisica-0">Big Data: nuove esigenze e sfide per la conoscenza, la società, le persone</a></td>
    <td height="50" width="150">L. Le Pera <br>V. Morea<br>A. Via</td>
    <!-- <td height="50" width="150"></td> -->
@@ -185,6 +185,16 @@ permalink: /all_events_2018_2019/
    <td height="50" width="75" align="center">Feb<br>11-12<br>2019</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td> 
 </tr>
+<tr>
+<td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
+   <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/15966/biologia-computazionale-e-di-sistema">SIB Annual Meeting<br>Biologia Computazionale e dei Sistemi</a></td>
+   <td height="50" width="150">P.L. Martelli<br>V. Morea<br>A. Via</td>
+   <!-- <td height="50" width="150"></td> -->
+   <td height="50" align="center">Roma,<br>Italy</td>
+   <td height="50" width="75" align="center">Nov<br>12<br>2018</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td> 
+</tr>
+
    <tr>
 	<td height="50" align="center">EMBO<br>Practical Course</td>
    <td height="50" width="220" align="center"><a href="http://meetings.embo.org/event/18-protein-protein">Computational Analysis of PPI: Sequences, networks and diseases</a></td>
@@ -231,7 +241,7 @@ permalink: /all_events_2018_2019/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-	<td height="50" align="center">ELIXIR<br>Scientific dissemination activity</td>
+	<td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
    <td height="50" width="220" align="center"><a href="http://www.laricercaviendinotte.it/">Notte Europea dei Ricercatori</a><br><a href="https://www.facebook.com/events/240703663214038/">(Facebook page link)</a></td>
    <td height="50" width="150">ERN-Apulia<br>University of Salento<br>F. De Leo<br>A. Marabotti</td>
    <!-- <td height="50" width="150"></td> -->
@@ -295,7 +305,7 @@ permalink: /all_events_2018_2019/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
-<td height="50" align="center">CNR and ELIXIR-IIB<br>ASL workshop<br>for high-schools.<br>Scientific dissemination activity</td>
+<td height="50" align="center">CNR/ELIXIR-IIB<br>ASL Workshop<br>Dissemination for high-school</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/docs/Workshop-CNR-Righi_Roma2018.html">Dai Big Data alla Data Science: sfide e professioni nascenti nell’era dei grandi dati</a>
 </td>
    <td height="50" width="150">A. Calderone<br>C. Fantaccione<br>L. Le Pera<br>L. Licata<br>V. Morea<br>A. Via</td>
