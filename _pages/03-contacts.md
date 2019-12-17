@@ -18,7 +18,7 @@ you can write an email to **<elixir.ita.training@gmail.com>**, or contact:
 	</td>
 	<td width="300" height="60"> 
    		<b>Loredana Le Pera</b><br>
-		ELIXIR-IIB Training Coordinator Deputy
+		ELIXIR-IIB Deputy Training Coordinator
 	</td>
 </tr>
 <tr>
