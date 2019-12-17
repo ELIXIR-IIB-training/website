@@ -88,7 +88,7 @@ permalink: /all_events_2018_2019/
 </tr>
 <tr>
 <td height="50" align="center">Hackathon<br>for Training Material Development</td>
-   <td height="50" width="220" align="center">Practical Data Skills<br>Hackathon for Training material development</td>
+   <td height="50" width="220" align="center">Practical Data Skills</td>
    <td height="50" width="150">University of Arkansas<br>CNR<br>CERTH<br>Netherlands eScience Center<br>University of Arizona</td>
    <!-- <td height="50" width="150"></td> -->
    <td height="50" align="center">Roma,<br>Italy</td>
