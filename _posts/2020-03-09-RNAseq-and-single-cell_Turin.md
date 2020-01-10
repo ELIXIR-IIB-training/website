@@ -29,7 +29,7 @@ description: This course aims to provide participants with theoretical and pract
 <br>
 
 ### Important Dates 
-- Deadline for applications: ** **
+- Deadline for applications: **??**
 - Course selection will be done on a first-come first-served basis and chosen participants will be immediately notified
 - Course date: **09-13 March 2020**
 <br>
@@ -61,7 +61,7 @@ The mandatory requirements for the laptop are the presence of an ethernet plug/a
 <br>
 <br>
 
-### Instructors
+### Instructors??
 - [**Marco Beccuti**](https://elixir-iib-training.github.io/website/instructors/marco_beccuti.html) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
 - [**Vladimir Benes**](https://www.embl.de/services/core_facilities/genecore/members/index.php?s_personId=CP-60003318) - EMBL Heidelberg
 - [**Raffaele A. Calogero**](https://elixir-iib-training.github.io/website/instructors/raffaele_calogero.html) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
