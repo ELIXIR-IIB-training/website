@@ -51,7 +51,11 @@ The course includes a fee of **500 Euros**, covering coffe breaks, lunches and a
 
 ### Selection
 A maximum of **20** candidates will be accepted for the course.<br>
-[**Application form - Registration**](https://docs.google.com/forms/d/e/1FAIpQLSfdyKaHvDYWShHxJ9oJhXc4Tk8OFWlBmtHEj3kitBADWoX-iw/viewform?vc=0&c=0&w=1). Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes.
+Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes.
+<br>
+<br>
+
+### [Application Form - Registration](https://docs.google.com/forms/d/e/1FAIpQLSfdyKaHvDYWShHxJ9oJhXc4Tk8OFWlBmtHEj3kitBADWoX-iw/viewform?vc=0&c=0&w=1)
 <br>
 <br>
 
@@ -74,11 +78,6 @@ The mandatory requirements for the laptop are the presence of an ethernet plug/a
 - **Marco Beccuti** - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
 - **Loredana Le Pera** - ELIXIR-IIB Training Coordinator Deputy, IBIOM/IBPM-CNR, IT
 <br>
-<br>
-<br>
-
-
-### [Application Form - Registration](https://docs.google.com/forms/d/e/1FAIpQLSfdyKaHvDYWShHxJ9oJhXc4Tk8OFWlBmtHEj3kitBADWoX-iw/viewform?vc=0&c=0&w=1)
 <br>
 <br>
 
