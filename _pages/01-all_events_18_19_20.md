@@ -65,7 +65,7 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" width="220" align="center"><a href="https://agenda.infn.it/event/19596/">ShareScience 2019</a></td>
    <td height="50" width="150">Sapienza University of Rome</td>
    <!-- <td height="50" width="150"></td> -->
-   <td height="50" align="center">Rome,<br>Italy</td>
+   <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Oct<br>28-30<br>2019</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
