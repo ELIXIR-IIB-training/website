@@ -1,7 +1,7 @@
 ---
 layout: page
-title: All events 2018-2019
-permalink: /all_events_2018_2019/
+title: All events 2018-2019-2020
+permalink: /all_events_2018_2019_2020/
 ---
 
 <table border="1" width="950">
