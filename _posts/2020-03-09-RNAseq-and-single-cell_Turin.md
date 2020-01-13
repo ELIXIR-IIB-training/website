@@ -19,11 +19,11 @@ description: This course aims to provide participants with theoretical and pract
 <br>
 <table border="0" width="600">
 <tr>
-<td><a href=""><img src="../../../img/Logo_B_and_Gu.jpg" height="80" weight="120"></a></td>
-<td weight="70"></td>
-<td><a href=""><img src="../../../img/Logo_Bx2M.jpg" height="80" weight="120"></a></td>
-<td weight="70"></td>
-<td><a href=""><img src="../../../img/Logo_illumina.jpg" height="80" weight="120"></a></td>
+<td><a href=""><img src="../../../img/Logo_B_and_Gu.jpg" height="100" weight="150"></a></td>
+<td></td>
+<td><a href=""><img src="../../../img/Logo_Bx2M.jpg" height="100" weight="150"></a></td>
+<td></td>
+<td><a href=""><img src="../../../img/Logo_illumina.jpg" height="60" weight="100"></a></td>
 </tr>
 </table>
 <br>
