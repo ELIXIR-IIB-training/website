@@ -29,10 +29,10 @@ description: This course aims to provide participants with theoretical and pract
 <br>
 <br>
 
-### Important Dates 
-- Deadline for applications: **28 February 2020**
-- Course selection will be done on a first-come first-served basis and chosen participants will be immediately notified
+### Important Dates
 - Course date: **09-13 March 2020**
+- Deadline for applications: **28 February 2020**.<br>Course selection will be done on a first-come first-served basis and chosen participants will be immediately notified
+
 <br>
 <br>
 
