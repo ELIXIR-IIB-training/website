@@ -32,7 +32,6 @@ description: This course aims to provide participants with theoretical and pract
 ### Important Dates
 - Course date: **09-13 March 2020**
 - Deadline for applications: **28 February 2020**.<br>Course selection will be done on a first-come first-served basis and chosen participants will be immediately notified
-
 <br>
 <br>
 
@@ -51,8 +50,8 @@ The course includes a fee of **500 Euros**, covering coffe breaks, lunches and a
 <br>
 
 ### Selection
-A maximum of **20** candidates will be accepted for the course.<br>
-Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes.
+A maximum of **20** candidates will be accepted for the course. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes.
+<br>
 <br>
 <br>
 
