@@ -63,7 +63,7 @@ A maximum of **20** candidates will be accepted for the course. Priority will be
 ### Instructors
 - [**Marco Beccuti**](https://elixir-iib-training.github.io/website/instructors/marco_beccuti.html) - Dept. of Computer Science, University of Torino, IT
 - [**Vladimir Benes**](https://www.embl.de/services/core_facilities/genecore/members/index.php?s_personId=CP-60003318) - EMBL Heidelberg
-- [**Raffaele A. Calogero**](https://elixir-iib-training.github.io/website/instructors/raffaele_calogero.html) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
+- [**Raffaele Calogero**](https://elixir-iib-training.github.io/website/instructors/raffaele_calogero.html) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
 - [**Francesca Cordero**]() - Dept. of Computer Science, University of Torino, IT
 <br>
 <br>
