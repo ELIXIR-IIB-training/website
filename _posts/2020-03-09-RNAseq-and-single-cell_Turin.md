@@ -13,18 +13,17 @@ description: This course aims to provide participants with theoretical and pract
 	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="80"></a>
 	</td>
 	<td weight="20"></td>
-	<td><a href="https://www.unito.it/"><img src="../../../img/Logo_unito.png" height="60"></a></td>
+	<td><a href="https://www.unito.it/"><img src="../../../img/Logo_unito.png" height="80"></a></td>
 	</tr>
 	</table>
 <br>
-<br>
 <table border="0" width="600">
 <tr>
-<td><a href=""><img src="../../../img/Logo_B_and_Gu.jpg" height="60"></a></td>
+<td><a href=""><img src="../../../img/Logo_B_and_Gu.jpg" height="80" weight="100"></a></td>
 <td weight="20"></td>
-<td><a href=""><img src="../../../img/Logo_Bx2M.jpg" height="60"></a></td>
+<td><a href=""><img src="../../../img/Logo_Bx2M.jpg" height="80" weight="100"></a></td>
 <td weight="20"></td>
-<td><a href=""><img src="../../../img/Logo_illumina.jpg" height="60"></a></td>
+<td><a href=""><img src="../../../img/Logo_illumina.jpg" height="80" weight="100"></a></td>
 </tr>
 </table>
 <br>
