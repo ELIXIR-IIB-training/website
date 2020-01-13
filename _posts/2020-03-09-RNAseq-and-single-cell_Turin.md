@@ -78,6 +78,7 @@ A maximum of **20** candidates will be accepted for the course. Priority will be
 - **Raffaele Calogero** - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT 
 - **Marco Beccuti** - Dept. of Computer Science, University of Torino, IT
 - **Loredana Le Pera** - ELIXIR-IIB Training Coordinator Deputy, IBIOM/IBPM-CNR, IT
+- **Allegra Via** - ELIXIR-IIB Training Coordinator, IBPM-CNR, IT
 <br>
 <br>
 
