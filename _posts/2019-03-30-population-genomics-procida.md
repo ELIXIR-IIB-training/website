@@ -10,7 +10,7 @@ description: The objective of this EMBO Practical Course is to give an overview 
 
 <table border="0">
 <tr>
-	<td><a href="http://meetings.embo.org/event/19-population-genomics"><img src=""></a>
+	<td><a href="http://meetings.embo.org/event/19-population-genomics"><img src="Logo_PopGen_course.jpg"></a>
 	</td>	
 </tr>
 </table>
