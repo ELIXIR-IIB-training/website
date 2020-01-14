@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RNAseq and single-cell RNAseq Course <font color='green'>[open]</font>"
+title:  "RNA-seq and single cell RNA-seq Course <font color='green'>[open]</font>"
 date_start:  2020-03-09 
 date_end: 2020-03-13   
 venue: Torino, Italy
