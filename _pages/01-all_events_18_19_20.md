@@ -16,7 +16,7 @@ permalink: /all_events_2018_2019_2020/
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/03/09/RNAseq-and-single-cell_Turin.html">RNAseq and single-cell RNAseq Course</a></td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/03/09/RNAseq-and-single-cell_Turin.html">RNA-seq and single cell RNA-seq Course</a></td>
    <td height="50" width="150">R. Calogero<br>M. Beccuti<br>L. Le Pera<br>A. Via</td>
    <!-- <td height="50" width="150"></td> -->
    <td height="50" align="center">Torino,<br>Italy</td>
