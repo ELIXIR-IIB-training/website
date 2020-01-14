@@ -15,6 +15,15 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 <tr>
+<td height="50" align="center">EMBO<br>Practical Course</td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/04/01/population-genomics-procida.html">Population Genomics: background and tools, and programming</a></td>
+   <td height="50" width="150">A. Manica<br>C. Batini<br>V. Colonna</td>
+   <!-- <td height="50" width="150"></td> -->
+   <td height="50" align="center">Procida,<br>Italy</td>
+   <td height="50" width="75" align="center">April<br>01-08<br>2020</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+</tr>
+<tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/03/09/RNAseq-and-single-cell_Turin.html">RNA-seq and single cell RNA-seq Course</a></td>
    <td height="50" width="150">R. Calogero<br>M. Beccuti<br>L. Le Pera<br>A. Via</td>
@@ -23,7 +32,6 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" width="75" align="center">March<br>09-13<br>2020</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>
 </tr>
-
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Winter School</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/01/27/winter-school-idp-brixen.html">Disorder in Disorders:<br>Pathogenic mechanisms of<br>Intrinsically Disordered Proteins</a></td>
