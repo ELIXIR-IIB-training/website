@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  EMBO Practical Course on "Population Genomics&#58; background and tools" <font color='green'>[open]</font>
+title:  EMBO Practical Course on "Population Genomics&#58; Background, tools, and programming" <font color='green'>[open]</font>
 date_start: 2020-04-01
 date_end:   2020-04-08
 venue: Procida (Napoli), Italy
@@ -17,5 +17,5 @@ description: This EMBO Practical Course will cover coalescent theory, the effect
 
 <br>
 The course webpage with all the information and the link to submit your application can be found at:<br>
-[EMBO Practical Course on "Population Genomics&#58; background and tools", Procida, 01-08 Apr 2020.](http://meetings.embo.org/event/20-populationgenomics)
+[EMBO Practical Course on "Population Genomics&#58; Background, tools, and programming", Procida, 01-08 Apr 2020.](http://meetings.embo.org/event/20-populationgenomics)
 <br>
