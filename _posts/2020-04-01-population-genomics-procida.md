@@ -8,7 +8,7 @@ description: This EMBO Practical Course will cover coalescent theory, the effect
 
 ---
 
-<table border="0" width="600">
+<table border="0" width="800">
 <tr>
 	<td><a href="http://meetings.embo.org/event/20-populationgenomics"><img src="../../../img/Logo_PopGen_course.jpg"></a>
 	</td>	
