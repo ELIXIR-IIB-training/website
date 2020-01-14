@@ -84,7 +84,7 @@ A maximum of **20** candidates will be accepted for the course. Priority will be
 
 
 ### Course Description
-The course is based on the use of Bioconductor open-source software solutions. However, R coding skill is nor required. Furthermore, RNA-seq, miRNAseq and sigle-cell seq analyses will be performed using the tools available as part of the Reproducible Bioinformatics Project (Beccuti et al., Bioinformatics 2018: Kulkarni et al. BMC Bioinformatics 2018).
+The course is based on the use of Bioconductor open-source software solutions. However, R coding skill is not required. Furthermore, RNA-seq, miRNAseq and single-cell seq analyses will be performed using the tools available as part of the Reproducible Bioinformatics Project (Beccuti et al., Bioinformatics 2018: Kulkarni et al. BMC Bioinformatics 2018).
 You can find here the complete [course description](https://github.com/kendomaniac/UNITORNASEQ/blob/master/booklet.pdf), together with the [program](https://github.com/kendomaniac/UNITORNASEQ/blob/master/program.pdf). 
 <br>
 <br>
