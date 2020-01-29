@@ -21,7 +21,7 @@ permalink: /all_events_2018_2019_2020/
    <!-- <td height="50" width="150"></td> -->
    <td height="50" align="center">Procida,<br>Italy</td>
    <td height="50" width="75" align="center">April<br>01-08<br>2020</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
@@ -39,7 +39,7 @@ permalink: /all_events_2018_2019_2020/
    <!-- <td height="50" width="150"></td> -->
    <td height="50" align="center">Bressanone-Brixen,<br>Italy</td>
    <td height="50" width="75" align="center">Jan<br>27-31<br>2020</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR Innovation and<br>SME Forum</td>
