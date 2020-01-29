@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Disorder in Disorders: Pathogenic mechanisms of Intrinsically Disordered Proteins <font color='green'>[open]</font>"
+title:  "Disorder in Disorders: Pathogenic mechanisms of Intrinsically Disordered Proteins <font color='black'>[closed]</font>"
 date_start: 2020-01-27
 date_end:   2020-01-31
 venue: Bressanone-Brixen, Italy
