@@ -4,7 +4,8 @@ title:  "RNA-seq and single cell RNA-seq Course <font color='green'>[open]</font
 date_start:  2020-03-09 
 date_end: 2020-03-13   
 venue: Torino, Italy
-description: This course aims to provide participants with theoretical and practical knowledge on how to perform bioinformatic analyses of RNA-seq data using Bioconductor and other open-source software tools. A specific module will briefly describe the single-cell RNA-seq workflow, highlighting differences existing between bulk RNA-seq and single-cell sequencing. The course is suitable for life science researchers who are new to NGS technology, and no statistics prerequisites or computing experience are necessary for attending the course. 
+description: This course aims to provide participants with theoretical and practical knowledge on how to perform bioinformatic analyses of RNA-seq data using Bioconductor and other open-source software tools. A specific module will briefly describe the single-cell RNA-seq workflow, highlighting differences existing between bulk RNA-seq and single-cell sequencing. The course is suitable for life science researchers who are new to NGS technology, and no statistics prerequisites or computing experience are necessary for attending the course. <br>
+**<font color='red'>WARNING: due to the public health emergency, the course has been cancelled and will be rescheduled to a later date.</font>**
 
 ---
 
@@ -30,6 +31,11 @@ description: This course aims to provide participants with theoretical and pract
 <br>
 
 ### Important Dates
+
+**<font color='red'>WARNING: due to the public health emergency, the course has been cancelled and will be rescheduled to a later date.</font>**
+<br>
+<br>
+
 - Course date: **09-13 March 2020**
 - Deadline for applications: **28 February 2020**.<br>Course selection will be done on a first-come first-served basis and chosen participants will be immediately notified
 <br>
