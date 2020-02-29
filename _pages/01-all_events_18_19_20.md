@@ -30,7 +30,7 @@ permalink: /all_events_2018_2019_2020/
    <!-- <td height="50" width="150"></td> -->
    <td height="50" align="center">Torino,<br>Italy</td>
    <td height="50" width="75" align="center">March<br>09-13<br>2020</td>
-   <td height="50" align="center"><font color="red"><b>cancelled<br>to be rescheduled</b></font></td>
+   <td height="50" align="center"><font color="red" size=8><b>cancelled<br>to be rescheduled</b></font></td>
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Winter School</td>
