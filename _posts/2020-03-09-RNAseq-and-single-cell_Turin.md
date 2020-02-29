@@ -29,14 +29,14 @@ description: This course aims to provide participants with theoretical and pract
 <br>
 <br>
 
-<font color='red'>WARNING: due to the public health emergency, the course has been **cancelled** and will be **rescheduled** to a later date.</font>
+**<font color='red'>WARNING: due to the public health emergency, the course has been cancelled and will be rescheduled to a later date.</font>**
 <br>
 <br>
 
 ### Important Dates
 
 
-- Course date: **09-13 March 2020** --> [Cancelled]
+- Course date: **09-13 March 2020** --> <font color='red'>[Cancelled]</font>
 - Deadline for applications: **28 February 2020**.<br>Course selection will be done on a first-come first-served basis and chosen participants will be immediately notified
 <br>
 <br>
