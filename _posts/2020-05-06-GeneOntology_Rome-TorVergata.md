@@ -1,10 +1,11 @@
 ---
 layout: post
 Title:  "Gene Ontology and Bioinformatic data Resources Workshop: Data Annotation and functional analysis tools. <font color='green'>[open]</font>"
-Date_start:   2020-05-06
-Date_end:   2020-05-07
-Venue: Rome, Italy
+date_start:   2020-05-06
+date_end:   2020-05-07
+venue: Rome, Italy
 description: Two-day workshop to boost your understanding of bioinformatics resources and their use - you will learn about the key data resources available and how to use functional analysis tools.
+
 ---
 
 
@@ -16,7 +17,7 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
     <td width="10"></td>
     <td><a href="http://elixir-italy.org"><img src="../../../img/logo_UCL.jpeg" height="80"></a></td>
     <td width="10"></td>
-    
+    </tr>
     </table>
   
 **IMPORTANT DATES**
