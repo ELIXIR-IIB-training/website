@@ -135,14 +135,13 @@ Participants can use the computer available in the meeting room however if they 
 </tr>
 <tr>
    <td height="50">11:15 - 11:45</td>
-  <td height="50">Exercise</td>
+ 	<td height="50">Exercise</td>
    <td height="50">QuickGO browser</td>
 <tr>
 <tr>
    <td height="50">11:45 - 12:45</td>
-  <td height="50">Lecture and Exercise</td>
+  	<td height="50">Lecture and Exercise</td>
    <td height="50">GO-CAM and annotation extensions</td>
-   </td>
 </tr>
 <tr>
    <td height="50">12:45 - 13:45</td>
@@ -152,7 +151,6 @@ Participants can use the computer available in the meeting room however if they 
    <td height="50">13:45 - 14:15</td>
    <td height="50">Lecture</td>
    <td height="50">Functional analysis tools. How to cite data/tools in papers, including date of files/analysis. Checking the date the tools updated their annotation/ontology files</td>
-</td>
 </tr>
 <tr>
    <td height="50">14:15 - 15:45</td>
@@ -171,7 +169,7 @@ Participants can use the computer available in the meeting room however if they 
 </tr>
 <tr>
    <td height="50">09:00 - 10:30</td>
-    <td height="50">Lecture and Exercise</td>
+   <td height="50">Lecture and Exercise</td>
    <td height="50">Protein-Protein Interactions and Directed Molecular Interactions</td>
 </tr>
 <tr>
