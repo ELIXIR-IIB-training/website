@@ -51,7 +51,7 @@ A maximum of **30 candidates** will be selected on a first-come-first-served bas
 
 ### Organisers
 - [**Ruth Lovering**]() -  University College of London, UCL, UK
-- [**Luana Licata**]() - University of Rome Tor Vergata, ELIXIR-IT (Local Organiser)
+- [**Luana Licata**](https://elixir-iib-training.github.io/website/instructors/luana_licata.html) - University of Rome Tor Vergata, ELIXIR-IT (Local Organiser)
 
 
 ### Contact
