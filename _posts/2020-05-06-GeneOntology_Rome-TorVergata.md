@@ -45,7 +45,7 @@ A maximum of **30 candidates** will be selected on a first-come-first-served bas
 
 ### Instructors
 - [**Ruth Lovering**]() -  University College of London, UCL, UK
-- [**Luana Licata**]() - University of Rome Tor Vergata, ELIXIR-IT
+- [**Luana Licata**](https://elixir-iib-training.github.io/website/instructors/luana_licata.html) - University of Rome Tor Vergata, ELIXIR-IT
 - [**Ines Pineda-Torra**]() - University College of London, UCL, UK
 
 
@@ -76,6 +76,23 @@ Resources covered:
 •	Cytoscape
 •	Ensembl
 •	Data mining: Biomart
+
+
+### Learning Outcomes
+
+By the end of this course, the participants will be able to:
+
+- Identify and access public data resources and tools for data integration, high-throughput analysis, functional analysis and network analysis
+
+- Exploit the information available in the Gene Ontology (GO) to identify key cellular processes associated with high-throughput datasets.
+
+- Interpret the information given in different molecular interaction and signaling databases
+
+- Compare different sources of protein-protein interaction data and causal interaction data.
+
+- Represent networks using Cytoscape
+
+- Identify tools used for network analysis and functional analysis
 
 ### Course prerequisites
 Participants can use the computer available in the meeting room however if they prefer, they can bring their own laptop and install before the meeting few specific software.  Materials will be provided in advance of the workshop by the organizers. 
