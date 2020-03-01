@@ -46,6 +46,8 @@ The course does not include a fee, but the participants are expected to pay thei
 A maximum of **30 candidates** will be selected on a first-come-first-served basis. Chosen participants will be notified by 10th April 2020. 
 
 **Cancellation policy:** Attendance is limited to 30 participants. We expect many more applications. Accepted participants commit to attend the course for its whole duration. Failure to attend training sessions is disruptive. Moreover, it blocks other candidates from participating. Therefore, a cancellation policy is in place so that only written requests presented 10 days in advance relatively to the course starting date are accepted.
+<br>
+<br>
 
 ### Instructors
 - [**Ruth Lovering**]() -  University College of London, UCL, UK
