@@ -12,9 +12,9 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
 <table border="0" align="center">
 	<tr>
 		<td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="80"></a></td>
-		<td width="10"></td>
+		<td width="30"></td>
 		<td><a href="https://en.uniroma2.it/"><img src="../../../img/Logo_uni_torvergata.png" height="80"></a></td>
-		<td width="10"></td>
+		<td width="30"></td>
 		<td><a href="https://www.ucl.ac.uk/"><img src="../../../img/logo_UCL.jpeg" height="80"></a></td>
 	</tr>
 </table>
