@@ -76,18 +76,18 @@ The workshop is open to all biological or biomedical PhD and Post-Doc research s
 <br>
 
 ### Aims of the workshop
-•	To provide information about Gene Ontology (GO) and molecular interaction resources 
-•	To provide practical demonstrations of a number of freely available high-throughput analysis and network analysis tools that can be used for the analysis of large datasets, such as those derived from proteomic or transcriptomic methodologies.
+-	To provide information about Gene Ontology (GO) and molecular interaction resources 
+-	To provide practical demonstrations of a number of freely available high-throughput analysis and network analysis tools that can be used for the analysis of large datasets, such as those derived from proteomic or transcriptomic methodologies.
 Resources covered:
-•	Identifier mapping
-•	Gene Ontology
-•	Functional analysis tools
-•	Other ontologies 
-•	Protein-Protein interaction data 
-•	Directed molecular interactions
-•	Cytoscape
-•	Ensembl
-•	Data mining: Biomart
+-	Identifier mapping
+-	Gene Ontology
+-	Functional analysis tools
+-	Other ontologies 
+-	Protein-Protein interaction data 
+-	Directed molecular interactions
+-	Cytoscape
+-	Ensembl
+-	Data mining: Biomart
 <br>
 <br>
 
