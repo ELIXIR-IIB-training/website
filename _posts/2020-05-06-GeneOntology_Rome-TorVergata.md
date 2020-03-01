@@ -93,17 +93,11 @@ Resources covered:
 
 ### Learning Outcomes
 By the end of this course, the participants will be able to:
-
 - Identify and access public data resources and tools for data integration, high-throughput analysis, functional analysis and network analysis
-
-- Exploit the information available in the Gene Ontology (GO) to identify key cellular processes associated with high-throughput datasets.
-
+- Exploit the information available in the Gene Ontology (GO) to identify key cellular processes associated with high-throughput datasets
 - Interpret the information given in different molecular interaction and signaling databases
-
-- Compare different sources of protein-protein interaction data and causal interaction data.
-
+- Compare different sources of protein-protein interaction data and causal interaction data
 - Represent networks using Cytoscape
-
 - Identify tools used for network analysis and functional analysis
 <br>
 <br>
@@ -122,12 +116,12 @@ Participants can use the computer available in the meeting room however if they 
 </tr>
 <tr>
    <td height="50" width="50">09:00 - 09:15</td>
-   <td height="50">lecture</td
+   <td height="50">lecture</td>
    <td height="50"> What do you know about bioinformatics databases? Small group discussions and feedback to attendees</td>
 </tr>
 <tr>
    <td height="50">09:15 - 09:45</td>
-   <td height="50">Lecture<td>
+   <td height="50">Lecture</td>
    <td height="50">Identifier mapping, HGNC/UniProt/others</td>
 </tr>
 <tr>
