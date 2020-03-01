@@ -10,35 +10,39 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
 
 
 <table border="0" align="center">
-  <tr> 
-    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="80"></a></td>
-    <td width="10"></td>
-    <td><a href="https://en.uniroma2.it/"><img src="../../../img/Logo_uni_torvergata.png" height="80"></a></td>
-    <td width="10"></td>
-    <td><a href="https://www.ucl.ac.uk/"><img src="../../../img/logo_UCL.jpeg" height="80"></a></td>
-    <td width="10"></td>
-    </tr>
-    </table>
-  
-**IMPORTANT DATES**
+	<tr>
+		<td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="80"></a></td>
+		<td width="10"></td>
+		<td><a href="https://en.uniroma2.it/"><img src="../../../img/Logo_uni_torvergata.png" height="80"></a></td>
+		<td width="10"></td>
+		<td><a href="https://www.ucl.ac.uk/"><img src="../../../img/logo_UCL.jpeg" height="80"></a></td>
+	</tr>
+</table>
+<br>
+<br>
+<br>
+
+### Important Dates
 - Deadline for applications: **31 March 2020** 
 - Chosen participants will be notified by: 10 April 2020
 - Course date: 6-7 May 2020
+<br>
+<br>
 
-
-**VENUE**
-
-University of Rome Tor Vergata
-
+### Venue
+University of Rome Tor Vergata<br>
 Aula 17, Department of Biology, Rome.  [**(link to the map)**](https://maps.google.com/maps?q=45.517557,9.212989) 
 Via della Ricerca Scientifica 
 00133 Rome, Italy
+<br>
+<br>
 
-**FEE** 
+### Fee 
 The course does not include a fee, but the participants are expected to pay their own travel and accomodation costs (if any).
+<br>
+<br>
 
-**SELECTION**
-
+### Selection
 A maximum of **30 candidates** will be selected on a first-come-first-served basis. Chosen participants will be notified by 10th April 2020. 
 
 **Cancellation policy:** Attendance is limited to 30 participants. We expect many more applications. Accepted participants commit to attend the course for its whole duration. Failure to attend training sessions is disruptive. Moreover, it blocks other candidates from participating. Therefore, a cancellation policy is in place so that only written requests presented 10 days in advance relatively to the course starting date are accepted.
@@ -47,21 +51,29 @@ A maximum of **30 candidates** will be selected on a first-come-first-served bas
 - [**Ruth Lovering**]() -  University College of London, UCL, UK
 - [**Luana Licata**](https://elixir-iib-training.github.io/website/instructors/luana_licata.html) - University of Rome Tor Vergata, ELIXIR-IT
 - [**Ines Pineda-Torra**]() - University College of London, UCL, UK
-
+<br>
+<br>
 
 ### Organisers
 - [**Ruth Lovering**]() -  University College of London, UCL, UK
 - [**Luana Licata**](https://elixir-iib-training.github.io/website/instructors/luana_licata.html) - University of Rome Tor Vergata, ELIXIR-IT (Local Organiser)
-
+<br>
+<br>
 
 ### Contact
 For all kinds of queries, please contact the local organiser Luana Licata at: luana.licata@uniroma2.it . For questions about course content, please email the scientific organisers luana.licata@uniroma2.it or r.lovering@ucl.ac.uk.
+<br>
+<br>
 
 ### Course Description
 The course will provide information about Gene Ontology (GO) and molecular interaction resources and practical demonstrations of a number of freely available high-throughput analysis and network analysis tools that can be used for the analysis of large datasets, such as those derived from proteomic or transcriptomic methodologies.
+<br>
+<br>
 
 ### Target audience
 The workshop is open to all biological or biomedical PhD and Post-Doc research scientists, as well as team leaders and PIs. You don't need to have any previous knowledge of the tools that will be presented at the workshop. Attendees may bring in their own datasets for high-throughput analysis, although example datasets will be available.
+<br>
+<br>
 
 ### Aims of the workshop
 •	To provide information about Gene Ontology (GO) and molecular interaction resources 
@@ -76,10 +88,10 @@ Resources covered:
 •	Cytoscape
 •	Ensembl
 •	Data mining: Biomart
-
+<br>
+<br>
 
 ### Learning Outcomes
-
 By the end of this course, the participants will be able to:
 
 - Identify and access public data resources and tools for data integration, high-throughput analysis, functional analysis and network analysis
@@ -93,6 +105,8 @@ By the end of this course, the participants will be able to:
 - Represent networks using Cytoscape
 
 - Identify tools used for network analysis and functional analysis
+<br>
+<br>
 
 ### Course prerequisites
 Participants can use the computer available in the meeting room however if they prefer, they can bring their own laptop and install before the meeting few specific software.  Materials will be provided in advance of the workshop by the organizers. 
