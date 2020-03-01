@@ -101,7 +101,7 @@ Participants can use the computer available in the meeting room however if they 
 ### [Application Form - Registration](https://docs.google.com/forms/d/e/1FAIpQLSeRrEW8ScR_9iEwa4hSNu6ko45bqbHk5RhC0z67oWWe3xtNAg/viewform)
 
 
-### Programme
+### Preliminary Programme
 <table border="1" width="700">
 <tr>
    <td colspan="4"><h3>Wednesday - 6 May</h3></td>
@@ -199,6 +199,10 @@ Participants can use the computer available in the meeting room however if they 
    <td height="50">Data mining: Biomart</td>
 </tr>
 </table>
+<br>
+<br>
+<br>
+<br>
 
 
 
