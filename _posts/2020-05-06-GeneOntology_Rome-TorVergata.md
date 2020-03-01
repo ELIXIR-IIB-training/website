@@ -104,10 +104,12 @@ By the end of this course, the participants will be able to:
 
 ### Course prerequisites
 Participants can use the computer available in the meeting room however if they prefer, they can bring their own laptop and install before the meeting few specific software.  Materials will be provided in advance of the workshop by the organizers. 
-
+<br>
+<br>
 
 ### [Application Form - Registration](https://docs.google.com/forms/d/e/1FAIpQLSeRrEW8ScR_9iEwa4hSNu6ko45bqbHk5RhC0z67oWWe3xtNAg/viewform)
-
+<br>
+<br>
 
 ### Preliminary Programme
 <table border="1" width="700">
