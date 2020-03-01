@@ -121,7 +121,7 @@ Participants can use the computer available in the meeting room however if they 
    <td colspan="4"><h3>Wednesday - 6 May</h3></td>
 </tr>
 <tr>
-   <td height="50" width="50">09:00 - 9:15</td>
+   <td height="50" width="50">09:00 - 09:15</td>
    <td height="50">lecture
    <td height="50"> What do you know about bioinformatics databases? Small group discussions and feedback to attendees</td>
 </tr>
