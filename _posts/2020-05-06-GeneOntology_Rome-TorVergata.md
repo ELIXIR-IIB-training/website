@@ -77,7 +77,7 @@ The workshop is open to all biological or biomedical PhD and Post-Doc research s
 
 ### Aims of the workshop
 -	To provide information about Gene Ontology (GO) and molecular interaction resources 
--	To provide practical demonstrations of a number of freely available high-throughput analysis and network analysis tools that can be used for the analysis of large datasets, such as those derived from proteomic or transcriptomic methodologies.
+-	To provide practical demonstrations of a number of freely available high-throughput analysis and network analysis tools that can be used for the analysis of large datasets, such as those derived from proteomic or transcriptomic methodologies.<br>
 Resources covered:
 -	Identifier mapping
 -	Gene Ontology
@@ -122,17 +122,17 @@ Participants can use the computer available in the meeting room however if they 
 </tr>
 <tr>
    <td height="50" width="50">09:00 - 09:15</td>
-   <td height="50">lecture
+   <td height="50">lecture</td
    <td height="50"> What do you know about bioinformatics databases? Small group discussions and feedback to attendees</td>
 </tr>
 <tr>
    <td height="50">09:15 - 09:45</td>
-   <td height="50">Lecture
+   <td height="50">Lecture<td>
    <td height="50">Identifier mapping, HGNC/UniProt/others</td>
 </tr>
 <tr>
    <td height="50">09:45 - 10:45</td>
-   <td height="50">Lecture
+   <td height="50">Lecture</td>
    <td height="50">Gene Ontology. Examples of data captured</td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ Participants can use the computer available in the meeting room however if they 
 <tr>
 <tr>
    <td height="50">11:45 - 12:45</td>
-  <td height="50">Lecture and Exercise
+  <td height="50">Lecture and Exercise</td>
    <td height="50">GO-CAM and annotation extensions</td>
    </td>
 </tr>
@@ -156,13 +156,13 @@ Participants can use the computer available in the meeting room however if they 
 </tr>
 <tr>
    <td height="50">13:45 - 14:15</td>
-   <td height="50">Lecture
+   <td height="50">Lecture</td>
    <td height="50">Functional analysis tools. How to cite data/tools in papers, including date of files/analysis. Checking the date the tools updated their annotation/ontology files</td>
 </td>
 </tr>
 <tr>
    <td height="50">14:15 - 15:45</td>
-    <td height="50">Lecture and Exercise </td>
+    <td height="50">Lecture and Exercise</td>
    <td height="50">Transcriptomic data analysis by using variety of tools (TBC) g:Profiler,WebGestalt,DAVID,VLAD</td>
 <tr>
    <td height="50">15:45 - 16:15</td>
@@ -170,7 +170,7 @@ Participants can use the computer available in the meeting room however if they 
 </tr>
 <tr>
    <td height="50">16:15 - 17:30</td>
-    <td height="50">Lecture and Exercise </td>
+    <td height="50">Lecture and Exercise</td>
    <td height="50">Ontology Lookup Service</td>
 <tr>
    <td colspan="4"><h3>Thursday - 7 May</h3></td>
