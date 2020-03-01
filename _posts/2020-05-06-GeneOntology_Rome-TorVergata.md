@@ -137,7 +137,7 @@ Participants can use the computer available in the meeting room however if they 
    <td height="50">11:15 - 11:45</td>
  	<td height="50">Exercise</td>
    <td height="50">QuickGO browser</td>
-<tr>
+</tr>
 <tr>
    <td height="50">11:45 - 12:45</td>
   	<td height="50">Lecture and Exercise</td>
@@ -156,6 +156,7 @@ Participants can use the computer available in the meeting room however if they 
    <td height="50">14:15 - 15:45</td>
     <td height="50">Lecture and Exercise</td>
    <td height="50">Transcriptomic data analysis by using variety of tools (TBC) g:Profiler,WebGestalt,DAVID,VLAD</td>
+</tr>
 <tr>
    <td height="50">15:45 - 16:15</td>
    <td colspan="3" height="50">Coffee break</td>
@@ -164,6 +165,7 @@ Participants can use the computer available in the meeting room however if they 
    <td height="50">16:15 - 17:30</td>
     <td height="50">Lecture and Exercise</td>
    <td height="50">Ontology Lookup Service</td>
+</tr>
 <tr>
    <td colspan="4"><h3>Thursday - 7 May</h3></td>
 </tr>
