@@ -25,7 +25,7 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
 ### Important Dates
 - Deadline for applications: **31 March 2020** 
 - Chosen participants will be notified by: 10 April 2020
-- Course date: 6-7 May 2020
+- Course date: **6-7 May 2020**
 <br>
 <br>
 
