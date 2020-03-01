@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gene Ontology and Bioinformatic data Resources Workshop: Data Annotation and functional analysis tools. <font color='green'>[open]</font>"
+title:  "Gene Ontology and Bioinformatics Data Resources Workshop: data annotation and functional analysis tools. <font color='green'>[open]</font>"
 date_start:   2020-05-06
 date_end:   2020-05-07
 venue: Rome, Italy
