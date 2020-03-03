@@ -31,7 +31,7 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
 
 ### Venue
 University of Rome Tor Vergata<br>
-Aula 17, Department of Biology, Rome. [**(link to the map)**](https://maps.google.com/maps?q=45.517557,9.212989)<br>
+Aula 17, Department of Biology, Rome. [**(link to the map)**](https://www.google.com/maps/place/Macroarea+di+Scienze+M.F.N.+-+Universit%C3%A0+di+Roma+Tor+Vergata/@41.8541,12.6032513,17z/data=!4m12!1m6!3m5!1s0x132587f9328c769b:0x1391be005eeb11f9!2sMacroarea+di+Scienze+M.F.N.+-+Universit%C3%A0+di+Roma+Tor+Vergata!8m2!3d41.8541!4d12.60544!3m4!1s0x132587f9328c769b:0x1391be005eeb11f9!8m2!3d41.8541!4d12.60544)<br>
 Via della Ricerca Scientifica<br>
 00133 Rome, Italy
 <br>
