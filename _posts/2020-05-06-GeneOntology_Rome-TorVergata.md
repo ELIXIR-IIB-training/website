@@ -22,6 +22,11 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
 <br>
 <br>
 
+**<font color='red'>WARNING: due to the public health emergency, the course has been cancelled and will be rescheduled to a later date.</font>**
+<br>
+<br>
+
+
 ### Important Dates
 - Deadline for applications: **31 March 2020** 
 - Chosen participants will be notified by: 10 April 2020
