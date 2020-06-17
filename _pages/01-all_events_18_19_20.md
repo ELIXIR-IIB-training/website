@@ -21,7 +21,7 @@ permalink: /all_events_2018_2019_2020/
    <!-- <td height="50" width="150"></td> -->
    <td height="50" align="center">on-line</td>
    <td height="50" width="75" align="center">Jul<br>14-17<br>2020</td>
-   <td height="50" align="center"><font color="green" size="2"><b>open</b></font></td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
