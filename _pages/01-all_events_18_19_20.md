@@ -15,7 +15,16 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 <tr>
-<td height="50" align="center">ELIXIR-IIB<br>Practical Course</td>
+<td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/07/14/SWC_RforReproducibleScientificAnalysis-online.html">Software Carpentry Workshop - <br>R for Reproducible Scientific Analysis</a></td>
+   <td height="50" width="150">A. Via<br>L. Le Pera<br>V. Colonna</td>
+   <!-- <td height="50" width="150"></td> -->
+   <td height="50" align="center">on-line</td>
+   <td height="50" width="75" align="center">Jul<br>14-17<br>2020</td>
+   <td height="50" align="center"><font color="green" size="2"><b>open</b></font></td>
+</tr>
+<tr>
+<td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/05/06/GeneOntology_Rome-TorVergata.html">Gene Ontology and Bioinformatics Data Resources Workshop</a></td>
    <td height="50" width="150">R. Lovering<br>L. Licata</td>
    <!-- <td height="50" width="150"></td> -->
