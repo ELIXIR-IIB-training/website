@@ -19,7 +19,7 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/07/14/SWC_RforReproducibleScientificAnalysis-online.html">Software Carpentry Workshop - <br>R for Reproducible Scientific Analysis</a></td>
    <td height="50" width="150">A. Via<br>L. Le Pera<br>V. Colonna</td>
    <!-- <td height="50" width="150"></td> -->
-   <td height="50" align="center">on-line</td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Jul<br>14-17<br>2020</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>
 </tr>
