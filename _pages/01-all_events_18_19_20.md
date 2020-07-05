@@ -14,6 +14,18 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" width="75" align="center"><b>Date</b></td>
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
+
+<tr>
+	<td height="50" align="center">European Joint Programme<br>Rare Diseases</td>
+   <td height="50" width="220" align="center"><a href="https://www.ejprarediseases.org/index.php/international-summer-school-on-rare-disease-registries-and-fairification-of-data-2/">International Summer School on Rare Disease Registries and FAIRification of Data</a></td>
+   <td height="50" width="150">Istituto Superiore di Sanità<br>EJP RD task partners</td>
+   <!-- <td he
+   <!-- <td height="50" width="150"></td> -->
+   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" width="75" align="center">Sep 28- Oct 2<br>2020</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+</tr>
+
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/07/14/SWC_RforReproducibleScientificAnalysis-online.html">Software Carpentry Workshop - <br>R for Reproducible Scientific Analysis</a></td>
