@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Software Carpentry Workshop - R for Reproducible Scientific Analysis <font color='green'>[open]</font>"
+title:  "Software Carpentry Workshop - R for Reproducible Scientific Analysis <font color='black'>[closed]</font>"
 date_start:   2020-07-14
 date_end:   2020-07-17
 venue: online
