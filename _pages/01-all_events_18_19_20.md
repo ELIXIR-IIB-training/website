@@ -14,16 +14,6 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" width="75" align="center"><b>Date</b></td>
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
-
-<tr>
-	<td height="50" align="center">ELIXIR-IIB Dissemination/Outreach<br>Webinar</td>
-   <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/16888">Covid-19 e condivisione del dati: perché in Italia si fa troppo poco? </a></td>
-   <td height="50" width="150">F. De Leo<br>E. Lazzeri<br>L. Le Pera<br>G. Pavone<br>A. Via</td>
-   <!-- <td height="50" width="150"></td> -->
-   <td height="50" align="center"><font color="blue">on-line</font></td>
-   <td height="50" width="75" align="center">Jul 21<br>2020</td>
-   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
-</tr>
 <tr>
 	<td height="50" align="center">European Joint Programme<br>Rare Diseases</td>
    <td height="50" width="220" align="center"><a href="https://www.ejprarediseases.org/index.php/international-summer-school-on-rare-disease-registries-and-fairification-of-data-2/">International Summer School on Rare Disease Registries and FAIRification of Data</a></td>
@@ -32,6 +22,15 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Sep 28- Oct 2<br>2020</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>  
+</tr>
+<tr>
+	<td height="50" align="center">ELIXIR-IIB Dissemination/Outreach<br>Webinar</td>
+   <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/16888">Covid-19 e condivisione del dati: perché in Italia si fa troppo poco? </a></td>
+   <td height="50" width="150">F. De Leo<br>E. Lazzeri<br>L. Le Pera<br>G. Pavone<br>A. Via</td>
+   <!-- <td height="50" width="150"></td> -->
+   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" width="75" align="center">Jul 21<br>2020</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 
 <tr>
