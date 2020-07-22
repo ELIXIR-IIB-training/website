@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  EMBO Practical Course on "Population Genomics&#58; Background, tools, and programming" <font color='black'>[closed]</font>
+title:  EMBO Practical Course on "Population Genomics&#58; Background, tools, and programming" <font color='red' size='3'>[cancelled, to be rescheduled]</font>
 date_start: 2020-04-01
 date_end:   2020-04-08
 venue: Procida (Napoli), Italy
