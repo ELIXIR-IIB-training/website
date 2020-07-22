@@ -22,7 +22,7 @@ permalink: /all_events_2018_2019_2020/
    <!-- <td height="50" width="150"></td> -->
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Jul 21<br>2020</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
 	<td height="50" align="center">European Joint Programme<br>Rare Diseases</td>
@@ -31,7 +31,7 @@ permalink: /all_events_2018_2019_2020/
    <!-- <td height="50" width="150"></td> -->
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Sep 28- Oct 2<br>2020</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>  
 </tr>
 
 <tr>
