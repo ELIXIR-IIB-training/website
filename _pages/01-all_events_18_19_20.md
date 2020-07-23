@@ -70,6 +70,15 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" align="center"><font color="red" size="2"><b>cancelled,<br>to be rescheduled</b></font></td>
 </tr>
 <tr>
+<td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" width="220" align="center"><a href="https://www.france-bioinformatique.fr/fr/evenements/train-trainers-2020">Train the Trainer</a></td>
+   <td height="50">ELIXIR-FR<br>ELIXIR-IT</td>
+   <!-- <td height="50" width="150"></td> -->
+   <td height="50" align="center">Paris,<br>France</td>
+   <td height="50" width="75" align="center">Feb<br>10-11<br>2020</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
+</tr>
+<tr>
 <td height="50" align="center">ELIXIR-IIB<br>Winter School</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/01/27/winter-school-idp-brixen.html">Disorder in Disorders:<br>Pathogenic mechanisms of<br>Intrinsically Disordered Proteins</a></td>
    <td height="50" width="150">MSCA-RISE IDPfun<br>University of Padua<br>ELIXIR-IIB</td>
