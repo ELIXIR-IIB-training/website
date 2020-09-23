@@ -15,6 +15,15 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 <tr>
+<td height="50" align="center">Biohackathon-Europe</td>
+   <td height="50" width="220" align="center"><a href="https://www.biohackathon-europe.org/index.html">ELIXIR<br>Biohackathon 2020</a></td>
+   <td height="50" width="150">ELIXIR<br>NBDC<br>DBCLS</td>
+   <td height="50" width="150">V. Colonna (advisor)<br>A. Via (participant)<br>L. Pera (participant)<br>L. Licata (participant)</td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" width="75" align="center">Nov<br>9-13<br>2020</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
+</tr>
+<tr>
 	<td height="50" align="center">ELIXIR-IIB Training Course</td>
    <td height="50" width="220" align="center">Train the Trainer</td>
    <td height="50" width="150">ELIXIR-PT<br>ELIXIR Training Platform</td>
