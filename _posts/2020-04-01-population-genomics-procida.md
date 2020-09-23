@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  EMBO Practical Course on "Population Genomics&#58; Background, tools, and programming" <font color='red' size='3'>[cancelled, to be rescheduled]</font>
-date_start: 2020-04-01
-date_end:   2020-04-08
+title:  EMBO Practical Course on "Population Genomics&#58; Background, tools, and programming"
+date_start: 2021-03-19
+date_end:   2021-03-26
 venue: Procida (Napoli), Italy
 description: This EMBO Practical Course will cover coalescent theory, the effect of demography in space and time, genetic clustering, the detection and quantification of admixture and selection. Lectures on these topics will be complemented by hands-on computer practicals introducing a wide range of software packages, both in R and Python. This course is aimed at evolutionary biologists who already have basic bioinformatics skills. A main criterion for selection will be how much a candidate can benefit from the course.
 
