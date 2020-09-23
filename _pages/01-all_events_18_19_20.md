@@ -354,7 +354,7 @@ permalink: /all_events_2018_2019_2020/
 <td height="50" align="center">Bring Your Own Data Workshop</td>
    <td height="50" width="220" align="center"><a href="http://old.iss.it/cnmr/?lang=1&id=2795&tipo=3">Summer School on Rare Disease and Orphan Drug Registries including BYOD</a></td>
    <td height="50" width="150">D. Taruscio<br>M. Roos<br>C. Carta<br></td>
-   <!-- <td height="50" width="150"></td> -->
+   <td height="50" width="150">C. Carta (instructor)</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Sep<br>10-14<br>2018</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
