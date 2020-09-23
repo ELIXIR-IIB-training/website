@@ -20,7 +20,7 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" width="150">ELIXIR-PT<br>ELIXIR Training Platform</td>
    <td height="50" width="150">A. Via (instructor)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
-   <td height="50" width="75" align="center">Oct<br>5-9<2020></td>
+   <td height="50" width="75" align="center">Oct<br>5-9<br>2020</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>  
 </tr>
 <tr>
