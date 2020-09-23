@@ -15,6 +15,15 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 <tr>
+<td height="50" align="center">EMBO<br>Practical Course</td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/04/01/population-genomics-procida.html">Population Genomics: Background, tools, and programming</a></td>
+   <td height="50" width="150">A. Manica<br>C. Batini<br>V. Colonna</td>
+   <td height="50" width="150"></td>
+   <td height="50" align="center">Procida,<br>Italy</td>
+   <td height="50" width="75" align="center">March<br>19-26<br>2021</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
+</tr>
+<tr>
 <td height="50" align="center">Biohackathon-Europe</td>
    <td height="50" width="220" align="center"><a href="https://www.biohackathon-europe.org/index.html">ELIXIR<br>Biohackathon 2020</a></td>
    <td height="50" width="150">ELIXIR<br>NBDC<br>DBCLS</td>
@@ -68,15 +77,6 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" align="center">Rome,<br>Italy</td>
    <td height="50" width="75" align="center">May<br>06-07<br>2020</td>
    <td height="50" align="center"><font color="red" size="2"><b>cancelled,<br>to be rescheduled</b></font></td>
-</tr>
-<tr>
-<td height="50" align="center">EMBO<br>Practical Course</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/04/01/population-genomics-procida.html">Population Genomics: Background, tools, and programming</a></td>
-   <td height="50" width="150">A. Manica<br>C. Batini<br>V. Colonna</td>
-   <td height="50" width="150"></td>
-   <td height="50" align="center">Procida,<br>Italy</td>
-   <td height="50" width="75" align="center">April<br>01-08<br>2020</td>
-   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
