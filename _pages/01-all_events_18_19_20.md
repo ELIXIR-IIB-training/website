@@ -181,7 +181,7 @@ permalink: /all_events_2018_2019_2020/
 <td height="50" align="center">FEBS Education<br>Workshop<br>Scientific dissemination activity</td>
    <td height="50" width="220" align="center"><a href="https://sites.google.com/prod/uniroma1.it/eltbiochemistry2019/">Excellence in Learning and Teaching Biochemistry</a></td>
    <td height="50" width="150">FEBS Education<br>SIB<br>IUBMB<br>Sapienza University</td>
-   <td height="50" width="150">L. Le Pera</td>
+   <td height="50" width="150">L. Le Pera (speaker)</td>
    <td height="50" align="center">Roma,<br>Italy</td>
    <td height="50" width="75" align="center">Sep<br>16-17<br>2019</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
@@ -190,7 +190,7 @@ permalink: /all_events_2018_2019_2020/
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/07/05/SWC-Napoli.html">Software Carpentry<br>Workshop</a></td>
    <td height="50" width="150">V. Colonna<br>A. Marabotti<br>L. Le Pera</td>
-   <td height="50" width="150">V. Colonna</td>
+   <td height="50" width="150">V. Colonna (instructor)</td>
    <td height="50" align="center">Napoli,<br>Italy</td>
    <td height="50" width="75" align="center">Jul<br>03-05<br>2019</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
@@ -226,7 +226,7 @@ permalink: /all_events_2018_2019_2020/
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/05/07/SingleCell-Pozzuoli.html">Single Cell RNA Sequencing and Data Analysis</a></td>
    <td height="50" width="150">D. Cacchiarelli<br>V. Colonna<br>L. Le Pera<br>A. Via</td>
-   <td height="50" width="150">D. Cacchiarelli (instructor)</td>
+   <td height="50" width="150"></td>
    <td height="50" align="center">Pozzuoli,<br>Italy</td>
    <td height="50" width="75" align="center">May<br>07-09<br>2019</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
