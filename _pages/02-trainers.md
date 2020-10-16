@@ -15,8 +15,6 @@ permalink: /trainers/
 
 [**Raoul Jean Pierre Bonnal**](../instructors/raoul_bonnal.html) [National Institute of Molecular Genetics (INGM), Milano, IT]<br>
 
-[**Alberto Calderone**](../instructors/alberto_calderone.html) [Dep. of Molecular Biology, "Tor Vergata" University, Roma, IT]<br>
-
 [**Raffaele Calogero**](../instructors/raffaele_calogero.html) [Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT]<br>
 
 [**Tiziana Castrignanò**](../instructors/tiziana_castrignano.html) [CINECA, Roma, IT]<br>
