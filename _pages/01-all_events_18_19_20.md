@@ -24,7 +24,7 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-<td height="50" align="center">ELIXIR-IIB Training Course</td>
+<td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/12/01/train-the-trainer-italy-online.html">Train the Trainer</a></td>
    <td height="50">L. Le Pera<br>A. Via</td>
    <td height="50" width="150">L. Le Pera (instructor)<br>A. Via (instructor)</td>
@@ -42,7 +42,7 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-	<td height="50" align="center">ELIXIR-IIB Training Course</td>
+	<td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center">Train the Trainer</td>
    <td height="50" width="150">ELIXIR-PT<br>ELIXIR Training Platform</td>
    <td height="50" width="150">A. Via (instructor)</td>
