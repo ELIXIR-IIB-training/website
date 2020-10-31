@@ -180,5 +180,7 @@ If you have questions like the following ones, this course may be very helpful t
 <table border="0" >
   <tr>
     <td><a href="https://www.elixir-europe.org"><img src="../../../img/Logo_ELIXIR_white_background.png" height="80"></a></td>
+    <td width=50></td>
+    <td><a href="https://www.elixir-europe.org"><img src="../../../img/Logo_CNR_Italy.png" height="80"></a></td>
   </tr>
 </table>
