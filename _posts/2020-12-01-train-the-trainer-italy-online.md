@@ -46,7 +46,6 @@ There is no course attendance fee.
 **Jessica Lindvall** (ELIXIR-SE Training Coordinator, NBIS, SE)<br>
 **Patricia Palagi** (ELIXIR-CH Training Coordinator, SIB, CH)<br>
 [**Allegra Via**](../../../instructors/allegra_via.html) (ELIXIR-IT Training Coordinator, IBPM-CNR, IT)<br>
-
 <br>
 <br>
 
