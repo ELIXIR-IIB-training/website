@@ -179,6 +179,6 @@ If you have questions like the following ones, this course may be very helpful t
 <br>
 <table border="0" >
   <tr>
-    <td><a href="https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate"><img src="../../../img/Logo_Excelerate_EU-flag-acknowledgement.png" height="80"></a></td>
+    <td><a href="https://www.elixir-europe.org"><img src="../../../img/Logo_ELIXIR_white_background.png" height="80"></a></td>
   </tr>
 </table>
