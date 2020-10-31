@@ -142,9 +142,8 @@ If you have questions like the following ones, this course may be very helpful t
 </tr>
 <tr>
  <td height="50" width="100">17:00 - 17:30</td>
- <td height="50">Wrap-up and feedback
+ <td height="50">Wrap-up and feedback</td>
 </tr>
-
 </table>
 <br>
 <br>
