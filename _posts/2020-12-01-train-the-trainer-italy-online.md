@@ -31,11 +31,9 @@ Course date: <b>01-04 December, 2020, 14:00 - 17:30 CET</b>
 We will accept a maximum of **20** participants. Priority will be given to candidates from ELIXIR-IT institutes (see below) and ELIXIR nodes. Notifications of acceptance will be sent shortly after the application, which will remain open until we reach 20 participants.
 <br>
 <br>
-<br>
+
 ### [Application form - Registration](https://forms.gle/jVuj7NDLnkjDKEUo8)
 <br>
-<br>
-
 
 ### Fee
 There is no course attendance fee. 
