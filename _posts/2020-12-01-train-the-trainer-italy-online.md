@@ -11,9 +11,9 @@ description: The ELIXIR Training Platform, in collaboration with ELIXIR-IT, is p
 
 <table border="0">
   <tr>
-  <td></td>
  <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="100"></a></td>
   </tr>
+  <td><<img src="../../../img/Online.jpg" height="100"></td>
 </table>
 <br>
 <br>
