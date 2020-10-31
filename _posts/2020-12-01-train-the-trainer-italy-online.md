@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ELIXIR Train the Trainer Online <font color='green'>[open]</font>"
+title:  "ELIXIR Train the Trainer <font color='blue'>Online</font> <font color='green'>[open]</font>"
 date_start: 2020-12-01
 date_end:   2020-12-04
 venue: online
@@ -13,7 +13,6 @@ description: The ELIXIR Training Platform, in collaboration with ELIXIR-IT, is p
   <tr>
  <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="100"></a></td>
   </tr>
-  <td><<img src="../../../img/Online.jpg" height="100"></td>
 </table>
 <br>
 <br>
