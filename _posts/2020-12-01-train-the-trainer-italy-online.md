@@ -103,7 +103,6 @@ If you have questions like the following ones, this course may be very helpful t
 <br>
 
 ## General programme
-
 <table border="1">
 <tr>
   <td colspan="2"><h4><b>Day 1</b></h4></td>
