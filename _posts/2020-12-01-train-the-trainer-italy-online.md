@@ -85,7 +85,7 @@ If you have questions like the following ones, this course may be very helpful t
 <br>
 <br>
 
-### Learning Objectives:  
+### Learning Objectives  
  * To get acquainted with Learning principles and how they apply to training
  * To be able to select and utilise training techniques that can be used to enhance learner engagement and participation
  * To learn how to use assessment and feedback in training
@@ -93,7 +93,7 @@ If you have questions like the following ones, this course may be very helpful t
 <br>
 <br>
 
-### Learning Outcomes:
+### Learning Outcomes
  * Learners can name learning principles that a good teacher/instructor should have in mind
  * Learners can describe at least three training techniques, drawing on learning principles
  * Learners can design a training session and a course
