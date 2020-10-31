@@ -42,10 +42,10 @@ There is no course attendance fee.
 
 ### Instructors
 
-**Loredana Le Pera** (ELIXIR-IT Training Coordinator Deputy, IBIOM-CNR,IT)
-**Jessica Lindvall** (ELIXIR-SE Training Coordinator, NBIS, SE)
-**Patricia Palagi** (ELIXIR-CH Training Coordinator, SIB, CH)
-[**Allegra Via**](../../../instructors/allegra_via.html)  (ELIXIR-IT Training Coordinator, IBPM-CNR, IT)<br>
+[**Loredana Le Pera**](../../../instructors/loredana_lepera.html) (ELIXIR-IT Deputy Training Coordinator, IBIOM-CNR,IT)<br>
+**Jessica Lindvall** (ELIXIR-SE Training Coordinator, NBIS, SE)<br>
+**Patricia Palagi** (ELIXIR-CH Training Coordinator, SIB, CH)<br>
+[**Allegra Via**](../../../instructors/allegra_via.html) (ELIXIR-IT Training Coordinator, IBPM-CNR, IT)<br>
 
 <br>
 <br>
