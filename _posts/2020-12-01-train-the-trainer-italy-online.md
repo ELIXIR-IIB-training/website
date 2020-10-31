@@ -37,9 +37,10 @@ We will accept a maximum of **20** participants. Priority will be given to candi
 
 ### Fee
 There is no course attendance fee. 
+<br>
+<br>
 
 ### Instructors
-
 [**Loredana Le Pera**](../../../instructors/loredana_lepera.html) (ELIXIR-IT Deputy Training Coordinator, IBIOM-CNR, IT)<br>
 **Jessica Lindvall** (ELIXIR-SE Training Coordinator, NBIS, SE)<br>
 **Patricia Palagi** (ELIXIR-CH Training Coordinator, SIB, CH)<br>
