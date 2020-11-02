@@ -70,7 +70,7 @@ permalink: /all_events_2018_2019_2020/
 </tr>
 <tr>
 	<td height="50" align="center">ELIXIR-IIB Dissemination/Outreach<br>Webinar</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-italy.org/singolo-evento/?blog=1&id=1112&tipo=tipo_evento">Covid-19 e condivisione del dati: perché in Italia si fa troppo poco?</a></td>
+   <td height="50" width="220" align="center"><a href="https://elixir-italy.org/singolo-evento/?blog=1&id=1112&tipo=tipo_evento">Covid-19 e condivisione del dati: perché in Italia si fa troppo poco? <font color="orange">(II edition)</font></a></td>
    <td height="50" width="150">F. De Leo<br>E. Lazzeri<br>L. Le Pera<br>G. Pavone<br>A. Via</td>
    <td height="50" width="150">G. Pesole (speaker)<br>A. Via (speaker)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
