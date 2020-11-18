@@ -36,7 +36,7 @@ permalink: /all_events_2018_2019_2020/
 	<td height="50" align="center">ELIXIR-IIB<br>Dissemination for<br>high-school/<br>Notte europea dei ricercatori</td>
    <td height="50" width="220" align="center"><a href="http://www.ern-apulia.it/evento/fai-una-domanda-su-covid-19-gli-esperti-rispondono/">Fai una domanda su Covid-19,<br>gli esperti rispondono</a></td>
    <td height="50" width="150">ELIXIR-IT<br>CNR<br>UNIBA<br>POLIBA<br>OpenAIRE</td>
-   <td height="50" width="150">F. De Leo (scient. committee)<br>L. Le Pera (scient. committee)<br>A. Via (scient. committee)</td>
+   <td height="50" width="150">F. De Leo (scient. comm.)<br>L. Le Pera (scient. comm.)<br>A. Via (scient. comm.)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Nov 27<br>2020</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>   
