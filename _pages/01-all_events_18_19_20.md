@@ -33,13 +33,22 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" align="center"><font color="green"><b>open</b></font></td>   
 </tr>
 <tr>
+	<td height="50" align="center">ELIXIR-IIB<br>Dissemination for<br>high-school/<br>Notte europea dei ricercatori</td>
+   <td height="50" width="220" align="center"><a href="http://www.ern-apulia.it/evento/fai-una-domanda-su-covid-19-gli-esperti-rispondono/">Fai una domanda su Covid-19,<br>gli esperti rispondono</a></td>
+   <td height="50" width="150">ELIXIR-IT<br>CNR<br>UNIBA<br>POLIBA<br>OpenAIRE</td>
+   <td height="50" width="150">F. De Leo (com. scientifico)<br>L. Le Pera (com. scientifico)<br>A. Via (com. scientifico)</td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" width="75" align="center">Nov 27<br>2020</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+</tr>
+<tr>
 	<td height="50" align="center">ELIXIR-IIB Dissemination/Outreach<br>Webinar</td>
    <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/16992">Covid-19 e condivisione del dati: perché in Italia si fa troppo poco?<br><font color="orange">(II edition)</font></a></td>
    <td height="50" width="150">F. De Leo<br>E. Lazzeri<br>L. Le Pera<br>G. Pavone<br>A. Via</td>
    <td height="50" width="150">G. Pesole (speaker)<br>A. Via (speaker)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Nov 16<br>2020</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">Biohackathon-Europe</td>
