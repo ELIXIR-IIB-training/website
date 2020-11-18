@@ -43,7 +43,7 @@ permalink: /all_events_2018_2019_2020/
 </tr>
 <tr>
 <td height="50" align="center">Biohackathon-Europe</td>
-   <td height="50" width="220" align="center"><a href="https://www.biohackathon-europe.org/index.html">ELIXIR<br>Biohackathon 2020</a></td>
+   <td height="50" width="220" align="center"><a href="https://www.biohackathon-europe.org/index.html">ELIXIR<br>Biohackathon 2020</a><br>Project 29</td>
    <td height="50" width="150">ELIXIR<br>NBDC<br>DBCLS</td>
    <td height="50" width="150">V. Colonna (advisor)<br>A. Via (project lead)<br>L. Pera (project co-lead)<br>L. Licata (participant)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
