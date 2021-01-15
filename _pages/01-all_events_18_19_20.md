@@ -31,7 +31,7 @@ https://web.vscht.cz/~spiwokv/trt/">Train the Trainer</a></td>
    <td height="50" width="150">L. Le Pera (instructor)<br>A. Via (instructor)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Feb<br>9-12<br>2021</td>
-   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
@@ -49,7 +49,7 @@ https://web.vscht.cz/~spiwokv/trt/">Train the Trainer</a></td>
    <td height="50" width="150">F. De Leo (scient. comm.)<br>L. Le Pera (scient. comm.)<br>A. Via (scient. comm.)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Nov 27<br>2020</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>    
 </tr>
 <tr>
 	<td height="50" align="center">ELIXIR-IIB Dissemination/Outreach<br>Webinar</td>
@@ -72,7 +72,7 @@ https://web.vscht.cz/~spiwokv/trt/">Train the Trainer</a></td>
 <tr>
 	<td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center">Train the Trainer</td>
-   <td height="50" width="150">ELIXIR-PT<br>ELIXIR Training Platform</td>
+   <td height="50" width="150">ELIXIR-PT<br>ELIXIR</td>
    <td height="50" width="150">A. Via (instructor)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Oct<br>5-9<br>2020</td>
