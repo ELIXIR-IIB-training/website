@@ -19,9 +19,19 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2021/03/19/population-genomics-procida.html">Population Genomics: Background, tools, and programming</a></td>
    <td height="50" width="150">A. Manica<br>C. Batini<br>V. Colonna</td>
    <td height="50" width="150">V. Colonna (instructor)</td>
-   <td height="50" align="center">Procida,<br>Italy</td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">March<br>19-26<br>2021</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
+</tr>
+<tr>
+<td height="50" align="center">ELIXIR<br>Training Course</td>
+   <td height="50" width="220" align="center"><a href="
+https://web.vscht.cz/~spiwokv/trt/">Train the Trainer</a></td>
+   <td height="50">ELIXIR<br>ELIXIR-CZ</td>
+   <td height="50" width="150">L. Le Pera (instructor)<br>A. Via (instructor)</td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" width="75" align="center">Feb<br>9-12<br>2021</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
