@@ -24,6 +24,16 @@ permalink: /all_events_2018_2019_2020/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
+<td height="50" align="center">ELIXIR-IIB<br>Winter School</td>
+   <td height="50" width="220" align="center"><a href="
+http://www.biocomp.unibo.it/~school2021/">Bioinformatics for Discovery in Structural and Functional Biology</a></td>
+   <td height="50">ELIXIR-IIB<br>International Bologna Master in Bioinformatics<br>Interdepartmental Centre Alma Climate<br>Dep. of Pharmacy and Biotechnology - Univ. of Bologna<br>SIB<br>Accademia delle Scienze dell'Istituto di Bologna</td>
+   <td height="50" width="150"></td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" width="75" align="center">Feb<br>9-19<br>2021</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>  
+</tr>
+<tr>
 <td height="50" align="center">ELIXIR<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="
 https://web.vscht.cz/~spiwokv/trt/">Train the Trainer</a></td>
