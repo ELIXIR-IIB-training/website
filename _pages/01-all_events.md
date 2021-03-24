@@ -15,12 +15,22 @@ permalink: /all_events/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 <tr>
+<tr>
+<td height="50" align="center">ELIXIR<br>Training Course</td>
+   <td height="50" width="220" align="center"><a href="
+https://training.vib.be/all-trainings/train-trainer">Train the Trainer</a></td>
+   <td height="50">ELIXIR<br>ELIXIR-BE</td>
+   <td height="50" width="150">A. Via (instructor)</td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" width="75" align="center">Mar<br>29-<br>Apr 01<br>2021</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>  
+</tr>
 <td height="50" align="center">EMBO<br>Practical Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2021/03/19/population-genomics-procida.html">Population Genomics: Background, tools, and programming</a></td>
    <td height="50" width="150">A. Manica<br>C. Batini<br>V. Colonna</td>
    <td height="50" width="150">V. Colonna (instructor)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
-   <td height="50" width="75" align="center">March<br>19-26<br>2021</td>
+   <td height="50" width="75" align="center">Mar<br>19-26<br>2021</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
