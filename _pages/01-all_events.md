@@ -26,9 +26,9 @@ https://training.vib.be/all-trainings/train-trainer">Train the Trainer</a></td>
 </tr>
 <td height="50" align="center">The Carpentries</td>
    <td height="50" width="220" align="center"><a href="
-https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Software Carpentry<br>(ShellUnix, Git, Python)</a></td>
+https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Software Carpentry<br>(Shell Unix, Git, Python)</a></td>
    <td height="50">Carpentries Italia</td>
-   <td height="50" width="150">L. Le Pera (co-organiser/helper)</td>
+   <td height="50" width="150">L. Le Pera<br>(co-organiser/helper)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Mar<br>19, 26<br>2021</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>  
