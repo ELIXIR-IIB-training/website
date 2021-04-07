@@ -15,7 +15,6 @@ permalink: /all_events/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 <tr>
-<tr>
 <td height="50" align="center">ELIXIR<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="
 https://training.vib.be/all-trainings/train-trainer">Train the Trainer</a></td>
