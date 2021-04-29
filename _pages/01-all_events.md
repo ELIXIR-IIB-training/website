@@ -276,7 +276,7 @@ https://web.vscht.cz/~spiwokv/trt/">Train the Trainer</a></td>
    <td height="50" width="220" align="center"><a href="https://fpsom.github.io/2019-07-15-ttt-ELIXIR-Athens/">Carpentry Instructor<br>Training</a></td>
    <td height="50" width="150">ELIXIR<br>ELIXIR-GR</td>
    <td height="50" width="150">A. Via (instructor)</td>
-   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" align="center">Athens,<br>Italy</td>
    <td height="50" width="75" align="center">Jul<br>15-19<br>2019</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
