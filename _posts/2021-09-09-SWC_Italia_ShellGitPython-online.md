@@ -4,7 +4,7 @@ title:  "Laboratorio Software Carpentry (Carpentries Italia)- Shell, Git, Python
 date_start:   2021-09-09
 date_end:   2021-09-17
 venue: online
-description: Software Carpentry è un'associazione senza scopo di lucro il cui obiettivo è aiutare ricercatrici e ricercatori di ogni livello a semplificare e migliorare le proprie procedure di ricerca attraverso l'apprendimento di tecniche di base di programmazione e gestione di dati. Questo laboratorio propone ai partecipanti di apprendere programmando insieme agli istruttori, anch'essi appartenenti al mondo della ricerca e dell'insegnamento superiore e volontari dell'associazione Software Carpentry. Gli argomenti che verranno trattati sono l'automatizzazione di attività, il controllo di versione, l'organizzazione di dati, scrittura e progettazione di programmi. I partecipanti sono incoraggiati ad interagire fra loro e ad aiutarsi nel percorso di apprendimento e ad applicare quanto imparato ai loro campi di specializzazione.
+description: Software Carpentry è un'associazione senza scopo di lucro il cui obiettivo è aiutare ricercatrici e ricercatori di ogni livello a semplificare e migliorare le proprie procedure di ricerca attraverso l'apprendimento di tecniche di base di programmazione e gestione di dati. Questo laboratorio propone ai partecipanti di apprendere programmando insieme agli istruttori, anch'essi appartenenti al mondo della ricerca e dell'insegnamento superiore e volontari dell'associazione Software Carpentry. Gli argomenti che verranno trattati sono l'automatizzazione di attività, il controllo di versione, l'organizzazione di dati, scrittura e progettazione di programmi.
 
 ---
 
