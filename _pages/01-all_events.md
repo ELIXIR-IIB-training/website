@@ -18,7 +18,7 @@ permalink: /all_events/
 <td height="50" align="center">Biohackathon-Europe</td>
    <td height="50" width="220" align="center"><a href="https://www.biohackathon-europe.org/index.html">ELIXIR<br>Biohackathon 2021</a></td>
    <td height="50" width="150">ELIXIR<br>NBDC<br>DBCLS</td>
-   <td height="50" width="150">V. Colonna (advisor)<br>L. Pera (9th project co-lead)<br>A. Via (9th project co-lead)</td>
+   <td height="50" width="150">V. Colonna (advisor)<br>L. Pera (project9 co-lead)<br>A. Via (project9 co-lead)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Nov<br>8-12<br>2021</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>
@@ -129,9 +129,9 @@ https://web.vscht.cz/~spiwokv/trt/">Train the Trainer</a></td>
 </tr>
 <tr>
 <td height="50" align="center">Biohackathon-Europe</td>
-   <td height="50" width="220" align="center"><a href="https://www.biohackathon-europe.org/index.html">ELIXIR<br>Biohackathon 2020</a><br>Project 29</td>
+   <td height="50" width="220" align="center"><a href="https://www.biohackathon-europe.org/index.html">ELIXIR<br>Biohackathon 2020</a></td>
    <td height="50" width="150">ELIXIR<br>NBDC<br>DBCLS</td>
-   <td height="50" width="150">V. Colonna (advisor)<br>A. Via (project lead)<br>L. Pera (project co-lead)<br>L. Licata (participant)</td>
+   <td height="50" width="150">V. Colonna (advisor)<br>A. Via (project29 lead)<br>L. Pera (project29 co-lead)<br>L. Licata (participant)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Nov<br>9-13<br>2020</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
