@@ -15,6 +15,15 @@ permalink: /all_events/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 	<tr>
+	<td height="50" align="center">ELIXIR-IIB Dissemination/Outreach<br>Webinar</td>
+   <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/17404">Collaborare per contrastare la pandemia - Disponibilità e uso dei dati epidemiologici in pandemia: difficoltà e opportunità</a></td>
+   <td height="50" width="150">F. De Leo<br>E. Lazzeri<br>L. Le Pera<br>G. Pavone<br>A. Via</td>
+   <td height="50" width="150">F. Riccardo (speaker)<br>S. Merler (speaker)</td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" width="75" align="center">Sep 28<br>2021</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+</tr>
+	<tr>
 <td height="50" align="center">The Carpentries</td>
    <td height="50" width="220" align="center"><a href="
 https://elixir-iib-training.github.io/website/2021/09/09/SWC_Italia_ShellGitPython-online.html">Laboratorio Software Carpentry<br>(Shell Unix, Git, Python)</a></td>
@@ -26,7 +35,7 @@ https://elixir-iib-training.github.io/website/2021/09/09/SWC_Italia_ShellGitPyth
 </tr>
 <tr>
 	<td height="50" align="center">ELIXIR-IIB Dissemination/Outreach<br>Webinar</td>
-   <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/17209">Collaborare per contrastare la pandemia. Un webinar sul COVID-19 Data Portal italiano</a></td>
+   <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/17209">Collaborare per contrastare la pandemia - ll COVID-19 Data Portal italiano: un punto di riferimento nazionale per i dati della pandemia</a></td>
    <td height="50" width="150">F. De Leo<br>E. Lazzeri<br>L. Le Pera<br>G. Pavone<br>A. Via</td>
    <td height="50" width="150">M. Chiara (speaker)<br>F. Zambelli (speaker)<br>M. Carraro (speaker)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
