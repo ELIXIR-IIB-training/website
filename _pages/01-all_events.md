@@ -31,7 +31,7 @@ https://elixir-iib-training.github.io/website/2021/09/09/SWC_Italia_ShellGitPyth
    <td height="50" width="150">M. Chiara (speaker)<br>F. Zambelli (speaker)<br>M. Carraro (speaker)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Apr 28<br>2021</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR<br>Training Course</td>
