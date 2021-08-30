@@ -18,7 +18,7 @@ permalink: /all_events/
 	<td height="50" align="center">ELIXIR-IIB Dissemination/Outreach<br>Webinar</td>
    <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/17404">Collaborare per contrastare la pandemia - Disponibilità e uso dei dati epidemiologici in pandemia: difficoltà e opportunità</a></td>
    <td height="50" width="150">F. De Leo<br>E. Lazzeri<br>L. Le Pera<br>G. Pavone<br>A. Via</td>
-   <td height="50" width="150">F. Riccardo (speaker)<br>S. Merler (speaker)</td>
+   <td height="50" width="150">F. De Leo (speaker)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Sep 28<br>2021</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>   
