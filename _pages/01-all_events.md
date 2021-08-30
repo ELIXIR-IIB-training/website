@@ -5,7 +5,7 @@ permalink: /all_events/
 ---
 
 <table border="1" width="950">
-<tr>
+	<tr>
 	<td height="50" width="200" align="center"><b>Event</b></td>
    <td height="50" width="220" align="center"><b>Title</b></td>
    <td height="50" width="180" align="center"><b>Organisers</b></td>
@@ -13,6 +13,16 @@ permalink: /all_events/
    <td height="50" width="75" align="center"><b>Venue</b></td>
    <td height="50" width="75" align="center"><b>Date</b></td>
    <td height="50" width="90" align="center"><b>Application</b></td>
+</tr>
+	<tr>
+<td height="50" align="center">The Carpentries</td>
+   <td height="50" width="220" align="center"><a href="
+https://elixir-iib-training.github.io/website/2021/09/09/SWC_Italia_ShellGitPython-online.html">Laboratorio Software Carpentry<br>(Shell Unix, Git, Python)</a></td>
+   <td height="50">ELIXIR-IT<br>Carpentries Italia</td>
+   <td height="50" width="150">V. Colonna (organiser/instructor)<br>L. Le Pera (organiser/instructor)<br>A. Via (organiser/instructor)</td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" width="75" align="center">Sep<br>9, 17<br>2021</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>  
 </tr>
 <tr>
 	<td height="50" align="center">ELIXIR-IIB Dissemination/Outreach<br>Webinar</td>
