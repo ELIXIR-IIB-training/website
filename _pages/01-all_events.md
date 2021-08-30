@@ -15,6 +15,15 @@ permalink: /all_events/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 	<tr>
+<td height="50" align="center">Biohackathon-Europe</td>
+   <td height="50" width="220" align="center"><a href="https://www.biohackathon-europe.org/index.html">ELIXIR<br>Biohackathon 2021</a></td>
+   <td height="50" width="150">ELIXIR<br>NBDC<br>DBCLS</td>
+   <td height="50" width="150">V. Colonna (advisor)<br>L. Pera (9th project co-lead)<br>A. Via (9th project co-lead)</td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" width="75" align="center">Nov<br>8-12<br>2021</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+</tr>
+	<tr>
 	<td height="50" align="center">ELIXIR-IIB Dissemination/Outreach<br>Webinar</td>
    <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/17404">Collaborare per contrastare la pandemia - Disponibilità e uso dei dati epidemiologici in pandemia: difficoltà e opportunità</a></td>
    <td height="50" width="150">F. De Leo<br>E. Lazzeri<br>L. Le Pera<br>G. Pavone<br>A. Via</td>
