@@ -10,7 +10,7 @@ description: Software Carpentry è un'associazione senza scopo di lucro il cui o
 
 <table border="0">
 <tr>
-	<td><a href="https://carpentriesitalia.github.io/2021-09-09-italia-online/"><img src="../../../img/Logo_elixir_carpentriesIT_ponys.png" height="200" width="500"></a>
+	<td><a href="https://carpentriesitalia.github.io/2021-09-09-italia-online/"><img src="../../../img/Logo_elixir_carpentriesIT_ponys.png" height="300" width="300"></a>
 	</td>
 </tr>
 </table>
