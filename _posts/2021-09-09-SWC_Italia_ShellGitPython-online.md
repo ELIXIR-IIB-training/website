@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Laboratorio Software Carpentry (Carpentries Italia)- Shell, Git, Python <font color='blue'>- Online course </font> <font color='green'>[open]</font>"
+title:  "Laboratorio Software Carpentry (Carpentries Italia)- Shell, Git, Python <font color='blue'>- Online course </font> <font color='grey'>[closed]</font>"
 date_start:   2021-09-09
 date_end:   2021-09-17
 venue: online
