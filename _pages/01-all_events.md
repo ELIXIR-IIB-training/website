@@ -24,15 +24,6 @@ permalink: /all_events/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 	<tr>
-	<td height="50" align="center">European Joint Programme<br>Rare Diseases</td>
-   <td height="50" width="220" align="center"><a href="https://www.ejprarediseases.org/international-summer-school-2021-rare-disease-registries-and-fairification-of-data/">International Summer School on Rare Disease Registries and FAIRification of Data</a></td>
-   <td height="50" width="150">Istituto Superiore di Sanità<br>EJP RD task partners<br>ELIXIR-IIB</td>
-   <td height="50" width="150">C. Carta (instructor)</td>
-   <td height="50" align="center"><font color="blue">on-line</font></td>
-   <td height="50" width="75" align="center">Sep 27- Oct 1<br>2021</td>
-   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>  
-</tr>
-	<tr>
 	<td height="50" align="center">ELIXIR-IIB Dissemination/Outreach<br>Webinar</td>
    <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/17404">Collaborare per contrastare la pandemia - Disponibilità e uso dei dati epidemiologici in pandemia: difficoltà e opportunità</a></td>
    <td height="50" width="150">F. De Leo<br>E. Lazzeri<br>L. Le Pera<br>G. Pavone<br>A. Via</td>
@@ -40,6 +31,15 @@ permalink: /all_events/
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Sep 28<br>2021</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+</tr>
+	<tr>
+	<td height="50" align="center">European Joint Programme<br>Rare Diseases</td>
+   <td height="50" width="220" align="center"><a href="https://www.ejprarediseases.org/international-summer-school-2021-rare-disease-registries-and-fairification-of-data/">International Summer School on Rare Disease Registries and FAIRification of Data</a></td>
+   <td height="50" width="150">Istituto Superiore di Sanità<br>EJP RD task partners<br>ELIXIR-IIB</td>
+   <td height="50" width="150">C. Carta (instructor)</td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" width="75" align="center">Sep 27- Oct 1<br>2021</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>  
 </tr>
 	<tr>
 <td height="50" align="center">The Carpentries</td>
