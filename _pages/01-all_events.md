@@ -21,7 +21,7 @@ permalink: /all_events/
    <td height="50" width="150">V. Colonna (advisor)<br>L. Pera (project9 lead)<br>A. Via (project9 co-lead)</td>
    <td height="50" align="center"><font color="blue"></font></td>
    <td height="50" width="75" align="center">Nov<br>8-12<br>2021</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 	<tr>
 	<td height="50" align="center">European Joint Programme<br>Rare Diseases</td>
