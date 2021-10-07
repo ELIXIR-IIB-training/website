@@ -30,7 +30,7 @@ permalink: /all_events/
    <td height="50" width="150">F. De Leo (speaker)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Sep 28<br>2021</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>   
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 	<tr>
 	<td height="50" align="center">European Joint Programme<br>Rare Diseases</td>
