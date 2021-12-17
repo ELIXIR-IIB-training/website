@@ -15,6 +15,15 @@ permalink: /all_events/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 	<tr>
+<td height="50" align="center">ELIXIR-IIB<br>Higher-level training course</td>
+   <td height="50" width="220" align="center"><a href="https://sites.google.com/uniroma1.it/altaformazione-bioinformatica">Corso di Alta Formazione<br>in<br>Bioinformatics</a></td>
+   <td height="50" width="150">Sapienza<br>CNR-IBPM<br>ELIXIR-IIB</td>
+   <td height="50" width="150">A. Via<br>L. Pera</td>
+   <td height="50" align="center"><font color="blue"></font></td>
+   <td height="50" width="75" align="center">Feb - Oct<br>2022</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+</tr>
+	<tr>
 <td height="50" align="center">Biohackathon-Europe</td>
    <td height="50" width="220" align="center"><a href="https://www.biohackathon-europe.org/index.html">ELIXIR<br>Biohackathon 2021</a></td>
    <td height="50" width="150">ELIXIR<br>NBDC<br>DBCLS</td>
