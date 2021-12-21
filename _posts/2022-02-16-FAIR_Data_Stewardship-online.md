@@ -58,6 +58,7 @@ Attendance is limited to 25 participants. We expect many more applications. Acce
 ### Instructors/Speakers
 - **Claudio Carta** - ELIXIR-IT, Istituto Superiore di Sanità - Roma, Italy
 - [**Matteo Chiara**](https://www.unimi.it/it/ugov/person/matteo-chiara) - ELIXIR-IT, Dept. of Biosciences, University of Milano, Italy
+- **Mijke Jetten/Celia van Gelder** - ELIXIR-NL, Dutch Techcentre for Life Sciences (DTL), Netherlands
 - **Emma Lazzeri** - OpenAIRE, GARR, Roma, Italy 
 <br>
 <br>
