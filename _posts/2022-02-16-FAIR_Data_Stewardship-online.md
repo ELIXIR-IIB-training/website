@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Practical course on FAIR Data Stewardship in Life Science<font color='green'>[open]</font>"
-date_start:   2022-02-16
-date_end:   2022-03-2   
+date_start: 2022-02-16
+date_end: 2022-03-2   
 venue: online
 description: The course on FAIR Data Stewardship in Life Science has been organised by ELIXIR Italy, EOSC-Pillar Project, the ICDI Competence Centre, and EOSC-Life, in collaboration with ELIXIR Netherlands. 
 The course is focused on FAIR data management, introduces to all aspects of Open Science, and provides the skills, tools and standards required to embed Open Science in the research workflow. It has been structured in 5 on-line training modules, each one built on frontal lessons and several interactions.
@@ -31,8 +31,6 @@ The course is focused on FAIR data management, introduces to all aspects of Open
 <td width="20"></td>
 <td><a href="https://www.eosc-life.eu/"><img src="../../../img/Logo_EOSC_Life.png" height="110" width="200"></a>
 </td>
-
-
 </tr>
 </table>
 <br>
@@ -62,9 +60,9 @@ Attendance is limited to 25 participants. We expect many more applications. Acce
 
 
 ### Instructors/Speakers
-- [**Claudio Carta**] - ELIXIR-IT, Istituto Superiore di Sanità - Roma, Italy
+- **Claudio Carta** - ELIXIR-IT, Istituto Superiore di Sanità - Roma, Italy
 - [**Matteo Chiara**](https://www.unimi.it/it/ugov/person/matteo-chiara) - ELIXIR-IT, Dept. of Biosciences, University of Milano, Italy
-- [**Emma Lazzeri**] - OpenAIRE, GARR, Roma, Italy 
+- **Emma Lazzeri** - OpenAIRE, GARR, Roma, Italy 
 <br>
 <br>
 
@@ -97,7 +95,7 @@ The course has been structured in 5 on-line training modules, each one built on 
 ### Target audience
 This course is aimed at Italian life-science researchers, technicians, data stewards, and data managers, especially if they are involved in projects that require planning and writing a Data Management Plan. 
 <br>
-<br 
+<br> 
 
     
 ### [Application Form](https://forms.gle/zjeNZaa7DLBCEwd59)
