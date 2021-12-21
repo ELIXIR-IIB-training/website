@@ -4,8 +4,7 @@ title:  "Practical course on FAIR Data Stewardship in Life Science<font color='g
 date_start: 2022-02-16
 date_end: 2022-03-2   
 venue: online
-description: The course on FAIR Data Stewardship in Life Science has been organised by ELIXIR Italy, EOSC-Pillar Project, the ICDI Competence Centre, and EOSC-Life, in collaboration with ELIXIR Netherlands. 
-The course is focused on FAIR data management, introduces to all aspects of Open Science, and provides the skills, tools and standards required to embed Open Science in the research workflow. It has been structured in 5 on-line training modules, each one built on frontal lessons and several interactions.
+description: The course on FAIR Data Stewardship in Life Science has been organised by ELIXIR Italy, EOSC-Pillar Project, the ICDI Competence Centre, and EOSC-Life, in collaboration with ELIXIR Netherlands. The course is focused on FAIR data management, introduces to all aspects of Open Science, and provides the skills, tools and standards required to embed Open Science in the research workflow. It has been structured in 5 on-line training modules, each one built on frontal lessons and several interactions.
 
 ---
 
