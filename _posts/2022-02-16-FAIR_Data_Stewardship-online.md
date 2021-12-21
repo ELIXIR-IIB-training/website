@@ -85,7 +85,7 @@ For all kinds of queries, please contact us at <elixir.ita.training@gmail.com>
 The course on FAIR Data Stewardship in Life Science has been organised by ELIXIR Italy, EOSC-Pillar Project, the ICDI Competence Centre, and EOSC-Life, in collaboration with ELIXIR Netherlands.
 
 The course is focused on FAIR data management and stewardship. It provides the skills, tools, and standards required to embed Open Science in the research workflow, covering many aspects, such as: Open Science in Horizon Europe, Open Access in publishing, Research Data Management (RDM), FAIR principles, Open Data, and Data Management Plan. 
-The course has been structured in 5 on-line training modules, each one built on frontal lessons and several interactions (detailed program will be available on the web page in the next future).
+The course has been structured in 5 on-line training modules, each one built on frontal lessons and several interactions (detailed program will be available in the next future).
 <br>
 <br>
 
