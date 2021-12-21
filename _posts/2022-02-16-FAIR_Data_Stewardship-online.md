@@ -59,16 +59,17 @@ Attendance is limited to 25 participants. We expect many more applications. Acce
 - **Claudio Carta** - ELIXIR-IT, Istituto Superiore di Sanità - Roma, Italy
 - [**Matteo Chiara**](https://www.unimi.it/it/ugov/person/matteo-chiara) - ELIXIR-IT, Dept. of Biosciences, University of Milano, Italy
 - **Mijke Jetten/Celia van Gelder** - ELIXIR-NL, Dutch Techcentre for Life Sciences (DTL), Netherlands
-- **Emma Lazzeri** - OpenAIRE, GARR, Roma, Italy 
+- **Emma Lazzeri** - ICDI, GARR, Roma, Italy
+- **Gina Pavone** - ICDI, National Research Council - ISTI, Pisa, Italy 
 <br>
 <br>
 
 
 ### Organisers
-- **Emma Lazzeri** - OpenAIRE, GARR, Roma, Italy
+- **Emma Lazzeri** - ICDI, GARR, Roma, Italy
 - **Loredana Le Pera** - ELIXIR-IT, Istituto Superiore di Sanità - FAST, Roma, Italy 
 - **Ivan Miçetic** - ELIXIR-IT, University of Padua, Italy
-- **Gina Pavone** - OpenAIRE, National Research Council - ISTI, Pisa, Italy
+- **Gina Pavone** - ICDI, National Research Council - ISTI, Pisa, Italy
 - **Allegra Via** - ELIXIR-IT, National Research Council - IBPM, Roma, Italy
 <br>
 <br>
