@@ -17,19 +17,17 @@ description: The course on FAIR Data Stewardship in Life Science has been organi
         <td width="20"></td>
         <td><a href=""><img src="../../../img/Logo_ICDI.png" height="110" width="110"></a>
         </td>
-        </tr>
-        <tr>
+        <td width="20"></td>
         <td><a href=""><img src="../../../img/Logo_EOSC_pillar.png" height="110" width="110"></a>
         </td>
-<td width="20"></td>
-<td><a href="https://elixir-europe.org/about-us/who-we-are/nodes/netherlands"><img src="../../../img/Logo_ELIXIR_Netherlands.jpeg" height="110" width="230"></a>
-</td>
-</tr>
-<tr>
-<td><a href="https://www.eosc-life.eu/"><img src="../../../img/Logo_EOSC_Life.png" height="150" width="170"></a>
-</td>
-</tr>
-</table>
+        <tr>
+        <td><a href="https://elixir-europe.org/about-us/who-we-are/nodes/netherlands"><img src="../../../img/Logo_ELIXIR_Netherlands.jpeg" height="110" width="230"></a>
+        </td>
+        <td width="20"></td>        
+        <td><a href="https://www.eosc-life.eu/"><img src="../../../img/Logo_EOSC_Life.png" height="150" width="200"></a>
+        </td>
+        </tr>
+        </table>
 <br>
 <br>
 
@@ -50,7 +48,7 @@ The course does not include any fee. <br>
 A maximum of **25** candidates will be selected based on their need for the course as emerging from the application form. Priority will be given to candidates from ELIXIR-IT member institutions (see the list at the bottom).
 <br>
 
-#### Cancellation policy: 
+#### Cancellation policy 
 Attendance is limited to 25 participants. We expect many more applications. Accepted candidates commit to attend the course for its whole duration. Failure to attend training sessions is disruptive; moreover, it blocks other candidates from participating. Therefore a cancellation policy is in place so that only written requests presented one week in advance relatively to the course starting date are accepted.
 <br>
 <br>
