@@ -22,14 +22,11 @@ description: The course on FAIR Data Stewardship in Life Science has been organi
         <td><a href=""><img src="../../../img/Logo_EOSC_pillar.png" height="110" width="110"></a>
         </td>
 <td width="20"></td>
-<td><a href="https://elixir-europe.org/about-us/who-we-are/nodes/netherlands"><img src="../../../img/Logo_ELIXIR_Netherlands.jpeg" height="110" width="260"></a>
+<td><a href="https://elixir-europe.org/about-us/who-we-are/nodes/netherlands"><img src="../../../img/Logo_ELIXIR_Netherlands.jpeg" height="110" width="230"></a>
 </td>
 </tr>
 <tr>
-<td><a href="https://elixir-europe.org/about-us/who-we-are/nodes/netherlands"><img src="../../../img/Logo_ELIXIR_Netherlands.jpeg" height="110" width="260"></a>
-</td>
-<td width="20"></td>
-<td><a href="https://www.eosc-life.eu/"><img src="../../../img/Logo_EOSC_Life.png" height="110" width="200"></a>
+<td><a href="https://www.eosc-life.eu/"><img src="../../../img/Logo_EOSC_Life.png" height="150" width="170"></a>
 </td>
 </tr>
 </table>
