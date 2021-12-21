@@ -8,20 +8,23 @@ description: The course on FAIR Data Stewardship in Life Science has been organi
 
 ---
 
+
+
 <table border="0">
-<tr>
+        <tr>
         <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="110" width="260"></a>
         </td>
         <td width="20"></td>
         <td><a href=""><img src="../../../img/Logo_ICDI.png" height="110" width="110"></a>
         </td>
-</tr>
-<tr>
+        </tr>
+        <tr>
         <td><a href=""><img src="../../../img/Logo_EOSC_pillar.png" height="110" width="110"></a>
         </td>
 <td width="20"></td>
 <td><a href="https://elixir-europe.org/about-us/who-we-are/nodes/netherlands"><img src="../../../img/Logo_ELIXIR_Netherlands.jpeg" height="110" width="260"></a>
 </td>
+</tr>
 <tr>
 <td><a href="https://elixir-europe.org/about-us/who-we-are/nodes/netherlands"><img src="../../../img/Logo_ELIXIR_Netherlands.jpeg" height="110" width="260"></a>
 </td>
