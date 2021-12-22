@@ -28,7 +28,7 @@ permalink: /all_events/
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/02/16/FAIR_Data_Stewardship-online.html">Practical course on<br>FAIR Data Stewardship<br>in Life Science</a></td>
    <td height="50" width="150">E. Lazzeri<br>L. Le Pera<br>I. Miçetic<br>G. Pavone<br>A. Via</td>
    <td height="50" width="150">C. Carta (speaker)<br>M. Chiara (instructor)</td>
-   <td height="50" align="center"><font color="blue"></font></td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">16-18-23-25 Feb<br>2 Mar 2022</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>
 </tr>
