@@ -46,7 +46,7 @@ permalink: /all_events/
    <td height="50" width="220" align="center"><a href="https://www.biohackathon-europe.org/index.html">ELIXIR<br>Biohackathon 2021</a></td>
    <td height="50" width="150">ELIXIR<br>NBDC<br>DBCLS</td>
    <td height="50" width="150">V. Colonna (advisor)<br>L. Pera (project9 lead)<br>A. Via (project9 co-lead)</td>
-   <td height="50" align="center"><font color="blue"></font></td>
+   <td height="50" align="center"><font color="orange">hybrid</font></td>
    <td height="50" width="75" align="center">Nov<br>8-12<br>2021</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
