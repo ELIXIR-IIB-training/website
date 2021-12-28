@@ -25,9 +25,9 @@ permalink: /all_events/
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/02/16/FAIR_Data_Stewardship-online.html">2021<br>Annual ELIXIR-IT WorkshopW<br>in Life Science</a></td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/02/16/FAIR_Data_Stewardship-online.html">2021<br>ELIXIR-IT Workshop</a></td>
    <td height="50" width="150">University of Padua</td>
-   <td height="50" width="150">G. Pesole (speaker)<br>S. Tosatto (speaker)<br>M. Chiara (speaker)<br>Loredana Le Pera (speaker)</td>
+   <td height="50" width="150">G. Pesole (speaker)<br>S. Tosatto (speaker)<br>M. Chiara (speaker)<br>L. Le Pera (speaker)</td>
    <td height="50" align="center"><font color="orange">hybrid</font></td>
    <td height="50" width="75" align="center">Nov 26 2021</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
