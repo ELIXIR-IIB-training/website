@@ -18,7 +18,7 @@ permalink: /all_events/
 <td height="50" align="center">ELIXIR-IIB<br>Higher-level training course</td>
    <td height="50" width="220" align="center"><a href="https://sites.google.com/uniroma1.it/altaformazione-bioinformatica">Corso di Alta Formazione<br>in<br>Bioinformatics</a></td>
    <td height="50" width="150">Sapienza<br>CNR-IBPM<br>ELIXIR-IIB</td>
-   <td height="50" width="150">A. Via<br>L. Pera</td>
+   <td height="50" width="150">S. Pascarella (Director)<br>A. Via (Deputy Director)<br>L. Pera (scient. comm.)</td>
    <td height="50" align="center"><font color="blue"></font></td>
    <td height="50" width="75" align="center">Feb - Oct<br>2022</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>
