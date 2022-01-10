@@ -36,8 +36,8 @@ permalink: /all_events/
    <td height="50" align="center">The Carpentries</td>
    <td height="50" width="220" align="center"><a href="
 https://elixir-iib-training.github.io/website/2022/01/27/SWC_Italia_ShellGitPython-online.html">Laboratorio Software Carpentry<br>(Shell Unix, Git, Python)</a></td>
-   <td height="50">ELIXIR-IT<br>Carpentries Italia</td>
-   <td height="50" width="150">L. Le Pera (co-organiser/helper)</td>
+   <td height="50">Carpentries Italia<br>ELIXIR-IT</td>
+   <td height="50" width="150">L. Le Pera<br>(co-organiser/helper)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Jan 27,28,<br>Feb 3,4<br>2022</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>  
