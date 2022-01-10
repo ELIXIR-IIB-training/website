@@ -4,7 +4,7 @@ title:  "Laboratorio Software Carpentry (Carpentries Italia)- Shell, Git, Python
 date_start:   2022-01-27
 date_end:   2022-02-04
 venue: online
-description: Carpentries Italia è un'iniziativa per promuovere il modello formativo di The Carpentries fra un pubblico di lingua italiana. The Carpentries è una comunità internazionale dedicata all'insegnamento di competenze relative alla scrittura di codice e alla gestione e analisi di dati, secondo principi di apertura e inclusione, usando metodi didattici di efficacia provata. I laboratori Software Carpentry insegnano a scrivere, gestire e automatizzare codice per fare ricerca scientifica più robusta e riproducibile. In questo laboratorio Software Carpentry i partecipanti impareranno: i fondamenti (codice e dati) in Python per risolvere problemi di ricerca, la gestione del codice con il controllo di versione (git), lavorare con la linea di comando (shell)
+description: Carpentries Italia è un'iniziativa per promuovere il modello formativo di The Carpentries fra un pubblico di lingua italiana. The Carpentries è una comunità internazionale dedicata all'insegnamento di competenze relative alla scrittura di codice e alla gestione e analisi di dati, secondo principi di apertura e inclusione, usando metodi didattici di efficacia provata. I laboratori Software Carpentry insegnano a scrivere, gestire e automatizzare codice per fare ricerca scientifica più robusta e riproducibile. In questo laboratorio Software Carpentry i partecipanti impareranno i fondamenti (codice e dati) in Python per risolvere problemi di ricerca, la gestione del codice con il controllo di versione (git), lavorare con la linea di comando (shell).
 
 ---
 
