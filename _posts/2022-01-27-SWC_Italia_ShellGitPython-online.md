@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Laboratorio Software Carpentry (Carpentries Italia)- Shell, Git, Python <font color='green'>[open]</font>"
+title:  "Laboratorio Software Carpentry (Carpentries Italia)- Shell, Git, Python <font color='red'>[sold out]</font>"
 date_start:   2022-01-27
 date_end:   2022-02-04
 venue: online
