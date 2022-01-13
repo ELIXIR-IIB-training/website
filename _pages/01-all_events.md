@@ -40,7 +40,7 @@ https://elixir-iib-training.github.io/website/2022/01/27/SWC_Italia_ShellGitPyth
    <td height="50" width="150">L. Le Pera<br>(co-organiser/helper)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Jan 27,28,<br>Feb 3,4<br>2022</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>  
+   <td height="50" align="center"><font color="red"><b>sold out</b></font></td>  
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
