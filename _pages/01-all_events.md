@@ -15,6 +15,15 @@ permalink: /all_events/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 <tr>
+   <td height="50" align="center">EMBO<br>Practical Course</td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/03/22/population-genomics-online.html">Population Genomics: Background and tools</a></td>
+   <td height="50" width="150">A. Manica (Univ. of Cambridge)<br>C. Batini (Univ. of Leicester)<br>V. Colonna (CNR, ELIXIR-IIB)</td>
+   <td height="50" width="150"></td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" width="75" align="center">Mar<br>22-30<br>2022</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+</tr>
+<tr>
 <td height="50" align="center">ELIXIR-IIB<br>Higher-level training course</td>
    <td height="50" width="220" align="center"><a href="https://sites.google.com/uniroma1.it/altaformazione-bioinformatica">Corso di Alta Formazione<br>in<br>Bioinformatics</a></td>
    <td height="50" width="150">Sapienza<br>CNR-IBPM<br>ELIXIR-IIB</td>
@@ -23,15 +32,7 @@ permalink: /all_events/
    <td height="50" width="75" align="center">Feb - Oct<br>2022</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>
 </tr>
-<tr>
-   <td height="50" align="center">EMBO<br>Practical Course</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/03/22/population-genomics-online.html">Population Genomics: Background and tools</a></td>
-   <td height="50" width="150">A. Manica (Univ. of Cambridge)<br>C. Batini (Univ. of Cambridge)<br>V. Colonna (ELIXIR-IIB)</td>
-   <td height="50" width="150"></td>
-   <td height="50" align="center"><font color="blue">on-line</font></td>
-   <td height="50" width="75" align="center">Mar<br>22-30<br>2022</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>
-</tr>
+
 <tr>
    <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/02/16/FAIR_Data_Stewardship-online.html">Practical course on<br>FAIR Data Stewardship<br>in Life Science</a></td>
