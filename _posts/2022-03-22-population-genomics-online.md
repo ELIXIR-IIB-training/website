@@ -17,5 +17,5 @@ description: In this EMBO Practical Course, participants will learn fundamental 
 
 <br>
 The course webpage with all the information and the link to submit your application can be found at:<br>
-[EMBO Practical Course on "Population Genomics&#58; Background and tools", online, 22-30 Mar 2022.](http://https://meetings.embo.org/event/22-pop-genomics)
+[EMBO Practical Course on "Population Genomics&#58; Background and tools", online, 22-30 Mar 2022.](https://meetings.embo.org/event/22-pop-genomics)
 <br>
