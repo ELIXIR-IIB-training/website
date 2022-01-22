@@ -44,8 +44,7 @@ permalink: /all_events/
 </tr>
    <tr>
    <td height="50" align="center">ELIXIR-IIB<br>Winter School</td>
-   <td height="50" width="220" align="center"><a href="
-http://www.biocomp.unibo.it/~school2022/">Structural Bioinformatics in the era of AlphaFold2</a></td>
+   <td height="50" width="220" align="center"><a href="http://www.biocomp.unibo.it/~school2022/">Structural Bioinformatics in the era of AlphaFold2</a></td>
    <td height="50">ELIXIR-IIB<br>International Bologna Master in Bioinformatics<br>Interdepartmental Centre Alma Climate<br>Dep. of Pharmacy and Biotechnology - Univ. of Bologna<br>SIB<br>Accademia delle Scienze dell'Istituto di Bologna</td>
    <td height="50" width="150"></td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
@@ -54,8 +53,7 @@ http://www.biocomp.unibo.it/~school2022/">Structural Bioinformatics in the era o
 </tr>
 <tr>
    <td height="50" align="center">The Carpentries</td>
-   <td height="50" width="220" align="center"><a href="
-https://elixir-iib-training.github.io/website/2022/01/27/SWC_Italia_ShellGitPython-online.html">Laboratorio Software Carpentry<br>(Shell Unix, Git, Python)</a></td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/01/27/SWC_Italia_ShellGitPython-online.html">Laboratorio Software Carpentry<br>(Shell Unix, Git, Python)</a></td>
    <td height="50">Carpentries Italia<br>ELIXIR-IT</td>
    <td height="50" width="150">L. Le Pera<br>(co-organiser/helper)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
