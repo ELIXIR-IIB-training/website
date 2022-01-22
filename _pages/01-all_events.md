@@ -42,6 +42,16 @@ permalink: /all_events/
    <td height="50" width="75" align="center">16-18-23-25 Feb<br>2 Mar 2022</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>
 </tr>
+   <tr>
+   <td height="50" align="center">ELIXIR-IIB<br>Winter School</td>
+   <td height="50" width="220" align="center"><a href="
+http://www.biocomp.unibo.it/~school2022/">Structural Bioinformatics in the era of AlphaFold2</a></td>
+   <td height="50">ELIXIR-IIB<br>International Bologna Master in Bioinformatics<br>Interdepartmental Centre Alma Climate<br>Dep. of Pharmacy and Biotechnology - Univ. of Bologna<br>SIB<br>Accademia delle Scienze dell'Istituto di Bologna</td>
+   <td height="50" width="150"></td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" width="75" align="center">Feb<br>9-25<br>2022</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>  
+</tr>
 <tr>
    <td height="50" align="center">The Carpentries</td>
    <td height="50" width="220" align="center"><a href="
