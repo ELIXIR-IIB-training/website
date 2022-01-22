@@ -146,8 +146,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
 </tr>
 <tr>
    <td height="50" align="center">ELIXIR-IIB<br>Winter School</td>
-   <td height="50" width="220" align="center"><a href="
-http://www.biocomp.unibo.it/~school2021/">Bioinformatics for Discovery in Structural and Functional Biology</a></td>
+   <td height="50" width="220" align="center"><a href="http://www.biocomp.unibo.it/~school2021/">Bioinformatics for Discovery in Structural and Functional Biology</a></td>
    <td height="50">ELIXIR-IIB<br>International Bologna Master in Bioinformatics<br>Interdepartmental Centre Alma Climate<br>Dep. of Pharmacy and Biotechnology - Univ. of Bologna<br>SIB<br>Accademia delle Scienze dell'Istituto di Bologna</td>
    <td height="50" width="150"></td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
@@ -156,8 +155,7 @@ http://www.biocomp.unibo.it/~school2021/">Bioinformatics for Discovery in Struct
 </tr>
 <tr>
    <td height="50" align="center">ELIXIR<br>Training Course</td>
-   <td height="50" width="220" align="center"><a href="
-https://web.vscht.cz/~spiwokv/trt/">Train the Trainer</a></td>
+   <td height="50" width="220" align="center"><a href="https://web.vscht.cz/~spiwokv/trt/">Train the Trainer</a></td>
    <td height="50">ELIXIR<br>ELIXIR-CZ</td>
    <td height="50" width="150">L. Le Pera (instructor)<br>A. Via (instructor)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
