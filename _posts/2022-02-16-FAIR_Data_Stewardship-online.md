@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Practical course on FAIR Data Stewardship in Life Science <font color='green'>[open]</font>"
-date_start: 2022-02-16
-date_end: 2022-03-2   
+date_start: 2022-03-2
+date_end: 2022-03-11   
 venue: online
 description: The course on FAIR Data Stewardship in Life Science has been organised by ELIXIR Italy, EOSC-Pillar Project, the ICDI Competence Centre, and EOSC-Life, in collaboration with ELIXIR Netherlands. The course is focused on FAIR data management, introduces to all aspects of Open Science, and provides the skills, tools and standards required to embed Open Science in the research workflow. It has been structured in 5 on-line training modules, each one built on frontal lessons and several interactions.
 
@@ -33,8 +33,8 @@ description: The course on FAIR Data Stewardship in Life Science has been organi
 <br>
 
 ### Important Dates 
-- Deadline for applications: **31-01-2022**
-- Course date: **16-18-23-25 February** and **2 March, 2022** at **14.30 - 17.30** 
+- Deadline for applications: **20-02-2022**
+- Course date: **2-4-7-9-11 March, 2022** at **14.30 - 17.30** 
 <br>
 <br>
 
@@ -60,7 +60,8 @@ Attendance is limited to 25 participants. We expect many more applications. Acce
 - [**Matteo Chiara**](https://www.unimi.it/it/ugov/person/matteo-chiara) - ELIXIR-IT, Dept. of Biosciences, University of Milano, Italy
 - **Mijke Jetten/Celia van Gelder** - ELIXIR-NL, Dutch Techcentre for Life Sciences (DTL), Netherlands
 - **Emma Lazzeri** - ICDI, GARR, Roma, Italy
-- **Gina Pavone** - ICDI, National Research Council - ISTI, Pisa, Italy 
+- **Gina Pavone** - ICDI, National Research Council - ISTI, Pisa, Italy
+- **Federica Quaglia** - University of Padua, Italy
 <br>
 <br>
 
