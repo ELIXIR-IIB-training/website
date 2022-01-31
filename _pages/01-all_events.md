@@ -39,7 +39,7 @@ permalink: /all_events/
    <td height="50" width="150">E. Lazzeri<br>L. Le Pera<br>I. Miçetic<br>G. Pavone<br>A. Via</td>
    <td height="50" width="150">C. Carta (speaker)<br>M. Chiara (instructor)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
-   <td height="50" width="75" align="center">16-18-23-25 Feb<br>2 Mar 2022</td>
+   <td height="50" width="75" align="center">Mar 2,4,7,9,11<br>2022 (new dates)</td>
    <td height="50" align="center"><font color="green"><b>open</b></font></td>
 </tr>
    <tr>
