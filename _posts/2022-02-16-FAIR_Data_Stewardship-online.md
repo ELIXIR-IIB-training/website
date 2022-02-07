@@ -92,7 +92,7 @@ The course has been structured in 5 on-line training modules, each one built on 
 
 
 ### Target audience
-This course is aimed at Italian life-science researchers, technicians, data stewards, and data managers, especially if they are involved in projects that require planning and writing a Data Management Plan. 
+This course is in **Italian language** (with only one session in English by invited speakers from the Netherlands) aimed at life-science researchers, technicians, data stewards, and data managers, especially if they are involved in projects that require planning and writing a Data Management Plan. 
 <br>
 <br> 
 
