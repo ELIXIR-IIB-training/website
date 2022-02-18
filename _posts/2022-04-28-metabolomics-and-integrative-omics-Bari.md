@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Metabolomics and Integrative omics: from data production to analysis <font color='green'>[open]</font>"
+title: "Metabolomics and Integrative omics: from data production to analysis <font color='green'>[open]</font>"
 date_start: 2022-04-28
 date_end: 2022-04-29   
 venue: Bari, Italy
@@ -9,7 +9,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
 ---
 <table border="0">
 <tr>
-	<td><img src="../../../img/banner_metabolomics2022"></a>
+	<td><img src="../../../img/banner_metabolomics2022">
 	</td>	
 </tr>
 </table>
@@ -21,17 +21,17 @@ description: The workshop is designed to enable the attendees to apply metabolom
         <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="110" width="260"></a>
         </td>
         <td width="30"></td>
-        <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/Logo_IBIOM.png" height="110" width="110"></a>
+        <td><a href=""><img src="../../../img/Logo_IBIOM.png" height="110" width="110"></a>
         </td>
         <td width="10"></td>
         <td><a href=""><img src="../../../img/Logo_Thermofisher.png" height="160" width="200"></a>
         </td>
         </tr>
         <tr>
-        <td><a href="https://elixir-europe.org/about-us/who-we-are/nodes/netherlands"><img src="../../../img/Logo_ELIXIR.jpeg" height="110" width="210"></a>
+        <td><a href=""><img src="../../../img/Logo_ELIXIR.jpeg" height="110" width="210"></a>
         </td>
         <td width="20"></td>
-        <td><a href="https://www.eosc-life.eu/"><img src="../../../img/LogoCNRBiOmics.png" height="150" width="200"></a>
+        <td><a href=""><img src="../../../img/LogoCNRBiOmics.png" height="150" width="200"></a>
         </td>
         </tr>
         </table>
