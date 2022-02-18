@@ -49,8 +49,8 @@ If you wish to attend the social dinner on Thursday 28th April, you should add 5
 This workshop is limited to 50 in-person participants on the first-come-first-serve basis.
 <br>
 
-#### Registration
-Candidates can register by filling [this form](https://bit.ly/registration_form_metabolomics2022)
+### Registration
+#### Candidates can register by filling [this form](https://bit.ly/registration_form_metabolomics2022)
 
 The fee payment must be made by bank transfer to:
 
