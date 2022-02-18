@@ -16,7 +16,7 @@ permalink: /all_events/
 </tr>
    <tr>
    <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
-   <td height="50" width="220" align="center"><a href=https://elixir-iib-training.github.io/website/2022/04/28/metabolomics-and-integrative-omics-Bari.html>Metabolomics and Integrative Omics</a></td>
+       <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/04/28/metabolomics-and-integrative-omics-Bari.html">Metabolomics and Integrative Omics</a></td> 
 <br>
    <td height="50" width="150">Sergio Giannattasio (CNR-IBIOM)<br> Duccio Cavalieri (University of Florence, Italy)<br>Clara Musicco (CNR-IBIOM) <br> Francesca De Leo (CNR-IBIOM) <br> Loredana Le Pera (ISS, ELIXIR-IT) <br> Allegra Via (CNR-IBPM, ELIXIR-IT)</td>
    <td height="50" width="150"></td>
