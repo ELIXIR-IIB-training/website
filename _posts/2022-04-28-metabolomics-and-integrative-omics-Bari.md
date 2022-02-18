@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Metabolomics and Integrative omics: from data production to analysis<font color='green'>[open]</font>"
+title:  "Metabolomics and Integrative omics: from data production to analysis <font color='green'>[open]</font>"
 date_start: 2022-04-28
 date_end: 2022-04-29   
 venue: Bari, Italy
@@ -9,7 +9,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
 ---
 <table border="0">
 <tr>
-	<td><img src="../../../img/banner_metabolomics2022"></a>
+	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/banner_metabolomics2022"></a>
 	</td>	
 </tr>
 </table>
