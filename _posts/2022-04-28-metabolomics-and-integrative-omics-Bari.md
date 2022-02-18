@@ -17,16 +17,11 @@ description: The workshop is designed to enable the attendees to apply metabolom
         <tr>
         <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="110" width="260"></a>
         </td>
-        <td width="30"></td>
         <td><a href=""><img src="../../../img/Logo_IBIOM_EN.png" height="110" width="110"></a>
         </td>
-        <td width="10"></td>
         <td><a href=""><img src="../../../img/Logo_ThermoFisher.png" height="160" width="200"></a>
         </td>
-        </tr>
-        <tr>
-        <td width="20"></td>
-        <td><a href=""><img src="../../../img/LogoCNRBiOmics.jpg" height="150" width="200"></a>
+	<td><a href=""><img src="../../../img/LogoCNRBiOmics.jpg" height="150" width="200"></a>
         </td>
         </tr>
         </table>
