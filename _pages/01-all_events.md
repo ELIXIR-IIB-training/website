@@ -14,9 +14,19 @@ permalink: /all_events/
    <td height="50" width="75" align="center"><b>Date</b></td>
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
+   <tr>
+   <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/03/22/population-genomics-online.html">Metabolomics and Integrative omics: from data production to analysis</a></td>
+<br>
+   <td height="50" width="150">Sergio Giannattasio (CNR-IBIOM)<br> Duccio Cavalieri (University of Florence, Italy)<br>Clara Musicco (CNR-IBIOM) <br> Francesca De Leo (CNR-IBIOM) <br> Loredana Le Pera (ISS, ELIXIR-IT) <br> Allegra Via (CNR-IBPM, ELIXIR-IT)</td>
+   <td height="50" width="150"></td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" width="75" align="center">Apr<br>28-29<br>2022</td>
+   <td height="50" align="center"><font color="grey"><b>open</b></font></td>
+</tr>
 <tr>
    <td height="50" align="center">EMBO<br>Practical Course</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/03/22/population-genomics-online.html">Population Genomics: Background and tools</a></td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/04/28/metabolomics-and-integrative-omics.html">Population Genomics: Background and tools</a></td>
    <td height="50" width="150">A. Manica (Univ. of Cambridge)<br>C. Batini (Univ. of Leicester)<br>V. Colonna (CNR, ELIXIR-IIB)</td>
    <td height="50" width="150"></td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
