@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  EMBO Practical Course on "Population Genomics&#58; Background and tools" <font color='blue'>- Online course </font> <font color='green'>[open]</font>
+title:  EMBO Practical Course on "Population Genomics&#58; Background and tools" <font color='blue'>- Online course </font> <font color='black'>[closed]</font>
 date_start: 2022-03-22
 date_end:   2022-03-30
 venue: online
