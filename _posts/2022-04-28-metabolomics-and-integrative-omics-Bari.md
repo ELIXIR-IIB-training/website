@@ -9,7 +9,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
 ---
 <table border="0">
 <tr>
-	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/banner_metabolomics2022"></a>
+	<td><img src="../../../img/banner_metabolomics2022"></a>
 	</td>	
 </tr>
 </table>
@@ -21,7 +21,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
         <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="110" width="260"></a>
         </td>
         <td width="30"></td>
-        <td><a href="href="https://elixir-iib-training.github.io/website/"><img src="../../../img/Logo_IBIOM.png" height="110" width="110"></a>
+        <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/Logo_IBIOM.png" height="110" width="110"></a>
         </td>
         <td width="10"></td>
         <td><a href=""><img src="../../../img/Logo_Thermofisher.png" height="160" width="200"></a>
