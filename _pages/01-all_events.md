@@ -20,7 +20,7 @@ permalink: /all_events/
 <br>
    <td height="50" width="150">Sergio Giannattasio (CNR-IBIOM)<br> Duccio Cavalieri (University of Florence, Italy)<br>Clara Musicco (CNR-IBIOM) <br> Francesca De Leo (CNR-IBIOM) <br> Loredana Le Pera (ISS, ELIXIR-IT) <br> Allegra Via (CNR-IBPM, ELIXIR-IT)</td>
    <td height="50" width="150"></td>
-   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" align="center"><font color="blue">CNR Research Area of Bari</font></td>
    <td height="50" width="75" align="center">Apr<br>28-29<br>2022</td>
    <td height="50" align="center"><font color="grey"><b>open</b></font></td>
 </tr>
