@@ -21,7 +21,7 @@ permalink: /all_events/
    <td height="50" width="150"></td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Mar<br>22-30<br>2022</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR-IIB<br>Higher-level training course</td>
