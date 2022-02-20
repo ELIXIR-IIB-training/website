@@ -15,21 +15,21 @@ description: The workshop is designed to enable the attendees to apply metabolom
 </table>
 <table border="0">
         <tr>
-        <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="110" width="200"></a>
+        <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="100" width="200"></a>
         </td>
-        <td><a href=""><img src="../../../img/Logo_IBIOM_EN.png" height="110" width="200"></a>
+        <td><a href=""><img src="../../../img/Logo_IBIOM_EN.png" height="100" width="200"></a>
         </td>
         <td><a href=""><img src="../../../img/Logo_ThermoFisher.png" height="160" width="200"></a>
         </td>
-	<td><a href=""><img src="../../../img/LogoCNRBiOmics.jpg" height="150" width="200"></a>
+	<td><a href=""><img src="../../../img/LogoCNRBiOmics.jpg" height="100" width="200"></a>
         </td>
         </tr>
         </table>
 <br>
 
 ### Important Dates 
-- Deadline for applications: **20-03-2022**
-- Deadline for the presentation of use cases (see below): **20-03-2022**
+- Deadline for applications: **27-03-2022**
+- Deadline for the presentation of use cases (see below): **27-03-2022**
 - Workshop date: **28-29 April, 2022** 
 <br>
 
@@ -37,6 +37,8 @@ description: The workshop is designed to enable the attendees to apply metabolom
 
 ### Venue
 CNR Research Area of Bari <br>
+Via Amendola 122/O <br>
+70126 Bari, Italy
 
 ### Fee
 * Academic: 90 EUR
@@ -44,7 +46,7 @@ CNR Research Area of Bari <br>
 * Undergraduate students: 60 euro
 * Industry: 120 euro
 <br>
-If you wish to attend the social dinner on Thursday 28th April, you should add 50 euros to the fee.
+If you wish to attend the social dinner on Thursday 28th April, you should add 30 euros to the fee.
 <br>
 This workshop is limited to 50 in-person participants on the first-come-first-serve basis.
 <br>
@@ -58,7 +60,7 @@ CONSORZIO ITALBIOTEC <br>
 BPER banca <br>
 IBAN IT 42 T 05387 01652 000035059951 <br>
 BIC BPMOIT22 XXX <br>
-Reason: registration ELIXIR Metagenomics workshop + PARTICIPANT NAME <br>
+Reason: registration ELIXIR Metabolomics workshop + PARTICIPANT NAME <br>
 
 The registration will be finalized after sending the copy of the payment receipt to <br> < elixir.metabolomics2022@gmail.com > <br>
 Email subject: Fee NAME SURNAME
@@ -73,7 +75,7 @@ Email subject: Fee NAME SURNAME
 - **Danilo Porro** - National Research Council, IBFM, Milan - University of Milan Bicocca, Italy 
 - **Christoph Steinbeck** - ELIXIR Germany
 - **Leonardo Tenori** - University of Florence, Italy
--  **Anna Maria Timperio** - University of Tuscia, Viterbo, Italy
+- **Anna Maria Timperio** - University of Tuscia, Viterbo, Italy
 - **Stefania Savoi** - University of Turin, Italy
 <br>
 
@@ -99,8 +101,12 @@ This workshop is aimed to introduce metabolomics and describe the current challe
 4.	Integration of metabolomics data with genomics and/or proteomics data.
 
 ### Prerequisites
-Basic knowledge of biology and/or biochemistry
+Basic knowledge of biology and/or biochemistry <br>
 <br>
+Due to COVID-19 emergency it is mandatory to provide the EU Digital Covid Certificate or other equivalent certification showing one of the following conditions:
+- having completed the prescribed provided cycle vaccination against SARS-CoV-2
+OR      
+-having recovered from COVID-19.
 
 ### Target audience
 Research scientists who are using or planning to use metabolomics analysis in their research activities are welcome to attend the workshop. <br> 
