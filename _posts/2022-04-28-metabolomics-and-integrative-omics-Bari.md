@@ -40,14 +40,14 @@ Via Amendola 122/O <br>
 70126 Bari, Italy
 
 ### Fee
-* Academic: 90 EUR
-* PhD students: 70 EUR
-* Undergraduate students: 60 euro
-* Industry: 120 euro
+* Academic: EUR 90 
+* PhD students: EUR 70 
+* Undergraduate students: EUR 60 
+* Industry: EUR 120 
 <br>
 If you wish to attend the social dinner on Thursday 28th April, you should add 30 euros to the fee.
 <br>
-This workshop is limited to 50 in-person participants on the first-come-first-serve basis.
+This workshop is limited to 50 in-person participants on a first-come-first-serve basis.
 <br>
 
 ### Registration
@@ -64,7 +64,7 @@ Reason: registration ELIXIR Metabolomics workshop + PARTICIPANT NAME <br>
 The registration will be finalized after sending the copy of the payment receipt to <br> < elixir.metabolomics2022@gmail.com > <br>
 Email subject: Fee NAME SURNAME
 
-**The email should be sent by 20-03-2022 24h00 CET**
+**The email should be sent by 27-03-2022 24h00 CET**
 
 ### Instructors/Speakers
 - **Duccio Cavalieri**- University of Florence, Italy
