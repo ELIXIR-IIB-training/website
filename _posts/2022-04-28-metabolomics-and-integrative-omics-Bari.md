@@ -15,7 +15,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
 </table>
 <table border="0">
         <tr>
-        <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="60" width="200"></a>
+        <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="60" width="230"></a>
         </td>
         <td><a href=""><img src="../../../img/Logo_IBIOM_EN.png" height="60" width="200"></a>
         </td>
