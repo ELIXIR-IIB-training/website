@@ -31,9 +31,8 @@ description: The workshop is designed to enable the attendees to apply metabolom
 - Deadline for applications: **27-03-2022**
 - Deadline for the presentation of use cases (see below): **27-03-2022**
 - Workshop date: **28-29 April, 2022** 
-<br>
 
-### [Programme](https://bit.ly/programme_metabolomics2022)
+### [Programme](https://bit.ly/programme_metabolomics_and_integrative_omics2022)
 
 ### Venue
 CNR Research Area of Bari <br>
