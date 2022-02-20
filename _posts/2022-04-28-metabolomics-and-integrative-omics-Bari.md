@@ -9,7 +9,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
 ---
 <table border="0">
 <tr>
-	<td><img src="../../../img/banner_metabolomics2022.png" height="380" width="850">
+	<td><img src="../../../img/banner_metabolomics2022.png" height="380" width="800">
 	</td>	
 </tr>
 </table>
