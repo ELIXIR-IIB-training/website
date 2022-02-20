@@ -9,7 +9,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
 ---
 <table border="0">
 <tr>
-	<td><img src="../../../img/banner_metabolomics2022.png">
+	<td><img src="../../../img/banner_metabolomics2022.png" height="380" width="800">
 	</td>	
 </tr>
 </table>
@@ -17,7 +17,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
         <tr>
         <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="110" width="200"></a>
         </td>
-        <td><a href=""><img src="../../../img/Logo_IBIOM_EN.png" height="110" width="110"></a>
+        <td><a href=""><img src="../../../img/Logo_IBIOM_EN.png" height="110" width="200"></a>
         </td>
         <td><a href=""><img src="../../../img/Logo_ThermoFisher.png" height="160" width="200"></a>
         </td>
@@ -102,7 +102,7 @@ This workshop is aimed to introduce metabolomics and describe the current challe
 Basic knowledge of biology and/or biochemistry
 <br>
 
-###Target audience
+### Target audience
 Research scientists who are using or planning to use metabolomics analysis in their research activities are welcome to attend the workshop. <br> 
 Participants are invited to present a use case by submitting to: <br> **< elixir.metabolomics2022@gmail.com >** <br>
 (**email subject**: Abstract NAME SURNAME) <br>
