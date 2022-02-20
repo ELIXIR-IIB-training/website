@@ -17,7 +17,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
         <tr>
         <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="60" width="200"></a>
         </td>
-        <td><a href=""><img src="../../../img/Logo_IBIOM_EN.png" height="60" width="200"></a>
+        <td><a href=""><img src="../../../img/Logo_IBIOM_EN.png" height="65" width="200"></a>
         </td>
         <td><a href=""><img src="../../../img/Logo_ThermoFisher.png" height="110" width="200"></a>
         </td>
@@ -32,7 +32,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
 - Deadline for the presentation of use cases (see below): **27-03-2022**
 - Workshop date: **28-29 April, 2022** 
 
-### [Programme](https://bit.ly/https://drive.google.com/file/d/1e_l6ajux2KIkU7XYCEmAOYWF0DuW8V-L/view?usp=sharing)
+### [Programme](https://drive.google.com/file/d/1e_l6ajux2KIkU7XYCEmAOYWF0DuW8V-L/view?usp=sharing)
 
 ### Venue
 CNR Research Area of Bari <br>
