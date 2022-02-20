@@ -101,12 +101,12 @@ This workshop is aimed to introduce metabolomics and describe the current challe
 4.	Integration of metabolomics data with genomics and/or proteomics data.
 
 ### Prerequisites
-Basic knowledge of biology and/or biochemistry <br>
+Basic knowledge of biology and/or biochemistry. <br>
 <br>
-Due to COVID-19 emergency it is mandatory to provide the EU Digital Covid Certificate or other equivalent certification showing one of the following conditions:
-- having completed the prescribed provided cycle vaccination against SARS-CoV-2
+*Due to COVID-19 emergency it is mandatory to provide the EU Digital Covid Certificate or other equivalent certification showing one of the following conditions:*
+- *having completed the prescribed provided cycle vaccination against SARS-CoV-2* <br>
 OR      
--having recovered from COVID-19.
+- *having recovered from COVID-19.*
 
 ### Target audience
 Research scientists who are using or planning to use metabolomics analysis in their research activities are welcome to attend the workshop. <br> 
