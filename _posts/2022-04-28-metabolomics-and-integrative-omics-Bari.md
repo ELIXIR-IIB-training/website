@@ -12,8 +12,10 @@ description: The workshop is designed to enable the attendees to apply metabolom
 	<td><img src="../../../img/banner_metabolomics2022.png" height="380" width="800">
 	</td>	
 	
+</tr>	
+	
 <!---
-</tr>
+
 </table>
 <table border="0">
         <tr>
