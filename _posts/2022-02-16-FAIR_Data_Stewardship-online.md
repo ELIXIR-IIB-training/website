@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Practical course on FAIR Data Stewardship in Life Science <font color='green'>[open]</font>"
+title:  "Practical course on FAIR Data Stewardship in Life Science <font color='black'>[closed]</font>"
 date_start: 2022-03-2
 date_end: 2022-03-11   
 venue: online
