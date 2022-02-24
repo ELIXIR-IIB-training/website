@@ -157,7 +157,7 @@ Tutorial biocuration/FAIR data curation <br>
    <td height="50">14:55 - 16:10</td>
    <td height="50">Tutorial</td>
    <td height="50">M. Chiara</td>
-   <td height="50">Making data FAIR to boost research on Rare Diseases</td>
+   <td height="50">Open databases and FAIR standards for SARS-CoV-2 genomic data</td>
 </tr>
 <tr>
    <td height="50">16:15 - 17:30</td>
