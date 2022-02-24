@@ -101,6 +101,83 @@ This course is in **Italian language** (with only one session in English by invi
 <br>
 <br>
 
+### Programme
+
+<table border="1" width="700">
+<tr>
+   <td colspan="4"><h3>Wednesday - 2 March</h3></td>
+</tr>
+<tr>
+   <td height="50" width="50">14:30 - 17:30</td>
+   <td height="50">Lectures & hands-on</td>
+   <td height="50">E. Lazzari<br>G. Pavone</td>
+   <td height="50">Why do we need Open Science and what it is<br>
+The problem with research assessment<br>
+Reforming research assessment<br> 
+Open Science in Horizon Europe: from proposal to project
+</td>
+</tr>
+<tr>
+   <td colspan="4"><h3>Friday - 4 March</h3></td>
+</tr>
+<tr>
+   <td height="50" width="50">14:30 - 17:30</td>
+   <td height="50">Lectures & hands-on</td>
+   <td height="50">E. Lazzari<br>G. Pavone</td>
+   <td height="50">Open Access: what and how<br> 
+Scientific publishing without APCs on authors<br>
+Open Research Europe<br>
+Tools and support
+</td>
+</tr>
+<tr>
+   <td colspan="4"><h3>Monday - 7 March</h3></td>
+</tr>
+<tr>
+   <td height="50" width="50">14:30 - 17:30</td>
+   <td height="50">Lectures & hands-on</td>
+   <td height="50">E. Lazzari<br>G. Pavone<br>F. Quaglia</td>
+   <td height="50">Research Data Management: why it is essential to take care of data<br>
+What RDM is and how to practice it <br>
+FAIR principles <br>
+Data accessibility and legal aspects <br>
+Tutorial biocuration/FAIR data curation <br> 
+</td>
+</tr>
+<tr>
+   <td colspan="4"><h3>Wednesday - 9 March</h3></td>
+</tr>
+<tr>
+   <td height="50">14:30 - 14:50</td>
+   <td height="50">Talk</td>
+   <td height="50">C. Carta</td>
+   <td height="50">Making data FAIR to boost research on Rare Diseases</td>
+</tr>
+<tr>
+   <td height="50">14:55 - 16:10</td>
+   <td height="50">Tutorial</td>
+   <td height="50">M. Chiara</td>
+   <td height="50">Making data FAIR to boost research on Rare Diseases</td>
+</tr>
+<tr>
+   <td height="50">16:15 - 17:30</td>
+   <td height="50">Talk</td>
+   <td height="50">M. Jetten & C. van Gelder</td>
+   <td height="50"></td>
+</tr>
+<tr>
+   <td colspan="4"><h3>Friday - 11 March</h3></td>
+</tr>
+<tr>
+   <td height="50">14:30 - 17:30</td>
+   <td height="50">Practical</td>
+   <td height="50">E. Lazzari<br>G. Pavone</td>
+   <td height="50">Hands-on! Retrieving and putting together all the elements to produce a Data Management Plan
+	</td>
+</tr>
+</table>
+<br>
+<br>
 
 <h3>ELIXIR-IT member institutions</h3>
 <ol>
