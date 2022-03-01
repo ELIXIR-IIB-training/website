@@ -70,7 +70,8 @@ The registration will be finalized after sending the copy of the payment receipt
 Email subject: Fee NAME SURNAME
 
 **The email should be sent by 27-03-2022 24h00 CET**
-<br>
+<br><br>
+
 **Important**: The Tumor Biochemistry Group of the Italian Society of Biochemistry and Molecular Biology (SIB) (https://www.biochimica.it/) will grant a € 70,00 fellowship to two undergraduate or PhD student participants who either are or wish to become members of SIB. The fellowships will be granted to two presenting authors selected among those who will submit an abstract for April 29th, 2022 Roundtable discussion. <br>
 
 ### Instructors/Speakers
