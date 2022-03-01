@@ -164,7 +164,7 @@ Tutorial biocuration/FAIR data curation <br>
    <td height="50">16:15 - 17:30</td>
    <td height="50">Talk</td>
    <td height="50">M. Jetten & C. van Gelder</td>
-   <td height="50"></td>
+   <td height="50">Professionalising Data Stewardship in the Netherlands</td>
 </tr>
 <tr>
    <td colspan="4"><h3>Friday - 11 March</h3></td>
