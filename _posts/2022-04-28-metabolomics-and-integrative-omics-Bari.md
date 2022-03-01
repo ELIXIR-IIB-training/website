@@ -11,12 +11,14 @@ description: The workshop is designed to enable the attendees to apply metabolom
 <tr>
 	<td><img src="../../../img/banner_metabolomics2022.png" height="380" width="800">
 	</td>	
-	
 </tr>	
+<tr>
+	<td><img src="../../../img/logo_SIB.jpeg" height="380" width="800">
+	</td>
+</tr>
 </table>
 
 <!---
-
 <table border="0">
         <tr>
         <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="60" width="200"></a>
