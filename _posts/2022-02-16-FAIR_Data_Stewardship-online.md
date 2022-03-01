@@ -72,6 +72,7 @@ Attendance is limited to 25 participants. We expect many more applications. Acce
 - **Ivan Miçetic** - ELIXIR-IT, University of Padua, Italy
 - **Gina Pavone** - ICDI, National Research Council - ISTI, Pisa, Italy
 - **Allegra Via** - ELIXIR-IT, National Research Council - IBPM, Roma, Italy
+- **Marco Carraro** - ELIXIR-IT, University of Padua, Italy
 <br>
 <br>
 
