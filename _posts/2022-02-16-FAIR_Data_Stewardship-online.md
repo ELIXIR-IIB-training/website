@@ -61,7 +61,7 @@ Attendance is limited to 25 participants. We expect many more applications. Acce
 - **Mijke Jetten/Celia van Gelder** - ELIXIR-NL, Dutch Techcentre for Life Sciences (DTL), Netherlands
 - **Emma Lazzeri** - ICDI, GARR, Roma, Italy
 - **Gina Pavone** - ICDI, National Research Council - ISTI, Pisa, Italy
-- **Federica Quaglia** - University of Padua, Italy
+- **Federica Quaglia** - ELIXIR-IT, National Research Council - IBIOM, Bari, Italy
 <br>
 <br>
 
