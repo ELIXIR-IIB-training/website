@@ -17,6 +17,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
 	</td>
 </tr>
 </table>
+<br>
 
 <!---
 <table border="0">
@@ -27,14 +28,14 @@ description: The workshop is designed to enable the attendees to apply metabolom
         </td>
         <td><a href=""><img src="../../../img/Logo_ThermoFisher.png" height="110" width="200"></a>
         </td>
-	<td><a href=""><img src="../../../img/LogoCNRBiOmics.jpg" height="50" width="200"></a>
+	<td><a href=""><img src="../../../img/LogoCNRBiOmics.jpg" height="50" width="100"></a>
         </td>
         </tr>
         </table>
 <br>
 -->
 
-### Important Dates 
+## Important Dates 
 - Deadline for applications: **27-03-2022**
 - Deadline for the presentation of use cases (see below): **27-03-2022**
 - Workshop date: **28-29 April, 2022** 
