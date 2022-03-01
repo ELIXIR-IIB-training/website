@@ -142,7 +142,7 @@ Tools and support
 What RDM is and how to practice it <br>
 FAIR principles <br>
 Data accessibility and legal aspects <br>
-Tutorial biocuration/FAIR data curation <br> 
+Introduction to Biocuration: manually curated resources, good practices and use cases<br> 
 </td>
 </tr>
 <tr>
