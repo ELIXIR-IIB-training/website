@@ -14,7 +14,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
 </tr>	
 <tr>
 	<td>
-	<center><img src="../../../img/logo_SIB.jpeg" height="50" width="110"></center>
+	<img align="center" height="50" width="110" src="../../../img/logo_SIB.jpeg">
 	</td>
 </tr>
 </table>
