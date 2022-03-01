@@ -13,7 +13,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
 	</td>	
 </tr>	
 <tr>
-	<td><img src="../../../img/logo_SIB.jpeg" height="50" width="200">
+	<td><img src="../../../img/logo_SIB.jpeg" height="50" width="110">
 	</td>
 </tr>
 </table>
@@ -28,7 +28,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
         </td>
         <td><a href=""><img src="../../../img/Logo_ThermoFisher.png" height="110" width="200"></a>
         </td>
-	<td><a href=""><img src="../../../img/LogoCNRBiOmics.jpg" height="50" width="100"></a>
+	<td><a href=""><img src="../../../img/LogoCNRBiOmics.jpg" height="50" width="200"></a>
         </td>
         </tr>
         </table>
