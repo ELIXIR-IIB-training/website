@@ -15,10 +15,10 @@ description: The course on FAIR Data Stewardship in Life Science has been organi
         <td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="110" width="260"></a>
         </td>
         <td width="30"></td>
-        <td><a href=""><img src="../../../img/Logo_ICDI.png" height="110" width="110"></a>
+        <td><a href="https://www.icdi.it/it/"><img src="../../../img/Logo_ICDI.png" height="110" width="110"></a>
         </td>
         <td width="10"></td>
-        <td><a href=""><img src="../../../img/Logo_EOSC_pillar.png" height="160" width="200"></a>
+        <td><a href="https://www.eosc-pillar.eu/"><img src="../../../img/Logo_EOSC_pillar.png" height="160" width="200"></a>
         </td>
         </tr>
         <tr>
