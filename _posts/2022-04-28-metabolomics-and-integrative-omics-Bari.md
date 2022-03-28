@@ -123,5 +123,5 @@ OR
 Research scientists who are using or planning to use metabolomics analysis in their research activities are welcome to attend the workshop. <br> 
 Participants are invited to present a use case by submitting to: <br> **< elixir.metabolomics2022@gmail.com >** <br>
 (**email subject**: Abstract NAME SURNAME) <br>
-an abstract (max 150 words; **deadline March27th, 2022**) containing a short description of their research topic and the metabolomics issue/approach they wish to discuss with the speakers. The Organizing Committee will select ten abstracts for a flash presentation (3 min, 2 slides) and discussion during the roundtable on Friday, 29th April 2022 afternoon <br>
+an abstract (max 150 words; **deadline April 4th, 2022**) containing a short description of their research topic and the metabolomics issue/approach they wish to discuss with the speakers. The Organizing Committee will select ten abstracts for a flash presentation (3 min, 2 slides) and discussion during the roundtable on Friday, 29th April 2022 afternoon <br>
 <br> 
