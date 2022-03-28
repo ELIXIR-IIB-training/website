@@ -37,7 +37,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
 -->
 
 ## Important Dates 
-- Deadline for applications: **27-03-2022**
+- Deadline for applications: **04-04-2022**
 - Deadline for the presentation of use cases (see below): **04-04-2022**
 - Workshop date: **28-29 April, 2022** 
 
