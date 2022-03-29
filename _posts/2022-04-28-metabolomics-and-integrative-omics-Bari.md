@@ -37,7 +37,7 @@ description: The workshop is designed to enable the attendees to apply metabolom
 -->
 
 ## Important Dates 
-- Deadline for applications: **04-04-2022**
+- Deadline for applications: **Registration closed**
 - Deadline for the presentation of use cases (see below): **04-04-2022**
 - Workshop date: **28-29 April, 2022** 
 
@@ -59,8 +59,7 @@ If you wish to attend the social dinner on Thursday 28th April, you should add 3
 This workshop is limited to 50 in-person participants on a first-come-first-serve basis.
 <br>
 
-### Registration
-#### Candidates can register by filling [this form](https://bit.ly/registration_form_metabolomics2022)
+### Registration is now closed
 
 The fee payment must be made by bank transfer to:
 
