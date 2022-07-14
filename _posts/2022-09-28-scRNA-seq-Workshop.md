@@ -80,15 +80,14 @@ A maximum of **20** candidates will be accepted for the course. Priority will be
 <br>
 
 ### Course Description
-An introduction to single cell RNA-seq data analysis. This course aims to provide participants with theoretical and practical knowledge on how to perform bioinformatic analyses of scRNA-seq data using open-source software solutions. scRNA-seq analyses will be performed using the tools available as part of the Reproducible Bioinformatics Project: rCASC and its graphical interface.<br>
+An introduction to single cell RNA-seq data analysis. This course aims to provide participants with theoretical and practical knowledge on how to perform bioinformatic analyses of scRNA-seq data using open-source software solutions. scRNA-seq analyses will be performed using the tools available as part of the Reproducible Bioinformatics Project: rCASC.<br>
 You can find here the complete **[course description and program](https://github.com/ELIXIR-IIB-training/website/tree/gh-pages/docs/booklet_v2.pdf)**. 
 <br>
 <br>
 
 
 ### Target audience and prerequisites
-This course is suitable for biologists who are new to single cell gene
-expression technology. Knowledge of statistics as well as computing skills are not necessary prior to attending the course.
+This course is suitable for biologists who are new to single cell gene expression technology. Knowledge of statistics is not necessary prior to attending the course. Two weeks before the course, six recorded lessons with exercises will be delivered to participants to provide the minimal R skills required for the course.
 <br>
 <br>
 
