@@ -19,9 +19,11 @@ description: This course aims to provide participants with theoretical and pract
    </tr>
    <tr>
    <td><img src="../../../img/logo_hpc4ai.png" height="80"></td>
-      <td width="30"></td>
+      <td width="20"></td>
    <td><img src="../../../img/logo_10xgenomics.png" height="80"></td>
-      <td width="30"></td>
+      <td width="20"></td>
+      <td><img src="../../../img/logo_euroclone.png" height="80"></td>
+      <td width="20"></td>
    <td><img src="../../../img/logo_mbc_torino.jpeg" height="80"></td>
 </tr> 
 </table>
