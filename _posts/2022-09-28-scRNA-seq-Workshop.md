@@ -79,11 +79,6 @@ Participants will be requested to bring their own laptop; in case of need organi
 <br>
 <br>
 
-### Learning objectives
-By the end of this course, the participants will learn the importance of a good experimental design in order to ask sensible biological questions, face some typical issues that can arise by analysing RNA-seq data, and acquire basic skills in R scripting.
-<br>
-<br>
-
 ### Learning outcomes
 By the end of this course, the participants will be able to:
 - explain the importance of experimental design to ask sensible biological questions at single cell level;
@@ -96,7 +91,7 @@ By the end of this course, the participants will be able to:
 
 
 ### Contact
-For all kinds of queries, please contact: **Raffaele Calogero** at: <raffaele.calogero@unito.it>
+For all kinds of queries, please contact Raffaele Calogero at: <raffaele.calogero@unito.it>
 <br>
 <br>
 <br>
