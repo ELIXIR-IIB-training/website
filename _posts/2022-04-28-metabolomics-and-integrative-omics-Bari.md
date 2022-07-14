@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Metabolomics and Integrative omics: from data production to analysis <font color='green'>[open]</font>"
+title: "Metabolomics and Integrative omics: from data production to analysis <font color='black'>[closed]</font>"
 date_start: 2022-04-28
 date_end: 2022-04-29   
 venue: Bari, Italy
