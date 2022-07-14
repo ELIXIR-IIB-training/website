@@ -11,9 +11,7 @@ description: This course aims to provide participants with theoretical and pract
 
 <table border="0" width="600">
 <tr>
-<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="80"></a></td>
-<td weight="20"></td>
-<td><a href="https://www.unito.it/"><img src="../../../img/Logo_unito.png" height="80"></a></td>
+<td><img src="../../../img/Logos_scRNAseq_2022_course.png" height="150"></td>
 </tr>
 </table>
 <br>
