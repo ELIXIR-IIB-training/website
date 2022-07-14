@@ -11,8 +11,15 @@ description: This course aims to provide participants with theoretical and pract
 
 <table border="0" width="600">
 <tr>
-<td><img src="../../../img/Logos_scRNAseq_2022_course.png" height="150"></td>
-</tr>
+   <td><img src="../../../img/logo_iib.png" height="80"></td>
+   <td><img src="../../../img/Logo_B_and_Gu.jpg" height="80"></td>
+   <td><img src="../../../img/logo_bits.png" height="80"></td>
+   </tr>
+   <tr>
+   <td><img src="../../../img/logo_hpc4ai.png" height="80"></td>
+   <td><img src="../../../img/logo_10xgenomics.png" height="80"></td>
+   <td><img src="../../../img/logo_mbc_torino.jpeg" height="80"></td>
+</tr> 
 </table>
 <br>
 <br>
