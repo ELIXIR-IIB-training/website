@@ -16,7 +16,7 @@ permalink: /all_events/
 </tr>
    <tr>
    <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
-       <td height="50" width="220" align="center"><a href="[https://elixir-iib-training.github.io/website/2022/09/28/scRNA-seq-Workshop.html]">scRNA-seq Workshop</a></td> 
+       <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/28/scRNA-seq-Workshop.html">scRNA-seq Workshop</a></td> 
 <br>
    <td height="50" width="150">Raffaele Calogero (Univ. of Torino, Italy)<br> Marco Beccuti (Univ. of Torino, Italy)<br>Loredana Le Pera (ISS, ELIXIR-IT) <br> Allegra Via (CNR-IBPM, ELIXIR-IT)</td>
    <td height="50" width="150">M. Beccuti (instructor)<br>R. Calogero (instructor)</td>
