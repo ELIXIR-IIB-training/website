@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "scRNA-seq Workshop"
+title:  "scRNA-seq Workshop"<font color='green'>[open]</font>"
 date_start:  2022-09-28 
 date_end: 2020-09-30   
 venue: Torino, Italy
@@ -10,18 +10,15 @@ description: An introduction to single cell RNA-seq scRNA-seq) data analysis. Th
 
 <table border="0" width="600">
 <tr>
-	<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="80"></a>
-	</td>
-	<td weight="20"></td>
-	<td><a href="https://www.unito.it/"><img src="../../../img/Logo_unito.png" height="80"></a></td>
-	</tr>
-	</table>
+<td><a href="https://elixir-iib-training.github.io/website/"><img src="../../../img/logo_iib.png" height="80"></a></td>
+<td weight="20"></td>
+<td><a href="https://www.unito.it/"><img src="../../../img/Logo_unito.png" height="80"></a></td>
+</tr>
+</table>
 <br>
 <br>
 
 ### Important Dates
-
-
 - Course date: **28-30 September 2022**
 - Deadline for applications: **30 August 2022**.<br>Course selection will be done on a first-come first-served basis and participants will be immediately notified
 <br>
@@ -64,10 +61,8 @@ A maximum of **20** candidates will be accepted for the course. Priority will be
 <br>
 <br>
 
-
 ### Course Description
-The course is based on the use of open-source software solutions. However, R coding skill is not required. Furthermore, RNA-seq, miRNAseq and single-cell seq analyses will be performed using the tools available as part of the Reproducible Bioinformatics Project (Beccuti et al., Bioinformatics 2018: Kulkarni et al. BMC Bioinformatics 2018).
-You can find here the complete [course description abd program](https://github.com/ELIXIR-IIB-training/website/tree/gh-pages/docs/booklet_v2.pdf). 
+The course is based on the use of open-source software solutions. However, R coding skill is not required. Furthermore, RNA-seq, miRNAseq and single-cell seq analyses will be performed using the tools available as part of the Reproducible Bioinformatics Project (Beccuti et al., Bioinformatics 2018: Kulkarni et al. BMC Bioinformatics 2018). You can find here the complete [course description abd program](https://github.com/ELIXIR-IIB-training/website/tree/gh-pages/docs/booklet_v2.pdf). 
 <br>
 <br>
 
@@ -105,9 +100,6 @@ For all kinds of queries, please contact: **Raffaele Calogero** at: <raffaele.ca
 <br>
 <br>
 
-
-
-
 <h3>ELIXIR-IIB member institutes</h3>
 <ol>
    <li> <b>CNR, National Research Council </b> (Lead Institute)</li>
@@ -134,4 +126,3 @@ For all kinds of queries, please contact: **Raffaele Calogero** at: <raffaele.ca
    <li> University of Torino</li>
    <li> University of Tuscia </li>
 </ol>
-
