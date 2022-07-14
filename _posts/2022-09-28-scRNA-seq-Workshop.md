@@ -27,6 +27,9 @@ description: This course aims to provide participants with theoretical and pract
 
 ### Venue
 University of Turin<br>
+Molecular Biotechnology Center<br>
+Via Nizza, 52<br> 
+10126 Torino, Italy<br>
 <br>
 <br>
 
