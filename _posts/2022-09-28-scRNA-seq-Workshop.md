@@ -66,7 +66,7 @@ A maximum of **20** candidates will be accepted for the course. Priority will be
 ### Instructors
 - [**Marco Beccuti**](https://elixir-iib-training.github.io/website/instructors/marco_beccuti.html) - Dept. of Computer Sciences, University of Torino, IT
 - [**Raffaele Calogero**](https://elixir-iib-training.github.io/website/instructors/raffaele_calogero.html) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
-- [**Francesca Cordero**]() - Dept. of Computer Sciences, University of Torino, IT
+- [**Francesca Cordero**](http://www.di.unito.it/~fcordero/) - Dept. of Computer Sciences, University of Torino, IT
 <br>
 <br>
 
