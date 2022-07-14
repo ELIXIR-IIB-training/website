@@ -23,9 +23,9 @@ description: This course aims to provide participants with theoretical and pract
       <td width="20"></td>
    <td><img src="../../../img/logo_10xgenomics.png" height="80"></td>
       <td width="20"></td>
-      <td><img src="../../../img/logo_euroclone.png" height="100"></td>  
+      <td><img src="../../../img/logo_euroclone.png" height="110"></td>  
       </tr>
-   <tr width="20"></tr>
+   <tr width="40"></tr>
    <tr>
       <td><img src="../../../img/logo_iib.png" height="80"></td>
 </tr> 
