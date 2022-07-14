@@ -4,7 +4,7 @@ title: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis
 date_start: 2022-09-28
 date_end: 2022-09-30   
 venue: Torino, Italy
-description: This course aims to provide participants with theoretical and practical knowledge on how to perform bioinformatic analyses of scRNA-seq data using open-source software solutions. scRNA-seq analyses will be performed using the tools available as part of the Reproducible Bioinformatics Project (rCASC and its graphical interface). This course is suitable for biologists who are new to single cell gene expression technology. Knowledge of statistics as well as computing skills are not necessary prior to attending the course.
+description: This course aims to provide participants with theoretical and practical knowledge on how to perform bioinformatic analyses of scRNA-seq data using open-source software solutions. scRNA-seq analyses will be performed using the tools available as part of the Reproducible Bioinformatics Project (rCASC). This course is suitable for biologists who are new to single cell gene expression technology. Knowledge of statistics as well as computing skills are not necessary prior to attending the course.
 
 ---
 
@@ -17,13 +17,15 @@ description: This course aims to provide participants with theoretical and pract
    <td width="30"></td>
    <td><img src="../../../img/logo_bits.png" height="80"></td>
    </tr>
+   <tr width="20"></tr>
    <tr>
    <td><img src="../../../img/logo_hpc4ai.png" height="80"></td>
       <td width="20"></td>
    <td><img src="../../../img/logo_10xgenomics.png" height="80"></td>
       <td width="20"></td>
-      <td><img src="../../../img/logo_euroclone.png" height="80"></td>  
+      <td><img src="../../../img/logo_euroclone.png" height="90"></td>  
       </tr>
+   <tr width="20"></tr>
    <tr>
       <td><img src="../../../img/logo_iib.png" height="80"></td>
 </tr> 
