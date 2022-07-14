@@ -16,13 +16,23 @@ permalink: /all_events/
 </tr>
    <tr>
    <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
+       <td height="50" width="220" align="center"><a href="[https://elixir-iib-training.github.io/website/2022/09/28/scRNA-seq-Workshop.html]">scRNA-seq Workshop</a></td> 
+<br>
+   <td height="50" width="150">Raffaele Calogero (Univ. of Torino, Italy)<br> Marco Beccuti (Univ. of Torino, Italy)<br>Loredana Le Pera (ISS, ELIXIR-IT) <br> Allegra Via (CNR-IBPM, ELIXIR-IT)</td>
+   <td height="50" width="150"></td>
+   <td height="50" align="center"><font color="blue">University of Torino</font></td>
+   <td height="50" width="75" align="center">Sep<br>28-30<br>2022</td>
+   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+</tr>
+   <tr>
+   <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
        <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/04/28/metabolomics-and-integrative-omics-Bari.html">Metabolomics and Integrative Omics</a></td> 
 <br>
    <td height="50" width="150">Sergio Giannattasio (CNR-IBIOM)<br> Duccio Cavalieri (University of Florence, Italy)<br>Clara Musicco (CNR-IBIOM) <br> Francesca De Leo (CNR-IBIOM) <br> Loredana Le Pera (ISS, ELIXIR-IT) <br> Allegra Via (CNR-IBPM, ELIXIR-IT)</td>
    <td height="50" width="150"></td>
    <td height="50" align="center"><font color="blue">CNR Research Area of Bari</font></td>
    <td height="50" width="75" align="center">Apr<br>28-29<br>2022</td>
-   <td height="50" align="center"><font color="grey"><b>open</b></font></td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
    <td height="50" align="center">EMBO<br>Practical Course</td>
@@ -59,7 +69,7 @@ permalink: /all_events/
    <td height="50" width="150"></td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Feb<br>9-25<br>2022</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>  
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>  
 </tr>
 <tr>
    <td height="50" align="center">The Carpentries</td>
