@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "scRNA-seq Workshop"<font color='green'>[open]</font>"
-date_start:  2022-09-28 
+title: "scRNA-seq Workshop"<font color='green'>[open]</font>"
+date_start: 2022-09-28 
 date_end: 2020-09-30   
 venue: Torino, Italy
 description: An introduction to single cell RNA-seq scRNA-seq) data analysis. This course aims to provide participants with theoretical and practical knowledge on how to perform bioinformatic analyses of scRNA-seq data using open-source software solutions. scRNA-seq analyses will be performed using the tools available as part of the Reproducible Bioinformatics Project: rCASC and its graphical interface. This course is suitable for biologists who are new to single cell gene expression technology. Knowledge of statistics as well as computing skills are not necessary prior to attending the course.
@@ -62,7 +62,7 @@ A maximum of **20** candidates will be accepted for the course. Priority will be
 <br>
 
 ### Course Description
-The course is based on the use of open-source software solutions. However, R coding skill is not required. Furthermore, RNA-seq, miRNAseq and single-cell seq analyses will be performed using the tools available as part of the Reproducible Bioinformatics Project (Beccuti et al., Bioinformatics 2018: Kulkarni et al. BMC Bioinformatics 2018). You can find here the complete [course description abd program](https://github.com/ELIXIR-IIB-training/website/tree/gh-pages/docs/booklet_v2.pdf). 
+The course is based on the use of open-source software solutions. However, R coding skill is not required. Furthermore, RNA-seq, miRNAseq and single-cell seq analyses will be performed using the tools available as part of the Reproducible Bioinformatics Project (Beccuti et al., Bioinformatics 2018: Kulkarni et al. BMC Bioinformatics 2018). You can find here the complete [course description and program](https://github.com/ELIXIR-IIB-training/website/tree/gh-pages/docs/booklet_v2.pdf). 
 <br>
 <br>
 
