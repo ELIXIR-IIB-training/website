@@ -35,7 +35,7 @@ description: This course aims to provide participants with theoretical and pract
 
 ### Important Dates
 - Course date: **28-30 September 2022**
-- Deadline for applications: **30 August 2022**.<br>Course selection will be done on a first-come first-served basis and participants will be immediately notified
+- Deadline for applications: **10 September 2022**.<br>Course selection will be done on a first-come first-served basis and participants will be immediately notified
 <br>
 <br>
 
