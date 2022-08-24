@@ -27,9 +27,8 @@ you can write an email to **<elixir.ita.training@gmail.com>**, or contact:
 		Institute of Molecular Biology and Pathology (IBPM), CNR, Rome<br>
    </td>
    <td width="300" height="100">
-		<a href="mailto:l.lepera@ibiom.cnr.it">l.lepera@ibiom.cnr.it</a><br>
-		Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies (IBIOM) &<br>
-		Institute of Molecular Biology and Pathology (IBPM), CNR, Rome
+		<a href="mailto:loredana.lepera@iss.it">loredana.lepera@iss.it</a><br>
+		Italian National Institute of Health (ISS), Rome
    </td>
 </tr>
 <tr height="20"></tr>
