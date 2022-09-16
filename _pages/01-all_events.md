@@ -22,7 +22,7 @@ permalink: /all_events/
    <td height="50" width="150">M. Beccuti (instructor)<br>R. Calogero (instructor)</td>
    <td height="50" align="center">University of Torino</td>
    <td height="50" width="75" align="center">Sep<br>28-30<br>2022</td>
-   <td height="50" align="center"><font color="green"><b>open</b></font></td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
    <td height="50" align="center">European Joint Programme Rare Diseases</td>
