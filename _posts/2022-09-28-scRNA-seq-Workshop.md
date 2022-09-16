@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis.<font color='green'>[open]</font>"
+title: "scRNA-seq Workshop. An introduction to single cell RNA-seq data analysis.<font color='black'>[closed]</font>"
 date_start: 2022-09-28
 date_end: 2022-09-30   
 venue: Torino, Italy
