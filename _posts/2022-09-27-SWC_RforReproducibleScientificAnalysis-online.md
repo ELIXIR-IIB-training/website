@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "R for Reproducible Scientific Analysis <font color='grey'>[closed]</font>"
+title:  "R for Reproducible Scientific Analysis <font color='black'>[closed]</font>"
 date_start:   2022-09-27
 date_end:   2022-09-30
 venue: online
