@@ -18,7 +18,7 @@ permalink: /all_events/
    <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
        <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/28/scRNA-seq-Workshop.html">scRNA-seq Workshop</a></td> 
 <br>
-   <td height="50" width="150">Raffaele Calogero (Univ. of Torino, Italy)<br>Marco Beccuti (Univ. of Torino, Italy)<br>Loredana Le Pera (ISS, ELIXIR-IT) <br>Allegra Via (CNR-IBPM, ELIXIR-IT)</td>
+   <td height="50" width="150">R. Calogero (Univ. of Torino)<br>M. Beccuti (Univ. of Torino)<br>L. Le Pera (ISS) <br>A. Via (CNR-IBPM)</td>
    <td height="50" width="150">M. Beccuti (instructor)<br>R. Calogero (instructor)</td>
    <td height="50" align="center">University of Torino</td>
    <td height="50" width="75" align="center">Sep<br>28-30<br>2022</td>
@@ -28,7 +28,7 @@ permalink: /all_events/
    <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
        <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/27/SWC_RforReproducibleScientificAnalysis-online.html">R for Reproducible Scientific Analysis</a></td> 
 <br>
-   <td height="50" width="150">L. Le Pera (ISS, ELIXIR-IT)<br>A. Via (CNR-IBPM, ELIXIR-IT)<br>V. Colonna (CNR-IGB, ELIXIR-IT)</td>
+   <td height="50" width="150">L. Le Pera (ISS)<br>A. Via (CNR-IBPM)<br>V. Colonna (CNR-IGB)</td>
    <td height="50" width="150">V. Colonna (instructor)<br>L. Le Pera (helper)<br>A. Via (helper)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
    <td height="50" width="75" align="center">Sep<br>27-30<br>2022</td>
@@ -48,7 +48,7 @@ permalink: /all_events/
    <td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
    <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/17852">Bioinformatics to learn biology: an educational tool, ELIXIR-IIB at DIDACTA Italia Fair</a></td> 
 <br>
-   <td height="50" width="150">Allegra Via (CNR-IBPM, ELIXIR-IT)<br>Francesca De Leo (CNR-IBIOM)<br>Luana Licata (Univ. of Rome “Tor Vergata” and Human Technopole Foundation, Milan)<br>Anna Marabotti (Univ. of Salerno)</td>
+   <td height="50" width="150">A. Via (CNR-IBPM)<br>F. De Leo (CNR-IBIOM)<br>L. Licata (Univ. of Rome “Tor Vergata” and Human Technopole Foundation)<br>A. Marabotti (Univ. of Salerno)</td>
    <td height="50" width="150"></td>
    <td height="50" align="center">Fortezza da Basso of Florence</td>
    <td height="50" width="75" align="center">May<br>20<br>2022</td>
@@ -58,7 +58,7 @@ permalink: /all_events/
    <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
        <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/04/28/metabolomics-and-integrative-omics-Bari.html">Metabolomics and Integrative Omics</a></td> 
 <br>
-   <td height="50" width="150">Sergio Giannattasio (CNR-IBIOM)<br> Duccio Cavalieri (University of Florence, Italy)<br>Clara Musicco (CNR-IBIOM) <br> Francesca De Leo (CNR-IBIOM) <br> Loredana Le Pera (ISS, ELIXIR-IT) <br> Allegra Via (CNR-IBPM, ELIXIR-IT)</td>
+   <td height="50" width="150">S. Giannattasio (CNR-IBIOM)<br> D. Cavalieri (Univ. of Florence)<br>C. Musicco (CNR-IBIOM) <br> F. De Leo (CNR-IBIOM) <br> L. Le Pera (ISS) <br> A. Via (CNR-IBPM)</td>
    <td height="50" width="150"></td>
    <td height="50" align="center">CNR Research Area of Bari</td>
    <td height="50" width="75" align="center">Apr<br>28-29<br>2022</td>
