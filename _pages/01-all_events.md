@@ -18,10 +18,20 @@ permalink: /all_events/
    <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
        <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/28/scRNA-seq-Workshop.html">scRNA-seq Workshop</a></td> 
 <br>
-   <td height="50" width="150">Raffaele Calogero (Univ. of Torino, Italy)<br> Marco Beccuti (Univ. of Torino, Italy)<br>Loredana Le Pera (ISS, ELIXIR-IT) <br> Allegra Via (CNR-IBPM, ELIXIR-IT)</td>
+   <td height="50" width="150">Raffaele Calogero (Univ. of Torino, Italy)<br>Marco Beccuti (Univ. of Torino, Italy)<br>Loredana Le Pera (ISS, ELIXIR-IT) <br>Allegra Via (CNR-IBPM, ELIXIR-IT)</td>
    <td height="50" width="150">M. Beccuti (instructor)<br>R. Calogero (instructor)</td>
    <td height="50" align="center">University of Torino</td>
    <td height="50" width="75" align="center">Sep<br>28-30<br>2022</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
+</tr>
+   <tr>
+   <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
+       <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/27/SWC_RforReproducibleScientificAnalysis-online.html">R for Reproducible Scientific Analysis</a></td> 
+<br>
+   <td height="50" width="150">L. Le Pera (ISS, ELIXIR-IT)<br>A. Via (CNR-IBPM, ELIXIR-IT)<br>V. Colonna (CNR-IGB, ELIXIR-IT)</td>
+   <td height="50" width="150">V. Colonna (instructor)<br>L. Le Pera (helper)<br>A. Via (helper)</td>
+   <td height="50" align="center"><font color="blue">on-line</font></td>
+   <td height="50" width="75" align="center">Sep<br>27-30<br>2022</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
