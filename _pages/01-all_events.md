@@ -31,7 +31,7 @@ permalink: /all_events/
    <td height="50" width="150">Istituto Superiore di Sanità<br>EJP RD task partners</td>
    <td height="50" width="150">C. Carta (instructor)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
-   <td height="50" width="75" align="center">Sep<br>28-30<br>2022</td>
+   <td height="50" width="75" align="center">Sep<br>26-30<br>2022</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
