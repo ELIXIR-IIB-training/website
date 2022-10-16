@@ -104,7 +104,7 @@ Research scientists who are using or planning to use genomics data in their rese
 <br> 
 <br>
 
-### Learning Outcomes
+<!-- ### Learning Outcomes -->
 
 
 ### Draft Program
