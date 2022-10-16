@@ -9,12 +9,12 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 ---
 <table border="0">
 <tr>
-	<td><img src="../../../img/banner_PythonSchool2022.png" height="200" width="600">
+	<td><img src="../../../img/banner_PythonSchool2022.png" height="100" width="600">
 	</td>	
 </tr>	
 <tr>
 	<td>
-	<img align="left" height="70" src="../../../img/Logo_SIDILV.png">
+	<img height="70" src="../../../img/Logo_SIDILV.png">
 	</td>
 	<td>
 	<img height="70" src="../../../img/logo_iib.png">
@@ -171,7 +171,6 @@ Research scientists who are using or planning to use genomics data in their rese
 <tr>
    <td height="50" width="50">14:00 - 15:30</td>
    <td height="50">Biopython and pipelines (genomics applications)</td>
-   <td height="50"></td>
 </tr>
 <tr>
    <td height="50" width="50">15:30 - 16:00</td>
