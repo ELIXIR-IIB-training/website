@@ -26,11 +26,12 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 </tr>
 </table>
 <br>
-
+<br>
 
 ## Important Dates 
 - Deadline for applications: **3 November, 2022**
 - School date: **22-25 November, 2022** 
+<br>
 <br>
 
 ### Venue
@@ -38,17 +39,18 @@ Italian National Institue of Health (ISS)<br>
 Viale Regina Elena 295<br>
 00161 Rome, Italy
 <br>
+<br>
 
 ### Fee
 40 euros<br>
 The School is limited to **16** in-person participants on a first-come-first-serve basis.
 <br>
-
-
-### Registration
-[Application Form]()
 <br>
 
+### Registration
+Application Form
+<br>
+<br>
 
 ### Instructors
 - **Luca De Sabato** - Italian National Institue of Health (ISS), Italy
@@ -57,26 +59,26 @@ The School is limited to **16** in-person participants on a first-come-first-ser
 - **Massimiliano Orsini** - Istituto Zooprofilattico Sperimentale delle Venezie, Italy
 - **Allegra Via** - Sapienza University of Rome, Italy
 <br>
-
+<br>
 
 ### Helpers
 - **Gianluca Frustagli** - Italian National Institue of Health (FAST - ISS), Italy
 - **Chiara Pacelli** - Sapienza University of Rome, Italy
 - **Irene Ruspantini** - Italian National Institue of Health (FAST - ISS), Italy
 <br>
-
+<br>
 
 ### Organisers
 - **Stefano Morabito** - SIDiLV/ELIXIR Italy/ISS
 - **Loredana Le Pera** - ELIXIR Italy Deputy Training Coordinator/FAST-ISS
 - **Allegra Via** - ELIXIR Italy Training Coordinator/Sapienza Univ. of Rome
 <br>
-
+<br>
 
 ### Contact
 For all kinds of queries, please contact us at <elixir.ita.training@gmail.com> 
 <br>
-
+<br>
 
 ### Course Description
 With the rapid advancement of next-generation sequencing (NGS) technologies, genomic data has become one of the most widely analysed biological data. A variety of tools are available for different types of analyses; however, genomics research necessarily requires skills to create "ad hoc" scripts/software to deepen and extend the analysis.
@@ -90,15 +92,17 @@ The School consists of 3 consequential modules:<br>
 
 This first *Basic module: Introduction to Python programming* aims to provide learners the basics of the Python programming language, by applying them to assigned problems in the field of genomics. Learners will be also introduced to fundamental skills needed for working with their computers through a command-line interface (using the Linux shell).
 <br>
+<br>
 
 ### Prerequisites
 No programming experience is required.
+<br>
 <br>
 
 ### Target audience
 Research scientists who are using or planning to use genomics data in their research activities are welcome to attend the workshop. <br> 
 <br> 
-
+<br>
 
 ### Learning Outcomes
 
