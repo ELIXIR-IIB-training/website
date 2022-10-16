@@ -43,7 +43,7 @@ Viale Regina Elena 295<br>
 
 ### Fee
 40 euros<br>
-The School is limited to **16** in-person participants on a first-come-first-serve basis.
+The participation is limited to **16** in-person participants on a first-come-first-serve basis.
 <br>
 <br>
 
