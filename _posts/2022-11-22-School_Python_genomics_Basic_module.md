@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "School of Python for genomics. Basic module: Introduction to Python programming <font color='green'>[]</font>"
+title: "School of Python for genomics. Basic module: Introduction to Python programming <font color='green'></font>"
 date_start: 2022-11-22
 date_end: 2022-11-25   
 venue: Rome, Italy
@@ -9,18 +9,19 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 ---
 <table border="0">
 <tr>
-	<td><img src="../../../img/banner_PythonSchool2022.png" height="100" width="600">
+	<td>
+	<img src="../../../img/banner_PythonSchool2022.png" height="100">
 	</td>	
 </tr>	
 <tr>
 	<td>
-	<img height="70" src="../../../img/Logo_SIDILV.png">
+	<img height="100" src="../../../img/Logo_SIDILV.png">
 	</td>
 	<td>
-	<img height="70" src="../../../img/logo_iib.png">
+	<img height="100" src="../../../img/logo_iib.png">
 	</td>
 	<td>
-	<img height="70" src="../../../img/Logo_ISS.png">
+	<img height="100" src="../../../img/Logo_ISS.png">
 	</td>
 </tr>
 </table>
@@ -30,17 +31,19 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 ## Important Dates 
 - Deadline for applications: **3 November, 2022**
 - School date: **22-25 November, 2022** 
-
+<br>
 
 ### Venue
 Italian National Institue of Health (ISS)<br>
 Viale Regina Elena 295<br>
 00161 Rome, Italy
+<br>
 
 ### Fee
-EUR 40 <br>
+40 euros<br>
 The School is limited to **16** in-person participants on a first-come-first-serve basis.
 <br>
+
 
 ### Registration
 [Application Form]()
@@ -55,22 +58,25 @@ The School is limited to **16** in-person participants on a first-come-first-ser
 - **Allegra Via** - Sapienza University of Rome, Italy
 <br>
 
+
 ### Helpers
 - **Gianluca Frustagli** - Italian National Institue of Health (FAST - ISS), Italy
 - **Chiara Pacelli** - Sapienza University of Rome, Italy
 - **Irene Ruspantini** - Italian National Institue of Health (FAST - ISS), Italy
 <br>
 
+
 ### Organisers
 - **Stefano Morabito** - SIDiLV/ELIXIR Italy/ISS
 - **Loredana Le Pera** - ELIXIR Italy Deputy Training Coordinator/FAST-ISS
 - **Allegra Via** - ELIXIR Italy Training Coordinator/Sapienza Univ. of Rome
-
 <br>
+
 
 ### Contact
 For all kinds of queries, please contact us at <elixir.ita.training@gmail.com> 
 <br>
+
 
 ### Course Description
 With the rapid advancement of next-generation sequencing (NGS) technologies, genomic data has become one of the most widely analysed biological data. A variety of tools are available for different types of analyses; however, genomics research necessarily requires skills to create "ad hoc" scripts/software to deepen and extend the analysis.
@@ -84,15 +90,16 @@ The School consists of 3 consequential modules:
 The aim of the School is providing the necessary skills to utilise the Python language both for the use and development of software and for genomics data analysis in general.
 
 This first *Basic module: Introduction to Python programming* aims to provide an introduction to the command-line interface and the basics of the Python programming language, by applying them to assigned problems in the field of genomics. 
+<br>
 
 ### Prerequisites
 No programming experience is required.
 <br>
 
-
 ### Target audience
 Research scientists who are using or planning to use genomics data in their research activities are welcome to attend the workshop. <br> 
 <br> 
+
 
 ### Learning Outcomes
 
