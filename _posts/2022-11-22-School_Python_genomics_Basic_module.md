@@ -28,7 +28,7 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 
 
 ## Important Dates 
-- Deadline for applications: **1 November, 2022**
+- Deadline for applications: **3 November, 2022**
 - School date: **22-25 November, 2022** 
 
 
