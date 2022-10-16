@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "School of Python for genomics. Basic module: Introduction to Python programming <font color='green'>[open]</font>"
+title: "School of Python for genomics. Basic module: Introduction to Python programming <font color='green'>[]</font>"
 date_start: 2022-11-22
 date_end: 2022-11-25   
 venue: Rome, Italy
