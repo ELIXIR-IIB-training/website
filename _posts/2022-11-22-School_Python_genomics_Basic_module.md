@@ -14,15 +14,13 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 </tr>	
 <tr>
 	<td>
-	<img align="left" height="70" width="150" src="../../../img/Logo_SIDILV.png">
+	<img align="left" height="70" src="../../../img/Logo_SIDILV.png">
 	</td>
 	<td>
-	<img height="70" width="150" src="../../../img/logo_iib.png">
+	<img height="70" src="../../../img/logo_iib.png">
 	</td>
-</tr>
-<tr>
 	<td>
-	<img height="70" width="150" src="../../../img/Logo_ISS.png">
+	<img height="70" src="../../../img/Logo_ISS.png">
 	</td>
 </tr>
 </table>
