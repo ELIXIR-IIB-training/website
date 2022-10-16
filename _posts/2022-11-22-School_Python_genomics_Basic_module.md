@@ -9,7 +9,7 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 ---
 <table border="0">
 <tr>
-	<td><img src="../../../img/banner_PythonSchool2022.png" height="380" width="800">
+	<td><img src="../../../img/banner_PythonSchool2022.png" height="200" width="600">
 	</td>	
 </tr>	
 <tr>
@@ -17,12 +17,12 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 	<img align="left" height="70" width="150" src="../../../img/Logo_SIDILV.png">
 	</td>
 	<td>
-	<img align="left" height="70" width="150" src="../../../img/logo_iib.png">
+	<img height="70" width="150" src="../../../img/logo_iib.png">
 	</td>
 </tr>
 <tr>
 	<td>
-	<img align="left" height="70" width="150" src="../../../img/Logo_ISS.png">
+	<img height="70" width="150" src="../../../img/Logo_ISS.png">
 	</td>
 </tr>
 </table>
