@@ -88,7 +88,7 @@ The aim of the School is providing the necessary skills to utilise the Python la
 The School consists of 3 consequential modules:<br>
 - Basic module: Introduction to Python programming
 - Advanced module: analyze your genomic data with Python
-- Hackathon: Python programming for developers
+- Hackathon module: Python programming for developers
 
 This first *Basic module: Introduction to Python programming* aims to provide learners the basics of the Python programming language, by applying them to assigned problems in the field of genomics. Learners will be also introduced to fundamental skills needed for working with their computers through a command-line interface (using the Linux shell).
 <br>
