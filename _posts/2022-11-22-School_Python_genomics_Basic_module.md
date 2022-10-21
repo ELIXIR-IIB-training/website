@@ -47,8 +47,8 @@ The participation is limited to **16** in-person participants on a first-come-fi
 <br>
 <br>
 
-### Registration
-Application Form
+### Registration 
+Application Form (will be open soon)
 <br>
 <br>
 
