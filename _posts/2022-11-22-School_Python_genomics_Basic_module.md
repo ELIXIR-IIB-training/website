@@ -68,18 +68,6 @@ Application Form (will be open soon)
 <br>
 <br>
 
-### Organisers
-- **Stefano Morabito** - SIDiLV/ELIXIR Italy/National Institue of Health (SANV - ISS), Italy 
-- **Allegra Via** - ELIXIR Italy (Training Platform)/Sapienza Univ. of Rome
-- **Loredana Le Pera** - ELIXIR Italy (Training Platform)/National Institue of Health (FAST - ISS), Italy
-<br>
-<br>
-
-### Contact
-For all kinds of queries, please contact us at <elixir.ita.training@gmail.com> 
-<br>
-<br>
-
 ### Course Description
 With the rapid advancement of next-generation sequencing (NGS) technologies, genomic data has become one of the most widely analysed biological data. A variety of tools are available for different types of analyses; however, genomics research necessarily requires skills to create "ad hoc" scripts/software to deepen and extend the analysis.
 
@@ -210,5 +198,19 @@ Research scientists who are using or planning to use genomics data in their rese
    <td height="50">Wrap-up and feedback questionnaire</td>
 </tr>
 </table>
+<br>
+<br>
+<br>
+<br>
+
+### Organisers
+- **Stefano Morabito** - SIDiLV/ELIXIR Italy/National Institue of Health (SANV - ISS), Italy 
+- **Allegra Via** - ELIXIR Italy (Training Platform)/Sapienza Univ. of Rome
+- **Loredana Le Pera** - ELIXIR Italy (Training Platform)/National Institue of Health (FAST - ISS), Italy
+<br>
+<br>
+
+### Contact
+For all kinds of queries, please contact us at <elixir.ita.training@gmail.com> 
 <br>
 <br>
