@@ -53,25 +53,25 @@ Application Form (will be open soon)
 <br>
 
 ### Instructors
-- **Luca De Sabato** - Italian National Institue of Health (ISS), Italy
-- **Arnold Knijn** - Italian National Institue of Health (ISS), Italy 
-- **Loredana Le Pera** - Italian National Institue of Health (FAST - ISS), Italy
+- **Luca De Sabato** - Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institue of Health (SANV - ISS), Italy
+- **Arnold Knijn** - Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institue of Health (SANV - ISS), Italy
+- **Loredana Le Pera** - Core Facilities Technical-Scientific Service, National Institue of Health (FAST - ISS), Italy
 - **Massimiliano Orsini** - Istituto Zooprofilattico Sperimentale delle Venezie, Italy
 - **Allegra Via** - Sapienza University of Rome, Italy
 <br>
 <br>
 
 ### Helpers
-- **Gianluca Frustagli** - Italian National Institue of Health (FAST - ISS), Italy
-- **Chiara Pacelli** - Sapienza University of Rome, Italy
-- **Irene Ruspantini** - Italian National Institue of Health (FAST - ISS), Italy
+- **Gianluca Frustagli** - Core Facilities Technical-Scientific Service, National Institue of Health (FAST - ISS), Italy
+- **Chiara Pacelli** - Dep. of Biochemical Sciences, Sapienza University of Rome, Italy
+- **Irene Ruspantini** - Core Facilities Technical-Scientific Service, National Institue of Health (FAST - ISS), Italy
 <br>
 <br>
 
 ### Organisers
-- **Stefano Morabito** - SIDiLV/ELIXIR Italy/ISS
-- **Loredana Le Pera** - ELIXIR Italy Deputy Training Coordinator/FAST-ISS
-- **Allegra Via** - ELIXIR Italy Training Coordinator/Sapienza Univ. of Rome
+- **Stefano Morabito** - SIDiLV/ELIXIR Italy/National Institue of Health (SANV - ISS), Italy 
+- **Allegra Via** - ELIXIR Italy (Training Platform)/Sapienza Univ. of Rome
+- **Loredana Le Pera** - ELIXIR Italy (Training Platform)/National Institue of Health (FAST - ISS), Italy
 <br>
 <br>
 
