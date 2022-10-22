@@ -86,11 +86,11 @@ With the rapid advancement of next-generation sequencing (NGS) technologies, gen
 By that motivation, the *[Società Italiana di Diagnostica di Laboratorio Veterinaria (SIDiLV)](https://sidilv.org/)* and the *[Italian Infrastructure of Bioinformatics (IIB/ELIXIR Italy)](https://elixir-italy.org/about/)* organised the **School of Python for genomics** at the *[Italian National Institute of Health (ISS)](https://www.iss.it/en/web/guest/home)*.<br> 
 The aim of the School is providing the necessary skills to utilise the Python language both for the use and development of software and for genomics data analysis in general.<br>
 The School consists of 3 consequential modules:<br>
-- Basic module: Introduction to Python programming
-- Advanced module: analyze your genomic data with Python
-- Hackathon module: Python programming for developers
+- *Basic module*: Introduction to Python programming
+- *Advanced module*: Analyze your genomic data with Python
+- *Hackathon module*: Python programming for developers
 
-This first *Basic module: Introduction to Python programming* aims to provide learners the basics of the Python programming language, by applying them to assigned problems in the field of genomics. Learners will be also introduced to fundamental skills needed for working with their computers through a command-line interface (using the Linux shell).
+This *Basic module: Introduction to Python programming* aims to provide learners the basics of the Python programming language, by applying them to assigned problems in the field of genomics. Learners will be also introduced to fundamental skills needed for working with their computers through a command-line interface (using the Linux shell).
 <br>
 <br>
 
