@@ -4,7 +4,7 @@ title: "School of Python for genomics. Basic module: Introduction to Python prog
 date_start: 2022-11-22
 date_end: 2022-11-25   
 venue: Rome, Italy
-description: With the rapid advancement of next-generation sequencing (NGS) technologies, genomic data has become one of the most widely analyzed biological data. A variety of tools are available for different types of analyses; however, genomics research necessarily requires skills to create specific scripts/software to deepen and extend the analysis. This training module aims to provide the basics of the Python programming language by applying it to problems assigned in the field of genomics. No programming experience is required.
+description: With the rapid advancement of next-generation sequencing (NGS) technologies, genomic data has become one of the most widely analyzed biological data. A variety of tools are available for different types of analyses; however, genomics research necessarily requires skills to create specific scripts/software to deepen and extend the analysis. This Basic Module aims to provide learners the basics of the Python programming language, by applying them to assigned problems in the field of genomics. No programming experience is required.
 
 ---
 <table border="0">
