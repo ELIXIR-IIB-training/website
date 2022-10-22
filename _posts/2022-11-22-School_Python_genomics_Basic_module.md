@@ -200,8 +200,6 @@ Research scientists who are using or planning to use genomics data in their rese
 </table>
 <br>
 <br>
-<br>
-<br>
 
 ### Organisers
 - **Stefano Morabito** - SIDiLV/ELIXIR Italy/National Institue of Health (SANV - ISS), Italy 
