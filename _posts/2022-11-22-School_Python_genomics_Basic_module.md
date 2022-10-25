@@ -35,7 +35,7 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 <br>
 
 ### Venue
-Italian National Institue of Health (ISS)<br>
+Italian National Institute of Health (ISS)<br>
 Viale Regina Elena 299<br>
 00161 Rome, Italy
 <br>
