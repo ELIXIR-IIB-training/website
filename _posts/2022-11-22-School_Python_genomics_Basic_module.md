@@ -18,6 +18,7 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 	<img height="120" src="../../../img/Logo_SIDILV.png">
 	</td>
 	<td weight="20"></td>
+	<td>
 	<img height="100" weight="150" src="../../../img/logo_iib.png">
 	</td>
 </tr>
@@ -39,8 +40,9 @@ Viale Regina Elena 299<br>
 <br>
 
 ### Fee
-40 euros<br>
-The participation is limited to **16** in-person participants on a first-come-first-serve basis.
+No registration fee is required, but participation is reserved for members of the Italian Society of the Veterinary Laboratory Diagnosticians (SIDiLV). To become a member, click on this link: [https://sidilv.org/registrazione/](https://sidilv.org/registrazione/)
+<br>
+Participation is limited to **16** in-person participants on a first-come-first-serve basis.
 <br>
 <br>
 
