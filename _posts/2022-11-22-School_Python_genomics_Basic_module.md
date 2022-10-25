@@ -15,7 +15,7 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 </tr>	
 <tr>
 	<td>
-	<img height="120" src="../../../img/Logo_SIDILV.png">
+	<img height="140" src="../../../img/Logo_SIDILV.png">
 	</td>
 </tr>
 	<tr height="20"></tr>
