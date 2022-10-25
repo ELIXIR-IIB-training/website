@@ -15,10 +15,10 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 </tr>	
 <tr>
 	<td>
-	<img height="100" src="../../../img/Logo_SIDILV.png">
+	<img height="120" src="../../../img/Logo_SIDILV.png">
 	</td>
 	<td>
-	<img height="100" src="../../../img/logo_iib.png">
+	<img weight="150" src="../../../img/logo_iib.png">
 	</td>
 </tr>
 </table>
