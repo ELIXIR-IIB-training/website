@@ -50,18 +50,18 @@ Application Form (will be open soon)
 <br>
 
 ### Instructors
-- **Luca De Sabato** - Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institue of Health (SANV - ISS), Italy
-- **Arnold Knijn** - Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institue of Health (SANV - ISS), Italy
-- **Loredana Le Pera** - Core Facilities Technical-Scientific Service, National Institue of Health (FAST - ISS), Italy
+- **Luca De Sabato** - Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
+- **Arnold Knijn** - Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
+- **Loredana Le Pera** - Core Facilities Technical-Scientific Service, National Institute of Health (FAST - ISS), Italy
 - **Massimiliano Orsini** - Istituto Zooprofilattico Sperimentale delle Venezie, Italy
 - **Allegra Via** - Sapienza University of Rome, Italy
 <br>
 <br>
 
 ### Helpers
-- **Gianluca Frustagli** - Core Facilities Technical-Scientific Service, National Institue of Health (FAST - ISS), Italy
+- **Gianluca Frustagli** - Core Facilities Technical-Scientific Service, National Institute of Health (FAST - ISS), Italy
 - **Chiara Pacelli** - Dep. of Biochemical Sciences, Sapienza University of Rome, Italy
-- **Irene Ruspantini** - Core Facilities Technical-Scientific Service, National Institue of Health (FAST - ISS), Italy
+- **Irene Ruspantini** - Core Facilities Technical-Scientific Service, National Institute of Health (FAST - ISS), Italy
 <br>
 <br>
 
