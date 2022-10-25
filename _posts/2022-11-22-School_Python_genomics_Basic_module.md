@@ -20,9 +20,6 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 	<td>
 	<img height="100" src="../../../img/logo_iib.png">
 	</td>
-	<td>
-	<img height="100" src="../../../img/Logo_ISS.png">
-	</td>
 </tr>
 </table>
 <br>
