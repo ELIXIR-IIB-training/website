@@ -17,8 +17,8 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 	<td>
 	<img height="120" src="../../../img/Logo_SIDILV.png">
 	</td>
-	<td>
-	<img weight="150" src="../../../img/logo_iib.png">
+	<td weight="20"></td>
+	<img height="100" weight="150" src="../../../img/logo_iib.png">
 	</td>
 </tr>
 </table>
