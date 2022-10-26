@@ -15,13 +15,13 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 </tr>	
 <tr>
 	<td>
-	<img height="140" src="../../../img/Logo_SIDILV.png">
+	<a href="https://sidilv.org/"><img height="140" src="../../../img/Logo_SIDILV.png"></a>
 	</td>
 </tr>
 	<tr height="20"></tr>
 <tr>
 	<td>
-	<img height="100" weight="150" src="../../../img/logo_iib.png">
+	<a href="https://elixir-iib-training.github.io/website/"><img height="100" weight="150" src="../../../img/logo_iib.png"></a>
 	</td>
 </tr>
 </table>
