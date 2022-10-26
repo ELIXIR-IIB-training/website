@@ -42,14 +42,15 @@ Viale Regina Elena 299<br>
 <br>
 
 ### Fee
-No registration fee is required, but participation is reserved for members of the Italian Society of the Veterinary Laboratory Diagnosticians (SIDiLV). To become a member, click on this link: [https://sidilv.org/registrazione/](https://sidilv.org/registrazione/)
-<br>
-Attendance is limited to **16** participants in person on a first-come, first-served basis.
+No registration fee is required, but participation is reserved for members of the Italian Society of the Veterinary Laboratory Diagnosticians (SIDiLV). To become a member, please click on the link below:<br> 
+[https://sidilv.org/registrazione/](https://sidilv.org/registrazione/)
 <br>
 <br>
 
 ### Registration 
 Application Form (will be open soon)
+<br>
+A maximum of **16** candidates will be selected based on a first-come, first-served basis and their need for the course as emerging from the application form.
 <br>
 <br>
 
@@ -79,7 +80,7 @@ The School consists of 3 consequential modules:<br>
 - *Advanced module*: Analyze your genomic data with Python
 - *Hackathon module*: Python programming for developers
 
-This *Basic module: Introduction to Python programming* aims to provide learners the basics of the Python programming language, by applying them to assigned problems in the field of genomics. Learners will be also introduced to fundamental skills needed for working with their computers through a command-line interface (using the Linux shell).
+This *Basic module: Introduction to Python programming* starts from zero knowledge and aims to provide learners the basics of the Python programming language, by applying them to assigned problems in the field of genomics. The course will be highly interactive and the students will continuously put theory into practice while learning.cLearners will be also introduced to fundamental skills needed for working with their computers through a command-line interface (using the Linux shell).
 <br>
 <br>
 
@@ -89,7 +90,7 @@ No programming experience is required.
 <br>
 
 ### Target audience
-Research scientists who are using or planning to use genomics data in their research activities are welcome to attend the workshop. <br> 
+This course is aimed at research scientists at any stage of their career who are using or planning to use genomics data in their research activities are welcome to attend the workshop. <br> 
 <br> 
 <br>
 
