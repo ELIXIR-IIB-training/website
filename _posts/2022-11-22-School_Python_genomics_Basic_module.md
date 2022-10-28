@@ -220,7 +220,7 @@ For all kinds of queries, please contact us at <elixir.ita.training@gmail.com>
 <table>
 <tr>
 	<td>
-	<a href="https://sidilv.org/"><img src="../../../img/Logo_SIDILV.png"></a>
+	<a href="https://sidilv.org/"><img height="140" src="../../../img/Logo_SIDILV.png"></a>
 	</td>
 	<td weight="20"></td>
 	<td>
