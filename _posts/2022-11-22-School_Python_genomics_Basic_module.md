@@ -13,7 +13,7 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 	<img src="../../../img/elixir_banner_22novembre_blu.png" height="380" width="800">
 	</td>	
 </tr>	
-<tr>
+<!-- <tr>
 	<td>
 	<a href="https://sidilv.org/"><img height="140" src="../../../img/Logo_SIDILV.png"></a>
 	</td>
@@ -23,7 +23,8 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 	<td>
 	<a href="https://elixir-iib-training.github.io/website/"><img height="100" weight="150" src="../../../img/logo_iib.png"></a>
 	</td>
-</tr>
+</tr> 
+--> 
 </table>
 <br>
 <br>
