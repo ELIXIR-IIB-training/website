@@ -10,7 +10,7 @@ description: With the rapid advancement of next-generation sequencing (NGS) tech
 <table border="0">
 <tr>
 	<td>
-	<img src="../../../img/elixir_banner_22novembre_blu.png" height="100">
+	<img src="../../../img/elixir_banner_22novembre_blu.png" height="380" width="800">
 	</td>	
 </tr>	
 <tr>
