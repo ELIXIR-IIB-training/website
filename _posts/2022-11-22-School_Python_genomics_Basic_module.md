@@ -217,3 +217,14 @@ This course is aimed at research scientists at any stage of their career who are
 For all kinds of queries, please contact us at <elixir.ita.training@gmail.com> 
 <br>
 <br>
+<table>
+<tr>
+	<td>
+	<a href="https://sidilv.org/"><img src="../../../img/Logo_SIDILV.png"></a>
+	</td>
+	<td weight="20"></td>
+	<td>
+	<a href="https://elixir-iib-training.github.io/website/"><img weight="150" src="../../../img/logo_iib.png"></a>
+	</td>
+</tr> 
+</table>
