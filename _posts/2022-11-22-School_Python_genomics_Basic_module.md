@@ -93,7 +93,7 @@ No programming experience is required.
 <br>
 
 ### Target audience
-This course is aimed at research scientists at any stage of their career who are using or planning to use genomics data in their research activities are welcome to attend the workshop. <br> 
+Research scientists at any stage of their career who are using or planning to use genomics data in their research activities are welcome to attend the workshop. <br> 
 <br> 
 <br>
 
