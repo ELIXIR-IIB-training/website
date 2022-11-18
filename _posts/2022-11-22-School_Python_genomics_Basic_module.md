@@ -47,10 +47,11 @@ No registration fee is required, but participation is reserved for members of th
 [https://sidilv.org/registrazione/](https://sidilv.org/registrazione/)<br>
 Participants are expected to pay their own travel, meals and hotel costs (if any). Due to Covid-related restrictions, no coffee breaks can be served at the course venue or adjacent rooms.
 <br>
+<br>
 
 ### Registration 
 
-## [Application Form](https://forms.gle/49WjKDFmLBJAbXW56)
+# [Application Form](https://forms.gle/49WjKDFmLBJAbXW56)
 <br>
 
 A maximum of **16** candidates will be selected based on a first-come, first-served basis and their need for the course as emerging from the application form. Notifications of acceptance will be sent by *November the 10th*. 
