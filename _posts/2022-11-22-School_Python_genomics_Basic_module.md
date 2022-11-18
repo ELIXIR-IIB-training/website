@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "School of Python for genomics. Basic module: Introduction to Python programming<font color='black'>[closed]</font>"
+title: "School of Python for genomics. Basic module: Introduction to Python programming <font color='black'>[closed]</font>"
 date_start: 2022-11-22
 date_end: 2022-11-25   
 venue: Rome, Italy
@@ -45,7 +45,7 @@ Viale Regina Elena 299<br>
 ### Fee
 No registration fee is required, but participation is reserved for members of the Italian Society of the Veterinary Laboratory Diagnosticians (SIDiLV). To become a member, please click on the link below:<br> 
 [https://sidilv.org/registrazione/](https://sidilv.org/registrazione/)<br>
-*Participants are expected to pay their own travel, meals and hotel costs (if any). Due to Covid-related restrictions, no coffee breaks can be served at the course venue or adjacent rooms.*
+*Participants are expected to pay their own travel, meal and hotel costs (if any). Due to Covid-related restrictions, no coffee breaks can be served at the course venue or adjacent rooms.*
 <br>
 <br>
 
