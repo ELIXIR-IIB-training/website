@@ -44,8 +44,8 @@ Viale Regina Elena 299<br>
 
 ### Fee
 No registration fee is required, but participation is reserved for members of the Italian Society of the Veterinary Laboratory Diagnosticians (SIDiLV). To become a member, please click on the link below:<br> 
-[https://sidilv.org/registrazione/](https://sidilv.org/registrazione/)
-<br>
+[https://sidilv.org/registrazione/](https://sidilv.org/registrazione/)<br>
+Participants are expected to pay their own travel, meals and hotel costs (if any). Due to Covid-related restrictions, no coffee breaks can be served at the course venue or adjacent rooms.
 <br>
 
 ### Registration 
