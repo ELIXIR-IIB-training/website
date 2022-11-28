@@ -14,30 +14,36 @@ permalink: /all_events/
    <td height="50" width="75" align="center"><b>Date</b></td>
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
-   <tr>
-      <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
-       <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/11/22/School_Python_genomics_Basic_module.html">School of Python for genomics.<br>Basic module:<br>Introduction to Python programming</a></td> 
-<br>
+<tr>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/11/22/School_Python_genomics_Basic_module.html">School of Python for genomics.<br>Basic module:<br>Introduction to Python programming</a></td> 
    <td height="50" width="150">S. Morabito (ISS)<br>L. Le Pera (ISS)<br>A. Via (Sapienza Univ.)<br>SIDiLV<br>ELIXIR-IT></td>
    <td height="50" width="150">L. Le Pera (instructor)<br>A. Via (instructor)<br>A. Knijn (instructor)</td>
-   <td height="50" align="center">Italian National Institute of Health (ISS)</td>
+   <td height="50" align="center">Italian National Institute of Health<br>(ISS)</td>
    <td height="50" width="75" align="center">Nov<br>22-25<br>2022</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
-   <tr>
-      <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
-      <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/28/scRNA-seq-Workshop.html">scRNA-seq Workshop</a></td> 
-<br>
+<tr>
+   <td height="50" align="center">Biohackathon-Europe</td>
+   <td height="50" width="220" align="center"><a href="https://www.biohackathon-europe.org/index.html">ELIXIR<br>Biohackathon 2022</a></td>
+   <td height="50" width="150">ELIXIR</td>
+   <td height="50" width="150">L. Pera (project co-lead)<br>A. Via (project lead)</td>
+   <td height="50" align="center"><font color="orange">hybrid</font></td>
+   <td height="50" width="75" align="center">Nov<br>7-11<br>2022</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
+</tr>
+<tr>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/28/scRNA-seq-Workshop.html">scRNA-seq Workshop</a></td> 
    <td height="50" width="150">R. Calogero (Univ. of Torino)<br>M. Beccuti (Univ. of Torino)<br>L. Le Pera (ISS) <br>A. Via (CNR-IBPM)</td>
    <td height="50" width="150">M. Beccuti (instructor)<br>R. Calogero (instructor)</td>
    <td height="50" align="center">University of Torino</td>
    <td height="50" width="75" align="center">Sep<br>28-30<br>2022</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
-   <tr>
-      <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
-      <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/27/SWC_RforReproducibleScientificAnalysis-online.html">R for Reproducible Scientific Analysis</a></td> 
-<br>
+<tr>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/27/SWC_RforReproducibleScientificAnalysis-online.html">R for Reproducible Scientific Analysis</a></td> 
    <td height="50" width="150">L. Le Pera<br>A. Via<br>V. Colonna</td>
    <td height="50" width="150">V. Colonna (instructor)<br>L. Le Pera (helper)<br>A. Via (helper)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
@@ -47,7 +53,6 @@ permalink: /all_events/
 <tr>
    <td height="50" align="center">European Joint Programme Rare Diseases</td>
        <td height="50" width="220" align="center"><a href="https://www.ejprarediseases.org/event/international-summer-school-on-rare-disease-registries-and-fairification-of-data/">International Summer School on Rare Disease Registries and FAIRification of data</a></td> 
-<br>
    <td height="50" width="150">Istituto Superiore di Sanità<br>EJP RD task partners</td>
    <td height="50" width="150">C. Carta (instructor)</td>
    <td height="50" align="center"><font color="blue">on-line</font></td>
@@ -56,18 +61,16 @@ permalink: /all_events/
 </tr>
 <tr>
    <td height="50" align="center">ELIXIR IIB<br>Dissemination/Outreach</td>
-   <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/17852">Bioinformatics to learn biology: an educational tool, ELIXIR-IIB at DIDACTA Italia Fair</a></td> 
-<br>
+   <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/17852">Bioinformatics to learn biology: an educational tool, ELIXIR-IIB at DIDACTA Italia Fair</a></td>
    <td height="50" width="150">A. Via<br>F. De Leo<br>L. Licata<br>A. Marabotti</td>
    <td height="50" width="150"></td>
    <td height="50" align="center">Fortezza da Basso of Florence</td>
    <td height="50" width="75" align="center">May<br>20<br>2022</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
-   <tr>
+<tr>
    <td height="50" align="center">ELIXIR IIB<br>Workshop</td>
-       <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/04/28/metabolomics-and-integrative-omics-Bari.html">Metabolomics and Integrative Omics</a></td> 
-<br>
+   <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/04/28/metabolomics-and-integrative-omics-Bari.html">Metabolomics and Integrative Omics</a></td>
    <td height="50" width="150">S. Giannattasio (CNR-IBIOM)<br> D. Cavalieri (Univ. of Florence)<br>C. Musicco (CNR-IBIOM) <br> F. De Leo (CNR-IBIOM) <br> L. Le Pera (ISS) <br> A. Via (CNR-IBPM)</td>
    <td height="50" width="150"></td>
    <td height="50" align="center">CNR Research Area of Bari</td>
@@ -92,7 +95,6 @@ permalink: /all_events/
    <td height="50" width="75" align="center">Feb - Oct<br>2022</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
-
 <tr>
    <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/02/16/FAIR_Data_Stewardship-online.html">Practical course on<br>FAIR Data Stewardship<br>in Life Science</a></td>
@@ -102,7 +104,7 @@ permalink: /all_events/
    <td height="50" width="75" align="center">Mar 2,4,7,9,11<br>2022 (new dates)</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
-   <tr>
+<tr>
    <td height="50" align="center">ELIXIR IIB<br>Winter School</td>
    <td height="50" width="220" align="center"><a href="http://www.biocomp.unibo.it/~school2022/">Structural Bioinformatics in the era of AlphaFold2</a></td>
    <td height="50">ELIXIR-IIB<br>International Bologna Master in Bioinformatics<br>Interdepartmental Centre Alma Climate<br>Dep. of Pharmacy and Biotechnology - Univ. of Bologna<br>SIB<br>Accademia delle Scienze dell'Istituto di Bologna</td>
