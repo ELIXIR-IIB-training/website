@@ -16,6 +16,16 @@ permalink: /all_events/
 </tr>
    <tr>
    <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
+       <td height="50" width="220" align="center"><a href="[https://elixir-iib-training.github.io/website/2022/09/28/scRNA-seq-Workshop.html](https://elixir-iib-training.github.io/website/2022/11/22/School_Python_genomics_Basic_module.html)">School of Python for genomics.<br>Basic module:<br>Introduction to Python programming</a></td> 
+<br>
+   <td height="50" width="150">S. Morabito (ISS)<br>L. Le Pera (ISS)<br>A. Via (Sapienza Univ.)<br>SIDiLV<ELIXIR-IT></td>
+   <td height="50" width="150">L. Le Pera (instructor)<br>A. Via (instructor)<br>A. Knijn (instructor)</td>
+   <td height="50" align="center">Italian National Institute of Health (ISS)</td>
+   <td height="50" width="75" align="center">Nov<br>22-25<br>2022</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
+</tr>
+   <tr>
+   <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
        <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/28/scRNA-seq-Workshop.html">scRNA-seq Workshop</a></td> 
 <br>
    <td height="50" width="150">R. Calogero (Univ. of Torino)<br>M. Beccuti (Univ. of Torino)<br>L. Le Pera (ISS) <br>A. Via (CNR-IBPM)</td>
