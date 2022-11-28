@@ -9,13 +9,13 @@ permalink: /all_events/
    <td height="50" width="200" align="center"><b>Event</b></td>
    <td height="50" width="220" align="center"><b>Title</b></td>
    <td height="50" width="180" align="center"><b>Organisers</b></td>
-   <td height="50" width="150" align="center"><b>ELIXIR-IIB Speaker/Instructor/Helper</b></td>
+   <td height="50" width="150" align="center"><b>ELIXIR IIB Speaker/Instructor/Helper</b></td>
    <td height="50" width="75" align="center"><b>Venue</b></td>
    <td height="50" width="75" align="center"><b>Date</b></td>
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
    <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
+      <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
        <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/11/22/School_Python_genomics_Basic_module.html">School of Python for genomics.<br>Basic module:<br>Introduction to Python programming</a></td> 
 <br>
    <td height="50" width="150">S. Morabito (ISS)<br>L. Le Pera (ISS)<br>A. Via (Sapienza Univ.)<br>SIDiLV<br>ELIXIR-IT></td>
@@ -25,8 +25,8 @@ permalink: /all_events/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
    <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
-       <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/28/scRNA-seq-Workshop.html">scRNA-seq Workshop</a></td> 
+      <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
+      <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/28/scRNA-seq-Workshop.html">scRNA-seq Workshop</a></td> 
 <br>
    <td height="50" width="150">R. Calogero (Univ. of Torino)<br>M. Beccuti (Univ. of Torino)<br>L. Le Pera (ISS) <br>A. Via (CNR-IBPM)</td>
    <td height="50" width="150">M. Beccuti (instructor)<br>R. Calogero (instructor)</td>
@@ -35,8 +35,8 @@ permalink: /all_events/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
    <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
-       <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/27/SWC_RforReproducibleScientificAnalysis-online.html">R for Reproducible Scientific Analysis</a></td> 
+      <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
+      <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/27/SWC_RforReproducibleScientificAnalysis-online.html">R for Reproducible Scientific Analysis</a></td> 
 <br>
    <td height="50" width="150">L. Le Pera<br>A. Via<br>V. Colonna</td>
    <td height="50" width="150">V. Colonna (instructor)<br>L. Le Pera (helper)<br>A. Via (helper)</td>
@@ -55,7 +55,7 @@ permalink: /all_events/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
+   <td height="50" align="center">ELIXIR IIB<br>Dissemination/Outreach</td>
    <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/17852">Bioinformatics to learn biology: an educational tool, ELIXIR-IIB at DIDACTA Italia Fair</a></td> 
 <br>
    <td height="50" width="150">A. Via<br>F. De Leo<br>L. Licata<br>A. Marabotti</td>
@@ -65,7 +65,7 @@ permalink: /all_events/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
    <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
+   <td height="50" align="center">ELIXIR IIB<br>Workshop</td>
        <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/04/28/metabolomics-and-integrative-omics-Bari.html">Metabolomics and Integrative Omics</a></td> 
 <br>
    <td height="50" width="150">S. Giannattasio (CNR-IBIOM)<br> D. Cavalieri (Univ. of Florence)<br>C. Musicco (CNR-IBIOM) <br> F. De Leo (CNR-IBIOM) <br> L. Le Pera (ISS) <br> A. Via (CNR-IBPM)</td>
@@ -84,7 +84,7 @@ permalink: /all_events/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-<td height="50" align="center">ELIXIR-IIB<br>Higher-level training course</td>
+<td height="50" align="center">ELIXIR IIB<br>Higher-level training course</td>
    <td height="50" width="220" align="center"><a href="https://sites.google.com/uniroma1.it/altaformazione-bioinformatica">Corso di Alta Formazione<br>in<br>Bioinformatics</a></td>
    <td height="50" width="150">Sapienza<br>CNR-IBPM<br>ELIXIR-IIB</td>
    <td height="50" width="150">S. Pascarella (Director)<br>A. Via (Deputy Director)<br>L. Le Pera (scient. comm.)</td>
@@ -94,7 +94,7 @@ permalink: /all_events/
 </tr>
 
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/02/16/FAIR_Data_Stewardship-online.html">Practical course on<br>FAIR Data Stewardship<br>in Life Science</a></td>
    <td height="50" width="150">E. Lazzeri<br>L. Le Pera<br>I. Miçetic<br>G. Pavone<br>A. Via</td>
    <td height="50" width="150">C. Carta (speaker)<br>M. Chiara (instructor)</td>
@@ -103,7 +103,7 @@ permalink: /all_events/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
    <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Winter School</td>
+   <td height="50" align="center">ELIXIR IIB<br>Winter School</td>
    <td height="50" width="220" align="center"><a href="http://www.biocomp.unibo.it/~school2022/">Structural Bioinformatics in the era of AlphaFold2</a></td>
    <td height="50">ELIXIR-IIB<br>International Bologna Master in Bioinformatics<br>Interdepartmental Centre Alma Climate<br>Dep. of Pharmacy and Biotechnology - Univ. of Bologna<br>SIB<br>Accademia delle Scienze dell'Istituto di Bologna</td>
    <td height="50" width="150"></td>
@@ -121,7 +121,7 @@ permalink: /all_events/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>  
 </tr>
 <tr>
-<td height="50" align="center">ELIXIR-IIB<br>Workshop</td>
+<td height="50" align="center">ELIXIR IIB<br>All Hands</td>
    <td height="50" width="220" align="center"><a href="https://elixir-europe.org/events/elixir-it-workshop">2021<br>ELIXIR-IT Workshop</a></td>
    <td height="50" width="150">University of Padua</td>
    <td height="50" width="150">G. Pesole (speaker)<br>S. Tosatto (speaker)<br>M. Chiara (speaker)<br>L. Le Pera (speaker)<br>C. Bruno (speaker)</td>
@@ -139,7 +139,7 @@ permalink: /all_events/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB Dissemination/Outreach<br>Webinar</td>
+   <td height="50" align="center">ELIXIR IIB Dissemination/Outreach<br>Webinar</td>
    <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/17404">Collaborare per contrastare la pandemia - Disponibilità e uso dei dati epidemiologici in pandemia: difficoltà e opportunità</a></td>
    <td height="50" width="150">F. De Leo<br>E. Lazzeri<br>L. Le Pera<br>G. Pavone<br>A. Via</td>
    <td height="50" width="150">F. De Leo (speaker)</td>
@@ -167,7 +167,7 @@ https://elixir-iib-training.github.io/website/2021/09/09/SWC_Italia_ShellGitPyth
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>  
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB Dissemination/Outreach<br>Webinar</td>
+   <td height="50" align="center">ELIXIR IIB Dissemination/Outreach<br>Webinar</td>
    <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/17209">Collaborare per contrastare la pandemia - ll COVID-19 Data Portal italiano: un punto di riferimento nazionale per i dati della pandemia</a></td>
    <td height="50" width="150">F. De Leo<br>E. Lazzeri<br>L. Le Pera<br>G. Pavone<br>A. Via</td>
    <td height="50" width="150">M. Chiara (speaker)<br>F. Zambelli (speaker)<br>M. Carraro (speaker)</td>
@@ -205,7 +205,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Winter School</td>
+   <td height="50" align="center">ELIXIR IIB<br>Winter School</td>
    <td height="50" width="220" align="center"><a href="http://www.biocomp.unibo.it/~school2021/">Bioinformatics for Discovery in Structural and Functional Biology</a></td>
    <td height="50">ELIXIR-IIB<br>International Bologna Master in Bioinformatics<br>Interdepartmental Centre Alma Climate<br>Dep. of Pharmacy and Biotechnology - Univ. of Bologna<br>SIB<br>Accademia delle Scienze dell'Istituto di Bologna</td>
    <td height="50" width="150"></td>
@@ -223,7 +223,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>  
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/12/01/train-the-trainer-italy-online.html">Train the Trainer</a></td>
    <td height="50">L. Le Pera<br>A. Via</td>
    <td height="50" width="150">L. Le Pera (instructor)<br>A. Via (instructor)</td>
@@ -232,7 +232,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Dissemination for<br>high-school/<br>Notte europea dei ricercatori</td>
+   <td height="50" align="center">ELIXIR IIB<br>Dissemination for<br>high-school/<br>Notte europea dei ricercatori</td>
    <td height="50" width="220" align="center"><a href="http://www.ern-apulia.it/evento/fai-una-domanda-su-covid-19-gli-esperti-rispondono/">Fai una domanda su Covid-19,<br>gli esperti rispondono</a></td>
    <td height="50" width="150">ELIXIR-IT<br>CNR<br>UNIBA<br>POLIBA<br>OpenAIRE</td>
    <td height="50" width="150">F. De Leo (scient. comm.)<br>L. Le Pera (scient. comm.)<br>A. Via (scient. comm.)</td>
@@ -259,7 +259,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center">Train the Trainer</td>
    <td height="50" width="150">ELIXIR-PT<br>ELIXIR</td>
    <td height="50" width="150">A. Via (instructor)</td>
@@ -277,7 +277,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>  
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB Dissemination/Outreach<br>Webinar</td>
+   <td height="50" align="center">ELIXIR IIB Dissemination/Outreach<br>Webinar</td>
    <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/16888/">Collaborare per contrastare la pandemia - Covid-19 e condivisione del dati: perché in Italia si fa troppo poco?</a></td>
    <td height="50" width="150">F. De Leo<br>E. Lazzeri<br>L. Le Pera<br>G. Pavone<br>A. Via</td>
    <td height="50" width="150">G. Pesole (speaker)<br>A. Via (speaker)</td>
@@ -286,7 +286,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/07/14/SWC_RforReproducibleScientificAnalysis-online.html">Software Carpentry Workshop - <br>R for Reproducible Scientific Analysis</a></td>
    <td height="50" width="150">A. Via<br>L. Le Pera<br>V. Colonna</td>
    <td height="50" width="150">L. Le Pera (instructor)<br>V. Colonna (instructor)<br>M. Pietrosanto (helper)<br>A. Via (facilitator)</td>
@@ -295,7 +295,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/05/06/GeneOntology_Rome-TorVergata.html">Gene Ontology and Bioinformatics Data Resources Workshop</a></td>
    <td height="50" width="150">R. Lovering<br>L. Licata</td>
    <td height="50" width="150"></td>
@@ -304,7 +304,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="red" size="2"><b>cancelled,<br>to be rescheduled</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/03/09/RNAseq-and-single-cell_Turin.html">RNA-seq and single cell RNA-seq Course</a></td>
    <td height="50" width="150">R. Calogero<br>M. Beccuti<br>L. Le Pera<br>A. Via</td>
    <td height="50" width="150"></td>
@@ -313,7 +313,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="red" size="2"><b>cancelled,<br>to be rescheduled</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://www.france-bioinformatique.fr/fr/evenements/train-trainers-2020">Train the Trainer</a></td>
    <td height="50">ELIXIR-FR<br>ELIXIR-IT</td>
    <td height="50" width="150">A. Via (instructor)</td>
@@ -322,7 +322,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Winter School</td>
+   <td height="50" align="center">ELIXIR IIB<br>Winter School</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2020/01/27/winter-school-idp-brixen.html">Disorder in Disorders:<br>Pathogenic mechanisms of<br>Intrinsically Disordered Proteins</a></td>
    <td height="50" width="150">MSCA-RISE IDPfun<br>University of Padua<br>ELIXIR-IIB</td>
    <td height="50" width="150"></td>
@@ -333,7 +333,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
 <tr>
    <td height="50" align="center">ELIXIR Innovation and<br>SME Forum</td>
    <td height="50" width="220" align="center"><a href="https://elixir-europe.org/events/sme-2019-milan">Data management<br>in the life sciences - a driver<br>for innovation</a></td>
-   <td height="50" width="150">ELIXIR-IIB Industry Working Group<br>ELIXIR-EU Industry Officer</td>
+   <td height="50" width="150">ELIXIR IIB Industry Working Group<br>ELIXIR-EU Industry Officer</td>
    <td height="50" width="150">L. Le Pera (speaker)</td>
    <td height="50" align="center">Milano,<br>Italy</td>
    <td height="50" width="75" align="center">Nov<br>27-28<br>2019</td>
@@ -349,7 +349,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Tutorial</td>
+   <td height="50" align="center">ELIXIR IIB<br>Tutorial</td>
    <td height="50" width="220" align="center"><a href="http://www.igst.it/nettab/2019/">NETTAB/BBCC 2019<br>Joint Meeting<br></a></td>
    <td height="50" width="150">A. Facchiano<br>P. Romano<br>A. Marabotti<br>R. Tagliaferri</td>
    <td height="50" width="150"></td>
@@ -358,7 +358,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
+   <td height="50" align="center">ELIXIR IIB<br>Dissemination/Outreach</td>
    <td height="50" width="220" align="center"><a href="https://agenda.infn.it/event/19596/">ShareScience 2019</a></td>
    <td height="50" width="150">Sapienza University of Rome</td>
    <td height="50" width="150">L. Le Pera<br>A. Via<br>V. Morea</td>
@@ -430,7 +430,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/07/05/SWC-Napoli.html">Software Carpentry<br>Workshop</a></td>
    <td height="50" width="150">V. Colonna<br>A. Marabotti<br>L. Le Pera</td>
    <td height="50" width="150">V. Colonna (instructor)</td>
@@ -439,7 +439,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/07/01/Genome-Assembly_Milano-Bicocca.html">Genome Assembly and Annotation</a></td>
    <td height="50" width="150">H. Lantz<br>G. Della Vedova<br>B.L. Leskosek<br>L. Le Pera<br>A. Via</td>
    <td height="50" width="150"></td>
@@ -448,7 +448,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/06/13/Docker-and-Reproducibility_Turin.html">Docker and Reproducibility</a></td>
    <td height="50" width="150">R. Calogero<br>M. Chiapello<br>M. Beccuti<br>L. Le Pera<br>A. Via</td>
    <td height="50" width="150">M. Beccuti (instructor)<br>R. Calogero (instructor)</td>
@@ -466,7 +466,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/05/07/SingleCell-Pozzuoli.html">Single Cell RNA Sequencing and Data Analysis</a></td>
    <td height="50" width="150">D. Cacchiarelli<br>V. Colonna<br>L. Le Pera<br>A. Via</td>
    <td height="50" width="150"></td>
@@ -475,7 +475,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">CNR/ELIXIR-IIB<br>Dissemination for high-school</td>
+   <td height="50" align="center">CNR/ELIXIR IIB<br>Dissemination for high-school</td>
    <td height="50" width="220" align="center"><a href="http://liceodantealighieri.it/content/ciclo-di-conferenze-2-3-maggio-2019-dipartimento-di-matematica-e-fisica-0">Big Data: nuove esigenze e sfide per la conoscenza, la società, le persone</a></td>
    <td height="50" width="150">L. Le Pera <br>V. Morea<br>A. Via</td>
    <td height="50" width="150">L. Le Pera (speaker)<br>V. Morea (speaker)<br>A. Via (speaker)</td>
@@ -493,7 +493,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr> 
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/02/14/DC-Milano-Bicocca.html">Data Carpentry<br>Workshop</a></td>
    <td height="50" width="150">G. Della Vedova<br>L. Le Pera<br>A. Via</td>
    <td height="50" width="150">G. Della Vedova (helper)</td>
@@ -502,7 +502,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td> 
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2019/02/11/SWC-Naples.html">Software Carpentry<br>Workshop</a></td>
    <td height="50" width="150">V. Colonna<br>L. Le Pera<br>A. Via</td>
    <td height="50" width="150">M. Chiapello (instructor)</td>
@@ -511,7 +511,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td> 
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
+   <td height="50" align="center">ELIXIR IIB<br>Dissemination/Outreach</td>
    <td height="50" width="220" align="center"><a href="https://www.cnr.it/it/evento/15966/biologia-computazionale-e-di-sistema">SIB Annual Meeting<br>Biologia Computazionale e dei Sistemi</a></td>
    <td height="50" width="150">P.L. Martelli<br>V. Morea<br>A. Via</td>
    <td height="50" width="150">V. Morea (speaker)<br>A. Via (speaker)<br>David Sasah Staid (speaker)</td>
@@ -529,7 +529,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
+   <td height="50" align="center">ELIXIR IIB<br>Dissemination/Outreach</td>
    <td height="50" width="220" align="center"><a href="https://www.garr.it/it/news-e-eventi/eventi/event/237-eapconnect-e-health-workshop">EaPConnect e-Health<br>workshop</a></td>
    <td height="50" width="150">Istituto Superiore di Sanità</td>
    <td height="50" width="150"></td>
@@ -538,7 +538,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">NETTAB2018/ELIXIR-IIB<br>Workshop</td>
+   <td height="50" align="center">NETTAB2018/ELIXIR IIB<br>Workshop</td>
    <td height="50" width="220" align="center"><a href="http://www.igst.it/nettab/2018/">Building a FAIR Bioinformatics environment</a></td>
    <td height="50">P. Romano<br>ELIXIR-IIB<br>ELIXIR-UK<br>BITS</td>
    <td height="50" width="150"></td>
@@ -556,7 +556,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
+   <td height="50" align="center">ELIXIR IIB<br>Dissemination/Outreach</td>
    <td height="50" width="220" align="center"><a href="https://www.eventi.garr.it/it/conf18/home">Conferenza GARR 2018<br>Data Revolution</a></td>
    <td height="50" width="150">GARR<br>University of Cagliari</td>
    <td height="50" width="150">A. Via (speaker)</td>
@@ -565,7 +565,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
+   <td height="50" align="center">ELIXIR IIB<br>Dissemination/Outreach</td>
    <td height="50" width="220" align="center"><a href="http://www.laricercaviendinotte.it/">Notte Europea dei Ricercatori</a><br><a href="https://www.facebook.com/events/240703663214038/">(Facebook page link)</a></td>
    <td height="50" width="150">ERN-Apulia<br>University of Salento<br>F. De Leo<br>A. Marabotti</td>
    <td height="50" width="150">A. Marabotti (speaker)</td>
@@ -583,7 +583,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2018/09/26/Docker_Milano_Bicocca.html">Docker Advanced Course</a></td>
    <td height="50" width="150">G. Della Vedova<br>R. Bonnal<br>L. Le Pera<br>A. Via<br></td>
    <td height="50" width="150">G. Della Vedova (instructor)<br>R. Bonnal (instructor)</td>
@@ -601,7 +601,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
-   <td height="50" align="center">BITS2018/ELIXIR-IIB Workshop</td>
+   <td height="50" align="center">BITS2018/ELIXIR IIB Workshop</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2018/06/25/BITS_Docker_Torino.html">Docker and Reproducibility</a></td>
    <td height="50" width="150">R. Bonnal<br>R.A. Calogero<br>M. Beccuti<br>L. Le Pera<br>A. Via</td>
    <td height="50" width="150"></td>
@@ -610,7 +610,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td> 
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Dissemination/Outreach</td>
+   <td height="50" align="center">ELIXIR IIB<br>Dissemination/Outreach</td>
    <td height="50" width="220" align="center"><a href="https://www.ibpm.cnr.it/index.php?option=com_k2&view=item&id=317:convegno-2018-it&Itemid=229&lang=it-IT">CNR-IBPM<br>Annual Meeting</a></td>
    <td height="50" width="150">CNR-IBPM</td>
    <td height="50" width="150">L. Le Pera (speaker)<br>V. Morea (speaker)<br>A. Via (speaker)<br></td>
@@ -619,7 +619,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b></b></font></td> 
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2018/04/21/PopGen-Napoli.html">Population Genomics: background and tools</a></td>
    <td height="50" width="150">V. Colonna<br>C. Batini<br>A. Via<br>L. Le Pera</td>
    <td height="50" width="150"></td>
@@ -637,7 +637,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>   
 </tr>
 <tr>
-   <td height="50" align="center">CNR/ELIXIR-IIB<br>ASL Workshop<br>Dissemination for high-school</td>
+   <td height="50" align="center">CNR/ELIXIR IIB<br>ASL Workshop<br>Dissemination for high-school</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/docs/Workshop-CNR-Righi_Roma2018.html">Dai Big Data alla Data Science: sfide e professioni nascenti nell’era dei grandi dati</a>
    </td>
    <td height="50" width="150">A. Calderone<br>C. Fantaccione<br>L. Le Pera<br>L. Licata<br>V. Morea<br>A. Via</td>
@@ -647,7 +647,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50"></td>
 </tr>
 <tr>
-   <td height="50" align="center">CNR and ELIXIR-IIB</td>
+   <td height="50" align="center">CNR and ELIXIR IIB</td>
    <td height="50" width="220" align="center">Train the Trainer@high-school</td>
    <td height="50" width="150">A. Via<br>L. Licata</td>
    <td height="50" width="150"></td>
@@ -656,7 +656,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50"></td>
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/2018-02-22-milan/">Software Carpentry<br>Workshop</a></td>
    <td height="50" width="150">G. Della Vedova<br>L. Le Pera<br>A. Via</td>
    <td height="50" width="150">G. Profiti (instructor)<br>A. Via (instructor)<br>G. Della Vedova (helper)</td>
@@ -674,7 +674,7 @@ https://carpentriesitalia.github.io/2021-03-19-italia-online/">Laboratorio Softw
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
 <tr>
-   <td height="50" align="center">ELIXIR-IIB<br>Training Course</td>
+   <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2018/01/16/Linux-Shell-Roma.html">Linux shell scripting for high-throughput biological data processing on supercomputers</a></td>
    <td height="50" width="150">L. Le Pera<br>A. Via<br>T. Castrignanò</td>
    <td height="50" width="150">L. Le Pera (instructor)<br>A. Via (instructor)<br>T. Castrignanò (instructor)<br>T. Flati (helper)<br>S. Gioiosa (helper)</td>
