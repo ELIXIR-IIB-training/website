@@ -19,7 +19,7 @@ permalink: /all_events/
    <td height="50" width="220" align="center"><a href="https://elixir-europe.org/events/elixir-training-platform-f2f-hybrid-meeting">ELIXIR Training Platform<br>F2F Hybrid Meeting</a></td> 
    <td height="50" width="150">ELIXIR Hub<br>L. Le Pera (ISS)<br>A. Via (Sapienza Univ.)</td>
    <td height="50" width="150"></td>
-   <td height="50" align="center">Casa dell'Aviatore<br>viale dell’Università, 20<br>00185, Rome, Italy</td>
+   <td height="50" align="center">Casa dell'Aviatore<br>v.le dell’Università,20<br>Rome,Italy</td>
    <td height="50" width="75" align="center">Mar<br>07-09<br>2023</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr> 
