@@ -35,7 +35,7 @@ permalink: /all_events/
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR IIB<br>Higher-level training course</td>
-   <td height="50" width="220" align="center"><a href="https://https://sites.google.com/uniroma1.it/cafbioinfo-eng/home?authuser=0">Corso di Alta Formazione<br>in<br>Bioinformatics</a></td>
+   <td height="50" width="220" align="center"><a href="https://sites.google.com/uniroma1.it/cafbioinfo-eng/home?authuser=0">Advanced Training Course in Bioinformatics<br>in<br>Bioinformatics</a></td>
    <td height="50" width="150">Sapienza<br>CNR-IBPM<br>ELIXIR-IIB</td>
    <td height="50" width="150">S. Pascarella (Director)<br>A. Via (Deputy Director)<br>L. Le Pera (scient. comm.)</td>
    <td height="50" align="center">Sapienza<br>Univ. of Rome<br><font color="orange">hyprid</font></td>
