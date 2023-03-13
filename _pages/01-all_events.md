@@ -47,7 +47,7 @@ permalink: /all_events/
    <td height="50" width="220" align="center"><a href="https://www.biohackathon-europe.org/index.html">ELIXIR<br>Biohackathon 2022</a></td>
    <td height="50" width="150">ELIXIR</td>
    <td height="50" width="150">L. Le Pera (project co-lead)<br>A. Via (project lead)</td>
-   <td height="50" align="center"><font color="orange">hybrid</font></td>
+   <td height="50" align="center">Les Berges de Seine, France<br><font color="orange">hybrid</font></td>
    <td height="50" width="75" align="center">Nov<br>7-11<br>2022</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
