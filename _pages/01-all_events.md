@@ -24,7 +24,7 @@ permalink: /all_events/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr> 
 <tr>
-   <td height="50" align="center">ELIXIR Europe<br>Training Platform<event></td>
+   <td height="50" align="center">ELIXIR Europe<br>Training Platform<br>event</td>
    <td height="50" width="220" align="center"><a href="https://elixir-europe.org/events/elixir-training-platform-f2f-hybrid-meeting">ELIXIR Training Platform<br>F2F Hybrid Meeting</a></td> 
    <td height="50" width="150">ELIXIR Hub<br>L. Le Pera (ISS)<br>A. Via (Sapienza Univ.)</td>
    <td height="50" width="150"></td>
@@ -32,7 +32,6 @@ permalink: /all_events/
    <td height="50" width="75" align="center">Mar<br>07-09<br>2023</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr> 
-   
 <tr>
    <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/11/22/School_Python_genomics_Basic_module.html">School of Python for genomics.<br>Basic module:<br>Introduction to Python programming</a></td> 
