@@ -213,7 +213,7 @@ Participants can use the computer available in the meeting room however if they 
   </tr>
   <tr>
    <td height="50" width="100" align=center>16:15 - 17:30</td>
-   <td height="50"> align=centerExercise</td>
+   <td height="50" align=center>Exercise</td>
    <td height="50">Continue Cytoscape</td>
   </tr>
 </table>
