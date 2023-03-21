@@ -24,7 +24,8 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
 - Deadline for applications: **12 April 2023** 
 - Chosen participants will be notified by: 17 April 2023
 - Course date: 3-4 May 2023
-
+<br>
+<br>
 
 ## VENUE
 
@@ -33,17 +34,20 @@ University of Rome Tor Vergata
 Aula 3 from 9AM to 1PM / Aula 17 from 2PM to 6PM, Department of Biology, Rome.  [**(link to the map)**](https://maps.google.com/maps?q=45.517557,9.212989) 
 Via della Ricerca Scientifica 
 00133 Rome, Italy
-
+<br>
+<br>
 ## FEE 
 The course does not include a fee, but the participants are expected to pay their own travel and accomodation costs (if any).
-
+<br>
+<br>
 **SELECTION**
 
 A maximum of **30 candidates** will be selected on a first-come- first-served basis. Chosen participants will be notified by 17th April 2023. 
 
 **Cancellation policy:** Attendance is limited to 30 participants. We expect many more applications. Accepted participants must commit to attend the course for its whole duration. Failure to attend training sessions is disruptive and prevents other candidates from participating. Please email the course organisers if you are unable to attend so that people on the waiting list can be invited to take your place.
 
-
+<br>
+<br>
 ### Instructors
 - [**Ruth Lovering**]() -  University College of London, UCL, UK
 - [**Luana Licata**]() - University of Rome Tor Vergata, ELIXIR-IT
@@ -58,20 +62,26 @@ A maximum of **30 candidates** will be selected on a first-come- first-served ba
 ### Local Organisers
 - [**Luana Licata**]() - University of Rome Tor Vergata, ELIXIR-IT
 
+<br>
+<br>
 
 ### Contact
 For all kinds of queries, please contact the local organiser Luana Licata at: luana.licata@uniroma2.it . For questions about course content, please email the scientific organisers luana.licata@uniroma2.it or r.lovering@ucl.ac.uk.
-
+<br>
+<br>
 ### Course Description
 The course will provide information about Gene Ontology (GO) and molecular interaction resources and practical demonstrations of a number of freely available high-throughput analysis and network analysis tools that can be used for the analysis of large datasets, such as those derived from proteomic or transcriptomic methodologies.
-
+<br>
+<br>
 ### Target audience
 The workshop is open to all biological or biomedical PhD and Post-Doc research scientists, as well as team leaders and PIs. You don't need to have any previous knowledge of the tools that will be presented at the workshop. Attendees may bring in their own datasets for high-throughput analysis, although example datasets will be available.
-
+<br>
+<br>
 ### Aims of the workshop
 •	To provide information about Gene Ontology (GO) and molecular interaction resources 
 •	To provide practical demonstrations of a number of freely available bioinformatic resources and tools that can be used for the analysis of large datasets, such as those derived from proteomic or transcriptomic methodologies.
-
+<br>
+<br>
 ### Resources and tools covered
 •	Ensembl
 •	Identifier mapping
@@ -79,7 +89,8 @@ The workshop is open to all biological or biomedical PhD and Post-Doc research s
 •	Functional analysis tools
 •	Molecular interaction resources 
 •	Cytoscape and network analysis tools
-
+<br>
+<br>
 
 ### Learning Outcomes
 
@@ -97,14 +108,17 @@ By the end of this course, the participants will be able to:
 
 - Identify tools used for network analysis and functional analysis
 
-  
+<br>
+<br>  
 
 ### Course prerequisites
 Participants can use the computer available in the meeting room however if they prefer, they can bring their own laptop and install before the meeting few specific software.  Materials will be provided in advance of the workshop by the organizers. 
-
+<br>
+<br>
 
 ### [Application Form - Registration](https://docs.google.com/forms/d/e/1FAIpQLSeRrEW8ScR_9iEwa4hSNu6ko45bqbHk5RhC0z67oWWe3xtNAg/viewform)
-
+<br>
+<br>
 
 ### Programme
 <table border="1" width="700">
@@ -213,7 +227,7 @@ Participants can use the computer available in the meeting room however if they 
 
 
 
-<h3>ELIXIR-IIB member institutes</h3>
+### ELIXIR-IIB member institutes
 <ol>
    <li> <b>CNR, National Research Council </b> (Lead Institute)</li>
    <li> CRS4</li>
