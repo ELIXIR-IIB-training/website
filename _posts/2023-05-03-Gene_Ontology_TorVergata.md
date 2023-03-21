@@ -63,7 +63,7 @@ A maximum of **30 candidates** will be selected on a first-come- first-served ba
 <br>
 
 ### Contact
-For all kinds of queries, please contact the local organiser Luana Licata at: [luana.licata@uniroma2.it](luana.licata@uniroma2.it) . For questions about course content, please email the scientific organisers [luana.licata@uniroma2.it](luana.licata@uniroma2.it) or [r.lovering@ucl.ac.uk](r.lovering@ucl.ac.uk).
+For all kinds of queries, please contact the local organiser Luana Licata at: [luana.licata@uniroma2.it](mailto:luana.licata@uniroma2.it) . For questions about course content, please email the scientific organisers [luana.licata@uniroma2.it](mailto:luana.licata@uniroma2.it) or [r.lovering@ucl.ac.uk](mailto:r.lovering@ucl.ac.uk).
 <br>
 <br>
 
