@@ -11,7 +11,7 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
 
 <table border="0">
   <tr>
- <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="100"></a></td>
+ <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="200"></a></td>
   </tr>
 </table>
 <br>
