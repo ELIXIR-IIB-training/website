@@ -129,7 +129,109 @@ Participants can use the computer available in the meeting room however if they 
 
 
 ### Programme
-
+<br>
+<table border="1">
+<tr>
+   <td colspan="4">### Wednesday - 3 May</td>
+</tr>
+<tr>
+   <td height="50" width="50">09:00 - 9:20</td>
+   <td height="50">lecture</td>
+   <td height="50"> What do you know about bioinformatics databases? Small group discussions and feedback to attendees</td>
+</tr>
+<tr>
+   <td height="50">09:20 - 09:35</td>
+   <td height="50">Lecture</td>
+   <td height="50">Brief overview of UniProt</td>
+</tr>
+<tr>
+   <td height="50">09:35 - 9:45</td>
+   <td height="50">Lecture</td>
+   <td height="50">Brief overview of HGNC</td>
+</tr>
+<tr>
+   <td height="50">09:45 - 10:00</td>
+   <td height="50">Lecture</td>
+   <td height="50">Identifier mapping</td>
+</tr>
+<tr>
+   <td height="50">10:00 - 10:45</td>
+   <td height="50">Lecture</td>
+   <td height="50">Gene Ontology</td>
+</tr>
+<tr>
+   <td height="50">10:45 - 11:15</td>
+   <td colspan="3" height="50">Coffee break</td>
+</tr>
+<tr>
+   <td height="50">11:15 - 12:00</td>
+  <td height="50">Lecture and Exercise</td>
+   <td height="50">Browsing the GO resource with QuickGO</td>
+<tr>
+<tr>
+   <td height="50">12:00 - 12:45</td>
+  <td height="50">Lecture and Exercise</td>
+   <td height="50">Browsing the GO resource with AmiGO</td>
+   </td>
+</tr>
+<tr>
+   <td height="50">12:45 - 13:45</td>
+   <td colspan="3" height="50">Lunch break</td>
+</tr>
+<tr>
+   <td height="50">13:45 - 14:30</td>
+   <td height="50">Lecture</td>
+   <td height="50">High-throughput data and functional analysis tools</td>
+</td>
+</tr>
+<tr>
+   <td height="50">14:30 - 15:45</td>
+    <td height="50">Lecture and Exercise </td>
+   <td height="50">High-throughput data analysis using variety of tools, for example: g:Profiler,WebGestalt,DAVID,VLAD</td>
+<tr>
+   <td height="50">15:45 - 16:15</td>
+   <td colspan="3" height="50">Coffee break</td>
+</tr>
+<tr>
+   <td height="50">16:15 - 17:30</td>
+    <td height="50">Lecture and Exercise </td>
+   <td height="50">Genome browser: Ensembl</td>
+<tr>
+   <td colspan="4"><h3>Thursday - 4 May</h3></td>
+</tr>
+<tr>
+   <td height="50">09:00 - 10:30</td>
+    <td height="50">Lecture</td>
+   <td height="50">Protein-Protein Interactions and Directed Molecular Interactions</td>
+</tr>
+<tr>
+   <td height="50">10:30 - 11:00</td>
+   <td colspan="3" height="50">Coffee break</td>
+</tr>
+<tr>
+   <td height="50">11:00 - 13:00</td>
+   <td height="50">Lecture and Exercise</td>
+   <td height="50">Interaction databases eg. IMEx, STRING, others and Signaling and pathways databases</td>  
+</tr>
+<tr>
+   <td height="50">13:00 - 14:00</td>
+   <td colspan="3" height="50">Lunch break</td>
+</tr>
+<tr>
+   <td height="50">14:00 - 15:45</td>
+   <td height="50">Lecture and Exercise</td>
+   <td height="50">Cytoscape, GOlorize, BinGO, others</td>
+</tr>
+<tr>
+   <td height="50">15:45 - 16:15</td>
+   <td colspan="3" height="50">Coffee break</td>
+</tr>
+<tr>
+   <td height="50">16:15 - 17:30</td>
+   <td height="50">Exercise</td>
+   <td height="50">Continue Cytoscape</td>
+</tr>
+</table>
 
 <br>
 <br>
