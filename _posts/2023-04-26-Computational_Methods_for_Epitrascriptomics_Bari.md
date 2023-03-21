@@ -22,15 +22,16 @@ description: This course will provide a foundation on the experimental planning,
 <br>
 
 ## Important Dates 
-- Deadline for applications: **6 November, 2022**
-- School date: **22-25 November, 2022** 
+- Deadline for applications: **15 April, 2023**
+- Course date: **26-28 April, 2023** 
 <br>
 <br>
 
 ### Venue
-Italian National Institute of Health (ISS)<br>
-Viale Regina Elena 299<br>
-00161 Rome, Italy
+Area della Ricerca del CNR di Bari<br>
+[Dove Siamo](https://www.ba.cnr.it/dovesiamo.html)
+Via Amendola 122/o<br>
+70126 Bari, Italy
 <br>
 <br>
 
@@ -51,46 +52,74 @@ Acceptance will be notified soon after the application deadline.
  
 <br>
 <br>
+### Organisers
+- **Ernesto Picardi** (UNIBA, IT)
+- **Francesca De Leo** (CNR-IBIOM, IT)
+- **Francesco Nicassio** (IIT, IT)
+- **Tommaso Leonardi** (IIT, IT)
+- **Bruno Fosso** (UNIBA, IT)
+- **Graziano Pesole** (UNIBA, IT)
+
 
 ### Instructors
-- **Luca De Sabato** - Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
-- **Arnold Knijn** - Dep. of Food Safety, Nutrition and Veterinary Public Health, National Institute of Health (SANV - ISS), Italy
-- **Loredana Le Pera** - Core Facilities Technical-Scientific Service, National Institute of Health (FAST - ISS), Italy
-- **Massimiliano Orsini** - Istituto Zooprofilattico Sperimentale delle Venezie, Italy
-- **Allegra Via** - Sapienza University of Rome, Italy
+
+- **Adriano Fonzino** (UNIBA, IT)
+- **Claudio Lo Giudice** (UNIBA, IT)
+- **Alessandro Silvestris** (UNIBA, IT)
+- **Francesco Nicassio** (IIT, IT)
+- **Ernesto Picardi** (UNIBA, IT)
+- **Tommaso Leonardi** (IIT, IT)
+- **Camilla Ugolini** (IIT, IT)
+- **Logan Mulroney** (IIT, IT)
+
 <br>
 <br>
 
 ### Helpers
-- **Gianluca Frustagli** - Core Facilities Technical-Scientific Service, National Institute of Health (FAST - ISS), Italy
-- **Chiara Pacelli** - Dep. of Biochemical Sciences, Sapienza University of Rome, Italy
-- **Irene Ruspantini** - Core Facilities Technical-Scientific Service, National Institute of Health (FAST - ISS), Italy
+
+- **Pietro D’Addabbo** (UNIBA, IT)
+- **Chiara Bruno** (CNR, IT)
+
+### Speakers
+
+- **Eva Novoa** (CRG, ES)
+- **Mattia Pelizzola** (IIT, IT)
+
 <br>
 <br>
 
 ### Course Description
-With the rapid advancement of next-generation sequencing (NGS) technologies, genomic data has become one of the most widely analysed biological data. A variety of tools are available for different types of analyses; however, genomics research necessarily requires skills to create "ad hoc" scripts/software to deepen and extend the analysis.
+Epitranscriptome refers to all chemical modifications affecting cellular RNAs. Although more than 170 different types have been identified up to now, their punctual detection is yet challenging. Profiling epitranscriptome modifications require ad hoc sequencing technologies as well as dedicated computational workflows. While Illumina RNAseq is the de facto sequencing methodology for unveiling RNA editing events (not transient modifications), Nanopore direct RNA Sequencing has recently become one of the most powerful techniques to profile the whole repertoire of RNA modifications. Its capacity to directly sequence full-length, native RNA molecules without the need for retrotranscription or amplification offers remarkable advantages compared to other technologies based on short-read sequencing. However, at the same time it poses various experimental and analytical challenges.
+This course will provide a foundation on the experimental planning, analytical strategies and computational approaches for applying Nanopore direct RNA Sequencing to profile RNA modifications. Through a combination of theoretical lectures and practical exercises, participants will learn the fundamental concepts and bioinformatics skills that will allow them to start using Nanopore sequencing data for epitranscriptome analysis. Additionally, the course will also cover theoretical aspects of RNA editing as well as practical sessions focused on its detection in human/mouse transcriptomes by Illumina RNAseq data. Participants will acquire specific skills in command-line tools (REDItools) to call, annotate (REDIportal) and filter RNA variants.
+You can find here the complete [program](https://drive.google.com/file/d/1YUWfXW5E7leMaKmUeM0R3v5rPKI8gfZb/view?usp=share_link). 
 
-By that motivation, the *[Società Italiana di Diagnostica di Laboratorio Veterinaria (SIDiLV)](https://sidilv.org/)* and the *[Italian Infrastructure of Bioinformatics (IIB/ELIXIR Italy)](https://elixir-italy.org/about/)* organised the **School of Python for genomics** at the *[Italian National Institute of Health (ISS)](https://www.iss.it/en/web/guest/home)*.<br> 
-The aim of the School is providing the necessary skills to utilise the Python language both for the use and development of software and for genomics data analysis in general.<br>
-The School consists of 3 consequential modules:<br>
-- *Basic module*: Introduction to Python programming
-- *Advanced module*: Analyze your genomic data with Python
-- *Hackathon module*: Python programming for developers
-
-This *Basic module: Introduction to Python programming* starts from no programming knowledge and aims to provide learners the basics of the Python programming language, by applying them to assigned problems in the field of genomics. The course will be highly interactive and the students will continuously put theory into practice while learning. Learners will be also introduced to fundamental skills needed for working with their computers through a command-line interface (using the Linux shell).
 <br>
 <br>
 
-### Prerequisites
-No programming experience is required.
+ Prerequisites
+### Target audience and prerequisites
+Lectures are intended for early/mid-career stage researchers with a solid understanding of molecular biology and RNA sequencing, but no prior experience with Nanopore sequencing is required. In order to follow and independently carry out the practical exercises participants will need basic bioinformatics skills (e.g. quality check of reads and their alignment against the reference genome) and a certain degree of familiarity using command-line tools in a *nix environment (e.g. Linux or MacOS).
+
 <br>
 <br>
 
-### Target audience
-Research scientists at any stage of their career who are using or planning to use genomics data in their research activities are welcome to attend the workshop. <br> 
+### Learning outcomes
+By the end of this course, the participants will be able to:
+
+- acquire theoretical knowledge about methods to profile RNA modifications
+- use bioinformatics tools to analyze Nanopore reads
+- use bioinformatics tools to pre-process RNAseq data
+- use command-line tools (REDItools) for calling, annotating (REDIportal), and filtering RNA variants
+
 <br> 
 <br>
 
-<!-- ### Learning Outcomes -->
+### Laptop
+Participants are kindly requested to bring their own laptop. In case of need, organizers will provide participants with a computer.
+
+<br> 
+<br>
+
+### Contact
+Should you have any question, do not hesitate to contact the course Local Organizers ([elixirit.tp.bari@gmail.com](elixirit.tp.bari@gmail.com))
 
