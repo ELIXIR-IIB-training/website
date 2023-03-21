@@ -9,17 +9,13 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
 ---
 
 <table border="0">
-<tr>
+  <tr>
  <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="100"></a></td>
-</tr>
+  </tr>
 </table>
 <br>
 <br>
 
-
-  
-<br>
-<br>
 
 ## Important Dates
 - Deadline for applications: **12 April 2023** 
@@ -44,36 +40,34 @@ The course does not include a fee, but the participants are expected to pay thei
 <br>
 
 ### **Selection**
-
 A maximum of **30 candidates** will be selected on a first-come- first-served basis. Chosen participants will be notified by 17th April 2023. 
 
 **Cancellation policy:** Attendance is limited to 30 participants. We expect many more applications. Accepted participants must commit to attend the course for its whole duration. Failure to attend training sessions is disruptive and prevents other candidates from participating. Please email the course organisers if you are unable to attend so that people on the waiting list can be invited to take your place.
-
 <br>
 <br>
 
 ### Instructors
 - **Ruth Lovering** -  University College of London, UCL, UK
 - **Luana Licata** - University of Rome Tor Vergata, ELIXIR-IT
-
-
+<br>
+<br>
 
 ### Scientific Organisers
 - **Ruth Lovering** - University College of London, UCL, UK
 - **Luana Licata** - University of Rome Tor Vergata, ELIXIR-IT
-
+<br>
+<br>
 
 ### Local Organisers
 - **Luana Licata** - University of Rome Tor Vergata, ELIXIR-IT
-
 <br>
 <br>
 
 ### Contact
 For all kinds of queries, please contact the local organiser Luana Licata at: [luana.licata@uniroma2.it](luana.licata@uniroma2.it) . For questions about course content, please email the scientific organisers [luana.licata@uniroma2.it](luana.licata@uniroma2.it) or [r.lovering@ucl.ac.uk](r.lovering@ucl.ac.uk).
+<br>
+<br>
 
-<br>
-<br>
 ### Course Description
 The course will provide information about Gene Ontology (GO) and molecular interaction resources and practical demonstrations of a number of freely available high-throughput analysis and network analysis tools that can be used for the analysis of large datasets, such as those derived from proteomic or transcriptomic methodologies.
 <br>
@@ -83,11 +77,13 @@ The course will provide information about Gene Ontology (GO) and molecular inter
 The workshop is open to all biological or biomedical PhD and Post-Doc research scientists, as well as team leaders and PIs. You don't need to have any previous knowledge of the tools that will be presented at the workshop. Attendees may bring in their own datasets for high-throughput analysis, although example datasets will be available.
 <br>
 <br>
+
 ### Aims of the workshop
 •	To provide information about Gene Ontology (GO) and molecular interaction resources 
 •	To provide practical demonstrations of a number of freely available bioinformatic resources and tools that can be used for the analysis of large datasets, such as those derived from proteomic or transcriptomic methodologies.
 <br>
 <br>
+
 ### Resources and tools covered
 •	Ensembl
 •	Identifier mapping
@@ -99,21 +95,14 @@ The workshop is open to all biological or biomedical PhD and Post-Doc research s
 <br>
 
 ### Learning Outcomes
-
 By the end of this course, the participants will be able to:
 
 - Identify and access public data resources and tools for data integration, high-throughput analysis, functional analysis and network analysis
-
 - Exploit the information available in the Gene Ontology (GO) to identify key cellular processes associated with high-throughput datasets.
-
 - Interpret the information given in different molecular interaction and signaling databases
-
 - Compare different sources of protein-protein interaction data and causal interaction data.
-
 - Represent networks using Cytoscape
-
 - Identify tools used for network analysis and functional analysis
-
 <br>
 <br>  
 
@@ -125,8 +114,6 @@ Participants can use the computer available in the meeting room however if they 
 ### [Application Form - Registration](https://docs.google.com/forms/d/e/1FAIpQLSeRrEW8ScR_9iEwa4hSNu6ko45bqbHk5RhC0z67oWWe3xtNAg/viewform)
 <br>
 <br>
-
-
 
 ### Programme
 <table border="1">
@@ -262,6 +249,5 @@ Participants can use the computer available in the meeting room however if they 
    <li> University of Torino</li>
    <li> University of Tuscia </li>
 </ol>
-
 <br>
 <br>
