@@ -131,7 +131,7 @@ Participants can use the computer available in the meeting room however if they 
 ### Programme
 <table border="1">
 <tr>
-   <td colspan="4"><h3>Wednesday - 3 May</hr></td>
+  <td colspan="2"><h3>Wednesday - 3 May</hr></td>
 </tr>
 <tr>
    <td height="50" width="100">09:00 - 9:20</td>
@@ -160,7 +160,7 @@ Participants can use the computer available in the meeting room however if they 
 </tr>
 <tr>
    <td height="50" width="100">10:45 - 11:15</td>
-   <td colspan="3" height="50">Coffee break</td>
+   <td height="50">Coffee break</td>
 </tr>
 <tr>
   <td height="50" width="100">11:15 - 12:00</td>
@@ -174,7 +174,7 @@ Participants can use the computer available in the meeting room however if they 
 </tr>
 <tr>
    <td height="50" width="100">12:45 - 13:45</td>
-   <td colspan="3" height="50">Lunch break</td>
+   <td height="50">Lunch break</td>
 </tr>
 <tr>
    <td height="50">13:45 - 14:30</td>
@@ -183,20 +183,21 @@ Participants can use the computer available in the meeting room however if they 
 </tr>
 <tr>
    <td height="50" width="100">14:30 - 15:45</td>
-    <td height="50">Lecture and Exercise </td>
+   <td height="50">Lecture and Exercise </td>
    <td height="50">High-throughput data analysis using variety of tools, for example: g:Profiler,WebGestalt,DAVID,VLAD</td>
 </tr>
 <tr>
    <td height="50" width="100">15:45 - 16:15</td>
-   <td colspan="3" height="50">Coffee break</td>
+   <td height="50">Coffee break</td>
 </tr>
 <tr>
    <td height="50" width="100">16:15 - 17:30</td>
    <td height="50">Lecture and Exercise </td>
    <td height="50">Genome browser: Ensembl</td>
 </tr>
+
 <tr>
-   <td colspan="4"><h3>Thursday - 4 May</h3></td>
+  <td colspan="2"><h3>Thursday - 4 May</h3></td>
 </tr>
 <tr>
    <td height="50" width="100">09:00 - 10:30</td>
@@ -205,7 +206,7 @@ Participants can use the computer available in the meeting room however if they 
 </tr>
 <tr>
    <td height="50" width="100">10:30 - 11:00</td>
-   <td colspan="3" height="50">Coffee break</td>
+   <td height="50">Coffee break</td>
 </tr>
 <tr>
    <td height="50" width="100">11:00 - 13:00</td>
@@ -214,7 +215,7 @@ Participants can use the computer available in the meeting room however if they 
 </tr>
 <tr>
    <td height="50" width="100">13:00 - 14:00</td>
-   <td colspan="3" height="50">Lunch break</td>
+   <td height="50">Lunch break</td>
 </tr>
 <tr>
    <td height="50" width="100">14:00 - 15:45</td>
@@ -223,7 +224,7 @@ Participants can use the computer available in the meeting room however if they 
 </tr>
 <tr>
    <td height="50">15:45 - 16:15</td>
-   <td colspan="3" height="50">Coffee break</td>
+   <td height="50">Coffee break</td>
 </tr>
 <tr>
    <td height="50" width="100">16:15 - 17:30</td>
@@ -234,6 +235,7 @@ Participants can use the computer available in the meeting room however if they 
 <br>
 <br>
 <br>
+
 <h3>ELIXIR-IT member institutes</h3>
 <ol>
    <li> <b>CNR, National Research Council </b> (Lead Institute)</li>
