@@ -113,8 +113,7 @@ Participants can use the computer available in the meeting room however if they 
 <br>
 <br>
 
-## General Programme
-<table>
+## Programme
 <table border="1">
 <tr>
  <td colspan="2"><h3>Wednesday - 3 May</hr></td>
