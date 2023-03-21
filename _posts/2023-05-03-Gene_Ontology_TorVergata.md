@@ -231,7 +231,7 @@ Participants can use the computer available in the meeting room however if they 
    <td height="50">Exercise</td>
    <td height="50">Continue Cytoscape</td>
 </tr>
-</table>
+
 
 <br>
 <br>
