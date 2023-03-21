@@ -249,5 +249,3 @@ Participants can use the computer available in the meeting room however if they 
    <li> University of Torino</li>
    <li> University of Tuscia </li>
 </ol>
-<br>
-<br>
