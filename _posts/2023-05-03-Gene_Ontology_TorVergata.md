@@ -11,11 +11,15 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
 
 <table border="0" align="center">
   <tr> 
-    <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="80"></a></td>
+    <td>
+      <a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="80"></a></td>
     <td width="10"></td>
     </table>
 
-  <table border="0" align="center">
+
+  
+<br>
+<br>
 ## IMPORTANT DATES
 - Deadline for applications: **12 April 2023** 
 - Chosen participants will be notified by: 17 April 2023
