@@ -121,5 +121,5 @@ Participants are kindly requested to bring their own laptop. In case of need, or
 <br>
 
 ### Contact
-Should you have any question, do not hesitate to contact the course Local Organizers ([elixirit.tp.bari@gmail.com](elixirit.tp.bari@gmail.com))
+Should you have any question, do not hesitate to contact the course Local Organizers ([elixirit.tp.bari@gmail.com](mailto:elixirit.tp.bari@gmail.com))
 
