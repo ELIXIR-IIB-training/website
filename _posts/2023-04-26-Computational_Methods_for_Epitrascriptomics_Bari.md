@@ -7,25 +7,17 @@ venue: Bari, Italy
 description: This course will provide a foundation on the experimental planning, analytical strategies and computational approaches for applying Nanopore direct RNA Sequencing to profile RNA modifications. Through a combination of theoretical lectures and practical exercises, participants will learn the fundamental concepts and bioinformatics skills that will allow them to start using Nanopore sequencing data for epitranscriptome analysis.
 
 ---
+
+
 <table border="0">
 <tr>
 	<td>
 	<img src="../../../img/Logo_Computational_Methods_Bari.png" height="380" width="800">
 	</td>	
 </tr>	
-<!-- <tr>
-	<td>
-	<a href="https://sidilv.org/"><img height="140" src="../../../img/Logo_SIDILV.png"></a>
-	</td>
-</tr>
-	<tr height="20"></tr>
-<tr>
-	<td>
-	<a href="https://elixir-iib-training.github.io/website/"><img height="100" weight="150" src="../../../img/logo_iib.png"></a>
-	</td>
-</tr> 
---> 
 </table>
+
+
 <br>
 <br>
 
@@ -43,18 +35,20 @@ Viale Regina Elena 299<br>
 <br>
 
 ### Fee
-No registration fee is required, but participation is reserved for members of the Italian Society of the Veterinary Laboratory Diagnosticians (SIDiLV). To become a member, please click on the link below:<br> 
-[https://sidilv.org/registrazione/](https://sidilv.org/registrazione/)<br>
-*Participants are expected to pay their own travel, meal and hotel costs (if any). Due to Covid-related restrictions, no coffee breaks can be served at the course venue or adjacent rooms.*
+The course is free of charge (coffee breaks and a lunch are offered).
+Travel, accommodation and additional meals are not included.
+
 <br>
 <br>
 
 ### Registration 
 
-# [Application Form](https://forms.gle/49WjKDFmLBJAbXW56)
+# [Application Form](https://forms.gle/N7KAFQCTuqcwRLCW7)
 <br>
 
-A maximum of **16** candidates will be selected based on a first-come, first-served basis and their need for the course as emerging from the application form. Notifications of acceptance will be sent by *November the 10th*. 
+A maximum of 15 candidates will be accepted for the course. Course selection will be done according to the needs for the course as emerging from the application form. Priority will be given to candidates from ELIXIR-IT member institutions (see the [list](https://elixir-italy.org/about/)) and ELIXIR nodes. 
+Acceptance will be notified soon after the application deadline. 
+ 
 <br>
 <br>
 
