@@ -8,7 +8,13 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
 
 ---
 
-
+<table border="0">
+<tr>
+	<td>
+	<img src="../../../img/logo_iib.png" height="380" width="800">
+	</td>	
+</tr>	
+</table>
 
 
   
