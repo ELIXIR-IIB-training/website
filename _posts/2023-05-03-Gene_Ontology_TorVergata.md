@@ -114,6 +114,7 @@ Participants can use the computer available in the meeting room however if they 
 <br>
 
 ## General Programme
+<table>
 <table border="1">
 <tr>
  <td colspan="2"><h3>Wednesday - 3 May</hr></td>
@@ -247,12 +248,4 @@ Participants can use the computer available in the meeting room however if they 
    <li> University of Torino</li>
    <li> University of Tuscia </li>
 </ol>
-<br>
-<br>
-<table border="0" >
-  <tr>
-    <td><a href="https://www.elixir-europe.org"><img src="../../../img/Logo_ELIXIR_white_background.png" height="80"></a></td>
-    <td width=50></td>
-    <td><a href="https://www.elixir-europe.org"><img src="../../../img/Logo_CNR_Italy.png" height="80"></a></td>
-  </tr>
-</table>
+
