@@ -1,10 +1,11 @@
 ---
 layout: post
-Title:  "Gene Ontology and Bioinformatic data Resources Workshop: Data Annotation and functional analysis tools. <font color='green'>[open]</font>"
-Date_start:   2023-05-03
-Date_end:   2023-05-04
-Venue: Rome, Italy
+title: "Gene Ontology and Bioinformatic data Resources Workshop: Data Annotation and functional analysis tools."
+date_start: 2023-05-03
+date_end: 2023-05-04
+venue: Rome, Italy
 description: Two-day workshop to boost your understanding of bioinformatics resources and their use - you will learn about the key data resources available and how to use functional analysis tools.
+
 ---
 
 
@@ -15,13 +16,13 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
     </table>
 
   <table border="0" align="center">
-**IMPORTANT DATES**
+## IMPORTANT DATES
 - Deadline for applications: **12 April 2023** 
 - Chosen participants will be notified by: 17 April 2023
 - Course date: 3-4 May 2023
 
 
-**VENUE**
+## VENUE
 
 University of Rome Tor Vergata
 
@@ -29,7 +30,7 @@ Aula 3 from 9AM to 1PM / Aula 17 from 2PM to 6PM, Department of Biology, Rome.  
 Via della Ricerca Scientifica 
 00133 Rome, Italy
 
-**FEE** 
+## FEE 
 The course does not include a fee, but the participants are expected to pay their own travel and accomodation costs (if any).
 
 **SELECTION**
