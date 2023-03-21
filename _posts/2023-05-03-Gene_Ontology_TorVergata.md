@@ -116,10 +116,11 @@ Participants can use the computer available in the meeting room however if they 
 ## Programme
 <table border="1">
 <tr>
-  <td colspan="2"><h4><b>Day 1</b></h4></td>
+  <td colspan="2"><h4><b>Wednesday - 3 May</b></h4></td>
 </tr>
 <tr>
-   <td height="50" width="100">14:00 - 14:30</td>
+   <td height="50" width="100">09:00 - 9:20</td>
+   <td height="50">Lecture
    <td height="50">Introductions, who is who and what we need to achieve</td>
 </tr>
 <tr>
