@@ -232,32 +232,34 @@ Participants can use the computer available in the meeting room however if they 
    <td height="50">Continue Cytoscape</td>
 </tr>
 </table>
+
+<br>
 <br>
 ### ELIXIR-IIB member institutes
-<ol>
-   <li> <b>CNR, National Research Council </b> (Lead Institute)</li>
-   <li> CRS4</li>
-   <li> CINECA</li>
-   <li> Edmund Mach Foundation, Trento</li>
-   <li> ENEA</li>
-   <li> Fondazione Telethon</li> 
-   <li> INFN</li>
-   <li> Istituto Superiore di Sanità (ISS)</li> 
-   <li> GARR</li>
-   <li> Stazione Zoologica Anton Dohrn, Napoli</li>
-   <li> University of Roma "Sapienza"</li>
-   <li> University of Bari</li>
-   <li> University of Bologna</li>
-   <li> University of Firenze</li>
-   <li> University of Milano</li>
-   <li> University of Milano Bicocca</li>
-   <li> University of Napoli</li>
-   <li> University of Padova</li>
-   <li> University of Parma</li>
-   <li> University of Roma "Tor Vergata"</li>
-   <li> University of Salerno</li>
-   <li> University of Torino</li>
-   <li> University of Tuscia </li>
-</ol>
+
+1. *CNR, National Research Council* (Lead Institute)
+2. CRS4
+3. CINECA
+4. Edmund Mach Foundation, Trento
+5. ENEA
+6. Fondazione Telethon
+7. INFN
+8. Istituto Superiore di Sanità (ISS) 
+9. GARR
+10. Stazione Zoologica Anton Dohrn, Napoli
+11. University of Roma "Sapienza"
+12. University of Bari
+13. University of Bologna
+14. University of Firenze
+15. University of Milano
+16. University of Milano Bicocca
+17. University of Napoli
+18. University of Padova
+19. University of Parma
+20. University of Roma "Tor Vergata"
+21. University of Salerno
+22. University of Torino
+23. University of Tuscia
+
 <br>
 <br>
