@@ -112,11 +112,12 @@ Participants can use the computer available in the meeting room however if they 
 ### [Application Form - Registration](https://docs.google.com/forms/d/e/1FAIpQLSeRrEW8ScR_9iEwa4hSNu6ko45bqbHk5RhC0z67oWWe3xtNAg/viewform)
 <br>
 <br>
+<br>
 
 ### Programme
 <table border="1" width="700">
   <tr>
-    <td colspan="4"><h3> Wednesday - 3 May</h3></td>
+    <td colspan="4" align=center><h3> Wednesday - 3 May</h3></td>
   </tr>
   <tr>
     <td height="50" width="100"> 09:00 - 9:20</td>
