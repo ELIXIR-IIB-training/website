@@ -20,14 +20,15 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
   
 <br>
 <br>
-## IMPORTANT DATES
+
+## Important Dates
 - Deadline for applications: **12 April 2023** 
-- Chosen participants will be notified by: 17 April 2023
+- Chosen participants will be notified by: **17 April 2023**
 - Course date: 3-4 May 2023
 <br>
 <br>
 
-## VENUE
+### Venue
 
 University of Rome Tor Vergata
 
@@ -36,11 +37,13 @@ Via della Ricerca Scientifica
 00133 Rome, Italy
 <br>
 <br>
-## FEE 
+
+### Fee
 The course does not include a fee, but the participants are expected to pay their own travel and accomodation costs (if any).
 <br>
 <br>
-**SELECTION**
+
+### **Selection**
 
 A maximum of **30 candidates** will be selected on a first-come- first-served basis. Chosen participants will be notified by 17th April 2023. 
 
@@ -48,31 +51,34 @@ A maximum of **30 candidates** will be selected on a first-come- first-served ba
 
 <br>
 <br>
+
 ### Instructors
-- [**Ruth Lovering**]() -  University College of London, UCL, UK
-- [**Luana Licata**]() - University of Rome Tor Vergata, ELIXIR-IT
+- **Ruth Lovering** -  University College of London, UCL, UK
+- **Luana Licata** - University of Rome Tor Vergata, ELIXIR-IT
 
 
 
 ### Scientific Organisers
-- [**Ruth Lovering**]() - University College of London, UCL, UK
-- [**Luana Licata**]() - University of Rome Tor Vergata, ELIXIR-IT
+- **Ruth Lovering** - University College of London, UCL, UK
+- **Luana Licata** - University of Rome Tor Vergata, ELIXIR-IT
 
 
 ### Local Organisers
-- [**Luana Licata**]() - University of Rome Tor Vergata, ELIXIR-IT
+- **Luana Licata** - University of Rome Tor Vergata, ELIXIR-IT
 
 <br>
 <br>
 
 ### Contact
-For all kinds of queries, please contact the local organiser Luana Licata at: luana.licata@uniroma2.it . For questions about course content, please email the scientific organisers luana.licata@uniroma2.it or r.lovering@ucl.ac.uk.
+For all kinds of queries, please contact the local organiser Luana Licata at: [luana.licata@uniroma2.it](luana.licata@uniroma2.it) . For questions about course content, please email the scientific organisers [luana.licata@uniroma2.it](luana.licata@uniroma2.it) or [r.lovering@ucl.ac.uk](r.lovering@ucl.ac.uk).
+
 <br>
 <br>
 ### Course Description
 The course will provide information about Gene Ontology (GO) and molecular interaction resources and practical demonstrations of a number of freely available high-throughput analysis and network analysis tools that can be used for the analysis of large datasets, such as those derived from proteomic or transcriptomic methodologies.
 <br>
 <br>
+
 ### Target audience
 The workshop is open to all biological or biomedical PhD and Post-Doc research scientists, as well as team leaders and PIs. You don't need to have any previous knowledge of the tools that will be presented at the workshop. Attendees may bring in their own datasets for high-throughput analysis, although example datasets will be available.
 <br>
