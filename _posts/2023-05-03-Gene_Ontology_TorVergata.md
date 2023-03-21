@@ -122,27 +122,27 @@ Participants can use the computer available in the meeting room however if they 
   <tr>
     <td height="50" width="100" align=center> 09:00 - 9:20</td>
     <td height="50" align=center> Lecture</td>
-    <td height="50" align=center> What do you know about bioinformatics databases? Small group discussions and feedback to attendees</td>
+    <td height="50"> What do you know about bioinformatics databases? Small group discussions and feedback to attendees</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center> 09:20 - 09:35</td>
     <td height="50" align=center> Lecture</td>
-    <td height="50" align=center> Brief overview of UniProt</td>
+    <td height="50"> Brief overview of UniProt</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center> 09:35 - 9:45</td>
     <td height="50" align=center> Lecture</td>
-    <td height="50" align=center> Brief overview of HGNC</td>
+    <td height="50"> Brief overview of HGNC</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center> 09:45 - 10:00</td>
     <td height="50" align=center> Lecture</td>
-    <td height="50" align=center> Identifier mapping</td>
+    <td height="50"> Identifier mapping</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center> 10:00 - 10:45</td>
     <td height="50" align=center> Lecture</td>
-    <td height="50" align=center> Gene Ontology</td>
+    <td height="50"> Gene Ontology</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center> 10:45 - 11:15</td>
@@ -151,12 +151,12 @@ Participants can use the computer available in the meeting room however if they 
   <tr>
     <td height="50" width="100" align=center> 11:15 - 12:00</td>
     <td height="50" align=center> Lecture and Exercise</td>
-    <td height="50" align=center> Browsing the GO resource with QuickGO</td>
+    <td height="50"> Browsing the GO resource with QuickGO</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center> 12:00 - 12:45</td>
     <td height="50" align=center> Lecture and Exercise</td>
-    <td height="50" align=center> Browsing the GO resource with AmiGO</td>
+    <td height="50"> Browsing the GO resource with AmiGO</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center> 12:45 - 13:45</td>
@@ -165,12 +165,12 @@ Participants can use the computer available in the meeting room however if they 
   <tr>
     <td height="50" width="100" align=center> 13:45 - 14:30</td>
     <td height="50" align=center> Lecture</td>
-    <td height="50" align=center> High-throughput data and functional analysis tools</td>
+    <td height="50"> High-throughput data and functional analysis tools</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center> 14:30 - 15:45</td>
     <td height="50" align=center> Lecture and Exercise</td>
-    <td height="50" align=center> High-throughput data analysis using variety of tools, for example: g:Profiler,WebGestalt,DAVID,VLAD</td>
+    <td height="50"> High-throughput data analysis using variety of tools, for example: g:Profiler,WebGestalt,DAVID,VLAD</td>
   </tr>
   <tr>
     <td height="50" width="100" align=center> 15:45 - 16:15</td>
@@ -179,7 +179,7 @@ Participants can use the computer available in the meeting room however if they 
   <tr>
     <td height="50" width="100" align=center> 16:15 - 17:30</td>
     <td height="50" align=center> Lecture and Exercise </td>
-    <td height="50" align=center> Genome browser: Ensembl</td>
+    <td height="50"> Genome browser: Ensembl</td>
   </tr>
   <tr>
     <td colspan="4" align=center><h3>Thursday - 4 May</h3></td>
@@ -187,7 +187,7 @@ Participants can use the computer available in the meeting room however if they 
   <tr>
    <td height="50" width="100" align=center>09:00 - 10:30</td>
    <td height="50" align=center>Lecture</td>
-   <td height="50" align=center>Protein-Protein Interactions and Directed Molecular Interactions</td>
+   <td height="50">Protein-Protein Interactions and Directed Molecular Interactions</td>
   </tr>
   <tr>
    <td height="50" width="100" align=center>10:30 - 11:00</td>
@@ -196,7 +196,7 @@ Participants can use the computer available in the meeting room however if they 
   <tr>
    <td height="50" width="100" align=center>11:00 - 13:00</td>
    <td height="50" align=center>Lecture and Exercise</td>
-   <td height="50" align=center>Interaction databases eg. IMEx, STRING, others and Signaling and pathways databases</td>
+   <td height="50">Interaction databases eg. IMEx, STRING, others and Signaling and pathways databases</td>
   </tr>
   <tr>
    <td height="50" width="100" align=center>13:00 - 14:00</td>
@@ -205,7 +205,7 @@ Participants can use the computer available in the meeting room however if they 
   <tr>
    <td height="50" width="100" align=center>14:00 - 15:45</td>
    <td height="50" align=center>Lecture and Exercise</td>
-   <td height="50" align=center>Cytoscape, GOlorize, BinGO, others</td>
+   <td height="50">Cytoscape, GOlorize, BinGO, others</td>
   </tr>
   <tr>
    <td height="50" width="100" align=center>15:45 - 16:15</td>
@@ -214,7 +214,7 @@ Participants can use the computer available in the meeting room however if they 
   <tr>
    <td height="50" width="100" align=center>16:15 - 17:30</td>
    <td height="50"> align=centerExercise</td>
-   <td height="50" align=center>Continue Cytoscape</td>
+   <td height="50">Continue Cytoscape</td>
   </tr>
 </table>
 
