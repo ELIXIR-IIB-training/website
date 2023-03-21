@@ -181,6 +181,41 @@ Participants can use the computer available in the meeting room however if they 
     <td height="50"> Lecture and Exercise </td>
     <td height="50"> Genome browser: Ensembl</td>
   </tr>
+  <tr>
+    <td colspan="4"><h3>Thursday - 4 May</h3></td>
+  </tr>
+  <tr>
+   <td height="50">09:00 - 10:30</td>
+   <td height="50">Lecture</td>
+   <td height="50">Protein-Protein Interactions and Directed Molecular Interactions</td>
+  </tr>
+  <tr>
+   <td height="50">10:30 - 11:00</td>
+   <td colspan="3" height="50">Coffee break</td>
+  </tr>
+  <tr>
+   <td height="50">11:00 - 13:00</td>
+   <td height="50">Lecture and Exercise</td>
+   <td height="50">Interaction databases eg. IMEx, STRING, others and Signaling and pathways databases</td>
+  </tr>
+  <tr>
+   <td height="50">13:00 - 14:00</td>
+   <td colspan="3" height="50">Lunch break</td>
+  </tr>
+  <tr>
+   <td height="50">14:00 - 15:45</td>
+   <td height="50">Lecture and Exercise</td>
+   <td height="50">Cytoscape, GOlorize, BinGO, others</td>
+  </tr>
+  <tr>
+   <td height="50">15:45 - 16:15</td>
+   <td colspan="3" height="50">Coffee break</td>
+  </tr>
+  <tr>
+   <td height="50">16:15 - 17:30</td>
+   <td height="50">Exercise</td>
+   <td height="50">Continue Cytoscape</td>
+  </tr>
 </table>
 
 <br>
