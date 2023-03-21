@@ -114,7 +114,46 @@ Participants can use the computer available in the meeting room however if they 
 <br>
 
 ## Programme
+<table border="1">
+<tr>
+  <td colspan="2"><h4><b>Day 1</b></h4></td>
+</tr>
+<tr>
+   <td height="50" width="100">14:00 - 14:30</td>
+   <td height="50">Introductions, who is who and what we need to achieve</td>
+</tr>
+<tr>
+   <td height="50" width="100">14:30 - 17:30</td>
+   <td height="50"><b>[Session 1]: </b>Review of learning principles and how they apply to training and teaching</td>
+</tr>
 
+<tr>
+  <td colspan="2"><h4><b>Day 2</b></h4></td>
+</tr>
+<tr>
+ <td height="50" width="100">14:00 - 17:30</td>
+ <td height="50"><b>[Session 2]: </b>Session, course, and material design</td>
+</tr>
+
+<tr>
+  <td colspan="2"><h4><b>Day 3</b></h4></td>
+</tr>
+<tr>
+   <td height="50" width="100">14:00 - 17:30</td>
+   <td height="50"><b>[Session 3]: </b>Training techniques that can be used to enhance learner engagement and participation</td>
+</tr>
+<tr>
+  <td colspan="2"><h4><b>Day 4</b></h4></td>
+</tr>
+<tr>
+ <td height="50" width="100">14:00 - 17:00</td>
+ <td height="50"><b>[Session 4]: </b>Assessment and feedback in training</td>
+</tr>
+<tr>
+ <td height="50" width="100">17:00 - 17:30</td>
+ <td height="50">Wrap-up and feedback</td>
+</tr>
+</table>
 <br>
 <br>
 <br>
