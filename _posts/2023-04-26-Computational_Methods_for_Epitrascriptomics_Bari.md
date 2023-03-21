@@ -29,7 +29,7 @@ description: This course will provide a foundation on the experimental planning,
 
 ### Venue
 Area della Ricerca del CNR di Bari<br>
-[Dove Siamo](https://www.ba.cnr.it/dovesiamo.html)
+[Dove Siamo](https://www.ba.cnr.it/dovesiamo.html)<br>
 Via Amendola 122/o<br>
 70126 Bari, Italy
 <br>
@@ -91,7 +91,7 @@ Acceptance will be notified soon after the application deadline.
 ### Course Description
 Epitranscriptome refers to all chemical modifications affecting cellular RNAs. Although more than 170 different types have been identified up to now, their punctual detection is yet challenging. Profiling epitranscriptome modifications require ad hoc sequencing technologies as well as dedicated computational workflows. While Illumina RNAseq is the de facto sequencing methodology for unveiling RNA editing events (not transient modifications), Nanopore direct RNA Sequencing has recently become one of the most powerful techniques to profile the whole repertoire of RNA modifications. Its capacity to directly sequence full-length, native RNA molecules without the need for retrotranscription or amplification offers remarkable advantages compared to other technologies based on short-read sequencing. However, at the same time it poses various experimental and analytical challenges.
 This course will provide a foundation on the experimental planning, analytical strategies and computational approaches for applying Nanopore direct RNA Sequencing to profile RNA modifications. Through a combination of theoretical lectures and practical exercises, participants will learn the fundamental concepts and bioinformatics skills that will allow them to start using Nanopore sequencing data for epitranscriptome analysis. Additionally, the course will also cover theoretical aspects of RNA editing as well as practical sessions focused on its detection in human/mouse transcriptomes by Illumina RNAseq data. Participants will acquire specific skills in command-line tools (REDItools) to call, annotate (REDIportal) and filter RNA variants.
-You can find here the complete [program](https://drive.google.com/file/d/1YUWfXW5E7leMaKmUeM0R3v5rPKI8gfZb/view?usp=share_link). 
+You can find here the complete [program](https://drive.google.com/file/d/1rMYXnNN5ddKwOHNaFsy4Nn7w0q5rKcxH/view?usp=share_link). 
 
 <br>
 <br>
