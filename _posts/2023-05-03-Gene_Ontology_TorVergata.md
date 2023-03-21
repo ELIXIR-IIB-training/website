@@ -120,8 +120,7 @@ Participants can use the computer available in the meeting room however if they 
 </tr>
 <tr>
    <td height="50" width="100">09:00 - 9:20</td>
-   <td height="50">Lecture<td>
-   <td height="50">Introductions, who is who and what we need to achieve</td>
+   <td height="50">Lecture<td height="50">Introductions, who is who and what we need to achieve</td>
 </tr>
 <tr>
    <td height="50" width="100">14:30 - 17:30</td>
