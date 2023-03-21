@@ -9,12 +9,12 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
 ---
 
 <table border="0">
-<tr>
-	<td>
-	<img src="../../../img/logo_iib.png">
-	</td>	
-</tr>	
+  <tr>
+ <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="100"></a></td>
+  </tr>
 </table>
+<br>
+<br>
 
 
   
@@ -132,7 +132,7 @@ Participants can use the computer available in the meeting room however if they 
 <br>
 <table border="1">
 <tr>
-   <td colspan="4">### Wednesday - 3 May</td>
+	<td colspan="4"><h3> Wednesday - 3 May</hr></td>
 </tr>
 <tr>
    <td height="50" width="50">09:00 - 9:20</td>
@@ -164,15 +164,14 @@ Participants can use the computer available in the meeting room however if they 
    <td colspan="3" height="50">Coffee break</td>
 </tr>
 <tr>
-   <td height="50">11:15 - 12:00</td>
+  <td height="50">11:15 - 12:00</td>
   <td height="50">Lecture and Exercise</td>
-   <td height="50">Browsing the GO resource with QuickGO</td>
+  <td height="50">Browsing the GO resource with QuickGO</td>
+</tr>
 <tr>
-<tr>
-   <td height="50">12:00 - 12:45</td>
+  <td height="50">12:00 - 12:45</td>
   <td height="50">Lecture and Exercise</td>
-   <td height="50">Browsing the GO resource with AmiGO</td>
-   </td>
+  <td height="50">Browsing the GO resource with AmiGO</td>
 </tr>
 <tr>
    <td height="50">12:45 - 13:45</td>
@@ -182,26 +181,27 @@ Participants can use the computer available in the meeting room however if they 
    <td height="50">13:45 - 14:30</td>
    <td height="50">Lecture</td>
    <td height="50">High-throughput data and functional analysis tools</td>
-</td>
 </tr>
 <tr>
    <td height="50">14:30 - 15:45</td>
     <td height="50">Lecture and Exercise </td>
    <td height="50">High-throughput data analysis using variety of tools, for example: g:Profiler,WebGestalt,DAVID,VLAD</td>
+</tr>
 <tr>
    <td height="50">15:45 - 16:15</td>
    <td colspan="3" height="50">Coffee break</td>
 </tr>
 <tr>
    <td height="50">16:15 - 17:30</td>
-    <td height="50">Lecture and Exercise </td>
+   <td height="50">Lecture and Exercise </td>
    <td height="50">Genome browser: Ensembl</td>
+</tr>
 <tr>
    <td colspan="4"><h3>Thursday - 4 May</h3></td>
 </tr>
 <tr>
    <td height="50">09:00 - 10:30</td>
-    <td height="50">Lecture</td>
+   <td height="50">Lecture</td>
    <td height="50">Protein-Protein Interactions and Directed Molecular Interactions</td>
 </tr>
 <tr>
