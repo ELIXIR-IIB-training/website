@@ -8,6 +8,7 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
 
 ---
 
+
 <table border="0">
   <tr>
  <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="100"></a></td>
@@ -15,7 +16,6 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
 </table>
 <br>
 <br>
-
 
 ## Important Dates
 - Deadline for applications: **12 April 2023** 
@@ -25,7 +25,6 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
 <br>
 
 ### Venue
-
 University of Rome Tor Vergata
 
 Aula 3 from 9AM to 1PM / Aula 17 from 2PM to 6PM, Department of Biology, Rome.  [**(link to the map)**](https://maps.google.com/maps?q=45.517557,9.212989) 
@@ -96,7 +95,6 @@ The workshop is open to all biological or biomedical PhD and Post-Doc research s
 
 ### Learning Outcomes
 By the end of this course, the participants will be able to:
-
 - Identify and access public data resources and tools for data integration, high-throughput analysis, functional analysis and network analysis
 - Exploit the information available in the Gene Ontology (GO) to identify key cellular processes associated with high-throughput datasets.
 - Interpret the information given in different molecular interaction and signaling databases
@@ -115,39 +113,39 @@ Participants can use the computer available in the meeting room however if they 
 <br>
 <br>
 
-### Programme
+## Programme
 <table border="1">
 <tr>
-  <td colspan="2"><h3>Wednesday - 3 May</hr></td>
+ <td colspan="2"><h3>Wednesday - 3 May</hr></td>
 </tr>
 <tr>
-   <td height="50" width="100">09:00 - 9:20</td>
-   <td height="50">Lecture</td>
-   <td height="50">What do you know about bioinformatics databases? Small group discussions and feedback to attendees</td>
+  <td height="50" width="100">09:00 - 9:20</td>
+  <td height="50">Lecture</td>
+  <td height="50">What do you know about bioinformatics databases? Small group discussions and feedback to attendees</td>
 </tr>
 <tr>
-   <td height="50" width="100">09:20 - 09:35</td>
-   <td height="50">Lecture</td>
-   <td height="50">Brief overview of UniProt</td>
+  <td height="50" width="100">09:20 - 09:35</td>
+  <td height="50">Lecture</td>
+  <td height="50">Brief overview of UniProt</td>
 </tr>
 <tr>
-   <td height="50" width="100">09:35 - 9:45</td>
-   <td height="50">Lecture</td>
-   <td height="50">Brief overview of HGNC</td>
+  <td height="50" width="100">09:35 - 9:45</td>
+  <td height="50">Lecture</td>
+  <td height="50">Brief overview of HGNC</td>
 </tr>
 <tr>
-   <td height="50" width="100">09:45 - 10:00</td>
-   <td height="50">Lecture</td>
-   <td height="50">Identifier mapping</td>
+  <td height="50" width="100">09:45 - 10:00</td>
+  <td height="50">Lecture</td>
+  <td height="50">Identifier mapping</td>
 </tr>
 <tr>
-   <td height="50" width="100">10:00 - 10:45</td>
-   <td height="50">Lecture</td>
-   <td height="50">Gene Ontology</td>
+  <td height="50" width="100">10:00 - 10:45</td>
+  <td height="50">Lecture</td>
+  <td height="50">Gene Ontology</td>
 </tr>
 <tr>
-   <td height="50" width="100">10:45 - 11:15</td>
-   <td height="50">Coffee break</td>
+  <td height="50" width="100">10:45 - 11:15</td>
+  <td height="50">Coffee break</td>
 </tr>
 <tr>
   <td height="50" width="100">11:15 - 12:00</td>
@@ -160,63 +158,63 @@ Participants can use the computer available in the meeting room however if they 
   <td height="50">Browsing the GO resource with AmiGO</td>
 </tr>
 <tr>
-   <td height="50" width="100">12:45 - 13:45</td>
-   <td height="50">Lunch break</td>
+  <td height="50" width="100">12:45 - 13:45</td>
+  <td height="50">Lunch break</td>
 </tr>
 <tr>
-   <td height="50">13:45 - 14:30</td>
-   <td height="50">Lecture</td>
-   <td height="50">High-throughput data and functional analysis tools</td>
+  <td height="50">13:45 - 14:30</td>
+  <td height="50">Lecture</td>
+  <td height="50">High-throughput data and functional analysis tools</td>
 </tr>
 <tr>
-   <td height="50" width="100">14:30 - 15:45</td>
-   <td height="50">Lecture and Exercise </td>
-   <td height="50">High-throughput data analysis using variety of tools, for example: g:Profiler,WebGestalt,DAVID,VLAD</td>
+  <td height="50" width="100">14:30 - 15:45</td>
+  <td height="50">Lecture and Exercise </td>
+  <td height="50">High-throughput data analysis using variety of tools, for example: g:Profiler,WebGestalt,DAVID,VLAD</td>
 </tr>
 <tr>
-   <td height="50" width="100">15:45 - 16:15</td>
-   <td height="50">Coffee break</td>
+  <td height="50" width="100">15:45 - 16:15</td>
+  <td height="50">Coffee break</td>
 </tr>
 <tr>
-   <td height="50" width="100">16:15 - 17:30</td>
-   <td height="50">Lecture and Exercise </td>
-   <td height="50">Genome browser: Ensembl</td>
+  <td height="50" width="100">16:15 - 17:30</td>
+  <td height="50">Lecture and Exercise </td>
+  <td height="50">Genome browser: Ensembl</td>
 </tr>
 
 <tr>
-  <td colspan="2"><h3>Thursday - 4 May</h3></td>
+ <td colspan="2"><h3>Thursday - 4 May</h3></td>
 </tr>
 <tr>
-   <td height="50" width="100">09:00 - 10:30</td>
-   <td height="50">Lecture</td>
-   <td height="50">Protein-Protein Interactions and Directed Molecular Interactions</td>
+  <td height="50" width="100">09:00 - 10:30</td>
+  <td height="50">Lecture</td>
+  <td height="50">Protein-Protein Interactions and Directed Molecular Interactions</td>
 </tr>
 <tr>
-   <td height="50" width="100">10:30 - 11:00</td>
-   <td height="50">Coffee break</td>
+  <td height="50" width="100">10:30 - 11:00</td>
+  <td height="50">Coffee break</td>
 </tr>
 <tr>
-   <td height="50" width="100">11:00 - 13:00</td>
-   <td height="50">Lecture and Exercise</td>
-   <td height="50">Interaction databases eg. IMEx, STRING, others and Signaling and pathways databases</td>  
+  <td height="50" width="100">11:00 - 13:00</td>
+  <td height="50">Lecture and Exercise</td>
+  <td height="50">Interaction databases eg. IMEx, STRING, others and Signaling and pathways databases</td>  
 </tr>
 <tr>
-   <td height="50" width="100">13:00 - 14:00</td>
-   <td height="50">Lunch break</td>
+  <td height="50" width="100">13:00 - 14:00</td>
+  <td height="50">Lunch break</td>
 </tr>
 <tr>
-   <td height="50" width="100">14:00 - 15:45</td>
-   <td height="50">Lecture and Exercise</td>
-   <td height="50">Cytoscape, GOlorize, BinGO, others</td>
+  <td height="50" width="100">14:00 - 15:45</td>
+  <td height="50">Lecture and Exercise</td>
+  <td height="50">Cytoscape, GOlorize, BinGO, others</td>
 </tr>
 <tr>
-   <td height="50">15:45 - 16:15</td>
-   <td height="50">Coffee break</td>
+  <td height="50">15:45 - 16:15</td>
+  <td height="50">Coffee break</td>
 </tr>
 <tr>
-   <td height="50" width="100">16:15 - 17:30</td>
-   <td height="50">Exercise</td>
-   <td height="50">Continue Cytoscape</td>
+  <td height="50" width="100">16:15 - 17:30</td>
+  <td height="50">Exercise</td>
+  <td height="50">Continue Cytoscape</td>
 </tr>
 </table>
 <br>
