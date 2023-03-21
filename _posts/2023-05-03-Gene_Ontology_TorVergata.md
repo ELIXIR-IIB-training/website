@@ -119,64 +119,64 @@ Participants can use the computer available in the meeting room however if they 
     <td colspan="4"><h3>Wednesday - 3 May</h3></td>
   </tr>
   <tr>
-    <td height="50" width="50">09:00 - 9:20</td>
+    <td height="50" width="100">09:00 - 9:20</td>
     <td height="50">Lecture</td>
     <td height="50">What do you know about bioinformatics databases? Small group discussions and feedback to attendees</td>
   </tr>
   <tr>
-    <td height="50">09:20 - 09:35</td>
+    <td height="50" width="100">09:20 - 09:35</td>
     <td height="50">Lecture</td>
     <td height="50">Brief overview of UniProt</td>
   </tr>
   <tr>
-    <td height="50">09:35 - 9:45</td>
+    <td height="50" width="100">09:35 - 9:45</td>
     <td height="50">Lecture</td>
     <td height="50">Brief overview of HGNC</td>
   </tr>
   <tr>
-    <td height="50">09:45 - 10:00</td>
+    <td height="50" width="100">09:45 - 10:00</td>
     <td height="50">Lecture</td>
     <td height="50">Identifier mapping</td>
   </tr>
   <tr>
-    <td height="50">10:00 - 10:45</td>
+    <td height="50" width="100">10:00 - 10:45</td>
     <td height="50">Lecture</td>
     <td height="50">Gene Ontology</td>
   </tr>
   <tr>
-    <td height="50">10:45 - 11:15</td>
+    <td height="50" width="100">10:45 - 11:15</td>
     <td colspan="3" height="50">Coffee break</td>
   </tr>
   <tr>
-    <td height="50">11:15 - 12:00</td>
+    <td height="50" width="100">11:15 - 12:00</td>
     <td height="50">Lecture and Exercise</td>
     <td height="50">Browsing the GO resource with QuickGO</td>
   </tr>
   <tr>
-    <td height="50">12:00 - 12:45</td>
+    <td height="50" width="100">12:00 - 12:45</td>
     <td height="50">Lecture and Exercise</td>
     <td height="50">Browsing the GO resource with AmiGO</td>
   </tr>
   <tr>
-    <td height="50">12:45 - 13:45</td>
+    <td height="50" width="100">12:45 - 13:45</td>
     <td colspan="3" height="50">Lunch break</td>
   </tr>
   <tr>
-    <td height="50">13:45 - 14:30</td>
+    <td height="50" width="100">13:45 - 14:30</td>
     <td height="50">Lecture</td>
     <td height="50">High-throughput data and functional analysis tools</td>
   </tr>
   <tr>
-    <td height="50">14:30 - 15:45</td>
+    <td height="50" width="100">14:30 - 15:45</td>
     <td height="50">Lecture and Exercise</td>
     <td height="50">High-throughput data analysis using variety of tools, for example: g:Profiler,WebGestalt,DAVID,VLAD</td>
   </tr>
   <tr>
-    <td height="50">15:45 - 16:15</td>
+    <td height="50" width="100">15:45 - 16:15</td>
     <td colspan="3" height="50">Coffee break</td>
   </tr>
   <tr>
-    <td height="50">16:15 - 17:30</td>
+    <td height="50" width="100">16:15 - 17:30</td>
     <td height="50">Lecture and Exercise </td>
     <td height="50">Genome browser: Ensembl</td>
   </tr>
