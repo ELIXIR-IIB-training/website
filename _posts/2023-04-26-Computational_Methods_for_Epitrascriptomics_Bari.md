@@ -10,7 +10,7 @@ description: This course will provide a foundation on the experimental planning,
 <table border="0">
 <tr>
 	<td>
-	<img src="../../../img/elixir_banner_22novembre_blu.png" height="380" width="800">
+	<img src="../../../img/Logo_Computational_Methods_Bari.png" height="380" width="800">
 	</td>	
 </tr>	
 <!-- <tr>
