@@ -180,7 +180,7 @@ Participants can use the computer available in the meeting room however if they 
     <td height="50">Lecture and Exercise </td>
     <td height="50">Genome browser: Ensembl</td>
   </tr>
-  </table>
+
 <br>
 <br>
 <br>
