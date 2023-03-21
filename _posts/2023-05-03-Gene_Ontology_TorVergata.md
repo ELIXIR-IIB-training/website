@@ -209,5 +209,3 @@ Participants can use the computer available in the meeting room however if they 
 21. University of Salern
 22. University of Torino
 23. University of Tuscia
-</ol>
-
