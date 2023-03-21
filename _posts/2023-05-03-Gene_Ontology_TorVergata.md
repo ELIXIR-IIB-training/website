@@ -132,7 +132,7 @@ Participants can use the computer available in the meeting room however if they 
 <br>
 <table border="1" width="700">
 <tr>
-   <td colspan="4"><h3>Wednesday - 3 May</h3></td>
+   <td colspan="4">### Wednesday - 3 May</td>
 </tr>
 <tr>
    <td height="50" width="50">09:00 - 9:20</td>
