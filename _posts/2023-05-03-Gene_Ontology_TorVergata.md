@@ -129,6 +129,7 @@ Participants can use the computer available in the meeting room however if they 
 
 
 ### Programme
+<br>
 <table border="1" width="700">
 <tr>
    <td colspan="4"><h3>Wednesday - 3 May</h3></td>
@@ -231,7 +232,7 @@ Participants can use the computer available in the meeting room however if they 
    <td height="50">Continue Cytoscape</td>
 </tr>
 </table>
-
+<br>
 ### ELIXIR-IIB member institutes
 <ol>
    <li> <b>CNR, National Research Council </b> (Lead Institute)</li>
