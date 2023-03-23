@@ -24,24 +24,20 @@ description: This course will provide a foundation on the experimental planning,
 ## Important Dates 
 - Deadline for applications: **15 April, 2023**
 - Course date: **26-28 April, 2023** 
-<br>
-
+- 
 ### Venue
 Area della Ricerca del CNR di Bari<br>
 [Dove Siamo](https://www.ba.cnr.it/dovesiamo.html)<br>
 Via Amendola 122/o<br>
 70126 Bari, Italy
-<br>
 
 ### Fee
 The course is free of charge (coffee breaks and a lunch are offered).
 Travel, accommodation and additional meals are not included.
-<br>
 
 ### Registration 
 
 # [Application Form]
-<br>
 
 A maximum of 15 candidates will be accepted for the course. Course selection will be done according to the needs for the course as emerging from the application form. Priority will be given to candidates from ELIXIR-IT member institutions (see the [list](https://elixir-italy.org/about/)) and ELIXIR nodes. 
 Acceptance will be notified soon after the application deadline. 
