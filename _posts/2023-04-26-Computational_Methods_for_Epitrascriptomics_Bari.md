@@ -63,7 +63,6 @@ Acceptance will be notified soon after the application deadline.
 - **Tommaso Leonardi** (IIT, IT)
 - **Camilla Ugolini** (IIT, IT)
 - **Logan Mulroney** (IIT, IT)
-<br>
 
 ### Helpers
 - **Pietro D’Addabbo** (UNIBA, IT)
@@ -72,18 +71,15 @@ Acceptance will be notified soon after the application deadline.
 ### Speakers
 - **Eva Novoa** (CRG, ES)
 - **Mattia Pelizzola** (IIT, IT)
-<br>
 
 ### Course Description
 Epitranscriptome refers to all chemical modifications affecting cellular RNAs. Although more than 170 different types have been identified up to now, their punctual detection is yet challenging. Profiling epitranscriptome modifications require ad hoc sequencing technologies as well as dedicated computational workflows. While Illumina RNAseq is the de facto sequencing methodology for unveiling RNA editing events (not transient modifications), Nanopore direct RNA Sequencing has recently become one of the most powerful techniques to profile the whole repertoire of RNA modifications. Its capacity to directly sequence full-length, native RNA molecules without the need for retrotranscription or amplification offers remarkable advantages compared to other technologies based on short-read sequencing. However, at the same time it poses various experimental and analytical challenges.
 This course will provide a foundation on the experimental planning, analytical strategies and computational approaches for applying Nanopore direct RNA Sequencing to profile RNA modifications. Through a combination of theoretical lectures and practical exercises, participants will learn the fundamental concepts and bioinformatics skills that will allow them to start using Nanopore sequencing data for epitranscriptome analysis. Additionally, the course will also cover theoretical aspects of RNA editing as well as practical sessions focused on its detection in human/mouse transcriptomes by Illumina RNAseq data. Participants will acquire specific skills in command-line tools (REDItools) to call, annotate (REDIportal) and filter RNA variants.
 You can find here the complete [program](https://drive.google.com/file/d/1rMYXnNN5ddKwOHNaFsy4Nn7w0q5rKcxH/view?usp=share_link). 
-<br>
 
- Prerequisites
+## Prerequisites
 ### Target audience and prerequisites
-Lectures are intended for early/mid-career stage researchers with a solid understanding of molecular biology and RNA sequencing, but no prior experience with Nanopore sequencing is required. In order to follow and independently carry out the practical exercises participants will need basic bioinformatics skills (e.g. quality check of reads and their alignment against the reference genome) and a certain degree of familiarity using command-line tools in a *nix environment (e.g. Linux or MacOS).
-<br>
+Lectures are intended for early/mid-career stage researchers with a solid understanding of molecular biology and RNA sequencing, but no prior experience with Nanopore sequencing is required. In order to follow and independently carry out the practical exercises participants will need basic bioinformatics skills (e.g. quality check of reads and their alignment against the reference genome) and a certain degree of familiarity using command-line tools in a *Unix environment (e.g. Linux or MacOS).
 
 ### Learning outcomes
 By the end of this course, the participants will be able to:
@@ -92,11 +88,9 @@ By the end of this course, the participants will be able to:
 - use bioinformatics tools to analyze Nanopore reads
 - use bioinformatics tools to pre-process RNAseq data
 - use command-line tools (REDItools) for calling, annotating (REDIportal), and filtering RNA variants
-<br>
 
 ### Laptop
 Participants are kindly requested to bring their own laptop. In case of need, organizers will provide participants with a computer.
-<br>
 
 ### Contact
 Should you have any question, do not hesitate to contact the course Local Organizers ([elixirit.tp.bari@gmail.com](mailto:elixirit.tp.bari@gmail.com))
