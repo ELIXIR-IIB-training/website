@@ -44,7 +44,7 @@ Travel, accommodation and additional meals are not included.
 
 ### Registration 
 
-# [Application Form](https://forms.gle/N7KAFQCTuqcwRLCW7)
+# [Application Form]
 <br>
 
 A maximum of 15 candidates will be accepted for the course. Course selection will be done according to the needs for the course as emerging from the application form. Priority will be given to candidates from ELIXIR-IT member institutions (see the [list](https://elixir-italy.org/about/)) and ELIXIR nodes. 
@@ -60,9 +60,7 @@ Acceptance will be notified soon after the application deadline.
 - **Bruno Fosso** (UNIBA, IT)
 - **Graziano Pesole** (UNIBA, IT)
 
-
 ### Instructors
-
 - **Adriano Fonzino** (UNIBA, IT)
 - **Claudio Lo Giudice** (UNIBA, IT)
 - **Alessandro Silvestris** (UNIBA, IT)
@@ -71,20 +69,16 @@ Acceptance will be notified soon after the application deadline.
 - **Tommaso Leonardi** (IIT, IT)
 - **Camilla Ugolini** (IIT, IT)
 - **Logan Mulroney** (IIT, IT)
-
 <br>
 <br>
 
 ### Helpers
-
 - **Pietro D’Addabbo** (UNIBA, IT)
 - **Chiara Bruno** (CNR, IT)
 
 ### Speakers
-
 - **Eva Novoa** (CRG, ES)
 - **Mattia Pelizzola** (IIT, IT)
-
 <br>
 <br>
 
