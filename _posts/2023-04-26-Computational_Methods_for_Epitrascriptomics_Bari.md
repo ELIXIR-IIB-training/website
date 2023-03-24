@@ -49,6 +49,7 @@ Acceptance will be notified soon after the application deadline.
 - **Tommaso Leonardi** (IIT, IT)
 - **Bruno Fosso** (UNIBA, IT)
 - **Graziano Pesole** (UNIBA, IT)
+- **Allegra Via** (Sapienza, IT)
 
 ### Instructors
 - **Adriano Fonzino** (UNIBA, IT)
