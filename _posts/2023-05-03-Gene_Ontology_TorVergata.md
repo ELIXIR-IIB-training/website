@@ -18,8 +18,8 @@ description: Two-day workshop to boost your understanding of bioinformatics reso
 <br>
 
 ## Important Dates
-- Deadline for applications: **12 April 2023** 
-- Chosen participants will be notified by: **17 April 2023**
+- Deadline for applications: **12th April 2023** 
+- Chosen participants will be notified by: **17th April 2023**
 - Course date: 3-4 May 2023
 <br>
 <br>
