@@ -37,7 +37,7 @@ Travel, accommodation and additional meals are not included.
 
 ### Registration 
 
-# [Application Form]
+# [Application Form](https://forms.gle/nvzi3caUSdzMGvoH9)
 
 A maximum of 15 candidates will be accepted for the course. Course selection will be done according to the needs for the course as emerging from the application form. Priority will be given to candidates from ELIXIR-IT member institutions (see the [list](https://elixir-italy.org/about/)) and ELIXIR nodes. 
 Acceptance will be notified soon after the application deadline. 
