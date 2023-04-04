@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Training Course in Computational Methods for Epitrascriptomics"
+title: "Training Course in Computational Methods for Epitranscriptomics"
 date_start: 2023-04-26
 date_end: 2023-04-28   
 venue: Bari, Italy
