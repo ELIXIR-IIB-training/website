@@ -17,13 +17,13 @@ permalink: /all_events/
 </tr>
 
 <tr>
-   <td height="50" align="center">ELIXIR Europe<br>Training Platform<br>hackathon</td>
-   <td height="50" width="220" align="center"><a href= "https://elixir-iib-training.github.io/website/miscellaneous/metagenomics-bari-2017-description.html">Hacking to FAIRify your training materials</a></td> 
-   <td height="50" width="150">L. Le Pera (ISS)<br>A. Via (Sapienza Univ.)<br>Patricia Palagi (ELIXIR-CH)</td>
+   <td height="50" align="center">ELIXIR Italy <br> All Hands Meeting 2023<br></td>
+   <td height="50" width="220" align="center"><a href= "">Bringing together Communities and Platforms</a></td> 
+   <td height="50" width="150">L. Le Pera (ISS), A. Via (Sapienza Univ.) <br> A. Marabotti (Salerno Univ.), P. Mauri (ITB-CNR) <br> B. Carulli (ITB-CNR), C. Carta (ISS) <br> L. Licata (Tor Vergata Univ.), C. Bruno (IBIOM-CNR) <br></td>
    <td height="50" width="150"></td>
-   <td height="50" align="center">Casa dell'Aviatore<br>Rome,Italy<br><font color="orange">hybrid</font></td>
-   <td height="50" width="75" align="center">Mar<br>09-10<br>2023</td>
-   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
+   <td height="50" align="center">Sala Marconi, CNR Headquartes <br>Rome,Italy<br><font color="orange">hybrid</font></td>
+   <td height="50" width="75" align="center">Sept<br>25-26<br>2023</td>
+   <td height="50" align="center"><font color="grey"><b></b></font></td>
 </tr> 
 
    <tr>
