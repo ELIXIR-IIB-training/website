@@ -21,7 +21,7 @@ permalink: /all_events/
    <td height="50" width="220" align="center"><a href= "">Bringing together Communities and Platforms</a></td> 
    <td height="50" width="150">C. Bruno (IBIOM-CNR) <br>C. Carta (ISS) <br>B. Carulli (ITB-CNR)<br>L. Le Pera (ISS)<br>L. Licata (Tor Vergata Univ.)<br>A. Marabotti (Salerno Univ.)<br>P. Mauri (ITB-CNR)<br>A. Via (Sapienza Univ.)<br></td>
    <td height="50" width="150"></td>
-   <td height="50" align="center">Sala Marconi, CNR Headquartes <br>Rome,Italy<br><font color="orange">hybrid</font></td>
+   <td height="50" align="center">Sala Marconi, CNR Headquarters <br>Rome,Italy<br><font color="orange">hybrid</font></td>
    <td height="50" width="75" align="center">Sept<br>25-26<br>2023</td>
    <td height="50" align="center"><font color="grey"><b></b></font></td>
 </tr> 
