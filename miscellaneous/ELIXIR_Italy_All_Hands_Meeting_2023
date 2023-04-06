@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+
+<html>
+    <head>
+        <title>ELIXIR Italy All Hands Meeting 2023</title>
+
+<!-- CSS --!>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+        <link href="http://fonts.googleapis.com/css?family=Corbel&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="../css/elixir_ita.css" type="text/css">
+
+<!-- META
+
+    <meta name="Keywords" content="Elixir-ITA bioinformatics training" />
+    <meta name="Description" content="Elixir-ITA bioinformatics training courses" />
+    <meta name="Distribution" content="Global" />
+    <meta name="Robots" content="index,follow" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Allegra Via">
+
+ --!>
+
+    </head>
+    <body>
+
+    <div class="table">
+        <table width="800" align="center">
+	    <tr><td>
+   <h2 align="center">ELIXIR Italy All Hands Meeting 2023</h2>
+   <h3 align="center">25-26 September, 2023 - Sala Marconi, CNR Headquarters, Piazzale Aldo Moro, 7, Rome,Italy</h3>
+
+
+	 	    <tr>
+	        <td>
+    		    <div class="course">	
+			<img border="0" style="margin:4px" src="../img/logo_elixir_italy.jpg" width="91" align="left">
+			<font size="2">
+			    <p align="justify">
+          
+          Description Here
+                            <br><br>
+			    <b>Full details at the</b><a href="https://elixir-iib-training.github.io/website/2017/06/19/metagenomics-workshop-and-school-bari.html"> Workshop and Summer School's Website</a>
+			    </p>
+			</font>
+	       	    </div>
+		</td>
+	    </tr>
+	</table>
+    </div>
+
+    </body>
+</html>
+
