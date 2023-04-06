@@ -17,7 +17,7 @@ permalink: /all_events/
   
    <tr>
    <td height="50" align="center">ELIXIR Europe<br>Training Platform<br>hackathon</td>
-   <td height="50" width="220" align="center"><a href=" https://github.com/ELIXIR-IIB-training/website/blob/gh-pages/miscellaneous/metagenomics-bari-2017-description.html">Hacking to FAIRify your training materials</a></td> 
+   <td height="50" width="220" align="center"><a href= "https://github.com/ELIXIR-IIB-training/website/blob/gh-pages/miscellaneous/metagenomics-bari-2017-description.html">Hacking to FAIRify your training materials</a></td> 
    <td height="50" width="150">L. Le Pera (ISS)<br>A. Via (Sapienza Univ.)<br>Patricia Palagi (ELIXIR-CH)</td>
    <td height="50" width="150"></td>
    <td height="50" align="center">Casa dell'Aviatore<br>Rome,Italy<br><font color="orange">hybrid</font></td>
@@ -36,7 +36,7 @@ permalink: /all_events/
 </tr> 
 <tr>
    <td height="50" align="center">ELIXIR Europe<br>Training Platform<br>event</td>
-   <td height="50" width="220" align="center"><a href="https://elixir-europe.org/events/elixir-training-platform-f2f-hybrid-meeting">ELIXIR Training Platform<br>F2F Hybrid Meeting</a></td> 
+   <td height="50" width="220" align="center"><a href= "https://elixir-europe.org/events/elixir-training-platform-f2f-hybrid-meeting">ELIXIR Training Platform<br>F2F Hybrid Meeting</a></td> 
    <td height="50" width="150">ELIXIR Hub<br>L. Le Pera (ISS)<br>A. Via (Sapienza Univ.)</td>
    <td height="50" width="150"></td>
    <td height="50" align="center">Casa dell'Aviatore<br>Rome,Italy<br><font color="orange">hybrid</font></td>
@@ -45,7 +45,7 @@ permalink: /all_events/
 </tr>
 <tr>
 <td height="50" align="center">ELIXIR IIB<br>Higher-level training course</td>
-   <td height="50" width="220" align="center"><a href="https://sites.google.com/uniroma1.it/cafbioinfo-eng/home?authuser=0">Advanced Training Course<br>in<br>Bioinformatics</a></td>
+   <td height="50" width="220" align="center"><a href= "https://sites.google.com/uniroma1.it/cafbioinfo-eng/home?authuser=0"> Advanced Training Course<br>in<br>Bioinformatics</a></td>
    <td height="50" width="150">Sapienza<br>CNR-IBPM<br>ELIXIR-IIB</td>
    <td height="50" width="150">S. Pascarella (Director)<br>A. Via (Deputy Director)<br>L. Le Pera (scient. comm.)</td>
    <td height="50" align="center">Sapienza<br>Univ. of Rome<br><font color="orange">hyprid</font></td>
