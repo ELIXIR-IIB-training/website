@@ -17,7 +17,7 @@ permalink: /all_events/
 </tr>
 
 <tr>
-   <td height="50" align="center">ELIXIR Italy <br> All Hands Meeting 2023<br></td>
+   <td height="50" align="center">ELIXIR Italy <br> All Hands Meeting <br>2023<br></td>
    <td height="50" width="220" align="center"><a href= "">Bringing together Communities and Platforms</a></td> 
    <td height="50" width="150">C. Bruno (IBIOM-CNR) <br>C. Carta (ISS) <br>B. Carulli (ITB-CNR)<br>L. Le Pera (ISS)<br>L. Licata (Tor Vergata Univ.)<br>A. Marabotti (Salerno Univ.)<br>P. Mauri (ITB-CNR)<br>A. Via (Sapienza Univ.)<br></td>
    <td height="50" width="150"></td>
