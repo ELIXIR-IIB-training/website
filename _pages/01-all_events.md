@@ -17,7 +17,7 @@ permalink: /all_events/
   
    <tr>
    <td height="50" align="center">ELIXIR Europe<br>Training Platform<br>hackathon</td>
-   <td height="50" width="220" align="center"><a href= "https://github.com/ELIXIR-IIB-training/website/blob/gh-pages/miscellaneous/metagenomics-bari-2017-description.html">Hacking to FAIRify your training materials</a></td> 
+   <td height="50" width="220" align="center"><a href= "https://elixir-iib-training.github.io/website/miscellaneous/metagenomics-bari-2017-description.html">Hacking to FAIRify your training materials</a></td> 
    <td height="50" width="150">L. Le Pera (ISS)<br>A. Via (Sapienza Univ.)<br>Patricia Palagi (ELIXIR-CH)</td>
    <td height="50" width="150"></td>
    <td height="50" align="center">Casa dell'Aviatore<br>Rome,Italy<br><font color="orange">hybrid</font></td>
