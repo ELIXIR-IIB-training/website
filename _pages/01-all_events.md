@@ -26,6 +26,16 @@ permalink: /all_events/
    <td height="50" align="center"><font color="grey"><b></b></font></td>
 </tr> 
 
+<tr>
+   <td height="50" align="center">Third MaSBiC Symposium, Advanced in Protein Science:<br> Exploring Structure, Function, and Beyond<br></td>
+   <td height="50" width="220" align="center"><a href= "https://disvamasbic-symposium.bio-groups.com/">Third MaSBiC Symposium</a></td> 
+   <td height="50" width="150">D. Di Marino <br>L. Maragliano <br>E. Milanetti<br>D. Raimondo</td>
+   <td height="50" width="150"></td>
+   <td height="50" align="center">“Polo Monte Dago”, Via Brecce Bianche, 14/B<br>Ancona,Italy<br></td>
+   <td height="50" width="75" align="center">Sept<br>20-22<br>2023</td>
+   <td height="50" align="center"><font color="grey"><b></b></font></td>
+</tr> 
+
    <tr>
    <td height="50" align="center">ELIXIR Europe<br>Training Platform<br>hackathon</td>
    <td height="50" width="220" align="center"><a href="">Hacking to FAIRify your training materials</a></td> 
