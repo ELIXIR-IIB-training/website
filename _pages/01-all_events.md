@@ -25,7 +25,15 @@ permalink: /all_events/
    <td height="50" width="75" align="center">Nov<br>27-28<br>2023</td>
    <td height="50" align="center"><font color="grey"><b></b></font></td>
 </tr> 
-
+<tr>
+   <td height="50" align="center">scRNA-seq hands-on course: single cell RNA-seq data analysis.<br></td>
+   <td height="50" width="220" align="center"><a href= "https://elixir-iib-training.github.io/website/2023/09/23/Single-cell-RNA-seq-data-analysis.html">scRNA-seq hands-on course</a></td> 
+   <td height="50" width="150">R. Calogero <br></td>
+   <td height="50" width="150"></td>
+   <td height="50" align="center">University of Turin<br></td>
+   <td height="50" width="75" align="center">Sept<br>26-29<br>2023</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
+</tr> 
 <tr>
    <td height="50" align="center">Third MaSBiC Symposium, Advanced in Protein Science:<br> Exploring Structure, Function, and Beyond<br></td>
    <td height="50" width="220" align="center"><a href= "https://disvamasbic-symposium.bio-groups.com/">Third MaSBiC Symposium</a></td> 
@@ -33,7 +41,7 @@ permalink: /all_events/
    <td height="50" width="150"></td>
    <td height="50" align="center">“Polo Monte Dago”, Via Brecce Bianche, 14/B<br>Ancona,Italy<br><font color="orange">hybrid</font></td>
    <td height="50" width="75" align="center">Sept<br>20-22<br>2023</td>
-   <td height="50" align="center"><font color="grey"><b></b></font></td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr> 
 
    <tr>
@@ -45,6 +53,7 @@ permalink: /all_events/
    <td height="50" width="75" align="center">Mar<br>09-10<br>2023</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr> 
+
 <tr>
    <td height="50" align="center">ELIXIR Europe<br>Training Platform<br>event</td>
    <td height="50" width="220" align="center"><a href= "https://elixir-europe.org/events/elixir-training-platform-f2f-hybrid-meeting">ELIXIR Training Platform<br>F2F Hybrid Meeting</a></td> 
