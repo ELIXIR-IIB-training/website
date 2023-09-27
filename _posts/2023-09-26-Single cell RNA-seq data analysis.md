@@ -11,7 +11,7 @@ description: This course aims to provide participants with theoretical and pract
 
 <table border="0">
   <tr>
- <td><a href="http://elixir-italy.org"><img src="../../../img/logo_elixir_italy.png" height="150"></a></td>
+ <td><a href="http://elixir-italy.org"><img src="../../../img/logo_iib.png" height="150"></a></td>
   </tr>
 </table>
 <br>
