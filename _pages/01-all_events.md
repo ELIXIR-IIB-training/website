@@ -26,6 +26,15 @@ permalink: /all_events/
    <td height="50" align="center"><font color="grey"><b></b></font></td>
 </tr> 
 <tr>
+   <td height="50" align="center">International Summer School on Rare Disease Registries and FAIRification of Data.<br></td>
+   <td height="50" width="220" align="center"><a href= "https://www.ejprarediseases.org/event/international-summer-school-on-rare-disease-registries-and-fairification-of-data-2/">Rare Disease Training Course</a></td> 
+   <td height="50" width="150">C. Carta<br></td>
+   <td height="50" width="150"></td>
+   <td height="50" align="center">Aula Bovet, Istituto Superiore di Sanità,<br> Viale Regina Elena, 299- Rome, Italy<br></td>
+   <td height="50" width="75" align="center">Sept<br>25-29<br>2023</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
+</tr> 
+<tr>
    <td height="50" align="center">scRNA-seq hands-on course: single cell RNA-seq data analysis.<br></td>
    <td height="50" width="220" align="center"><a href= "https://elixir-iib-training.github.io/website/2023/09/23/Single-cell-RNA-seq-data-analysis.html">scRNA-seq hands-on course</a></td> 
    <td height="50" width="150">R. Calogero <br></td>
@@ -34,6 +43,9 @@ permalink: /all_events/
    <td height="50" width="75" align="center">Sept<br>26-29<br>2023</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr> 
+
+
+https://elixir-iib-training.github.io/website/2023/09/25/International_Summer_School_on_-Rare_Disease-Registries_and_FAIRification_of_data.html
 <tr>
    <td height="50" align="center">Third MaSBiC Symposium, Advanced in Protein Science:<br> Exploring Structure, Function, and Beyond<br></td>
    <td height="50" width="220" align="center"><a href= "https://disvamasbic-symposium.bio-groups.com/">Third MaSBiC Symposium</a></td> 
