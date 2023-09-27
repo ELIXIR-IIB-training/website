@@ -25,26 +25,56 @@ permalink: /all_events/
    <td height="50" width="75" align="center">Nov<br>27-28<br>2023</td>
    <td height="50" align="center"><font color="grey"><b></b></font></td>
 </tr> 
+
 <tr>
-   <td height="50" align="center">International Summer School on Rare Disease Registries and FAIRification of Data.<br></td>
-   <td height="50" width="220" align="center"><a href= "https://www.ejprarediseases.org/event/international-summer-school-on-rare-disease-registries-and-fairification-of-data-2/">Rare Disease Training Course</a></td> 
+   <td height="50" align="center">European Joint Programme Rare Diseases.<br></td>
+   <td height="50" width="220" align="center"><a href= "https://www.ejprarediseases.org/event/international-summer-school-on-rare-disease-registries-and-fairification-of-data-2/">International Summer School on Rare Disease Registries and FAIRification of Data</a></td> 
    <td height="50" width="150">C. Carta<br></td>
    <td height="50" width="150"></td>
-   <td height="50" align="center">Aula Bovet, Istituto Superiore di Sanità,<br> Viale Regina Elena, 299- Rome, Italy<br></td>
+   <td height="50" align="center"> Istituto Superiore di Sanità,<br>Rome, Italy<br></td>
    <td height="50" width="75" align="center">Sept<br>25-29<br>2023</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr> 
+
 <tr>
-   <td height="50" align="center">scRNA-seq hands-on course: single cell RNA-seq data analysis.<br></td>
-   <td height="50" width="220" align="center"><a href= "https://elixir-iib-training.github.io/website/2023/09/23/Single-cell-RNA-seq-data-analysis.html">scRNA-seq hands-on course</a></td> 
+   <td height="50" align="center">ELIXIR IIB <br>Training Course<br></td>
+   <td height="50" width="220" align="center"><a href= "https://elixir-iib-training.github.io/website/2023/09/23/Single-cell-RNA-seq-data-analysis.html">scRNA-seq hands-on course: single cell RNA-seq data analysis</a></td> 
    <td height="50" width="150">R. Calogero <br></td>
    <td height="50" width="150"></td>
-   <td height="50" align="center">University of Turin<br></td>
-   <td height="50" width="75" align="center">Sept<br>26-29<br>2023</td>
+   <td height="50" align="center">Molecular Biotechnology <br>Center<br>University of Turin,<br> Torino, Italy<br></td>
+   <td height="50" width="75" align="center">Sept<br>25-29<br>2023</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr> 
 
+<tr>
+   <td height="50" align="center">Young Innovation 2023.<br></td>
+   <td height="50" width="220" align="center"><a href= "https://www.nanoinnovation2023.eu/home/index.php/programme/breakout-sessions">Survivor’s skills: How to survice in the jungle of research (II) - Focus on communication, interpersonal and career development skills</a></td> 
+   <td height="50" width="150"></td>
+   <td height="50" width="150"></td>
+   <td height="50" align="center">Faculty of Civil and <br>Industrial Engineering of Sapienza University of <br>Rome, Italy<br></td>
+   <td height="50" width="75" align="center">Sept<br>22<br>2023</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
+</tr> 
 
+<tr>
+   <td height="50" align="center">Young Innovation 2023.<br></td>
+   <td height="50" width="220" align="center"><a href= "https://www.nanoinnovation2023.eu/home/index.php/programme/breakout-sessions">Survivor’s skills: How to survice in the jungle of research (II) - Do I have the transferable skills to successfully develop my research career?</a></td> 
+   <td height="50" width="150"></td>
+   <td height="50" width="150"></td>
+   <td height="50" align="center">Faculty of Civil and <br>Industrial Engineering of Sapienza University of <br>Rome, Italy<br></td>
+   <td height="50" width="75" align="center">Sept<br>21<br>2023</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
+</tr> 
+
+<tr>
+   <td height="50" align="center">Young Innovation 2023.<br></td>
+   <td height="50" width="220" align="center"><a href= "https://www.nanoinnovation2023.eu/home/index.php/programme/breakout-sessions">Survivor’s skills: How to survice in the jungle of research (III) - Developing a career in research: things you should carefully consider</a></td> 
+   <td height="50" width="150"></td>
+   <td height="50" width="150"></td>
+   <td height="50" align="center">Faculty of Civil and <br>Industrial Engineering of Sapienza University of <br>Rome, Italy<br></td>
+   <td height="50" width="75" align="center">Sept<br>20<br>2023</td>
+   <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
+</tr> 
 
 <tr>
    <td height="50" align="center">Third MaSBiC Symposium, Advanced in Protein Science:<br> Exploring Structure, Function, and Beyond<br></td>
@@ -56,7 +86,7 @@ permalink: /all_events/
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr> 
 
-   <tr>
+<tr>
    <td height="50" align="center">ELIXIR Europe<br>Training Platform<br>hackathon</td>
    <td height="50" width="220" align="center"><a href="">Hacking to FAIRify your training materials</a></td> 
    <td height="50" width="150">L. Le Pera (ISS)<br>A. Via (Sapienza Univ.)<br>Patricia Palagi (ELIXIR-CH)</td>
@@ -75,6 +105,7 @@ permalink: /all_events/
    <td height="50" width="75" align="center">Mar<br>07-09<br>2023</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
+
 <tr>
 <td height="50" align="center">ELIXIR IIB<br>Higher-level training course</td>
    <td height="50" width="220" align="center"><a href= "https://sites.google.com/uniroma1.it/cafbioinfo-eng/home?authuser=0"> Advanced Training Course<br>in<br>Bioinformatics</a></td>
@@ -84,6 +115,7 @@ permalink: /all_events/
    <td height="50" width="75" align="center">Feb - Oct<br>2023</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
+
 <tr>
    <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/11/22/School_Python_genomics_Basic_module.html">School of Python for genomics.<br>Basic module:<br>Introduction to Python programming</a></td> 
@@ -93,6 +125,7 @@ permalink: /all_events/
    <td height="50" width="75" align="center">Nov<br>22-25<br>2022</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
+
 <tr>
    <td height="50" align="center">Biohackathon-Europe</td>
    <td height="50" width="220" align="center"><a href="https://www.biohackathon-europe.org/index.html">ELIXIR<br>Biohackathon 2022</a></td>
@@ -102,6 +135,7 @@ permalink: /all_events/
    <td height="50" width="75" align="center">Nov<br>7-11<br>2022</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
+
 <tr>
    <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/28/scRNA-seq-Workshop.html">scRNA-seq Workshop</a></td> 
@@ -111,6 +145,7 @@ permalink: /all_events/
    <td height="50" width="75" align="center">Sep<br>28-30<br>2022</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
+
 <tr>
    <td height="50" align="center">ELIXIR IIB<br>Training Course</td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2022/09/27/SWC_RforReproducibleScientificAnalysis-online.html">R for Reproducible Scientific Analysis</a></td> 
@@ -120,6 +155,7 @@ permalink: /all_events/
    <td height="50" width="75" align="center">Sep<br>27-30<br>2022</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr>
+
 <tr>
    <td height="50" align="center">European Joint Programme Rare Diseases</td>
        <td height="50" width="220" align="center"><a href="https://www.ejprarediseases.org/event/international-summer-school-on-rare-disease-registries-and-fairification-of-data/">International Summer School on Rare Disease Registries and FAIRification of data</a></td> 
