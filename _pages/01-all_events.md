@@ -32,7 +32,7 @@ permalink: /all_events/
    <td height="50" width="150">C. Carta<br></td>
    <td height="50" width="150"></td>
    <td height="50" align="center"> Istituto Superiore di Sanità,<br>Rome, Italy<br></td>
-   <td height="50" width="75" align="center">Sept<br>25-29<br>2023</td>
+   <td height="50" width="75" align="center">Sept<br>26-29<br>2023</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr> 
 
