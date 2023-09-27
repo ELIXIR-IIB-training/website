@@ -45,7 +45,7 @@ permalink: /all_events/
 </tr> 
 
 
-https://elixir-iib-training.github.io/website/2023/09/25/International_Summer_School_on_-Rare_Disease-Registries_and_FAIRification_of_data.html
+
 <tr>
    <td height="50" align="center">Third MaSBiC Symposium, Advanced in Protein Science:<br> Exploring Structure, Function, and Beyond<br></td>
    <td height="50" width="220" align="center"><a href= "https://disvamasbic-symposium.bio-groups.com/">Third MaSBiC Symposium</a></td> 
