@@ -16,15 +16,7 @@ permalink: /all_events/
    <td height="50" width="90" align="center"><b>Application</b></td>
 </tr>
 
-<tr>
-   <td height="50" align="center">ELIXIR Italy <br> All Hands Meeting <br>2023<br></td>
-   <td height="50" width="220" align="center"><a href= "https://elixir-iib-training.github.io/website/2023/11/27/all_hands_2023.html">Bringing together Communities and Platforms</a></td> 
-   <td height="50" width="150">C. Bruno (IBIOM-CNR) <br>C. Carta (ISS) <br>B. Carulli (ITB-CNR)<br>L. Le Pera (ISS)<br>L. Licata (Tor Vergata Univ.)<br>A. Marabotti (Salerno Univ.)<br>P. Mauri (ITB-CNR)<br>A. Via (Sapienza Univ.)<br></td>
-   <td height="50" width="150"></td>
-   <td height="50" align="center">Sala Marconi, CNR Headquarters <br>Rome,Italy</td>
-   <td height="50" width="75" align="center">Nov<br>27-28<br>2023</td>
-   <td height="50" align="center"><font color="grey"><b></b></font></td>
-</tr> 
+
 
 <tr>
    <td height="50" align="center">European Joint Programme Rare Diseases.<br></td>
