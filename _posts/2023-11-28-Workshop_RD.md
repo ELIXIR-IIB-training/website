@@ -12,6 +12,7 @@ description: The focus of the workshop is the integration of different clinical 
 - Workshop date: 28-29 November 2023 (lunch-to-lunch)
 <br>
 <br>
+
 ### Venue
 Room at the ground floor, National Research Council of Italy (CNR) <br>
 Via dei Taurini, 19 <br>
