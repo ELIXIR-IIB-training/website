@@ -64,7 +64,8 @@ The Elixir Italy community interested in Rare Diseases (RDs) has the main goal o
 
 ### [Application Form](https://forms.gle/T6zkvhMEtHVvgyKA9)
 
-
+<br>
+<br>
 
 
 ### Programme
