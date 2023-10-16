@@ -40,13 +40,19 @@ and accommodation costs (if any).
 <br>
 <br>
 
+### Selection
+As the event venue has a maximum capacity of 40 seats, a maximum of **40 participants** will be selected. As ProteomiX is a discussion group on technical aspects of proteomics, priority will be given to those with a minimum of experience. Selected participants will be sent a registration form and the final programme.  <br>
+To express your interest in participating in ProteomiX, please use the application form
+
+<br>
+<br>
+
 
 
 
 
 ### Organisers
-
-- **Pierluigi Maurii** (ITB-CNR) <br>
+- **Pierluigi Mauri** (ITB-CNR) <br>
 - **Valeria Bellettato** (ITB-CNR) 
 
 
@@ -58,7 +64,6 @@ or valeria.bellettato@itb.cnr.it <br>
 <br>
 <br>
 ### ProteomiX Description 
-
 Since 2002 ProteomiX is a very informal meeting on technical problems related to Proteomics.
 ProteomiX is an interactive workshop based on open discussion involving young researchers working on both experimental and computational aspects, such as protein extraction, interferences removal, separation, mass spectrometry analysis, database, quantitative and pathway analyses.
 Researchers will be encouraged to propose a tentative title and few slides related to the problem, technical and practical aspects; these will be such as seeds to start discussion with all participants.
