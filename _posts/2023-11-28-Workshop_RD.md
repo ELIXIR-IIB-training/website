@@ -20,7 +20,7 @@ Sala al piano terra, CNR <br>
 Via dei Taurini, 19 <br>
 00185 Rome, Italy <br>
 [**(link to the map)**](https://maps.app.goo.gl/MeuNCHyW3W7NKnP86) <br>
-Coordinates 41.900172, 12.510338
+Coordinates: 41.900172, 12.510338
 <br>
 <br>
 
