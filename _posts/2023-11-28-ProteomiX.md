@@ -28,7 +28,7 @@ Sapienza Università di Roma  <br>
 P.le Aldo Moro 5  <br>
 00185 Rome, Italy  <br>
 [**(link to the map)**](https://maps.app.goo.gl/BFAa9FBqUQF5k4Tw9)   <br>
-Coordinates 41.905227, 12.515799
+Coordinates: 41.905227, 12.515799
 
 
 
@@ -72,6 +72,5 @@ Researchers will be encouraged to propose a tentative title and few slides relat
 
 
 ### [Application Form](https://forms.gle/V6YmVVvAv3JveRD59)
-<br>
-<br>
+
 
