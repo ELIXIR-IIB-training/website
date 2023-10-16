@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ProteomiX
+title: ProteomiX – Mix your knowledge to get more!"
 date_start: 2023-11-28
 date_end: 2023-11-29
 venue: Rome, Italy
@@ -13,8 +13,8 @@ description: ProteomiX is an interactive workshop based on open discussion invol
 </table>
 <br>
 <br>
-## Important Dates
-Workshop date: 28-29 November, 2023 (lunch-to-lunch)
+
+## Workshop date: 28-29 November, 2023 (lunch-to-lunch)
 <br>
 <br>
 ### Venue
