@@ -7,13 +7,13 @@ venue: Rome, Italy
 description: The focus of the workshop is the integration of different clinical and bioinformatic approaches to characterize RDs with a particular attention to Italian cases, and how to integrate them into an international framework. In this workshop, researchers from different biomedical communities active in the territory will have the opportunity to define their computational needs together with experts in different aspects of bio-sequence analysis with the aim of sharing experiences and integrating knowledge in different aspects of the complex problem of research, diagnosis and care of RDs.
 ---
 
-## Important Dates
-- Deadline for applications: **10th November 2023**
+### Important Dates
+- Deadline for applications: 10th November 2023
 - Workshop date: 28-29 November 2023 (lunch-to-lunch)
 <br>
 <br>
 ### Venue
-Room at the ground floor, CNR <br>
+Room at the ground floor, National Research Council of Italy (CNR) <br>
 Via dei Taurini, 19 <br>
 00185 Rome, Italy <br>
 [**(link to the map)**](https://maps.app.goo.gl/MeuNCHyW3W7NKnP86) <br>
