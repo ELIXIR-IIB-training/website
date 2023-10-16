@@ -38,7 +38,7 @@ Luana Licata (Università di Roma “Tor Vergata)
 <br>
 <br>
 ### Contact 
-For queries, please contact the organisers at: elixir.it.projects@gmail.it
+For queries, please contact the organisers at: [elixir.it.projects@gmail.it](mailto:elixir.it.projects@gmail.it)
 <br>
 <br>
 ### Workshop Description 
