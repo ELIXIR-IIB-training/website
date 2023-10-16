@@ -14,9 +14,10 @@ description: ProteomiX is an interactive workshop based on open discussion invol
 <br>
 <br>
 
-## Workshop date: 28-29 November, 2023 (lunch-to-lunch)
+### Workshop date: 28-29 November, 2023 (lunch-to-lunch)
 <br>
 <br>
+
 ### Venue
 Aula ex-Biblioteca, Building CU027, 2nd floor  <br>
 Department of Biochemical Sciences “A. Rossi Fanelli”  <br>
