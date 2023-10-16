@@ -45,7 +45,7 @@ To express your interest in participating in ProteomiX, please use the applicati
 ### Contact
 For all kinds of queries, please contact the organisers: <br>
 [pierluigi.mauri@itb.cnr.it](mailto:pierluigi.mauri@itb.cnr.it) <br>
-or [valeria.bellettato@itb.cnr.it](mailto:valeria.bellettato@itb.cnr.it) <br>
+[valeria.bellettato@itb.cnr.it](mailto:valeria.bellettato@itb.cnr.it) <br>
 <br>
 
 ### Workshop description 
