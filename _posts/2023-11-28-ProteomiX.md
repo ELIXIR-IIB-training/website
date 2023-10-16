@@ -29,8 +29,25 @@ P.le Aldo Moro 5  <br>
 00185 Rome, Italy  <br>
 [**(link to the map)**](https://maps.app.goo.gl/BFAa9FBqUQF5k4Tw9)   <br>
 Coordinates 41.905227, 12.515799
+
+
+
+<br>
+<br>
+### Fee 
+The course does not include a fee, but the participants are expected to pay their own travel 
+and accommodation costs (if any).
+<br>
 <br>
 
+
+
+
+
+### Organisers
+
+- **Pierluigi Maurii** (ITB-CNR) <br>
+- **Valeria Bellettato** (ITB-CNR) 
 
 
 <br>
@@ -38,7 +55,8 @@ Coordinates 41.905227, 12.515799
 ### Contact
 For all kinds of queries, please contact the organisers: pierluigi.mauri@itb.cnr.it <br>
 or valeria.bellettato@itb.cnr.it <br>
-
+<br>
+<br>
 ### ProteomiX Description 
 
 Since 2002 ProteomiX is a very informal meeting on technical problems related to Proteomics.
@@ -51,4 +69,4 @@ Researchers will be encouraged to propose a tentative title and few slides relat
 ### [Application Form](https://forms.gle/V6YmVVvAv3JveRD59)
 <br>
 <br>
-<br>
+
