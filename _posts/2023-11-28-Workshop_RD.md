@@ -55,32 +55,32 @@ The Elixir Italy community interested in Rare Diseases (RDs) has the main goal o
   </tr>
   <tr>
     <td height="50" width="100" align=center>14:30 - 15.00</td>
-    <td height="50" align=center> Elixir IT: Introduction; The Italian Rare Disease Community</td>
+    <td height="50" > Elixir IT: Introduction; The Italian Rare Disease Community</td>
     
   </tr>
   <tr>
     <td height="50" width="100" align="center">15:00-16.00</td>
-    <td height="50" align=center>Elixir NL: European RD Communities <br> Elixir UK: Research Data Management</td>
+    <td height="50" >Elixir NL: European RD Communities <br> Elixir UK: Research Data Management</td>
    </tr>
   <tr>
    <td height="50" width="100" align="center">16:00 - 16:30</td>
-    <td colspan="3" height="50" align=center>Coffee break</td>
+    <td colspan="3" height="50">Coffee break</td>
      </tr>
 
   <tr>
     <td height="50" width="100" align="center">16:30 - 17.00</td>
-    <td height="50" align=center>Rare Disease Patient Representatives</td>
+    <td height="50" >Rare Disease Patient Representatives</td>
     </tr>
   <tr>
     <td height="50" width="100" align="center">17.00-18:00</td>
-    <td height="50" align=center>Ospedale Bambin Gesù: Orphanet Italia <br> Istituto Superiore Sanità: Rare disease activities</td>
+    <td height="50">Ospedale Bambin Gesù: Orphanet Italia <br> Istituto Superiore Sanità: Rare disease activities</td>
     </tr>
   <tr>
    <td colspan="4" align="center"><h3>Day 2 - 29th November 2023</h3></td>
   </tr>
   <tr>
    <td height="50" width="100" align=center>09:30 - 11:00</td>
-   <td height="50" align=center>Presentations by young researchers  
+   <td height="50">Presentations by young researchers  
 - University of Parma
 - University of Bologna
 - University of Roma La Sapienza
@@ -92,11 +92,11 @@ The Elixir Italy community interested in Rare Diseases (RDs) has the main goal o
 
    <tr>
     <td height="50" width="100" align="center">11:00 - 11:30</td>
-    <td colspan="3" height="50" align=center> Coffee break</td>
+    <td colspan="3" height="50" > Coffee break</td>
    </tr>
   <tr>
     <td height="50" width="100" align="center">11:30 13:00</td>
-    <td height="50" align=center>Rare disease diagnosis: Use case presentations <br>
+    <td height="50" >Rare disease diagnosis: Use case presentations <br>
 Ospedale Sant’Orsola Bologna, Università Federico II Napoli, Istituto Gaslini Genova, Università di Torino.</td>
 
   </tr>
