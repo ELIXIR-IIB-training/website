@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ProteomiX – Mix your knowledge to get more!"
+title: XXI ProteomiX – Mix your knowledge to get more!". Discussion group on Proteomics
 date_start: 2023-11-28
 date_end: 2023-11-29
 venue: Rome, Italy
@@ -38,14 +38,16 @@ To express your interest in participating in ProteomiX, please use the applicati
 <br>
 
 ### Organisers
-- Pierluigi Mauri (ITB-CNR) <br>
-- Valeria Bellettato (ITB-CNR) 
+- Maria Gabriella Giuffrida (ISPA-CNR)
+- PierLuig Mauri (ITB-CNR)
+- Andrea Petretto (Ospedale Gaslini)
+- Silvia Rocchiccioli (IFC-CNR)
+- Rosa Siciliano (ISA-CNR)
 <br>
 
 ### Contact
 For all kinds of queries, please contact the organisers: <br>
-[pierluigi.mauri@itb.cnr.it](mailto:pierluigi.mauri@itb.cnr.it) <br>
-[valeria.bellettato@itb.cnr.it](mailto:valeria.bellettato@itb.cnr.it) <br>
+[valeria.bellettato@itb.cnr.it](mailto:valeria.bellettato@itb.cnr.it)
 <br>
 
 ### Workshop description 
