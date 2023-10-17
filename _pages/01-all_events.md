@@ -50,21 +50,21 @@ permalink: /all_events/
 </tr> 
 
 <tr>
-   <td height="50" align="center">European Joint Programme Rare Diseases.<br></td>
-   <td height="50" width="220" align="center"><a href= "https://www.ejprarediseases.org/event/international-summer-school-on-rare-disease-registries-and-fairification-of-data-2/">International Summer School on Rare Disease Registries and FAIRification of Data</a></td> 
-   <td height="50" width="150">C. Carta<br></td>
+   <td height="50" align="center">ELIXIR IIB <br>Training Course<br></td>
+   <td height="50" width="220" align="center"><a href= "https://elixir-iib-training.github.io/website/2023/09/26/Single_cell_RNA_seq_data_analysis.html">scRNA-seq hands-on course: single cell RNA-seq data analysis</a></td> 
+   <td height="50" width="150">R. Calogero <br></td>
    <td height="50" width="150"></td>
-   <td height="50" align="center"> Istituto Superiore di Sanità,<br>Rome, Italy<br></td>
+   <td height="50" align="center">Molecular Biotechnology <br>Center<br>University of Turin,<br> Torino, Italy<br></td>
    <td height="50" width="75" align="center">Sept<br>26-29<br>2023</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr> 
 
 <tr>
-   <td height="50" align="center">ELIXIR IIB <br>Training Course<br></td>
-   <td height="50" width="220" align="center"><a href= "https://elixir-iib-training.github.io/website/2023/09/23/Single-cell-RNA-seq-data-analysis.html">scRNA-seq hands-on course: single cell RNA-seq data analysis</a></td> 
-   <td height="50" width="150">R. Calogero <br></td>
+   <td height="50" align="center">European Joint Programme Rare Diseases.<br></td>
+   <td height="50" width="220" align="center"><a href= "https://www.ejprarediseases.org/event/international-summer-school-on-rare-disease-registries-and-fairification-of-data-2/">International Summer School on Rare Disease Registries and FAIRification of Data</a></td> 
+   <td height="50" width="150">C. Carta<br></td>
    <td height="50" width="150"></td>
-   <td height="50" align="center">Molecular Biotechnology <br>Center<br>University of Turin,<br> Torino, Italy<br></td>
+   <td height="50" align="center"> Istituto Superiore di Sanità,<br>Rome, Italy<br></td>
    <td height="50" width="75" align="center">Sept<br>25-29<br>2023</td>
    <td height="50" align="center"><font color="grey"><b>closed</b></font></td>
 </tr> 
