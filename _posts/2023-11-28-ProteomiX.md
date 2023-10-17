@@ -46,7 +46,7 @@ To express your interest in participating in ProteomiX, please use the applicati
 <br>
 
 ### Contact
-For all kinds of queries, please contact the organisers: <br>
+For all kinds of queries, please contact:
 [valeria.bellettato@itb.cnr.it](mailto:valeria.bellettato@itb.cnr.it)
 <br>
 
