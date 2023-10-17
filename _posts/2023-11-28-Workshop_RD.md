@@ -30,10 +30,10 @@ As the event venue has a maximum capacity of 40 seats, a maximum of **40 partici
 <br>
 
 ### Organisers
-Rita Casadio (Università di Bologna)
-Emidio Capriotti (Università di Bologna)
-Claudio Carta (ISS)
-Luana Licata (Università di Roma “Tor Vergata)
+- Rita Casadio (Università di Bologna)
+- Emidio Capriotti (Università di Bologna)
+- Collaboration with Claudio Carta (ISS)
+- Luana Licata (Università di Roma “Tor Vergata)
 <br>
 
 ### Contact 
