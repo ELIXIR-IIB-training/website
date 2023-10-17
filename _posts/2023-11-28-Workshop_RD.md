@@ -47,7 +47,7 @@ The ELIXIR Italy community interested in Rare Diseases (RDs) has the main goal o
 ### [Application Form](https://forms.gle/T6zkvhMEtHVvgyKA9)
 <br>
 
-### Programme
+### Preliminary Programme
 <table border="1" width="700">
   <tr>
     <td colspan="4" align="center"><h3> Day 1 - 28th November 2023</h3></td>
