@@ -38,8 +38,8 @@ To express your interest in participating in ProteomiX, please use the applicati
 <br>
 
 ### Organisers
-- **Pierluigi Mauri** (ITB-CNR) <br>
-- **Valeria Bellettato** (ITB-CNR) 
+- Pierluigi Mauri (ITB-CNR) <br>
+- Valeria Bellettato (ITB-CNR) 
 <br>
 
 ### Contact
