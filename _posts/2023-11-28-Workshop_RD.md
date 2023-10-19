@@ -28,7 +28,8 @@ travel and accommodation costs (if any).
 ### Selection
 As the event venue has a maximum capacity of 40 seats, a maximum of **40 participants** will be accepted based on a first-come-first-served basis. 
 <br>
-
+### [Application Form](https://forms.gle/T6zkvhMEtHVvgyKA9)
+<br>
 ### Organisers
 - Rita Casadio (Università di Bologna) <br>
 - Emidio Capriotti (Università di Bologna) <br>
@@ -44,8 +45,7 @@ For queries, please contact the organisers at: [elixir.it.projects@gmail.it](mai
 The ELIXIR Italy community interested in Rare Diseases (RDs) has the main goal of supporting with data analysis the research performed in the regional units with the aim of creating a reference hub for Researchers, Clinicians, Rare disease patients and stakeholders . In Italy, since 2001, initiatives such as the Italian Network on RDs dedicated to the prevention, surveillance, diagnosis and therapy of RDs and a national registry of RDs have been established at the National Institute of Health (ISS) ([https://www.iss.it/en/web/guest/cnmr-copertina](https://www.iss.it/en/web/guest/cnmr-copertina)) moreover in 2008, the National Centre for Rare Diseases was formally established in  ISS. In 1999 was founded UNIAMO (the Federazione Italiana Malattie Rare), is a non-governmental patient-driven Federation representing more than 150  RD patient Associations. All the initiatives are collaborating at international level. The focus of the workshop is the integration of different clinical and bioinformatic approaches to characterize RDs with a particular attention to Italian cases, and how to integrate them into an international framework. In this workshop, researchers from different biomedical communities active in the territory will have the opportunity to define their computational needs together with experts in different aspects of bio-sequence analysis with the aim of sharing experiences and integrating knowledge in different aspects of the complex problem of research, diagnosis and care of RDs.
 <br>
 
-### [Application Form](https://forms.gle/T6zkvhMEtHVvgyKA9)
-<br>
+
 
 ### Preliminary Programme
 <table border="1" width="700">
