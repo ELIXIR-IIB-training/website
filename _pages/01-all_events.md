@@ -22,16 +22,16 @@ permalink: /all_events/
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2023/11/28/ProteomiX.html">Workshop ProteomiX</a></td> 
    <td height="50" width="150">P. Mauri (ITB-CNR) <br>V. Bellettato (ITB-CNR) <br></td>
    <td height="50" width="150"></td>
-   <td height="50" align="center">National Research Council (CNR) <br>Aula Marconi Piazzale Aldo Moro, 7 - Rome, Ital<br></td>
+   <td height="50" align="center">National Research Council (CNR) <br>Aula Marconi Piazzale Aldo Moro, 7 - Rome, Italy<br></td>
    <td height="50" width="75" align="center">Nov<br>28-29<br>2023</td>
    <td height="50" align="center"><font color="grey"><b></b></font></td>
 </tr> 
 <tr>
    <td height="50" align="center">ELIXIR Italy <br> All Hands Meeting <br>2023<br></td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2023/11/28/Workshop_RD.html">Workshop RD</a></td> 
-   <td height="50" width="150">R. Casadio (Università di Bologna)<br>E. Capriotti (Università di Bologna)<br>C. Carta (ISS)<br>Luana Licata (Università di Roma "Tor Vergata")<br></td>
+   <td height="50" width="150">R. Casadio (Università di Bologna)<br>E. Capriotti (Università di Bologna)<br>C. Carta (ISS)<br>Luana Licata (University of Rome "Tor Vergata")<br></td>
    <td height="50" width="150"></td>
-   <td height="50" align="center">Aula ex-Biblioteca, Building CU027, 2nd floor<br>Dipartimento di Scienze Biochimiche “A. Rossi Fanelli”<br>Sapienza Università di Roma<br>P.le Aldo Moro 5  <br>00185 Rome, Italy<br></td>
+   <td height="50" align="center">Aula ex-Biblioteca, Building CU027, 2nd floor<br>Dipartimento di Scienze Biochimiche “A. Rossi Fanelli”<br>Sapienza University of Rome<br>P.le Aldo Moro 5  <br>00185 Rome, Italy<br></td>
    <td height="50" width="75" align="center">Nov<br>28-29<br>2023</td>
    <td height="50" align="center"><font color="grey"><b></b></font></td>
 </tr> 
@@ -42,7 +42,7 @@ permalink: /all_events/
 <tr>
    <td height="50" align="center">ELIXIR Italy <br> All Hands Meeting <br>2023<br></td>
    <td height="50" width="220" align="center"><a href= "https://elixir-iib-training.github.io/website/2023/11/27/All_Hands_2023.html">Bringing together Communities and Platforms</a></td> 
-   <td height="50" width="150">C. Bruno (IBIOM-CNR) <br>C. Carta (ISS) <br>B. Carulli (ITB-CNR)<br>L. Le Pera (ISS)<br>L. Licata (Tor Vergata Univ.)<br>A. Marabotti (Salerno Univ.)<br>P. Mauri (ITB-CNR)<br>A. Via (Sapienza Univ.)<br></td>
+   <td height="50" width="150">V. Bellettato (ITB-CNR) <br> C. Bruno (IBIOM-CNR) <br> C. Carta (ISS) <br>B. Carulli (ITB-CNR)<br>L. Le Pera (ISS)<br>L. Licata (University of Rome)<br>A. Marabotti (Salerno Univ.)<br>P. Mauri (ITB-CNR)<br>G. Pesole (University of bari, IBIOM-CNR)<br>A. Via (Sapienza University of Rome)<br></td>
    <td height="50" width="150"></td>
    <td height="50" align="center">Sala Marconi, CNR Headquarters <br>Rome,Italy</td>
    <td height="50" width="75" align="center">Nov<br>27-28<br>2023</td>
