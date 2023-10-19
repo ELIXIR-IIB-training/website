@@ -29,9 +29,9 @@ permalink: /all_events/
 <tr>
    <td height="50" align="center">ELIXIR Italy <br> All Hands Meeting <br>2023<br></td>
    <td height="50" width="220" align="center"><a href="https://elixir-iib-training.github.io/website/2023/11/28/Workshop_RD.html">Workshop RD</a></td> 
-   <td height="50" width="150">R. Casadio (Università di Bologna)<br>E. Capriotti (Università di Bologna)<br>C. Carta (ISS)<br>Luana Licata (University of Rome "Tor Vergata")<br></td>
+   <td height="50" width="150">R. Casadio (University of Bologna)<br>E. Capriotti (University of Bologna)<br>C. Carta (ISS)<br>Luana Licata (University of Rome "Tor Vergata")<br></td>
    <td height="50" width="150"></td>
-   <td height="50" align="center">Aula ex-Biblioteca, Building CU027, 2nd floor<br>Dipartimento di Scienze Biochimiche “A. Rossi Fanelli”<br>Sapienza University of Rome<br>P.le Aldo Moro 5  <br>00185 Rome, Italy<br></td>
+   <td height="50" align="center">Aula ex-Biblioteca, Building CU027, 2nd floor<br>Department of Biochemical Sciences “A. Rossi Fanelli”<br>Sapienza University of Rome<br>P.le Aldo Moro 5  <br>00185 Rome, Italy<br></td>
    <td height="50" width="75" align="center">Nov<br>28-29<br>2023</td>
    <td height="50" align="center"><font color="grey"><b></b></font></td>
 </tr> 
