@@ -13,8 +13,8 @@ description: The focus of the workshop is the integration of different clinical 
 <br>
 
 ### Venue
-Room at the ground floor, National Research Council of Italy (CNR) <br>
-Via dei Taurini, 19 <br>
+Sala Lettura (Biblioteca) A, National Research Council of Italy (CNR) <br>
+Piazzale Aldo Moro 7 <br>
 00185 Rome, Italy <br>
 [**(link to the map)**](https://maps.app.goo.gl/MeuNCHyW3W7NKnP86) <br>
 Google maps coordinates: 41.900172, 12.510338
