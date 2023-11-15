@@ -56,17 +56,17 @@ The ELIXIR Italy community interested in Rare Diseases (RDs) has the main goal o
   </tr>
   <tr>
     <td height="50" width="100" align=center>14:30 - 15:00</td>
-    <td height="50" >**Elixir IT**: Rita Casadio UNIBO, Emidio Capriotti UNIBO, Claudio Carta ISS:<br>
+    <td height="50" >Elixir IT: Rita Casadio UNIBO, Emidio Capriotti UNIBO, Claudio Carta ISS:<br>
 The Italian Rare Disease Community</td>
     
   </tr>
   <tr>
     <td height="50" width="150" align=center>15:00 - 15:30</td>
-    <td height="50" >**Elixir NL**: European RD Communities. Marco Roos (ONLINE)</td>
+    <td height="50" >Elixir NL: European RD Communities. Marco Roos (ONLINE)</td>
    </tr>
      <tr>
     <td height="50" width="150" align=center>15:30 - 16:00</td>
-    <td height="50" >**Elixir UK**: Research Data Management. Munazah Andrabi (ONLINE)</td>
+    <td height="50" >Elixir UK: Research Data Management. Munazah Andrabi (ONLINE)</td>
    </tr>
   <tr>
    <td height="50" width="150" align=center>16:00 - 16:30</td>
@@ -75,24 +75,24 @@ The Italian Rare Disease Community</td>
 
   <tr>
     <td height="50" width="150" align=center>16:30 - 17:00</td>
-    <td height="50" >**Rare Disease Patient Representatives**<br>
+    <td height="50" >Rare Disease Patient Representatives<br>
 Annalisa Scopinaro, President of UNIAMO, Federazione Italiana Malattie Rare, Rome, Italy (ONLINE)</td>
     </tr>
       <tr>
     <td height="50" width="150" align=center>17:00 - 17:30</td>
-    <td height="50" >**Istituto Superiore di Sanità (ISS): Rare disease activities.** Domenica Taruscio (ONLINE), Former Director National Centre for Rare Diseases</td>
+    <td height="50" >Istituto Superiore di Sanità (ISS): Rare disease activities. Domenica Taruscio (ONLINE), Former Director National Centre for Rare Diseases</td>
     </tr>
   <tr>
     <td height="50" width="150" align=center>17:30-18:00</td>
-    <td height="50">**Ospedale Bambin Gesù: Orphanet Italia.** Michele Nutini</td>
+    <td height="50">Ospedale Bambin Gesù: Orphanet Italia. Michele Nutini</td>
     </tr>
   <tr>
-   <td colspan="4" align=center><h3>**Wednesday, 29th November 2023 -  Sala lettura A (Biblioteca) CNR, P.le Aldo Moro 7**</h3></td>
+   <td colspan="4" align=center><h3>Wednesday, 29th November 2023 -  Sala lettura A (Biblioteca) CNR, P.le Aldo Moro 7</h3></td>
   </tr>
   <tr>
    <td height="50" width="150" align=center>09:30 - 11:00</td>
-   <td height="50">**Presentations by young researchers**
-<li>Giulia Babbi. UNIBO. Reactome pathways and Rare Diseases.</li>
+   <td height="50">Presentations by young researchers<br>
+     <li>Giulia Babbi. UNIBO. Reactome pathways and Rare Diseases.</li>
 <li>Damiano Parrone. UNIROMA1. A resource to explore drug repurposing opportunities for rare conformational diseases.</li>
 <li>Cesare Rollo. UNITO. Deciphering Myelodysplastic Syndrome: A Deep Learning Approach for Prognosis Prediction and genomic Characterization.</li>
 <li>Giulia Sassi. UNIPR. Illuminating Pharos TDarks: a coevoluzionary approach to rare diseases.</li>
@@ -108,7 +108,7 @@ Annalisa Scopinaro, President of UNIAMO, Federazione Italiana Malattie Rare, Rom
    </tr>
   <tr>
     <td height="50" width="150" align=center>11:30 13:00</td>
-    <td height="50" >**Rare disease diagnosis: Use case presentations** 
+    <td height="50" >Rare disease diagnosis: Use case presentations 
 
 <li>Michele Pinelli, Universita’ Federico II, Napoli
 Genomic annotation for the interpretation of DNA sequencing in rare diseases.</li>
@@ -117,7 +117,7 @@ Workflows for the analysis of CNVs from microarray and NGS data.</li>
 <li>Maria Cerminara, Istituto Gaslini, Genova
 Complex cases with Autism Spectrum Disorder (ASD), developmental delay, hyperactivity and sleep disturbance explained by possible oligogenic mechanisms.</li>
 <li>Alfredo Brusco, Università di Torino.
-Disentangling uncommon genetic causes of neurodevelopmental disorders.</li>
+Disentangling uncommon genetic causes of __neurodevelopmental__ disorders.</li>
 
 **Perspectives and closing**
 
