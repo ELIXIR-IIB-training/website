@@ -47,7 +47,7 @@ The ELIXIR Italy community interested in Rare Diseases (RDs) has the main goal o
 
 
 
-### Programme <a href="https://elixir-iib-training.github.io/website/miscellaneous/programma_finale_workshop_RD-AHM_ELIXIR-IT.pdf" target="_black">PDF</a>
+### Programme (<a href="https://elixir-iib-training.github.io/website/miscellaneous/programma_finale_workshop_RD-AHM_ELIXIR-IT.pdf" target="_black">pdf</a>)
 
 
 <table border="1" width="700">
@@ -117,9 +117,9 @@ Workflows for the analysis of CNVs from microarray and NGS data.</li>
 <li>Maria Cerminara, Istituto Gaslini, Genova
 Complex cases with Autism Spectrum Disorder (ASD), developmental delay, hyperactivity and sleep disturbance explained by possible oligogenic mechanisms.</li>
 <li>Alfredo Brusco, Università di Torino.
-Disentangling uncommon genetic causes of __neurodevelopmental__ disorders.</li>
+Disentangling uncommon genetic causes of neurodevelopmental disorders.</li>
 
-**Perspectives and closing**
+Perspectives and closing
 
 </td>
 
