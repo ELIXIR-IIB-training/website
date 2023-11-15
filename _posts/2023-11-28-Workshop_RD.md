@@ -89,12 +89,14 @@ Annalisa Scopinaro, President of UNIAMO, Federazione Italiana Malattie Rare, Rom
   </tr>
   <tr>
    <td height="50" width="150" align=center>09:30 - 11:00</td>
-   <td height="50">**Presentations by young researchers**  
-- Giulia Babbi. UNIBO. Reactome pathways and Rare Diseases.
-- Damiano Parrone. UNIROMA1. A resource to explore drug repurposing opportunities for rare conformational diseases.
-- Cesare Rollo. UNITO. Deciphering Myelodysplastic Syndrome: A Deep Learning Approach for Prognosis Prediction and genomic Characterization.
-- Giulia Sassi. UNIPR. Illuminating Pharos TDarks: a coevoluzionary approach to rare diseases.
-- Bernardina Scafuri. UNISA. Identification of two possible pharmacochaperones for GALTp.Q188R enzyme by a computational strategy.
+   <td height="50">**Presentations by young researchers**
+•	Giulia Babbi. UNIBO. Reactome pathways and Rare Diseases.
+•	Damiano Parrone. UNIROMA1. A resource to explore drug repurposing opportunities for rare conformational diseases.
+•	Cesare Rollo. UNITO. Deciphering Myelodysplastic Syndrome: A Deep Learning Approach for Prognosis Prediction and genomic Characterization.
+•	Giulia Sassi. UNIPR. Illuminating Pharos TDarks: a coevoluzionary approach to rare diseases.
+•	Bernardina Scafuri. UNISA. Identification of two possible pharmacochaperones for GALTp.Q188R enzyme by a computational strategy.
+
+
 </td>
   </tr>
 
