@@ -9,7 +9,7 @@ description: The focus of the workshop is the integration of different clinical 
 
 ### Important Dates
 - Deadline for applications: 10th November 2023
-- Workshop date: 28-29 November 2023 (lunch-to-lunch)
+- Workshop date: 28-29 November 2023 (lunch-to-lunch) 
 <br>
 
 ### Venue
