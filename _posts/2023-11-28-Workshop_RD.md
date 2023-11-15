@@ -47,9 +47,9 @@ The ELIXIR Italy community interested in Rare Diseases (RDs) has the main goal o
 
 
 
-### Programme <a href="https://elixir-iib-training.github.io/website/blob/gh-pages/miscellaneous/programma_finale_workshop_RD-AHM_ELIXIR-IT.pdf" target="_black" />
+### Programme <a href="https://elixir-iib-training.github.io/website/blob/gh-pages/miscellaneous/programma_finale_workshop_RD-AHM_ELIXIR-IT.pdf" target="_black">PDF</a>
 
-[PDF](https://github.com/ELIXIR-IIB-training/website/blob/gh-pages/miscellaneous/programma_finale_workshop_RD-AHM_ELIXIR-IT.pdf "download")
+
 <table border="1" width="700">
   <tr>
     <td colspan="4" align="center"><h3>Tuesday, 28th November 2023 - Sala lettura A (Biblioteca) CNR, P.le Aldo Moro 7</h3></td>
