@@ -93,10 +93,10 @@ Annalisa Scopinaro, President of UNIAMO, Federazione Italiana Malattie Rare, Rom
    <td height="50" width="150" align=center>09:30 - 11:00</td>
    <td height="50">Presentations by young researchers<br>
      <li>Giulia Babbi. UNIBO. Reactome pathways and Rare Diseases.</li>
-<li>Damiano Parrone. UNIROMA1. A resource to explore drug repurposing opportunities for rare conformational diseases.</li>
-<li>Cesare Rollo. UNITO. Deciphering Myelodysplastic Syndrome: A Deep Learning Approach for Prognosis Prediction and genomic Characterization.</li>
-<li>Giulia Sassi. UNIPR. Illuminating Pharos TDarks: a coevoluzionary approach to rare diseases.</li>
-<li>Bernardina Scafuri. UNISA. Identification of two possible pharmacochaperones for GALTp.Q188R enzyme by a computational strategy.</li>
+  <li>Damiano Parrone. UNIROMA1. A resource to explore drug repurposing opportunities for rare conformational diseases.</li>
+  <li>Cesare Rollo. UNITO. Deciphering Myelodysplastic Syndrome: A Deep Learning Approach for Prognosis Prediction and genomic Characterization.</li>
+  <li>Giulia Sassi. UNIPR. Illuminating Pharos TDarks: a coevoluzionary approach to rare diseases.</li>
+  <li>Bernardina Scafuri. UNISA. Identification of two possible pharmacochaperones for GALTp.Q188R enzyme by a computational strategy.</li>
 
 
 </td>
@@ -110,13 +110,13 @@ Annalisa Scopinaro, President of UNIAMO, Federazione Italiana Malattie Rare, Rom
     <td height="50" width="150" align=center>11:30 13:00</td>
     <td height="50" >Rare disease diagnosis: Use case presentations 
 
-<li>Michele Pinelli, Universita’ Federico II, Napoli
+  <li>Michele Pinelli, Universita’ Federico II, Napoli
 Genomic annotation for the interpretation of DNA sequencing in rare diseases.</li>
-<li>Tania Giangregorio, Ospedale Sant’Orsola, Bologna
+  <li>Tania Giangregorio, Ospedale Sant’Orsola, Bologna
 Workflows for the analysis of CNVs from microarray and NGS data.</li>
-<li>Maria Cerminara, Istituto Gaslini, Genova
+  <li>Maria Cerminara, Istituto Gaslini, Genova
 Complex cases with Autism Spectrum Disorder (ASD), developmental delay, hyperactivity and sleep disturbance explained by possible oligogenic mechanisms.</li>
-<li>Alfredo Brusco, Università di Torino.
+  <li>Alfredo Brusco, Università di Torino.
 Disentangling uncommon genetic causes of neurodevelopmental disorders.</li>
 
 Perspectives and closing
