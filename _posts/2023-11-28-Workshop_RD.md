@@ -118,7 +118,7 @@ Workflows for the analysis of CNVs from microarray and NGS data.</li>
 Complex cases with Autism Spectrum Disorder (ASD), developmental delay, hyperactivity and sleep disturbance explained by possible oligogenic mechanisms.</li>
   <li>Alfredo Brusco, Università di Torino.
 Disentangling uncommon genetic causes of neurodevelopmental disorders.</li>
-
+<br>
 Perspectives and closing
 
 </td>
