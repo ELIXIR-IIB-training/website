@@ -1,6 +1,25 @@
 ---
 layout: default
 ---
+
+<!-- JSON-LD markup to represent event using schema.org 
+   Allows for easy inclusion in ELIXIR TeSS (https://tess.elixir-europe.org) and
+   better page rankings in Google. See bioschemas.org for more info -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Event",
+  "name" : "{{page.title}}",
+  "startDate" : "{{page.date_start}}",
+  "endDate" : "{{page.date_end}}",
+  "location" : {
+    "@type" : "Place",
+    "name" : "{{page.venue}}"
+  },
+  "description" : "{{page.description}}"
+}
+</script>
+
 <div class="post">
 
   <header class="post-header">
@@ -19,3 +38,4 @@ layout: default
   </article>
 
 </div>
+
