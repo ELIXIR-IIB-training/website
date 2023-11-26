@@ -16,7 +16,7 @@ description: The focus of the workshop is the integration of different clinical 
 Sala Lettura (Biblioteca) A, National Research Council of Italy (CNR) <br>
 Piazzale Aldo Moro 7 <br>
 00185 Rome, Italy <br>
-[**(link to the map)**](https://maps.app.goo.gl/MeuNCHyW3W7NKnP86) <br>
+[**(link to the map)**](https://maps.app.goo.gl/KDppKScknUPdkd318) <br>
 Google maps coordinates: 41.900172, 12.510338
 <br>
 
