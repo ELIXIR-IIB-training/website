@@ -3,7 +3,9 @@ layout: page
 title: Trainers
 permalink: /trainers/
 ---
-
+<h1>Starting on 01/01/2024 this site is no longer maintained. You can find the new site <a href="https://elixir-iib-training.github.io/site/"><b>here</b></a>  </h1>
+<br>
+<br>
  This is a list of instructors and helpers who taught in ELIXIR-IIB courses:
  <br>
  <br>
